@@ -1,0 +1,18 @@
+<map id="infra::TimerService::NextTrigger" name="infra::TimerService::NextTrigger">
+<area shape="rect" id="node2" href="$db/d9d/classinfra_1_1_derived_timer_service.html#a561871017cf0ba4564f3d2d576d2710e" title="infra::DerivedTimerService\l::NextTriggerChanged" alt="" coords="191,39,361,80"/>
+<area shape="rect" id="node4" href="$da/dc4/classinfra_1_1_scalable_derived_timer_service.html#a28598eb5eaf5bdf3d3ff98fabe0824ab" title="infra::ScalableDerivedTimer\lService::NextTriggerChanged" alt="" coords="181,136,371,177"/>
+<area shape="rect" id="node7" href="$df/d2e/classinfra_1_1_tick_on_interrupt_timer_service.html#a759f8e66c86fadc950be404e563ae8ff" title="infra::TickOnInterruptTimer\lService::NextTriggerChanged" alt="" coords="181,267,371,308"/>
+<area shape="rect" id="node12" href="$d7/d8f/classhal_1_1_timer_service_bsd.html#ac645f68c38bb71001b53255021220f2b" title="hal::TimerServiceBsd\l::NextTriggerChanged" alt="" coords="203,364,349,405"/>
+<area shape="rect" id="node15" href="$d1/d79/classhal_1_1_timer_service_win.html#aff5649316722acf961a1ab1fd48ad221" title="hal::TimerServiceWin\l::NextTriggerChanged" alt="" coords="203,445,349,487"/>
+<area shape="rect" id="node3" href="$db/d9d/classinfra_1_1_derived_timer_service.html#a757e398797fa31a9637392778a8693d8" title="infra::DerivedTimerService\l::Shift" alt="" coords="451,5,621,47"/>
+<area shape="rect" id="node5" href="$da/dc4/classinfra_1_1_scalable_derived_timer_service.html#a30e873a4b4cf8cbacf09c1cddd55970b" title="infra::ScalableDerivedTimer\lService::Scale" alt="" coords="447,71,625,112"/>
+<area shape="rect" id="node6" href="$da/dc4/classinfra_1_1_scalable_derived_timer_service.html#a5e73baf089685fb705478e7ad5db4915" title="infra::ScalableDerivedTimer\lService::Shift" alt="" coords="447,136,625,177"/>
+<area shape="rect" id="node8" href="$df/d2e/classinfra_1_1_tick_on_interrupt_timer_service.html#a0d28d96bcfbeca6cad1712d7fee3fe12" title="infra::TickOnInterruptTimer\lService::ProcessTicks" alt="" coords="449,201,623,243"/>
+<area shape="rect" id="node10" href="$df/d2e/classinfra_1_1_tick_on_interrupt_timer_service.html#a7b9d74ec49405ba9ba47ebb5e3d04769" title="infra::TickOnInterruptTimer\lService::SetResolution" alt="" coords="449,267,623,308"/>
+<area shape="rect" id="node11" href="$df/d2e/classinfra_1_1_tick_on_interrupt_timer_service.html#ad1f541fcd0a64f4a94676a1a66fb9165" title="infra::TickOnInterruptTimer\lService::TickOnInterruptTimerService" alt="" coords="419,332,653,373"/>
+<area shape="rect" id="node9" href="$df/d2e/classinfra_1_1_tick_on_interrupt_timer_service.html#af615ce0c6415bcc94cd68780136ba165" title="infra::TickOnInterruptTimer\lService::SystemTickInterrupt" alt="" coords="701,201,889,243"/>
+<area shape="rect" id="node13" href="$d7/d8f/classhal_1_1_timer_service_bsd.html#a6cad4d6f63d52b0eb822c9262b340351" title="hal::TimerServiceBsd\l::WaitForTrigger" alt="" coords="464,397,608,439"/>
+<area shape="rect" id="node14" href="$d7/d8f/classhal_1_1_timer_service_bsd.html#a7c5aaa118c30ecd78d358acf09e87479" title="hal::TimerServiceBsd\l::TimerServiceBsd" alt="" coords="723,397,867,439"/>
+<area shape="rect" id="node16" href="$d1/d79/classhal_1_1_timer_service_win.html#ab1bb01d8405ab7b2634952c09a04e249" title="hal::TimerServiceWin\l::WaitForTrigger" alt="" coords="464,463,608,504"/>
+<area shape="rect" id="node17" href="$d1/d79/classhal_1_1_timer_service_win.html#ae48d7518770ff8663f7c8dab08a6cf78" title="hal::TimerServiceWin\l::TimerServiceWin" alt="" coords="723,463,867,504"/>
+</map>

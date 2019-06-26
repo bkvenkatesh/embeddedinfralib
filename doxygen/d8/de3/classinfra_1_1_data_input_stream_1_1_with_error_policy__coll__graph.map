@@ -1,0 +1,6 @@
+<map id="infra::DataInputStream::WithErrorPolicy" name="infra::DataInputStream::WithErrorPolicy">
+<area shape="rect" id="node2" href="$d0/db4/classinfra_1_1_data_input_stream.html" title="infra::DataInputStream" alt="" coords="59,288,209,315"/>
+<area shape="rect" id="node3" href="$db/dda/classinfra_1_1_input_stream.html" title="infra::InputStream" alt="" coords="72,199,196,225"/>
+<area shape="rect" id="node4" href="$d2/d90/classinfra_1_1_stream_reader.html" title="infra::StreamReader" alt="" coords="5,109,143,136"/>
+<area shape="rect" id="node5" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="167,109,327,136"/>
+</map>

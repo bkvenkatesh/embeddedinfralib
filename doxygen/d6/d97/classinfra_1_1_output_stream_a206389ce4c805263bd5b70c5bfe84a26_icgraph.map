@@ -1,0 +1,20 @@
+<map id="infra::OutputStream::SaveMarker" name="infra::OutputStream::SaveMarker">
+<area shape="rect" id="node2" href="$d2/d1b/classinfra_1_1_proto_length_delimited_formatter.html#ad247ee660181cda6625da2ccf1ef6b11" title="infra::ProtoLengthDelimited\lFormatter::ProtoLengthDelimited\lFormatter" alt="" coords="188,5,399,61"/>
+<area shape="rect" id="node3" href="$db/dc0/classinfra_1_1_asn1_formatter.html#a431d7bf9494f31039208dabf07e81574" title="infra::Asn1Formatter\l::StartBitString" alt="" coords="223,86,363,127"/>
+<area shape="rect" id="node4" href="$db/dc0/classinfra_1_1_asn1_formatter.html#aefe45b742ca0862df39a4ec8cbd2fefe" title="infra::Asn1Formatter\l::StartContextSpecific" alt="" coords="219,151,368,193"/>
+<area shape="rect" id="node5" href="$db/dc0/classinfra_1_1_asn1_formatter.html#a9a12f4e6e52acc290d02deb03de934e2" title="infra::Asn1Formatter\l::StartSequence" alt="" coords="223,217,363,258"/>
+<area shape="rect" id="node10" href="$db/dc0/classinfra_1_1_asn1_formatter.html#a2bd0f8e3cd66dcc1deed08e60bfe06de" title="infra::Asn1Formatter\l::StartSet" alt="" coords="223,282,363,323"/>
+<area shape="rect" id="node11" href="$d9/dce/classservices_1_1_http_response.html#a2bdfd05b582453e0ba050dfa18009be7" title="services::HttpResponse\l::WriteResponse" alt="" coords="214,347,373,389"/>
+<area shape="rect" id="node6" href="$df/d23/classservices_1_1_certificates_mbed_tls.html#a63f4477d0889d479f476070910087cef" title="services::CertificatesMbed\lTls::WriteOwnCertificate" alt="" coords="711,217,886,258"/>
+<area shape="rect" id="node7" href="$df/d23/classservices_1_1_certificates_mbed_tls.html#a5705b4ef4325d0b778078e6761e35fec" title="services::CertificatesMbed\lTls::WritePrivateKey" alt="" coords="461,151,635,193"/>
+<area shape="rect" id="node8" href="$df/d23/classservices_1_1_certificates_mbed_tls.html#a60975eeeeaf6a805df536a7d167270af" title="services::CertificatesMbed\lTls::X509AddAlgorithm" alt="" coords="461,217,635,258"/>
+<area shape="rect" id="node9" href="$df/d23/classservices_1_1_certificates_mbed_tls.html#a2a4620eb2357d703d8166932662f2445" title="services::CertificatesMbed\lTls::X509AddName" alt="" coords="461,282,635,323"/>
+<area shape="rect" id="node12" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a48786ed298c958e0c90a861ab09f01b2" title="services::HttpServerConnection\lObserver::SendResponse" alt="" coords="447,347,649,389"/>
+<area shape="rect" id="node13" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#afd24d585e0b90fc44643244b0712f92f" title="services::HttpServerConnection\lObserver::ReceivedTooMuchData" alt="" coords="948,289,1161,330"/>
+<area shape="rect" id="node16" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a54d34389a1f80059a349bfb5b5f273dc" title="services::HttpServerConnection\lObserver::TryHandleRequest" alt="" coords="1209,347,1412,389"/>
+<area shape="rect" id="node18" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a9d0c9926c69222f44621afb71304247d" title="services::HttpServerConnection\lObserver::ServePage" alt="" coords="697,406,900,447"/>
+<area shape="rect" id="node14" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a3c5cabea13da6e140280b1b8c77244b3" title="services::HttpServerConnection\lObserver::DataReceived" alt="" coords="1711,318,1913,359"/>
+<area shape="rect" id="node15" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a579fc75f469c5b79141187fc04dbf74c" title="services::HttpServerConnection\lObserver::SendStreamAvailable" alt="" coords="1961,318,2165,359"/>
+<area shape="rect" id="node17" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a6213f7b12f5fb1c0ddbabdb859ddca0a" title="services::HttpServerConnection\lObserver::ReceivedRequest" alt="" coords="1460,347,1663,389"/>
+<area shape="rect" id="node19" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a52e5c280fabbed909272946c730d6aff" title="services::HttpServerConnection\lObserver::HandleRequest" alt="" coords="953,406,1156,447"/>
+</map>

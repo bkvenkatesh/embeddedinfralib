@@ -1,0 +1,7 @@
+<map id="services::ConnectionSerial::SerialConnectionStreamReader::ExtractContiguousRange" name="services::ConnectionSerial::SerialConnectionStreamReader::ExtractContiguousRange">
+<area shape="rect" id="node2" href="$d5/db7/classinfra_1_1_bounded_deque.html#a11e8b6093e259d16920cdcd2b83999c4" title="infra::BoundedDeque\l::begin" alt="" coords="264,5,407,47"/>
+<area shape="rect" id="node3" href="$d5/db7/classinfra_1_1_bounded_deque.html#ae7bdbe1764e9168b674e51e2c1ea973c" title="infra::BoundedDeque\l::contiguous_range" alt="" coords="264,71,407,112"/>
+<area shape="rect" id="node4" href="$d0/de3/namespaceinfra.html#a97dc5194236a205b697e668f00d42353" title="infra::Head" alt="" coords="293,137,377,163"/>
+<area shape="rect" id="node6" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="266,188,405,229"/>
+<area shape="rect" id="node5" href="$d0/d6d/classinfra_1_1_memory_range.html#a322f6976f2774c6ba7494b9e27f07624" title="infra::MemoryRange\l::shrink_from_back_to" alt="" coords="455,129,605,171"/>
+</map>

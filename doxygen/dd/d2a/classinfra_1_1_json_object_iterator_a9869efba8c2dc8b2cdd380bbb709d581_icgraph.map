@@ -1,0 +1,10 @@
+<map id="infra::JsonObjectIterator::SetError" name="infra::JsonObjectIterator::SetError">
+<area shape="rect" id="node2" href="$dd/d2a/classinfra_1_1_json_object_iterator.html#a43784c9f6c3f8609cf40b186194c20dd" title="infra::JsonObjectIterator\l::ReadColon" alt="" coords="223,5,381,47"/>
+<area shape="rect" id="node5" href="$dd/d2a/classinfra_1_1_json_object_iterator.html#a8114edb6c07639605a498fe45113a304" title="infra::JsonObjectIterator\l::ReadCommaOrObjectEnd" alt="" coords="212,71,392,112"/>
+<area shape="rect" id="node6" href="$dd/d2a/classinfra_1_1_json_object_iterator.html#a86f901eb30ca465718042bb7878871a2" title="infra::JsonObjectIterator\l::ReadKey" alt="" coords="223,136,381,177"/>
+<area shape="rect" id="node7" href="$dd/d2a/classinfra_1_1_json_object_iterator.html#ae5f0286d19e6fa058553908eac6ca3b7" title="infra::JsonObjectIterator\l::ReadKeyOrEnd" alt="" coords="223,201,381,243"/>
+<area shape="rect" id="node8" href="$dd/d2a/classinfra_1_1_json_object_iterator.html#a25677264825842105405db691d20b7f8" title="infra::JsonObjectIterator\l::ReadObjectStart" alt="" coords="223,267,381,308"/>
+<area shape="rect" id="node9" href="$dd/d2a/classinfra_1_1_json_object_iterator.html#a44bd40e5f060140d1825eac9864bb371" title="infra::JsonObjectIterator\l::ReadValue" alt="" coords="223,332,381,373"/>
+<area shape="rect" id="node3" href="$dd/d2a/classinfra_1_1_json_object_iterator.html#ac505bfd75a0906a2f69e1d6fe252710a" title="infra::JsonObjectIterator\l::ParseNextToken" alt="" coords="440,169,599,211"/>
+<area shape="rect" id="node4" href="$dd/d2a/classinfra_1_1_json_object_iterator.html#a5da85e17d711d0e3fb813e1cabb4e6b4" title="infra::JsonObjectIterator\l::operator++" alt="" coords="647,169,805,211"/>
+</map>

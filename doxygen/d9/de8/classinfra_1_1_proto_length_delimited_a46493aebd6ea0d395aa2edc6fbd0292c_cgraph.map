@@ -1,0 +1,10 @@
+<map id="infra::ProtoLengthDelimited::GetBytes" name="infra::ProtoLengthDelimited::GetBytes">
+<area shape="rect" id="node2" href="$db/dda/classinfra_1_1_input_stream.html#a2a8a5906d057b8e49f4eaccabf8c6578" title="infra::InputStream\l::Available" alt="" coords="241,9,365,51"/>
+<area shape="rect" id="node4" href="$d0/de3/namespaceinfra.html#afe38b7d4318537de2f28b244211c4275" title="infra::MakeRange" alt="" coords="242,78,365,105"/>
+<area shape="rect" id="node7" href="$dc/de7/classinfra_1_1_bounded_vector.html#a80626396ed029f8666f177a07797a2e4" title="infra::BoundedVector\l::max_size" alt="" coords="232,129,375,171"/>
+<area shape="rect" id="node8" href="$dc/de7/classinfra_1_1_bounded_vector.html#afa10f6004fa9f862b5e1609b29a32a19" title="infra::BoundedVector\l::resize" alt="" coords="232,195,375,236"/>
+<area shape="rect" id="node9" href="$dc/de7/classinfra_1_1_bounded_vector.html#a605f344af39e74f48bb205c86f57b5da" title="infra::BoundedVector\l::size" alt="" coords="232,260,375,301"/>
+<area shape="rect" id="node3" href="$d2/d90/classinfra_1_1_stream_reader.html#a006dafbe8dd85d298f4874efd047ed67" title="infra::StreamReader\l::Available" alt="" coords="453,5,591,47"/>
+<area shape="rect" id="node5" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#aef23e4250cad2fdc69ccc39f68734233" title="infra::BoundedStringBase\l::begin" alt="" coords="437,71,607,112"/>
+<area shape="rect" id="node6" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#af5021f1ea3898146d0a55c2895f07dbf" title="infra::BoundedStringBase::end" alt="" coords="423,137,621,163"/>
+</map>

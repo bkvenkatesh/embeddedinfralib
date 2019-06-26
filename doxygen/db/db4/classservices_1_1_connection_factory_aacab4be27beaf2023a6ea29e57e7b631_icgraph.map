@@ -1,0 +1,4 @@
+<map id="services::ConnectionFactory::CancelConnect" name="services::ConnectionFactory::CancelConnect">
+<area shape="rect" id="node2" href="$d9/d69/classservices_1_1_mqtt_client_connector_impl.html#a0350fffb0c82c086d3afaa4e7a42141c" title="services::MqttClientConnector\lImpl::CancelConnect" alt="" coords="243,5,438,47"/>
+<area shape="rect" id="node3" href="$dd/d6b/classservices_1_1_connection_factory_with_name_resolver_impl_1_1_action.html#ac20ae5aa54c4194ac189c5ec5705f814" title="services::ConnectionFactory\lWithNameResolverImpl::Action\l::Remove" alt="" coords="240,71,441,127"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="services::HttpClientConnector::CancelConnect" name="services::HttpClientConnector::CancelConnect">
+<area shape="rect" id="node2" href="$db/dae/classservices_1_1_http_client_basic.html#a7013193bda83830a96e57ed41c5a87d1" title="services::HttpClientBasic\l::Cancel" alt="" coords="247,5,413,47"/>
+<area shape="rect" id="node3" href="$df/dd9/classservices_1_1_http_client_json.html#ad4647fcc0e0ed96424ca89969a32d82d" title="services::HttpClientJson\l::Cancel" alt="" coords="461,5,623,47"/>
+</map>

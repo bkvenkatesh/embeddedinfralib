@@ -1,0 +1,7 @@
+<map id="hal::SynchronousFlash::EraseSectors" name="hal::SynchronousFlash::EraseSectors">
+<area shape="rect" id="node2" href="$d5/dff/classhal_1_1_synchronous_flash.html#ab92467d8431b295a7bf5ebf725d1c2d6" title="hal::SynchronousFlash\l::EraseAll" alt="" coords="223,5,378,47"/>
+<area shape="rect" id="node3" href="$d5/dff/classhal_1_1_synchronous_flash.html#a015ca7ba75feaadc422aaace902c0299" title="hal::SynchronousFlash\l::EraseSector" alt="" coords="223,71,378,112"/>
+<area shape="rect" id="node4" href="$d0/d97/classservices_1_1_synchronous_flash_region.html#a937af1edb9073bbeaa361c3575d8b143" title="services::SynchronousFlash\lRegion::EraseSectors" alt="" coords="208,136,393,177"/>
+<area shape="rect" id="node5" href="$d2/d34/classapplication_1_1_image_upgrader_erase_sectors.html#a68bf189eca36d94589fa1ba51b127bf7" title="application::ImageUpgrader\lEraseSectors::Upgrade" alt="" coords="211,201,390,243"/>
+<area shape="rect" id="node6" href="$d7/d5d/classapplication_1_1_image_upgrader_internal_flash.html#a5930f5460a6be09433e3c5ecc18062a0" title="application::ImageUpgrader\lInternalFlash::Upgrade" alt="" coords="211,267,390,308"/>
+</map>

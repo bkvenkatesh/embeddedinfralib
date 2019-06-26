@@ -1,0 +1,33 @@
+<map id="services::ConnectionWin::StreamWriterWin" name="services::ConnectionWin::StreamWriterWin">
+<area shape="rect" id="node3" href="$df/d15/classinfra_1_1_byte_output_stream_writer.html" title="infra::ByteOutputStreamWriter" alt="" coords="731,57,929,84"/>
+<area shape="rect" id="node4" href="$de/dba/classinfra_1_1_stream_writer.html" title="infra::StreamWriter" alt="" coords="378,5,509,32"/>
+<area shape="rect" id="node7" href="$db/d8b/classservices_1_1_connection_win.html" title="services::ConnectionWin" alt="" coords="1419,1209,1584,1236"/>
+<area shape="rect" id="node31" href="$d5/db7/classinfra_1_1_bounded_deque.html" title="infra::BoundedDeque\l\&lt; uint8_t \&gt;" alt="" coords="1141,198,1283,239"/>
+<area shape="rect" id="node43" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; services::ListenerWin \&gt;" alt="" coords="745,997,915,1038"/>
+<area shape="rect" id="node46" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; services::ListenerBsd \&gt;" alt="" coords="745,631,915,673"/>
+<area shape="rect" id="node21" href="$d3/daa/classinfra_1_1_weak_ptr.html" title="infra::WeakPtr\&lt; Connection\lWin \&gt;" alt="" coords="1700,1385,1883,1426"/>
+<area shape="rect" id="node8" href="$d0/dde/classservices_1_1_connection.html" title="services::Connection" alt="" coords="1141,1236,1283,1263"/>
+<area shape="rect" id="node9" href="$d1/db2/classinfra_1_1_subject.html" title="infra::Subject\&lt; Connection\lObserver \&gt;" alt="" coords="743,1165,917,1206"/>
+<area shape="rect" id="node10" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l ObserverSubjectType \&gt;" alt="" coords="363,1121,524,1177"/>
+<area shape="rect" id="node12" href="$d1/d17/classinfra_1_1_shared_ptr.html" title="infra::SharedPtr\&lt; services\l::ConnectionObserver \&gt;" alt="" coords="745,1282,915,1323"/>
+<area shape="rect" id="node13" href="$dc/de5/classservices_1_1_connection_observer.html" title="services::ConnectionObserver" alt="" coords="347,1283,540,1309"/>
+<area shape="rect" id="node14" href="$dd/d9a/classinfra_1_1detail_1_1_shared_ptr_control.html" title="infra::detail::SharedPtr\lControl" alt="" coords="368,1353,519,1394"/>
+<area shape="rect" id="node18" href="$d1/d17/classinfra_1_1_shared_ptr.html" title="infra::SharedPtr\&lt; void \&gt;" alt="" coords="751,1231,909,1257"/>
+<area shape="rect" id="node23" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::ConnectionWin\l::StreamReaderWin \&gt;" alt="" coords="741,1437,919,1493"/>
+<area shape="rect" id="node28" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::ConnectionWin\l::StreamWriterWin \&gt;" alt="" coords="741,1593,919,1649"/>
+<area shape="rect" id="node17" href="$da/dcd/classinfra_1_1_shared_object_deleter.html" title="infra::SharedObjectDeleter" alt="" coords="7,1505,181,1532"/>
+<area shape="rect" id="node20" href="$dd/df1/classinfra_1_1_enable_shared_from_this.html" title="infra::EnableSharedFromThis\l\&lt; ConnectionWin \&gt;" alt="" coords="1983,1418,2172,1459"/>
+<area shape="rect" id="node24" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; services\l::ConnectionWin::StreamReaderWin \&gt;" alt="" coords="321,1430,565,1471"/>
+<area shape="rect" id="node29" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; services\l::ConnectionWin::StreamWriterWin \&gt;" alt="" coords="324,1727,563,1769"/>
+<area shape="rect" id="node26" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; services::ConnectionWin\l::StreamReaderWin \&gt;" alt="" coords="5,1425,183,1481"/>
+<area shape="rect" id="node34" href="$d0/d67/classservices_1_1_event_dispatcher_with_network.html" title="services::EventDispatcher\lWithNetwork" alt="" coords="1127,719,1297,761"/>
+<area shape="rect" id="node30" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; services::ConnectionWin\l::StreamWriterWin \&gt;" alt="" coords="5,1731,183,1787"/>
+<area shape="rect" id="node32" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; infra::StaticStorage\l\&lt; uint8_t \&gt; \&gt;" alt="" coords="757,109,903,165"/>
+<area shape="rect" id="node33" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; uint8_t \&gt;" alt="" coords="377,154,510,195"/>
+<area shape="rect" id="node35" href="$db/da8/classinfra_1_1_event_dispatcher_with_weak_ptr_1_1_with_size.html" title="infra::EventDispatcherWith\lWeakPtr::WithSize\&lt; 50 \&gt;" alt="" coords="743,879,917,921"/>
+<area shape="rect" id="node36" href="$db/db4/classservices_1_1_connection_factory.html" title="services::ConnectionFactory" alt="" coords="737,945,923,972"/>
+<area shape="rect" id="node37" href="$d7/da1/classservices_1_1_datagram_factory.html" title="services::DatagramFactory" alt="" coords="741,267,919,293"/>
+<area shape="rect" id="node44" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; services::ListenerWin \&gt;" alt="" coords="333,1055,554,1097"/>
+<area shape="rect" id="node45" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; T \&gt;" alt="" coords="373,937,513,978"/>
+<area shape="rect" id="node47" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; services::ListenerBsd \&gt;" alt="" coords="333,603,554,645"/>
+</map>

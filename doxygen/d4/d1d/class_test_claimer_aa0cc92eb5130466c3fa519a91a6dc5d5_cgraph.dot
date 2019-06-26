@@ -1,0 +1,12 @@
+digraph "TestClaimer::GrantedClaim"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node2 [label="TestClaimer::GrantedClaim",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="EXPECT_TRUE",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/def/_test_json_8cpp.html#a84dbe6e62bbec23a120a258315c7b6dc"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="infra::ClaimableResource\l::ClaimerBase::IsClaimed",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d20/classinfra_1_1_claimable_resource_1_1_claimer_base.html#addb12ac8f0dfa221e267895cfb55994b"];
+}

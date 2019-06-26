@@ -1,0 +1,7 @@
+<map id="services::SntpClient::NotifyOffsetAndDelay" name="services::SntpClient::NotifyOffsetAndDelay">
+<area shape="rect" id="node2" href="$d3/d15/structservices_1_1_sntp_client_1_1_ntp_timestamp.html#a4e39dffaaf3706e060a5c9bfdec131a1" title="services::SntpClient\l::NtpTimestamp::Convert" alt="" coords="239,5,404,47"/>
+<area shape="rect" id="node3" href="$d1/db2/classinfra_1_1_subject.html#a0992f3cdf215e556c9a1166d2234ecba" title="infra::Subject\&lt; SntpResult\lObserver \&gt;::NotifyObservers" alt="" coords="229,71,413,112"/>
+<area shape="rect" id="node4" href="$db/d9d/classinfra_1_1_derived_timer_service.html#a09b9ef12b60c780c437545c00258c859" title="infra::DerivedTimerService::Now" alt="" coords="220,137,423,163"/>
+<area shape="rect" id="node6" href="$da/dc6/classservices_1_1_time_with_localization.html#addff1b75a015f178c4e8f1d9bb45acfb" title="services::TimeWithLocalization::Utc" alt="" coords="207,187,436,214"/>
+<area shape="rect" id="node5" href="$da/def/classinfra_1_1_timer_service.html#acb34d2766047f27ebcd1f552916c9a99" title="infra::TimerService::Now" alt="" coords="484,137,645,163"/>
+</map>

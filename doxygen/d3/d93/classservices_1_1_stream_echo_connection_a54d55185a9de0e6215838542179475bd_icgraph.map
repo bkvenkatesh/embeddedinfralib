@@ -1,0 +1,4 @@
+<map id="services::StreamEchoConnection::TryRequestSendStream" name="services::StreamEchoConnection::TryRequestSendStream">
+<area shape="rect" id="node2" href="$d3/d93/classservices_1_1_stream_echo_connection.html#a5557260e101a1f53dbe33c7d62f42c4d" title="services::StreamEchoConnection\l::DataReceived" alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node3" href="$d3/d93/classservices_1_1_stream_echo_connection.html#acf11dd637a1f0e8609561808d7b7e4fa" title="services::StreamEchoConnection\l::SendStreamAvailable" alt="" coords="268,71,483,112"/>
+</map>

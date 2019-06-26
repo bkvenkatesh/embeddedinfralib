@@ -1,0 +1,5 @@
+<map id="services::TimeWithLocalization::GetTm" name="services::TimeWithLocalization::GetTm">
+<area shape="rect" id="node2" href="$d1/d7b/_time_with_localization_8hpp.html#add77534fef5fce7dc4c18ef8ab10a6ed" title="operator\&lt;\&lt;" alt="" coords="313,5,398,32"/>
+<area shape="rect" id="node3" href="$da/dc6/classservices_1_1_time_with_localization.html#abb737ad37e27cd8c02c23e4487c98ddb" title="services::TimeWithLocalization\l::TimePointToCalenderDay" alt="" coords="255,57,456,98"/>
+<area shape="rect" id="node4" href="$da/dc6/classservices_1_1_time_with_localization.html#abf58fd5225eaa05565e72b4dc08f57d3" title="services::TimeWithLocalization\l::TimePointToHourMinSec" alt="" coords="255,122,456,163"/>
+</map>

@@ -1,0 +1,43 @@
+digraph "DnsResolverTest::GiveSendStream"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node112 [label="DnsResolverTest::GiveSend\lStream",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node112 -> Node113 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node113 [label="DnsResolverTest::ExpectAnd\lRespondToRequestSendStream",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d31/class_dns_resolver_test.html#a79be6aaf8e255362c6d53115cb894b92"];
+  Node113 -> Node114 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node114 [label="DnsResolverTest::ExpectRequest\lSendStream",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d31/class_dns_resolver_test.html#a2f0899ec7404fda2ccfb8380f28bf860"];
+  Node114 -> Node115 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node115 [label="services::MakeUdpSocket",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d91/namespaceservices.html#a289f3a29e35cbe4bbc0cc050b1d3b0da"];
+  Node115 -> Node116 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node116 [label="infra::Variant::Is",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d2a/classinfra_1_1_variant.html#a6d0669e4f430569c9019345cfab21a8e"];
+  Node115 -> Node117 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node117 [label="infra::Variant::Get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d2a/classinfra_1_1_variant.html#a5c22ee95a815d91911bf3ce196c852a0"];
+  Node114 -> Node118 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node118 [label="infra::BoundedStringBase\l::size",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2a/classinfra_1_1_bounded_string_base.html#aab36b8eaee21d6ab3be734e07f499382"];
+  Node113 -> Node119 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node119 [label="services::DatagramExchange\lObserver::SendStreamAvailable",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d18/classservices_1_1_datagram_exchange_observer.html#ad6b6545ca56ebd6e2a5524671093d1dc"];
+  Node113 -> Node120 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node120 [label="infra::Tokenizer::Size",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dbd/classinfra_1_1_tokenizer.html#a0b3e37a99732d67c41ad94f1dec74542"];
+  Node120 -> Node121 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node121 [label="infra::Tokenizer::SkipConsecutive\lSeparators",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dbd/classinfra_1_1_tokenizer.html#a661288c16f8b46d0ab3d27530f6b9c13"];
+  Node120 -> Node122 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node122 [label="infra::Tokenizer::StartOf\lNextToken",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dbd/classinfra_1_1_tokenizer.html#ac2a716e3917d2a5de009885dd9f6a1ce"];
+  Node122 -> Node121 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node113 -> Node118 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node113 -> Node123 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node123 [label="infra::Tokenizer::Token",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dbd/classinfra_1_1_tokenizer.html#a9fea0107788ee101b1718a3cf526af72"];
+  Node123 -> Node124 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node124 [label="infra::Tokenizer::SkipTokens",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dbd/classinfra_1_1_tokenizer.html#a78ddaa04f929e29c37995f88b201dca0"];
+  Node124 -> Node121 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node124 -> Node122 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node123 -> Node125 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node125 [label="infra::Tokenizer::MakeToken",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dbd/classinfra_1_1_tokenizer.html#a7d67c9a4cc86e9d94b8694ae59407e02"];
+  Node125 -> Node126 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node126 [label="infra::BoundedStringBase\l::substr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2a/classinfra_1_1_bounded_string_base.html#a46ec1a3a673136ace03af8c6ec94aa89"];
+  Node113 -> Node127 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node127 [label="infra::UnOwnedSharedPtr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/de3/namespaceinfra.html#ac3c0a826875c1144325a232134f08146"];
+  Node112 -> Node127 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

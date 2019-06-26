@@ -1,0 +1,33 @@
+<map id="services::CyclicStore::WriteRange" name="services::CyclicStore::WriteRange">
+<area shape="rect" id="node2" href="$d8/dcc/classinfra_1_1_sequencer.html#a540855dbc1e4f39faed3b55ec7c947c0" title="infra::Sequencer::Continue" alt="" coords="212,138,387,164"/>
+<area shape="rect" id="node14" href="$d8/dcc/classinfra_1_1_sequencer.html#a1cb4cebfeb7a84298523d1e2f7f13432" title="infra::Sequencer::EndIf" alt="" coords="223,222,376,248"/>
+<area shape="rect" id="node16" href="$d8/dcc/classinfra_1_1_sequencer.html#a0e40d6564269650aee9417413f24dc10" title="infra::Sequencer::If" alt="" coords="234,272,365,299"/>
+<area shape="rect" id="node17" href="$d3/d0e/classinfra_1_1_interface_connector.html#aed1d9e952d3d0dfa68e59ee4e868b380" title="infra::InterfaceConnector\l\&lt; EventDispatcherWorker\l \&gt;::Instance" alt="" coords="214,374,385,430"/>
+<area shape="rect" id="node18" href="$d0/de3/namespaceinfra.html#ae4478bf95f90ceb679642cb4180f205f" title="infra::MakeByteRange" alt="" coords="224,454,375,480"/>
+<area shape="rect" id="node23" href="$d7/d34/classinfra_1_1_event_dispatcher_worker.html#a5922b8fd5101b15f20b639fcd11fa272" title="infra::EventDispatcherWorker\l::Schedule" alt="" coords="204,505,395,546"/>
+<area shape="rect" id="node24" href="$dd/d95/classhal_1_1_flash.html#a8fdc674c7384cdfb555cad2201848751" title="hal::Flash::SectorOfAddress" alt="" coords="206,571,393,598"/>
+<area shape="rect" id="node25" href="$d8/d0b/structservices_1_1_cyclic_store_1_1_block_header.html#a23a18a952d7937a450b379614c31be35" title="services::CyclicStore\l::BlockHeader::SetBlockLength" alt="" coords="197,622,401,664"/>
+<area shape="rect" id="node26" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="230,688,369,729"/>
+<area shape="rect" id="node27" href="$dd/d95/classhal_1_1_flash.html#aa68cb41a2cbe038e3bff43597665ff79" title="hal::Flash::SizeOfSector" alt="" coords="467,754,631,780"/>
+<area shape="rect" id="node28" href="$d8/dcc/classinfra_1_1_sequencer.html#abe6c94f65a82b03dde3e4e8fb85c9cdc" title="infra::Sequencer::Step" alt="" coords="473,331,624,358"/>
+<area shape="rect" id="node29" href="$dd/d95/classhal_1_1_flash.html#a0d43d3f246405a4d94e843182f3df687" title="hal::Flash::TotalSize" alt="" coords="229,804,370,831"/>
+<area shape="rect" id="node32" href="$dd/d95/classhal_1_1_flash.html#afe92eb7daa1043f56eac569140d018f9" title="hal::Flash::WriteBuffer" alt="" coords="224,855,375,882"/>
+<area shape="rect" id="node3" href="$dc/de7/classinfra_1_1_bounded_vector.html#a0d65fc52854eb5ee43419e451e3cd49a" title="infra::BoundedVector\l::clear" alt="" coords="477,46,620,88"/>
+<area shape="rect" id="node4" href="$d8/dcc/classinfra_1_1_sequencer.html#a144aefdee6184f0c01287ef64e4e588a" title="infra::Sequencer::Execute\lNextStep" alt="" coords="709,184,881,225"/>
+<area shape="rect" id="node6" href="$d8/dcc/classinfra_1_1_sequencer.html#aa8d62e488058da02b14a31017a33b199" title="infra::Sequencer::Finished" alt="" coords="709,6,882,32"/>
+<area shape="rect" id="node8" href="$d8/dcc/classinfra_1_1_sequencer.html#a5a0bb79e770ee68910377bcbd24f9c14" title="infra::Sequencer::PopContext" alt="" coords="453,112,645,139"/>
+<area shape="rect" id="node12" href="$d8/dcc/classinfra_1_1_sequencer.html#adb44b85c61f00faae6ca6ad1de6a7380" title="infra::Sequencer::PushContext" alt="" coords="449,382,648,408"/>
+<area shape="rect" id="node5" href="$dc/de7/classinfra_1_1_bounded_vector.html#aa142a336c186d6e58c5573ba860be106" title="infra::BoundedVector\l::back" alt="" coords="943,216,1085,257"/>
+<area shape="rect" id="node7" href="$dc/de7/classinfra_1_1_bounded_vector.html#ab9477e08e53eb7d020fac8bd1d37fda7" title="infra::BoundedVector\l::empty" alt="" coords="943,24,1085,65"/>
+<area shape="rect" id="node9" href="$d8/dcc/classinfra_1_1_sequencer.html#abfc36f76cfc75495f321bc6643826c98" title="infra::Sequencer::Execute\lCurrentStep" alt="" coords="709,314,881,356"/>
+<area shape="rect" id="node10" href="$d8/dcc/classinfra_1_1_sequencer.html#aa1da1c05382c54296fe23b30d6cf6cf8" title="infra::Sequencer::Increase\lCurrentStep" alt="" coords="709,249,882,290"/>
+<area shape="rect" id="node11" href="$dc/de7/classinfra_1_1_bounded_vector.html#acd442a237e9f5935f766dd3ef4a818e9" title="infra::BoundedVector\l::pop_back" alt="" coords="724,108,867,149"/>
+<area shape="rect" id="node13" href="$dc/de7/classinfra_1_1_bounded_vector.html#a17cb2ff4e6291f156cb5a41cca1b4edf" title="infra::BoundedVector\l::push_back" alt="" coords="724,380,867,421"/>
+<area shape="rect" id="node15" href="$d8/dcc/classinfra_1_1_sequencer.html#a40c4a5d093bef3a87c982a01f528f4de" title="infra::Sequencer::Execute\lWithoutContext" alt="" coords="463,265,635,306"/>
+<area shape="rect" id="node19" href="$d0/de3/namespaceinfra.html#afe38b7d4318537de2f28b244211c4275" title="infra::MakeRange" alt="" coords="487,510,610,536"/>
+<area shape="rect" id="node22" href="$d0/de3/namespaceinfra.html#a74203fdf2e029d2667c7e4925092cc9a" title="infra::ReinterpretCastByte\lRange" alt="" coords="463,444,634,485"/>
+<area shape="rect" id="node20" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#aef23e4250cad2fdc69ccc39f68734233" title="infra::BoundedStringBase\l::begin" alt="" coords="711,502,880,544"/>
+<area shape="rect" id="node21" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#af5021f1ea3898146d0a55c2895f07dbf" title="infra::BoundedStringBase::end" alt="" coords="696,451,895,478"/>
+<area shape="rect" id="node30" href="$dd/d95/classhal_1_1_flash.html#a57e55c9b32c2eacb23e8a4e9dcb3133f" title="hal::Flash::AddressOfSector" alt="" coords="455,855,642,882"/>
+<area shape="rect" id="node31" href="$dd/d95/classhal_1_1_flash.html#a95a53addc25efb18fe295f5124c29a25" title="hal::Flash::NumberOfSectors" alt="" coords="453,804,644,831"/>
+</map>

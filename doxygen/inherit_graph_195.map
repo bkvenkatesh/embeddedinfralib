@@ -1,0 +1,16 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d5/d03/structinfra_1_1_exists_in_list_3_01_list_3_01_element_00_01_tail_8_8_8_01_4_00_01_element_01_4.html" title="infra::ExistsInList\l\&lt; List\&lt; Element, Tail...\l \&gt;, Element \&gt;" alt="" coords="190,5,345,61"/>
+<area shape="rect" id="node3" href="$d4/d8d/structinfra_1_1_exists_in_list_3_01_list_3_4_00_01_element_01_4.html" title="infra::ExistsInList\l\&lt; List\&lt;\&gt;, Element \&gt;" alt="" coords="198,86,337,127"/>
+<area shape="rect" id="node4" href="$d1/dc4/structinfra_1_1_exists_in_type_list_3_01_u_01_4.html" title="infra::ExistsInTypeList\&lt; U \&gt;" alt="" coords="176,152,359,179"/>
+<area shape="rect" id="node5" href="$de/dab/structinfra_1_1_exists_in_type_list_3_01_u_00_01_front_00_01_tail_8_8_8_01_4.html" title="infra::ExistsInTypeList\l\&lt; U, Front, Tail... \&gt;" alt="" coords="192,203,343,245"/>
+<area shape="rect" id="node6" href="$d4/d06/structinfra_1_1_exists_in_type_list_3_01_u_00_01_u_00_01_tail_8_8_8_01_4.html" title="infra::ExistsInTypeList\l\&lt; U, U, Tail... \&gt;" alt="" coords="192,269,343,310"/>
+<area shape="rect" id="node7" href="$dc/dba/structinfra_1_1_index_in_type_list_3_01_u_00_01_front_00_01_tail_8_8_8_01_4.html" title="infra::IndexInTypeList\l\&lt; U, Front, Tail... \&gt;" alt="" coords="195,334,339,375"/>
+<area shape="rect" id="node8" href="$d6/d18/structinfra_1_1_index_in_type_list_3_01_u_00_01_u_00_01_tail_8_8_8_01_4.html" title="infra::IndexInTypeList\l\&lt; U, U, Tail... \&gt;" alt="" coords="195,399,339,441"/>
+<area shape="rect" id="node9" href="$d2/d94/structinfra_1_1_max.html" title="infra::Max\&lt; x, y \&gt;" alt="" coords="205,465,330,492"/>
+<area shape="rect" id="node10" href="$d9/ddf/structinfra_1_1_max_alignment_of_types_3_01_front_01_4.html" title="infra::MaxAlignmentOfTypes\l\&lt; Front \&gt;" alt="" coords="175,517,360,558"/>
+<area shape="rect" id="node11" href="$d6/d67/structinfra_1_1_max_alignment_of_types_3_01_front_00_01_tail_8_8_8_01_4.html" title="infra::MaxAlignmentOfTypes\l\&lt; Front, Tail... \&gt;" alt="" coords="175,582,360,623"/>
+<area shape="rect" id="node12" href="$d1/dfd/structinfra_1_1_max_alignment_type_3_01_front_00_01_tail_8_8_8_01_4.html" title="infra::MaxAlignmentType\l\&lt; Front, Tail... \&gt;" alt="" coords="185,647,350,689"/>
+<area shape="rect" id="node13" href="$dd/df0/structinfra_1_1_max_size_of_types_3_01_front_01_4.html" title="infra::MaxSizeOfTypes\l\&lt; Front \&gt;" alt="" coords="191,713,344,754"/>
+<area shape="rect" id="node14" href="$d8/d7d/structinfra_1_1_max_size_of_types_3_01_front_00_01_tail_8_8_8_01_4.html" title="infra::MaxSizeOfTypes\l\&lt; Front, Tail... \&gt;" alt="" coords="191,778,344,819"/>
+<area shape="rect" id="node15" href="$dd/db2/structinfra_1_1_min.html" title="infra::Min\&lt; x, y \&gt;" alt="" coords="207,844,328,871"/>
+</map>

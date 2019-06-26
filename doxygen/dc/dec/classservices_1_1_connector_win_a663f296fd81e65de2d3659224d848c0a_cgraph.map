@@ -1,0 +1,5 @@
+<map id="services::ConnectorWin::Connected" name="services::ConnectorWin::Connected">
+<area shape="rect" id="node2" href="$dc/d43/classservices_1_1_client_connection_observer_factory.html#a7b97291ce088366b6acfb3cc5725d27f" title="services::ClientConnection\lObserverFactory::ConnectionEstablished" alt="" coords="212,5,471,47"/>
+<area shape="rect" id="node3" href="$d0/d67/classservices_1_1_event_dispatcher_with_network.html#a30e1f5c152104ba9c88e0521c5073172" title="services::EventDispatcher\lWithNetwork::DeregisterConnector" alt="" coords="230,71,453,112"/>
+<area shape="rect" id="node4" href="$dd/df1/classinfra_1_1_enable_shared_from_this.html#af905d6b4aef4f252a28b1f4edebc99b3" title="infra::EnableSharedFromThis\l\&lt; ConnectorWin \&gt;::SharedFromThis" alt="" coords="226,136,457,177"/>
+</map>

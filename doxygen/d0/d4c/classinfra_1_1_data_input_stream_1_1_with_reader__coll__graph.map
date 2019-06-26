@@ -1,0 +1,8 @@
+<map id="infra::DataInputStream::WithReader&lt; TheReader &gt;" name="infra::DataInputStream::WithReader&lt; TheReader &gt;">
+<area shape="rect" id="node2" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; TheReader, WithReader\&lt;\l TheReader \&gt; \&gt;" alt="" coords="735,5,915,61"/>
+<area shape="rect" id="node3" href="$d5/def/class_the_reader.html" title="TheReader" alt="" coords="516,20,600,47"/>
+<area shape="rect" id="node4" href="$d0/db4/classinfra_1_1_data_input_stream.html" title="infra::DataInputStream" alt="" coords="749,85,900,112"/>
+<area shape="rect" id="node5" href="$db/dda/classinfra_1_1_input_stream.html" title="infra::InputStream" alt="" coords="496,85,620,112"/>
+<area shape="rect" id="node6" href="$d2/d90/classinfra_1_1_stream_reader.html" title="infra::StreamReader" alt="" coords="233,47,370,73"/>
+<area shape="rect" id="node7" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="221,117,381,144"/>
+</map>

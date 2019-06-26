@@ -1,0 +1,7 @@
+<map id="services::StreamEchoConnection::SendStreamAvailable" name="services::StreamEchoConnection::SendStreamAvailable">
+<area shape="rect" id="node2" href="$db/dda/classinfra_1_1_input_stream.html#aa253f0d673d3e4b6189993c7af8ff389" title="infra::InputStream\l::ContiguousRange" alt="" coords="309,5,441,47"/>
+<area shape="rect" id="node4" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="306,71,445,112"/>
+<area shape="rect" id="node5" href="$dc/d4c/classinfra_1_1_single_observer.html#abb13c69cc61182baf350ff1736fa772e" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;::Subject" alt="" coords="541,151,695,207"/>
+<area shape="rect" id="node6" href="$d3/d93/classservices_1_1_stream_echo_connection.html#a54d55185a9de0e6215838542179475bd" title="services::StreamEchoConnection\l::TryRequestSendStream" alt="" coords="268,188,483,229"/>
+<area shape="rect" id="node3" href="$d2/d90/classinfra_1_1_stream_reader.html#a7651d2a6bbbdcbbc5f71420b277aa956" title="infra::StreamReader\l::ExtractContiguousRange" alt="" coords="531,5,705,47"/>
+</map>

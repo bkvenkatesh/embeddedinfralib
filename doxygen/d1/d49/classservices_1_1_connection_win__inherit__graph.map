@@ -1,0 +1,5 @@
+<map id="services::ConnectionWin" name="services::ConnectionWin">
+<area shape="rect" id="node2" href="$d0/dde/classservices_1_1_connection.html" title="services::Connection" alt="" coords="21,102,164,129"/>
+<area shape="rect" id="node3" href="$d1/db2/classinfra_1_1_subject.html" title="infra::Subject\&lt; Connection\lObserver \&gt;" alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node4" href="$dd/df1/classinfra_1_1_enable_shared_from_this.html" title="infra::EnableSharedFromThis\l\&lt; ConnectionWin \&gt;" alt="" coords="189,95,378,136"/>
+</map>

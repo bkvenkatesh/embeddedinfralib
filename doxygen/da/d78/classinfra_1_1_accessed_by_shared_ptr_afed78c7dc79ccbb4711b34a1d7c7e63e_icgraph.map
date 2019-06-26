@@ -1,0 +1,17 @@
+<map id="infra::AccessedBySharedPtr::SetAction" name="infra::AccessedBySharedPtr::SetAction">
+<area shape="rect" id="node2" href="$db/dd6/classservices_1_1_http_client_impl.html#adcc230fc6c91b5b8a7b22eef629f7cae" title="services::HttpClientImpl\l::AbortAndDestroy" alt="" coords="244,35,403,76"/>
+<area shape="rect" id="node6" href="$db/dae/classservices_1_1_http_client_basic.html#a7013193bda83830a96e57ed41c5a87d1" title="services::HttpClientBasic\l::Cancel" alt="" coords="240,100,407,141"/>
+<area shape="rect" id="node8" href="$db/dd6/classservices_1_1_http_client_impl.html#aa4817ae91ba9c6bc133a670d37df9209" title="services::HttpClientImpl\l::Close" alt="" coords="244,165,403,207"/>
+<area shape="rect" id="node9" href="$db/dae/classservices_1_1_http_client_basic.html#a0420ebb92a4e9ca3c878e68d824aafaa" title="services::HttpClientBasic\l::ClosingConnection" alt="" coords="240,231,407,272"/>
+<area shape="rect" id="node11" href="$db/dd6/classservices_1_1_http_client_impl.html#ae22b6756b8c6f841fa530e89e55b7a35" title="services::HttpClientImpl\l::Connected" alt="" coords="244,296,403,337"/>
+<area shape="rect" id="node13" href="$db/dd6/classservices_1_1_http_client_impl.html#a7ec7fae3b23475b2e2c3516ed77f4050" title="services::HttpClientImpl\l::ForwardStream" alt="" coords="244,361,403,403"/>
+<area shape="rect" id="node15" href="$db/dae/classservices_1_1_http_client_basic.html#a10d4df541459a417c1517c4a83c3c598" title="services::HttpClientBasic\l::Timeout" alt="" coords="240,427,407,468"/>
+<area shape="rect" id="node3" href="$db/dd6/classservices_1_1_http_client_impl.html#ab2aede3eb5590a395aff84c73fae9a36" title="services::HttpClientImpl\l::DataReceived" alt="" coords="679,5,837,47"/>
+<area shape="rect" id="node5" href="$db/dd6/classservices_1_1_http_client_impl.html#a0a2dcf241ae32d9f8f46cbe08464c96f" title="services::HttpClientImpl\l::HandleData" alt="" coords="463,35,622,76"/>
+<area shape="rect" id="node4" href="$df/d09/classservices_1_1_tracing_http_client_impl.html#a2a4ebdef9cd37da3c11625013714992d" title="services::TracingHttpClient\lImpl::DataReceived" alt="" coords="885,5,1061,47"/>
+<area shape="rect" id="node7" href="$df/dd9/classservices_1_1_http_client_json.html#ad4647fcc0e0ed96424ca89969a32d82d" title="services::HttpClientJson\l::Cancel" alt="" coords="462,100,623,141"/>
+<area shape="rect" id="node10" href="$df/dd9/classservices_1_1_http_client_json.html#aa4b84ba5a9e0b4ee403629f556dbcd84" title="services::HttpClientJson\l::ClosingConnection" alt="" coords="462,231,623,272"/>
+<area shape="rect" id="node12" href="$df/d09/classservices_1_1_tracing_http_client_impl.html#ab41cdb0f4439fc7acd89ec93a4db5de7" title="services::TracingHttpClient\lImpl::Connected" alt="" coords="455,296,631,337"/>
+<area shape="rect" id="node14" href="$db/dd6/classservices_1_1_http_client_impl.html#a9bbe9de98aa556cba3337c0d75692f5c" title="services::HttpClientImpl\l::SendStreamAvailable" alt="" coords="463,361,622,403"/>
+<area shape="rect" id="node16" href="$db/dae/classservices_1_1_http_client_basic.html#a1b97214767813f813dee6ee393533e23" title="services::HttpClientBasic\l::ConnectionEstablished" alt="" coords="459,427,626,468"/>
+</map>

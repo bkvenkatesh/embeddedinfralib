@@ -1,0 +1,4 @@
+<map id="services::SpiMasterWithChipSelect" name="services::SpiMasterWithChipSelect">
+<area shape="rect" id="node2" href="$dd/da3/classhal_1_1_spi_master.html" title="hal::SpiMaster" alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node3" href="$d4/d53/classhal_1_1_chip_select_configurator.html" title="hal::ChipSelectConfigurator" alt="" coords="136,5,315,32"/>
+</map>

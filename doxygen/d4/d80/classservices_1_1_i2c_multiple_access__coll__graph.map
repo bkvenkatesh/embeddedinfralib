@@ -1,0 +1,14 @@
+<map id="services::I2cMultipleAccess" name="services::I2cMultipleAccess">
+<area shape="rect" id="node2" href="$df/d85/classhal_1_1_i2c_master.html" title="hal::I2cMaster" alt="" coords="1337,53,1441,79"/>
+<area shape="rect" id="node4" href="$de/d17/classservices_1_1_i2c_multiple_access_master.html" title="services::I2cMultipleAccess\lMaster" alt="" coords="1619,124,1801,165"/>
+<area shape="rect" id="node3" href="$d5/d33/classinfra_1_1_auto_reset_function.html" title="infra::AutoResetFunction\l\&lt; void(hal::Result)\&gt;" alt="" coords="1627,59,1793,100"/>
+<area shape="rect" id="node5" href="$d0/d93/classinfra_1_1_claimable_resource.html" title="infra::ClaimableResource" alt="" coords="1013,165,1180,191"/>
+<area shape="rect" id="node6" href="$da/d20/classinfra_1_1_claimable_resource_1_1_claimer_base.html" title="infra::ClaimableResource\l::ClaimerBase" alt="" coords="1305,204,1472,245"/>
+<area shape="rect" id="node14" href="$d7/d6a/classinfra_1_1_claimable_resource_1_1_claimer_with_size.html" title="infra::ClaimableResource\l::ClaimerWithSize\&lt; SERVICES\l_I2C_MULTIPLE_ACCESS_FUNCTION\l_EXTRA_SIZE \&gt;" alt="" coords="1585,189,1835,260"/>
+<area shape="rect" id="node7" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; ClaimerBase \&gt;::NodeType" alt="" coords="487,248,673,289"/>
+<area shape="rect" id="node11" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; T \&gt;" alt="" coords="278,5,418,47"/>
+<area shape="rect" id="node10" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; infra::ClaimableResource\l::ClaimerBase \&gt;" alt="" coords="697,145,876,201"/>
+<area shape="rect" id="node12" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; infra::ClaimableResource\l::ClaimerBase \&gt;" alt="" coords="233,125,463,181"/>
+<area shape="rect" id="node15" href="$d5/d33/classinfra_1_1_auto_reset_function.html" title="infra::AutoResetFunction\l\&lt; void(), ExtraSize \&gt;" alt="" coords="1306,269,1471,311"/>
+<area shape="rect" id="node16" href="$d5/d33/classinfra_1_1_auto_reset_function.html" title="infra::AutoResetFunction\l\&lt; void(hal::Result, uint32\l_t numberOfBytesSent)\&gt;" alt="" coords="1627,285,1793,341"/>
+</map>

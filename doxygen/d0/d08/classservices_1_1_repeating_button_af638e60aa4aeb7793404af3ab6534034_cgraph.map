@@ -1,0 +1,10 @@
+<map id="services::RepeatingButton::DebounceEnd" name="services::RepeatingButton::DebounceEnd">
+<area shape="rect" id="node2" href="$d5/da5/classinfra_1_1_timer.html#abf5658fb078dc1dad0705a7791f7b84c" title="infra::Timer::Cancel" alt="" coords="227,56,361,83"/>
+<area shape="rect" id="node8" href="$db/dc6/classhal_1_1_input_pin.html#a26d6d04c3a03e4ad73c0141440744a0f" title="hal::InputPin::Get" alt="" coords="233,107,355,133"/>
+<area shape="rect" id="node3" href="$d5/da5/classinfra_1_1_timer.html#a11b396e8d4300da06b8ce83624991b73" title="infra::Timer::Convert" alt="" coords="428,5,565,32"/>
+<area shape="rect" id="node4" href="$d5/da5/classinfra_1_1_timer.html#a2b0bc71ca10c69d01f4965c576af73fd" title="infra::Timer::UnregisterSelf" alt="" coords="409,56,584,83"/>
+<area shape="rect" id="node5" href="$da/def/classinfra_1_1_timer_service.html#a51f86cbeef8dc4866c087b68c24635d8" title="infra::TimerService\l::UnregisterTimer" alt="" coords="632,49,760,90"/>
+<area shape="rect" id="node6" href="$da/def/classinfra_1_1_timer_service.html#afb8a6ef3ee5ba728f1a8f232514bad8c" title="infra::TimerService\l::ComputeNextTrigger" alt="" coords="808,49,956,90"/>
+<area shape="rect" id="node7" href="$da/def/classinfra_1_1_timer_service.html#a6ae66196dc18d8b383ba5e0f0b6f22fa" title="infra::TimerService\l::NextTriggerChanged" alt="" coords="1004,49,1151,90"/>
+<area shape="rect" id="node9" href="$d7/d8c/classhal_1_1_gpio_pin.html#aa08abb7c56b964f7d8f89191c8570077" title="hal::GpioPin::Get" alt="" coords="435,107,558,133"/>
+</map>

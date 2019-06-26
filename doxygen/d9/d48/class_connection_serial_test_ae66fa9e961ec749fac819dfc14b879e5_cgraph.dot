@@ -1,0 +1,25 @@
+digraph "ConnectionSerialTest::GetAndWriteToSendStream"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node56 [label="ConnectionSerialTest\l::GetAndWriteToSendStream",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node56 -> Node57 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node57 [label="ConnectionSerialTest\l::ExpectSendStreamAvailable",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d48/class_connection_serial_test.html#a6e34452993da15d8273e7357be87bccb"];
+  Node56 -> Node58 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node58 [label="services::ConnectionSerial\l::MaxSendStreamSize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d9a/classservices_1_1_connection_serial.html#a4724b328eb7235989e08a83b8f9efab2"];
+  Node58 -> Node59 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node59 [label="infra::MemoryRange\l::size",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66"];
+  Node56 -> Node60 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node60 [label="services::ConnectionSerial\l::RequestSendStream",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d9a/classservices_1_1_connection_serial.html#af51ecce8f4a73a4b8bda835e83e96588"];
+  Node60 -> Node58 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node60 -> Node61 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node61 [label="services::ConnectionSerial\l::AllocatedSendStream",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d9a/classservices_1_1_connection_serial.html#a2a628c7073bbaf07211d9272f4227ed2"];
+  Node61 -> Node62 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node62 [label="infra::InterfaceConnector\l\< EventDispatcherWorker\l \>::Instance",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d0e/classinfra_1_1_interface_connector.html#aed1d9e952d3d0dfa68e59ee4e868b380"];
+  Node61 -> Node63 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node63 [label="infra::EventDispatcherWorker\l::Schedule",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d34/classinfra_1_1_event_dispatcher_worker.html#a5922b8fd5101b15f20b639fcd11fa272"];
+  Node61 -> Node64 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node64 [label="infra::Subject\< Connection\lObserver \>::GetObserver",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db2/classinfra_1_1_subject.html#ae6779efb6b9b18a7638fef4ce0553466"];
+}

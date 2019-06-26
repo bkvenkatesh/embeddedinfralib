@@ -1,0 +1,6 @@
+<map id="infra::TextInputStream::operator&gt;&gt;" name="infra::TextInputStream::operator&gt;&gt;">
+<area shape="rect" id="node2" href="$db/dda/classinfra_1_1_input_stream.html#a2ba329777e84a8bba1d9d7b29ed6bee1" title="infra::InputStream\l::ErrorPolicy" alt="" coords="226,5,350,47"/>
+<area shape="rect" id="node3" href="$d2/d90/classinfra_1_1_stream_reader.html#a31b3e381cbdb9a8628c4176904c90d6c" title="infra::StreamReader\l::Extract" alt="" coords="219,71,357,112"/>
+<area shape="rect" id="node4" href="$db/dda/classinfra_1_1_input_stream.html#a9f1f392517013e99a0517d3688949a7a" title="infra::InputStream\l::Reader" alt="" coords="226,136,350,177"/>
+<area shape="rect" id="node5" href="$d0/de3/namespaceinfra.html#a74203fdf2e029d2667c7e4925092cc9a" title="infra::ReinterpretCastByte\lRange" alt="" coords="203,201,373,243"/>
+</map>

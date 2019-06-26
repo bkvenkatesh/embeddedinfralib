@@ -1,0 +1,22 @@
+<map id="services::TracingConnectionFactoryMbedTls" name="services::TracingConnectionFactoryMbedTls">
+<area shape="rect" id="node2" href="$d3/d92/classservices_1_1_connection_factory_mbed_tls.html" title="services::ConnectionFactory\lMbedTls" alt="" coords="1412,345,1599,386"/>
+<area shape="rect" id="node3" href="$db/db4/classservices_1_1_connection_factory.html" title="services::ConnectionFactory" alt="" coords="1039,76,1226,103"/>
+<area shape="rect" id="node4" href="$de/d1a/classhal_1_1_synchronous_random_data_generator.html" title="hal::SynchronousRandomData\lGenerator" alt="" coords="1033,191,1232,233"/>
+<area shape="rect" id="node30" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="579,687,739,713"/>
+<area shape="rect" id="node6" href="$df/d23/classservices_1_1_certificates_mbed_tls.html" title="services::CertificatesMbedTls" alt="" coords="1037,127,1228,153"/>
+<area shape="rect" id="node10" href="$d8/d38/classinfra_1_1_bounded_list.html" title="infra::BoundedList\l\&lt; services::ConnectionMbed\lTlsConnector \&gt;" alt="" coords="1039,257,1226,313"/>
+<area shape="rect" id="node11" href="$df/dad/structinfra_1_1detail_1_1_bounded_list_node.html" title="infra::detail::BoundedList\lNode\&lt; T \&gt;" alt="" coords="576,265,741,306"/>
+<area shape="rect" id="node14" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; infra::StaticStorage\l\&lt; infra::detail::BoundedList\lNode\&lt; services::ConnectionMbedTlsConnector \&gt; \&gt; \&gt;" alt="" coords="495,170,823,241"/>
+<area shape="rect" id="node15" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; infra::detail::BoundedList\lNode\&lt; services::ConnectionMbedTls\lConnector \&gt; \&gt;" alt="" coords="129,170,363,241"/>
+<area shape="rect" id="node19" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; services::ClientConnection\lObserverFactory \&gt;" alt="" coords="1039,337,1226,393"/>
+<area shape="rect" id="node34" href="$d4/daa/structinfra_1_1_width.html" title="infra::Width" alt="" coords="1089,636,1177,663"/>
+<area shape="rect" id="node20" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; services::ClientConnection\lObserverFactory \&gt;" alt="" coords="539,505,778,561"/>
+<area shape="rect" id="node21" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; T \&gt;" alt="" coords="589,386,729,427"/>
+<area shape="rect" id="node23" href="$d9/d7e/classinfra_1_1_shared_object_allocator.html" title="infra::SharedObjectAllocator\l\&lt; T, ConstructionArgs \&gt;" alt="" coords="1041,469,1225,510"/>
+<area shape="rect" id="node25" href="$d9/d63/classservices_1_1_allocator_tracing_connection_mbed_tls_adapter.html" title="services::AllocatorTracing\lConnectionMbedTlsAdapter" alt="" coords="1972,626,2153,667"/>
+<area shape="rect" id="node26" href="$d9/d7e/classinfra_1_1_shared_object_allocator.html" title="AllocatorConnectionMbedTls" alt="" coords="1700,712,1887,739"/>
+<area shape="rect" id="node27" href="$dc/d42/classservices_1_1_tracer.html" title="services::Tracer" alt="" coords="1737,661,1850,688"/>
+<area shape="rect" id="node28" href="$de/dad/classinfra_1_1_text_output_stream.html" title="infra::TextOutputStream" alt="" coords="1425,676,1585,703"/>
+<area shape="rect" id="node29" href="$d6/d97/classinfra_1_1_output_stream.html" title="infra::OutputStream" alt="" coords="1065,739,1200,765"/>
+<area shape="rect" id="node32" href="$de/dba/classinfra_1_1_stream_writer.html" title="infra::StreamWriter" alt="" coords="593,739,724,765"/>
+</map>

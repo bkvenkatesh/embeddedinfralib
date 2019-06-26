@@ -1,0 +1,37 @@
+<map id="services::HttpServerConnectionObserver::HandleRequest" name="services::HttpServerConnectionObserver::HandleRequest">
+<area shape="rect" id="node2" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#aa52a5ace9f82b99c120ac085f0fab841" title="services::HttpServerConnection\lObserver::Expect100" alt="" coords="268,88,471,129"/>
+<area shape="rect" id="node4" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#ad9ee8e60b54a215cd8edec275193b645" title="services::HttpServerConnection\lObserver::RequestIsNowInProgress" alt="" coords="256,179,483,220"/>
+<area shape="rect" id="node12" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a9d0c9926c69222f44621afb71304247d" title="services::HttpServerConnection\lObserver::ServePage" alt="" coords="268,347,471,388"/>
+<area shape="rect" id="node3" href="$db/d75/classservices_1_1_http_request_parser.html#aa122d68f6d00413c0cc9221ebd51cf54" title="services::HttpRequestParser\l::Header" alt="" coords="540,75,727,116"/>
+<area shape="rect" id="node5" href="$d5/da5/classinfra_1_1_timer.html#abf5658fb078dc1dad0705a7791f7b84c" title="infra::Timer::Cancel" alt="" coords="566,141,701,167"/>
+<area shape="rect" id="node11" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a74367c8b1bee862090307f7d4d6d6ffc" title="services::HttpServerConnection\lObserver::ReceivedHttpRequest" alt="" coords="531,192,736,233"/>
+<area shape="rect" id="node6" href="$d5/da5/classinfra_1_1_timer.html#a11b396e8d4300da06b8ce83624991b73" title="infra::Timer::Convert" alt="" coords="825,141,963,167"/>
+<area shape="rect" id="node7" href="$d5/da5/classinfra_1_1_timer.html#a2b0bc71ca10c69d01f4965c576af73fd" title="infra::Timer::UnregisterSelf" alt="" coords="807,51,981,78"/>
+<area shape="rect" id="node8" href="$da/def/classinfra_1_1_timer_service.html#a51f86cbeef8dc4866c087b68c24635d8" title="infra::TimerService\l::UnregisterTimer" alt="" coords="1089,5,1217,47"/>
+<area shape="rect" id="node9" href="$da/def/classinfra_1_1_timer_service.html#afb8a6ef3ee5ba728f1a8f232514bad8c" title="infra::TimerService\l::ComputeNextTrigger" alt="" coords="1319,5,1467,47"/>
+<area shape="rect" id="node10" href="$da/def/classinfra_1_1_timer_service.html#a6ae66196dc18d8b383ba5e0f0b6f22fa" title="infra::TimerService\l::NextTriggerChanged" alt="" coords="1531,5,1677,47"/>
+<area shape="rect" id="node13" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#af1a6d6c094837fcb1232b483d53b5129" title="services::HttpServerConnection\lObserver::PageForRequest" alt="" coords="532,257,735,299"/>
+<area shape="rect" id="node16" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a48786ed298c958e0c90a861ab09f01b2" title="services::HttpServerConnection\lObserver::SendResponse" alt="" coords="532,431,735,472"/>
+<area shape="rect" id="node36" href="$de/d59/classservices_1_1_http_response_not_found.html#af6e3282676c8e6d94feb7018ad44dc11" title="services::HttpResponseNot\lFound::Instance" alt="" coords="544,496,723,537"/>
+<area shape="rect" id="node14" href="$d9/da2/classservices_1_1_http_page_server.html#ae1e2d17c4d96872596b4b44d1eac86c8" title="services::HttpPageServer\l::PageForRequest" alt="" coords="811,224,977,265"/>
+<area shape="rect" id="node15" href="$db/d75/classservices_1_1_http_request_parser.html#a1dc03cddacd9b36dba269230c74e8f93" title="services::HttpRequestParser\l::PathTokens" alt="" coords="1060,71,1247,112"/>
+<area shape="rect" id="node17" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#a997d5df64b1649389d4bf107c2a91cb4" title="infra::BoundedStringBase\l::clear" alt="" coords="1069,855,1238,896"/>
+<area shape="rect" id="node18" href="$d9/dce/classservices_1_1_http_response.html#a2bdfd05b582453e0ba050dfa18009be7" title="services::HttpResponse\l::WriteResponse" alt="" coords="815,397,973,439"/>
+<area shape="rect" id="node30" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a5370331203b027dcae35fed243549608" title="services::HttpServerConnection\lObserver::SendingHttpResponse" alt="" coords="789,463,999,504"/>
+<area shape="rect" id="node31" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#acf269a06771d6241e79fe2533ac19b88" title="services::HttpServerConnection\lObserver::PrepareForNextRequest" alt="" coords="784,741,1004,783"/>
+<area shape="rect" id="node19" href="$db/d21/classservices_1_1_http_response_header_builder.html#a4f2665f76fa3590ae24cf999f4a0aaf0" title="services::HttpResponseHeader\lBuilder::AddHeader" alt="" coords="1053,463,1253,504"/>
+<area shape="rect" id="node20" href="$d9/dce/classservices_1_1_http_response.html#a8d2d044801b3c9e8f6a46d0b6f249972" title="services::HttpResponse\l::AddHeaders" alt="" coords="1074,528,1233,569"/>
+<area shape="rect" id="node21" href="$d9/dce/classservices_1_1_http_response.html#ad0cbb88b07ffa2418487f756aecee7c9" title="services::HttpResponse\l::ContentType" alt="" coords="1074,593,1233,635"/>
+<area shape="rect" id="node22" href="$d6/d97/classinfra_1_1_output_stream.html#a0a450346655274469b89ef62d85869c8" title="infra::OutputStream\l::ProcessedBytesSince" alt="" coords="1074,659,1233,700"/>
+<area shape="rect" id="node24" href="$d6/d97/classinfra_1_1_output_stream.html#a206389ce4c805263bd5b70c5bfe84a26" title="infra::OutputStream\l::SaveMarker" alt="" coords="1086,136,1221,177"/>
+<area shape="rect" id="node26" href="$db/d21/classservices_1_1_http_response_header_builder.html#a819f30b8ceafbb85d7f72dd986b8f948" title="services::HttpResponseHeader\lBuilder::StartBody" alt="" coords="1053,201,1253,243"/>
+<area shape="rect" id="node27" href="$d9/dce/classservices_1_1_http_response.html#ad35784befa3276d3828ac8f1ffcbde32" title="services::HttpResponse\l::Status" alt="" coords="1074,267,1233,308"/>
+<area shape="rect" id="node28" href="$d9/dce/classservices_1_1_http_response.html#a5f6fa1332ba1a8b3b7fa2f8e7d723601" title="services::HttpResponse\l::WriteBody" alt="" coords="1074,332,1233,373"/>
+<area shape="rect" id="node29" href="$d6/d97/classinfra_1_1_output_stream.html#a84a64f5c0f2237260bbc1aa42f39eacc" title="infra::OutputStream\l::Writer" alt="" coords="1086,397,1221,439"/>
+<area shape="rect" id="node23" href="$de/dba/classinfra_1_1_stream_writer.html#af0dd36973b3af708faa536741e5b5420" title="infra::StreamWriter\l::GetProcessedBytesSince" alt="" coords="1303,651,1483,692"/>
+<area shape="rect" id="node25" href="$de/dba/classinfra_1_1_stream_writer.html#af17d6e8ca06960c86a745c9f60f08949" title="infra::StreamWriter\l::ConstructSaveMarker" alt="" coords="1315,136,1470,177"/>
+<area shape="rect" id="node32" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a5f1596968e2b15c170065391cfd7b29b" title="services::HttpServerConnection\lObserver::RequestSendStream" alt="" coords="1052,724,1255,765"/>
+<area shape="rect" id="node34" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a15fda946dfcd1bef1595df4ba747def9" title="services::HttpServerConnection\lObserver::Close" alt="" coords="1052,789,1255,831"/>
+<area shape="rect" id="node33" href="$dc/d4c/classinfra_1_1_single_observer.html#abb13c69cc61182baf350ff1736fa772e" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;::Subject" alt="" coords="1315,717,1470,773"/>
+<area shape="rect" id="node35" href="$d0/dde/classservices_1_1_connection.html#aa46394f498a40168584a97003f31aa22" title="services::Connection\l::CloseAndDestroy" alt="" coords="1321,797,1464,839"/>
+</map>

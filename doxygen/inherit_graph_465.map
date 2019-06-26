@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; DatagramExchangeObserver,\l DatagramExchange \&gt;" alt="" coords="5,53,208,109"/>
+<area shape="rect" id="node2" href="$d3/d18/classservices_1_1_datagram_exchange_observer.html" title="services::DatagramExchange\lObserver" alt="" coords="256,60,447,101"/>
+<area shape="rect" id="node3" href="$df/dff/classservices_1_1_dns_resolver_1_1_active_lookup.html" title="services::DnsResolver\l::ActiveLookup" alt="" coords="505,5,655,47"/>
+<area shape="rect" id="node4" href="$da/dac/classservices_1_1_llmnr_responder.html" title="services::LlmnrResponder" alt="" coords="495,71,665,98"/>
+<area shape="rect" id="node5" href="$d8/d04/classservices_1_1_sntp_client.html" title="services::SntpClient" alt="" coords="511,126,649,153"/>
+<area shape="rect" id="node6" href="$d1/db2/classinfra_1_1_subject.html" title="infra::Subject\&lt; SntpResult\lObserver \&gt;" alt="" coords="264,125,439,167"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="infra::JsonInputStream" name="infra::JsonInputStream">
+<area shape="rect" id="node2" href="$d5/dec/classinfra_1_1_text_input_stream_1_1_with_reader.html" title="infra::TextInputStream\l::WithReader\&lt; JsonInputStream\lReader \&gt;" alt="" coords="1659,221,1865,277"/>
+<area shape="rect" id="node3" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; JsonInputStreamReader,\l WithReader\&lt; JsonInputStreamReader \&gt; \&gt;" alt="" coords="1341,294,1609,350"/>
+<area shape="rect" id="node4" href="$d5/d11/classinfra_1_1_json_input_stream_reader.html" title="infra::JsonInputStreamReader" alt="" coords="1035,331,1227,358"/>
+<area shape="rect" id="node5" href="$d2/d90/classinfra_1_1_stream_reader.html" title="infra::StreamReader" alt="" coords="771,279,909,306"/>
+<area shape="rect" id="node16" href="$db/dda/classinfra_1_1_input_stream.html" title="infra::InputStream" alt="" coords="1069,185,1193,211"/>
+<area shape="rect" id="node6" href="$d1/d67/classinfra_1_1_json_string_iterator.html" title="infra::JsonStringIterator" alt="" coords="763,349,917,375"/>
+<area shape="rect" id="node9" href="$d1/d16/classinfra_1_1_json_string.html" title="infra::JsonString" alt="" coords="783,406,897,433"/>
+<area shape="rect" id="node10" href="$d1/d2a/classinfra_1_1_bounded_string_base.html" title="infra::BoundedStringBase\l\&lt; const char \&gt;" alt="" coords="468,411,637,452"/>
+<area shape="rect" id="node11" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; const char \&gt;" alt="" coords="235,352,374,393"/>
+<area shape="rect" id="node15" href="$d7/d93/classinfra_1_1_text_input_stream.html" title="infra::TextInputStream" alt="" coords="1401,159,1550,186"/>
+<area shape="rect" id="node17" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="760,219,920,246"/>
+<area shape="rect" id="node20" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; std\l::size_t \&gt;" alt="" coords="1065,65,1197,107"/>
+<area shape="rect" id="node21" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; std::size_t \&gt;" alt="" coords="773,5,907,47"/>
+</map>

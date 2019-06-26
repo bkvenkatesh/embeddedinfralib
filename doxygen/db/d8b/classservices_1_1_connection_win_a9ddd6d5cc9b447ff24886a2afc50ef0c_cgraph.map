@@ -1,0 +1,4 @@
+<map id="services::ConnectionWin::UpdateEventFlags" name="services::ConnectionWin::UpdateEventFlags">
+<area shape="rect" id="node2" href="$d5/db7/classinfra_1_1_bounded_deque.html#aefd90e50dffa5df25589ca940842d2a8" title="infra::BoundedDeque\l::empty" alt="" coords="219,5,361,47"/>
+<area shape="rect" id="node3" href="$d5/db7/classinfra_1_1_bounded_deque.html#ac5bf03d3538657af1663cec133161225" title="infra::BoundedDeque\l::full" alt="" coords="219,71,361,112"/>
+</map>

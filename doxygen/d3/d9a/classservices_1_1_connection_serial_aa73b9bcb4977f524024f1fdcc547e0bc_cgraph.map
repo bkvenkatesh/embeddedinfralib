@@ -1,0 +1,11 @@
+<map id="services::ConnectionSerial::DataReceived" name="services::ConnectionSerial::DataReceived">
+<area shape="rect" id="node2" href="$db/de0/classinfra_1_1_queue_for_one_reader_one_irq_writer.html#ac5d69da54e3c91602f13164262424007" title="infra::QueueForOneReader\lOneIrqWriter::Consume" alt="" coords="481,152,657,193"/>
+<area shape="rect" id="node3" href="$db/de0/classinfra_1_1_queue_for_one_reader_one_irq_writer.html#aac4934838fab809443a21e15aca4da54" title="infra::QueueForOneReader\lOneIrqWriter::ContiguousRange" alt="" coords="228,64,433,105"/>
+<area shape="rect" id="node4" href="$db/de0/classinfra_1_1_queue_for_one_reader_one_irq_writer.html#a7aba41b19d15b485af1c84e09fb73233" title="infra::QueueForOneReader\lOneIrqWriter::Empty" alt="" coords="481,243,657,284"/>
+<area shape="rect" id="node5" href="$d0/de3/namespaceinfra.html#a97dc5194236a205b697e668f00d42353" title="infra::Head" alt="" coords="289,13,373,39"/>
+<area shape="rect" id="node7" href="$db/de0/classinfra_1_1_queue_for_one_reader_one_irq_writer.html#a88a65f2fc6596fef39c5cde661448b68" title="infra::QueueForOneReader\lOneIrqWriter::Size" alt="" coords="243,247,419,288"/>
+<area shape="rect" id="node8" href="$d3/d9a/classservices_1_1_connection_serial.html#a21cabf2d09faeaccb3858424f490538d" title="services::ConnectionSerial\l::TryConstructHeader" alt="" coords="243,181,418,223"/>
+<area shape="rect" id="node9" href="$d3/d9a/classservices_1_1_connection_serial.html#a2309e96e69775ad65e421888a7a330b5" title="services::ConnectionSerial\l::TryProcessHeader" alt="" coords="243,364,418,405"/>
+<area shape="rect" id="node6" href="$d0/d6d/classinfra_1_1_memory_range.html#a322f6976f2774c6ba7494b9e27f07624" title="infra::MemoryRange\l::shrink_from_back_to" alt="" coords="494,5,645,47"/>
+<area shape="rect" id="node10" href="$d3/d9a/classservices_1_1_connection_serial.html#ac09952b64af6df62b42579b233cd1c8d" title="services::ConnectionSerial\l::ProcessHeader" alt="" coords="482,364,657,405"/>
+</map>

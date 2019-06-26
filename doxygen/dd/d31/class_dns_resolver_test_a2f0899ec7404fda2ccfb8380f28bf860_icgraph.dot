@@ -1,0 +1,16 @@
+digraph "DnsResolverTest::ExpectRequestSendStream"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node107 [label="DnsResolverTest::ExpectRequest\lSendStream",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node107 -> Node108 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node108 [label="DnsResolverTest::ExpectAnd\lRespondToRequestSendStream",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d31/class_dns_resolver_test.html#a79be6aaf8e255362c6d53115cb894b92"];
+  Node108 -> Node109 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node109 [label="DnsResolverTest::GiveSend\lStream",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d31/class_dns_resolver_test.html#abde4764abb0aac972fee63c8358722f6"];
+  Node109 -> Node110 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node110 [label="DnsResolverTest::LookupAnd\lGiveSendStream",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d31/class_dns_resolver_test.html#ab073f08530d8f41d887779fb79066f43"];
+  Node108 -> Node111 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node111 [label="DnsResolverTest::LookupIs\lRetried",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d31/class_dns_resolver_test.html#afeae942858bcd81d5db1547252ecab80"];
+}

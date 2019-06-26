@@ -1,0 +1,5 @@
+<map id="infra::BoundedPriorityQueue::erase" name="infra::BoundedPriorityQueue::erase">
+<area shape="rect" id="node2" href="$d0/de3/namespaceinfra.html#a82b5526fde849fbd95fe572c8dce0bc0" title="infra::erase_heap" alt="" coords="237,31,359,57"/>
+<area shape="rect" id="node3" href="$d2/dc5/namespaceinfra_1_1detail.html#ad178b71c4a19a9b0bfe48a065920cf8c" title="infra::detail::begin" alt="" coords="407,5,531,32"/>
+<area shape="rect" id="node4" href="$d2/dc5/namespaceinfra_1_1detail.html#aabbc48b4c4a9aa3edf84df033c0dd25d" title="infra::detail::end" alt="" coords="411,56,526,83"/>
+</map>

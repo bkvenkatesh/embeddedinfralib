@@ -1,0 +1,11 @@
+<map id="infra::StdStringInputStream" name="infra::StdStringInputStream">
+<area shape="rect" id="node2" href="$d5/dec/classinfra_1_1_text_input_stream_1_1_with_reader.html" title="infra::TextInputStream\l::WithReader\&lt; StdStringInput\lStreamReader \&gt;" alt="" coords="1133,221,1325,277"/>
+<area shape="rect" id="node3" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; StdStringInputStreamReader,\l WithReader\&lt; StdStringInputStreamReader \&gt; \&gt;" alt="" coords="789,298,1084,354"/>
+<area shape="rect" id="node4" href="$dc/dc7/classinfra_1_1_std_string_input_stream_reader.html" title="infra::StdStringInputStream\lReader" alt="" coords="496,336,675,377"/>
+<area shape="rect" id="node5" href="$d2/d90/classinfra_1_1_stream_reader.html" title="infra::StreamReader" alt="" coords="233,279,370,306"/>
+<area shape="rect" id="node9" href="$db/dda/classinfra_1_1_input_stream.html" title="infra::InputStream" alt="" coords="523,185,647,211"/>
+<area shape="rect" id="node8" href="$d7/d93/classinfra_1_1_text_input_stream.html" title="infra::TextInputStream" alt="" coords="862,159,1011,186"/>
+<area shape="rect" id="node10" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="221,219,381,246"/>
+<area shape="rect" id="node13" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; std\l::size_t \&gt;" alt="" coords="519,65,651,107"/>
+<area shape="rect" id="node14" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; std::size_t \&gt;" alt="" coords="235,5,368,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="services::StreamEchoConnection" name="services::StreamEchoConnection">
+<area shape="rect" id="node2" href="$dc/de5/classservices_1_1_connection_observer.html" title="services::ConnectionObserver" alt="" coords="5,200,199,227"/>
+<area shape="rect" id="node3" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;" alt="" coords="25,95,179,151"/>
+</map>

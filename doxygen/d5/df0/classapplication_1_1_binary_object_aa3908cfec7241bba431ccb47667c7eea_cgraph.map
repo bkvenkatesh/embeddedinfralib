@@ -1,0 +1,5 @@
+<map id="application::BinaryObject::AddLine" name="application::BinaryObject::AddLine">
+<area shape="rect" id="node2" href="$d5/df0/classapplication_1_1_binary_object.html#a609e7c790abb156244690a25cd73e7bb" title="application::BinaryObject\l::InsertLineContents" alt="" coords="220,5,387,47"/>
+<area shape="rect" id="node4" href="$d5/df0/classapplication_1_1_binary_object.html#a59b4406c678c1464d9e7729e38d9e804" title="application::BinaryObject\l::VerifyNotEndOfFile" alt="" coords="220,71,387,112"/>
+<area shape="rect" id="node3" href="$dd/d04/classapplication_1_1_sparse_vector.html#ac9a275d6c3edaa2d22003730cf5b916f" title="application::SparseVector\l::Insert" alt="" coords="435,5,605,47"/>
+</map>

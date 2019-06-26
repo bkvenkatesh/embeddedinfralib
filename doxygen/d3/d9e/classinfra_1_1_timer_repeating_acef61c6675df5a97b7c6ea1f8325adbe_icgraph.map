@@ -1,0 +1,6 @@
+<map id="infra::TimerRepeating::ComputeNextTriggerTime" name="infra::TimerRepeating::ComputeNextTriggerTime">
+<area shape="rect" id="node2" href="$d3/d9e/classinfra_1_1_timer_repeating.html#aa967ed7eba7a60ca38ac6f9dd9bc4987" title="infra::TimerRepeating\l::SetDuration" alt="" coords="229,39,373,80"/>
+<area shape="rect" id="node3" href="$d3/d9e/classinfra_1_1_timer_repeating.html#ad2eeb1fcc08e3eab3ceb404e2338597b" title="infra::TimerRepeating\l::Start" alt="" coords="421,39,565,80"/>
+<area shape="rect" id="node4" href="$d3/d9e/classinfra_1_1_timer_repeating.html#aa9d1504266e538abb13f5d8209bc48e6" title="infra::TimerRepeating\l::TimerRepeating" alt="" coords="613,5,757,47"/>
+<area shape="rect" id="node5" href="$d3/d9e/classinfra_1_1_timer_repeating.html#a04e65f09da5c159f0a7834c237027cee" title="infra::TimerRepeating\l::Start" alt="" coords="613,71,757,112"/>
+</map>

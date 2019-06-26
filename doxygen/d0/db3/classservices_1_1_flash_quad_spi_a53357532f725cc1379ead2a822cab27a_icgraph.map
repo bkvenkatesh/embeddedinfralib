@@ -1,0 +1,5 @@
+<map id="services::FlashQuadSpi::HoldWhileWriteInProgress" name="services::FlashQuadSpi::HoldWhileWriteInProgress">
+<area shape="rect" id="node2" href="$d0/db3/classservices_1_1_flash_quad_spi.html#ad5eea94e8c563df753b4a66292d1e73d" title="services::FlashQuadSpi\l::EraseSectors" alt="" coords="236,5,395,47"/>
+<area shape="rect" id="node3" href="$d0/db3/classservices_1_1_flash_quad_spi.html#a9e190d022eb9d8fc0f88e89160f89b0f" title="services::FlashQuadSpi\l::WriteBufferSequence" alt="" coords="236,71,395,112"/>
+<area shape="rect" id="node4" href="$d0/db3/classservices_1_1_flash_quad_spi.html#a3ff6a6b4dc7fa4f07ff1dc03d9292f33" title="services::FlashQuadSpi\l::WriteBuffer" alt="" coords="443,71,601,112"/>
+</map>

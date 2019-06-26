@@ -1,0 +1,5 @@
+<map id="services::Connection::SetOwnership" name="services::Connection::SetOwnership">
+<area shape="rect" id="node2" href="$de/dcb/classservices_1_1_connection_mbed_tls.html#ae0e32632e23749af72bc0e32730091b9" title="services::ConnectionMbed\lTls::CreatedObserver" alt="" coords="196,5,371,47"/>
+<area shape="rect" id="node3" href="$de/d8b/classservices_1_1_connection_bsd.html#a51b230e2f01488c1aa9f47d70b5e6025" title="services::ConnectionBsd\l::SetObserver" alt="" coords="201,71,366,112"/>
+<area shape="rect" id="node4" href="$db/d8b/classservices_1_1_connection_win.html#ab2282afaa3527f535a5d05f91b64def0" title="services::ConnectionWin\l::SetObserver" alt="" coords="201,136,366,177"/>
+</map>

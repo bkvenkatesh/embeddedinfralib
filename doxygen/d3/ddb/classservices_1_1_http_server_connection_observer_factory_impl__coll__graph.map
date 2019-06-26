@@ -1,0 +1,10 @@
+<map id="services::HttpServerConnectionObserverFactoryImpl&lt; ConnectionCreationContext, Connection &gt;" name="services::HttpServerConnectionObserverFactoryImpl&lt; ConnectionCreationContext, Connection &gt;">
+<area shape="rect" id="node2" href="$d2/d83/classservices_1_1_http_server_connection_observer_factory.html" title="services::HttpServerConnection\lObserverFactory\&lt; ConnectionCreation\lContext \&gt;" alt="" coords="993,76,1236,132"/>
+<area shape="rect" id="node3" href="$d4/d52/classinfra_1_1_notifying_shared_optional.html" title="infra::NotifyingSharedOptional\l\&lt; services::Connection \&gt;" alt="" coords="1018,157,1211,198"/>
+<area shape="rect" id="node4" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::Connection \&gt;" alt="" coords="696,138,863,179"/>
+<area shape="rect" id="node5" href="$da/dcd/classinfra_1_1_shared_object_deleter.html" title="infra::SharedObjectDeleter" alt="" coords="129,5,304,32"/>
+<area shape="rect" id="node6" href="$dd/d9a/classinfra_1_1detail_1_1_shared_ptr_control.html" title="infra::detail::SharedPtr\lControl" alt="" coords="448,78,599,119"/>
+<area shape="rect" id="node9" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; services\l::Connection \&gt;" alt="" coords="443,237,604,278"/>
+<area shape="rect" id="node11" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; services::Connection \&gt;" alt="" coords="133,247,300,289"/>
+<area shape="rect" id="node13" href="$da/d07/classinfra_1_1_function.html" title="infra::Function\&lt; void()\&gt;" alt="" coords="702,213,857,240"/>
+</map>

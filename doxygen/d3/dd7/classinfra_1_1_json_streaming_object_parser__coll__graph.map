@@ -1,0 +1,5 @@
+<map id="infra::JsonStreamingObjectParser" name="infra::JsonStreamingObjectParser">
+<area shape="rect" id="node2" href="$dc/de7/classinfra_1_1_bounded_vector.html" title="infra::BoundedVector\l\&lt; infra::PolymorphicVariant\l\&lt; infra::JsonSubParser, infra\l::JsonSubObjectParser, infra\l::JsonSubArrayParser \&gt; \&gt;" alt="" coords="769,67,957,153"/>
+<area shape="rect" id="node3" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; infra::StaticStorage\l\&lt; infra::PolymorphicVariant\l\&lt; infra::JsonSubParser, infra\l::JsonSubObjectParser, infra\l::JsonSubArrayParser \&gt; \&gt; \&gt;" alt="" coords="449,5,637,105"/>
+<area shape="rect" id="node4" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; infra::PolymorphicVariant\l\&lt; infra::JsonSubParser, infra\l::JsonSubObjectParser, infra\l::JsonSubArrayParser \&gt; \&gt;" alt="" coords="129,13,317,98"/>
+</map>

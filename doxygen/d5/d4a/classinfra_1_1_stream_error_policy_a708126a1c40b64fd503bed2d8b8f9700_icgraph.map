@@ -1,0 +1,29 @@
+<map id="infra::StreamErrorPolicy::ReportResult" name="infra::StreamErrorPolicy::ReportResult">
+<area shape="rect" id="node2" href="$d5/d11/classinfra_1_1_json_input_stream_reader.html#a15ae9c2a050457ea228ae28f205b3d8e" title="infra::JsonInputStreamReader\l::Extract" alt="" coords="242,5,434,47"/>
+<area shape="rect" id="node3" href="$d9/db6/classinfra_1_1_limited_stream_reader.html#adfb57f2e50af6558e35f4f730097e049" title="infra::LimitedStreamReader\l::Extract" alt="" coords="249,71,427,112"/>
+<area shape="rect" id="node4" href="$d8/deb/classinfra_1_1_string_input_stream_reader.html#a1016a2cc02c83af98e90105b554e6866" title="infra::StringInputStream\lReader::Extract" alt="" coords="259,136,417,177"/>
+<area shape="rect" id="node5" href="$dc/dc7/classinfra_1_1_std_string_input_stream_reader.html#a6628d9530887947b2880823f9e3e5887" title="infra::StdStringInputStream\lReader::Extract" alt="" coords="249,201,427,243"/>
+<area shape="rect" id="node6" href="$d7/def/classinfra_1_1_std_vector_input_stream_reader.html#a1cca5295d9475c9fba6c7ed55c8a1274" title="infra::StdVectorInputStream\lReader::Extract" alt="" coords="247,267,429,308"/>
+<area shape="rect" id="node7" href="$d7/dea/classinfra_1_1_bounded_deque_input_stream_reader.html#add207634d408ca8d692e005700e66cc2" title="infra::BoundedDequeInput\lStreamReader::Extract" alt="" coords="253,332,423,373"/>
+<area shape="rect" id="node9" href="$db/d2a/classinfra_1_1_byte_input_stream_reader.html#a42a7548280b027a36e8a995cb6ad0a11" title="infra::ByteInputStreamReader\l::Extract" alt="" coords="242,397,434,439"/>
+<area shape="rect" id="node10" href="$df/d30/classservices_1_1_connection_serial_1_1_serial_connection_stream_reader.html#a9253fd8a16f44fab6c27117720919651" title="services::ConnectionSerial\l::SerialConnectionStreamReader\l::Extract" alt="" coords="233,463,443,519"/>
+<area shape="rect" id="node11" href="$dd/d12/classinfra_1_1_limited_stream_writer.html#a3969db62a50522b586459836d485d572" title="infra::LimitedStreamWriter\l::Insert" alt="" coords="251,544,425,585"/>
+<area shape="rect" id="node12" href="$df/d97/classinfra_1_1_string_output_stream_writer.html#ab7072d215d51b227a631ee48f6b21271" title="infra::StringOutputStream\lWriter::Insert" alt="" coords="253,609,423,651"/>
+<area shape="rect" id="node13" href="$df/d15/classinfra_1_1_byte_output_stream_writer.html#a4ace3f16e62d678033d0343b981491e3" title="infra::ByteOutputStreamWriter\l::Insert" alt="" coords="239,675,437,716"/>
+<area shape="rect" id="node14" href="$d7/d93/classinfra_1_1_text_input_stream.html#ad49cddc2323da739aaf7bb4c89274e91" title="infra::TextInputStream\l::operator\&gt;\&gt;" alt="" coords="263,740,413,781"/>
+<area shape="rect" id="node15" href="$d0/de3/namespaceinfra.html#a8ed078d50b54d6ed4ef6062d1a593c9a" title="infra::operator\&gt;\&gt;" alt="" coords="279,806,397,833"/>
+<area shape="rect" id="node16" href="$d9/db6/classinfra_1_1_limited_stream_reader.html#a953a731a043dc9a52f5def8b229a456c" title="infra::LimitedStreamReader\l::Peek" alt="" coords="249,857,427,899"/>
+<area shape="rect" id="node17" href="$d5/d11/classinfra_1_1_json_input_stream_reader.html#ad51d377e334147a474cf72f8749df27b" title="infra::JsonInputStreamReader\l::Peek" alt="" coords="242,923,434,964"/>
+<area shape="rect" id="node18" href="$d8/deb/classinfra_1_1_string_input_stream_reader.html#a70b5b9261a294b8165a19a8a1ea6d7b3" title="infra::StringInputStream\lReader::Peek" alt="" coords="259,988,417,1029"/>
+<area shape="rect" id="node19" href="$dc/dc7/classinfra_1_1_std_string_input_stream_reader.html#a4b967d1d0e3cbc86a0d98db1c3227f56" title="infra::StdStringInputStream\lReader::Peek" alt="" coords="249,1053,427,1095"/>
+<area shape="rect" id="node20" href="$d7/def/classinfra_1_1_std_vector_input_stream_reader.html#abe2d3e826de8550cf063d68604434a0e" title="infra::StdVectorInputStream\lReader::Peek" alt="" coords="247,1119,429,1160"/>
+<area shape="rect" id="node21" href="$db/d2a/classinfra_1_1_byte_input_stream_reader.html#a9ff1636db20997f14ea0764d21705232" title="infra::ByteInputStreamReader\l::Peek" alt="" coords="242,1184,434,1225"/>
+<area shape="rect" id="node22" href="$df/d30/classservices_1_1_connection_serial_1_1_serial_connection_stream_reader.html#a70075f89e164e6cff5d7489d3042254f" title="services::ConnectionSerial\l::SerialConnectionStreamReader::Peek" alt="" coords="213,1249,463,1291"/>
+<area shape="rect" id="node23" href="$d9/de8/classinfra_1_1_proto_length_delimited.html#af6b8eb4d899cf2c1fc2aeb3eebf41b41" title="infra::ProtoLengthDelimited\l::ProtoLengthDelimited" alt="" coords="249,1315,427,1356"/>
+<area shape="rect" id="node24" href="$d7/d93/classinfra_1_1_text_input_stream.html#ad3bf36ff96c58dde1cd607e9c12b5400" title="infra::TextInputStream\l::ReadAsDecimal" alt="" coords="263,1380,413,1421"/>
+<area shape="rect" id="node25" href="$d7/d93/classinfra_1_1_text_input_stream.html#ad4c126f5224a9aca3685c53b8c12e50f" title="infra::TextInputStream\l::ReadAsHex" alt="" coords="263,1445,413,1487"/>
+<area shape="rect" id="node26" href="$d1/dc1/classinfra_1_1_counting_stream_reader.html#a59388247edab93cfe7f49a0140048ff9" title="infra::CountingStreamReader\l::ReportResult" alt="" coords="244,1511,432,1552"/>
+<area shape="rect" id="node27" href="$df/d97/classinfra_1_1_string_output_stream_writer.html#a13bf9ad8ed5d5f177634053234f948fe" title="infra::StringOutputStream\lWriter::Reserve" alt="" coords="253,1576,423,1617"/>
+<area shape="rect" id="node28" href="$df/d15/classinfra_1_1_byte_output_stream_writer.html#a85609a87b8cc5f3a234ee2c111432389" title="infra::ByteOutputStreamWriter\l::Reserve" alt="" coords="239,1641,437,1683"/>
+<area shape="rect" id="node8" href="$d7/dea/classinfra_1_1_bounded_deque_input_stream_reader.html#ae987011fb2d903568c0fbbb8e70f87d0" title="infra::BoundedDequeInput\lStreamReader::Peek" alt="" coords="511,332,681,373"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="services::DatagramBsd::TrySend" name="services::DatagramBsd::TrySend">
+<area shape="rect" id="node2" href="$d1/d3f/classservices_1_1_datagram_bsd.html#aca4978658bb0d48c8dda99b879efd44e" title="services::DatagramBsd\l::Send" alt="" coords="209,86,365,127"/>
+<area shape="rect" id="node3" href="$db/d91/namespaceservices.html#aa2955038d028912fedb9998664996b37" title="services::ConvertToUint32" alt="" coords="413,5,584,32"/>
+<area shape="rect" id="node4" href="$dc/de7/classinfra_1_1_bounded_vector.html#a2acdc0e18f57006a615569baaf8232e7" title="infra::BoundedVector\l::data" alt="" coords="427,57,570,98"/>
+<area shape="rect" id="node5" href="$da/d2a/classinfra_1_1_variant.html#a5c22ee95a815d91911bf3ce196c852a0" title="infra::Variant::Get" alt="" coords="437,123,561,149"/>
+<area shape="rect" id="node6" href="$dc/de7/classinfra_1_1_bounded_vector.html#a605f344af39e74f48bb205c86f57b5da" title="infra::BoundedVector\l::size" alt="" coords="427,174,570,215"/>
+</map>

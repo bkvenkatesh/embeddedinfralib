@@ -1,0 +1,4 @@
+<map id="services::StreamWriterOnSynchronousSerialCommunication" name="services::StreamWriterOnSynchronousSerialCommunication">
+<area shape="rect" id="node2" href="$de/dba/classinfra_1_1_stream_writer.html" title="infra::StreamWriter" alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node3" href="$dd/d44/classhal_1_1_synchronous_serial_communication.html" title="hal::SynchronousSerialCommunication" alt="" coords="161,5,407,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d5/dff/classhal_1_1_synchronous_flash.html" title="hal::SynchronousFlash" alt="" coords="5,71,160,98"/>
+<area shape="rect" id="node2" href="$de/d9c/classhal_1_1_synchronous_flash_homogeneous.html" title="hal::SynchronousFlashHomogeneous" alt="" coords="208,42,447,69"/>
+<area shape="rect" id="node5" href="$d0/d97/classservices_1_1_synchronous_flash_region.html" title="services::SynchronousFlash\lRegion" alt="" coords="235,93,420,135"/>
+<area shape="rect" id="node3" href="$d7/ddb/classservices_1_1_synchronous_flash_quad_spi.html" title="services::SynchronousFlash\lQuadSpi" alt="" coords="504,5,689,47"/>
+<area shape="rect" id="node4" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html" title="services::SynchronousFlashSpi" alt="" coords="495,71,699,98"/>
+</map>

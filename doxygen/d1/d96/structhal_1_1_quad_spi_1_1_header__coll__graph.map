@@ -1,0 +1,6 @@
+<map id="hal::QuadSpi::Header" name="hal::QuadSpi::Header">
+<area shape="rect" id="node2" href="$dc/de7/classinfra_1_1_bounded_vector.html" title="infra::BoundedVector\l\&lt; uint8_t \&gt;" alt="" coords="692,106,835,147"/>
+<area shape="rect" id="node3" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; infra::StaticStorage\l\&lt; uint8_t \&gt; \&gt;" alt="" coords="405,96,550,152"/>
+<area shape="rect" id="node4" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; uint8_t \&gt;" alt="" coords="129,79,263,121"/>
+<area shape="rect" id="node8" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; uint8_t \&gt;" alt="" coords="395,44,560,71"/>
+</map>

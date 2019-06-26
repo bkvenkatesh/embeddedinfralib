@@ -1,0 +1,22 @@
+<map id="infra::SharedObjectDeleter" name="infra::SharedObjectDeleter">
+<area shape="rect" id="node2" href="$da/d78/classinfra_1_1_accessed_by_shared_ptr.html" title="infra::AccessedBySharedPtr" alt="" coords="242,5,429,32"/>
+<area shape="rect" id="node3" href="$df/d83/classinfra_1_1detail_1_1_null_allocator.html" title="infra::detail::NullAllocator" alt="" coords="252,56,419,83"/>
+<area shape="rect" id="node4" href="$dc/de7/classinfra_1_1detail_1_1_shared_object_on_heap.html" title="infra::detail::SharedObject\lOnHeap\&lt; T \&gt;" alt="" coords="249,107,421,149"/>
+<area shape="rect" id="node5" href="$d4/d3d/classinfra_1_1_shared_object_allocator_fixed_size_3_01_t_00_01void_07_construction_args_8_8_8_08_4.html" title="infra::SharedObjectAllocator\lFixedSize\&lt; T, void(Construction\lArgs...)\&gt;" alt="" coords="232,173,439,229"/>
+<area shape="rect" id="node6" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\&lt; T \&gt;" alt="" coords="248,253,423,280"/>
+<area shape="rect" id="node8" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::Connection \&gt;" alt="" coords="252,305,419,346"/>
+<area shape="rect" id="node10" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::ConnectionBsd\l::StreamReaderBsd \&gt;" alt="" coords="247,371,424,427"/>
+<area shape="rect" id="node11" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::ConnectionBsd\l::StreamWriterBsd \&gt;" alt="" coords="247,451,424,507"/>
+<area shape="rect" id="node12" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::ConnectionMbedTls\l::StreamReaderMbedTls \&gt;" alt="" coords="234,531,437,587"/>
+<area shape="rect" id="node13" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::ConnectionMbedTls\l::StreamWriterMbedTls \&gt;" alt="" coords="234,611,437,667"/>
+<area shape="rect" id="node14" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::ConnectionSerial\l::StreamWriterWithCyclicBuffer \&gt;" alt="" coords="228,691,443,747"/>
+<area shape="rect" id="node15" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::ConnectionWin\l::StreamReaderWin \&gt;" alt="" coords="247,771,424,827"/>
+<area shape="rect" id="node16" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::ConnectionWin\l::StreamWriterWin \&gt;" alt="" coords="247,851,424,907"/>
+<area shape="rect" id="node17" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::DatagramBsd\l::StreamWriterBsd \&gt;" alt="" coords="251,931,419,987"/>
+<area shape="rect" id="node18" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::DatagramWin\l::StreamWriterWin \&gt;" alt="" coords="251,1011,419,1067"/>
+<area shape="rect" id="node19" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::HttpClient \&gt;" alt="" coords="256,1091,415,1133"/>
+<area shape="rect" id="node21" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::MqttClientImpl \&gt;" alt="" coords="243,1157,427,1198"/>
+<area shape="rect" id="node7" href="$d4/d52/classinfra_1_1_notifying_shared_optional.html" title="infra::NotifyingSharedOptional\&lt; T \&gt;" alt="" coords="491,253,715,280"/>
+<area shape="rect" id="node9" href="$d4/d52/classinfra_1_1_notifying_shared_optional.html" title="infra::NotifyingSharedOptional\l\&lt; services::Connection \&gt;" alt="" coords="506,305,699,346"/>
+<area shape="rect" id="node20" href="$d4/d52/classinfra_1_1_notifying_shared_optional.html" title="infra::NotifyingSharedOptional\l\&lt; services::HttpClient \&gt;" alt="" coords="506,1091,699,1133"/>
+</map>

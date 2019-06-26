@@ -1,0 +1,11 @@
+<map id="services::SynchronousFlashSpi::ReadBuffer" name="services::SynchronousFlashSpi::ReadBuffer">
+<area shape="rect" id="node2" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#a5b06c4000681af2ce3e572e05da688cf" title="services::SynchronousFlash\lSpi::ConvertAddress" alt="" coords="239,5,424,47"/>
+<area shape="rect" id="node3" href="$d0/de3/namespaceinfra.html#ae4478bf95f90ceb679642cb4180f205f" title="infra::MakeByteRange" alt="" coords="256,71,407,98"/>
+<area shape="rect" id="node8" href="$d9/dad/classhal_1_1_synchronous_spi.html#aaf616027bcd6a4f8e5abe143f4ed2180" title="hal::SynchronousSpi\l::ReceiveData" alt="" coords="260,123,403,164"/>
+<area shape="rect" id="node10" href="$d9/dad/classhal_1_1_synchronous_spi.html#ae01d83039d23d9544bd55eab8c8303bb" title="hal::SynchronousSpi\l::SendData" alt="" coords="260,188,403,229"/>
+<area shape="rect" id="node4" href="$d0/de3/namespaceinfra.html#afe38b7d4318537de2f28b244211c4275" title="infra::MakeRange" alt="" coords="496,42,619,69"/>
+<area shape="rect" id="node7" href="$d0/de3/namespaceinfra.html#a74203fdf2e029d2667c7e4925092cc9a" title="infra::ReinterpretCastByte\lRange" alt="" coords="472,93,643,135"/>
+<area shape="rect" id="node5" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#aef23e4250cad2fdc69ccc39f68734233" title="infra::BoundedStringBase\l::begin" alt="" coords="705,5,875,47"/>
+<area shape="rect" id="node6" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#af5021f1ea3898146d0a55c2895f07dbf" title="infra::BoundedStringBase::end" alt="" coords="691,71,889,98"/>
+<area shape="rect" id="node9" href="$d9/dad/classhal_1_1_synchronous_spi.html#a2212bc9655e63f99a392d28f36016750" title="hal::SynchronousSpi\l::SendAndReceive" alt="" coords="486,173,629,215"/>
+</map>

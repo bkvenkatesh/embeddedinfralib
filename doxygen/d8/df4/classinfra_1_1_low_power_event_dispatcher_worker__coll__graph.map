@@ -1,0 +1,6 @@
+<map id="infra::LowPowerEventDispatcherWorker" name="infra::LowPowerEventDispatcherWorker">
+<area shape="rect" id="node2" href="$de/d88/classinfra_1_1_event_dispatcher_with_weak_ptr_worker.html" title="infra::EventDispatcherWith\lWeakPtrWorker" alt="" coords="733,99,908,141"/>
+<area shape="rect" id="node3" href="$d7/d34/classinfra_1_1_event_dispatcher_worker.html" title="infra::EventDispatcherWorker" alt="" coords="315,5,505,32"/>
+<area shape="rect" id="node6" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; std::pair\&lt; infra::\lStaticStorageForPolymorphic\lObjects, std::atomic\&lt; bool \&gt; \&gt; \&gt;" alt="" coords="304,158,516,229"/>
+<area shape="rect" id="node9" href="$db/da4/classinfra_1_1_low_power_strategy.html" title="infra::LowPowerStrategy" alt="" coords="739,165,902,192"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hal::QuadSpi::ReceiveData" name="hal::QuadSpi::ReceiveData">
+<area shape="rect" id="node2" href="$d2/d0c/classservices_1_1_flash_quad_spi_single_speed.html#aa4cc716e94947333b1e4bf20a7c01d75" title="services::FlashQuadSpiSingle\lSpeed::ReadBuffer" alt="" coords="237,5,431,47"/>
+<area shape="rect" id="node3" href="$d8/dbe/classservices_1_1_flash_quad_spi_micron_n25q.html#a72164a1b853726e1407657ef50485f0c" title="services::FlashQuadSpiMicron\lN25q::ReadBuffer" alt="" coords="235,71,433,112"/>
+<area shape="rect" id="node4" href="$d1/d88/classservices_1_1_flash_quad_spi_cypress_fll.html#a81c45673b31d4c81786c582e8f766b9d" title="services::FlashQuadSpiCypress\lFll::ReadBuffer" alt="" coords="231,136,437,177"/>
+</map>

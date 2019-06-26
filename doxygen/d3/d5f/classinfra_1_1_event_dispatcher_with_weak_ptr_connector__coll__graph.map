@@ -1,0 +1,8 @@
+<map id="infra::EventDispatcherWithWeakPtrConnector&lt; T &gt;" name="infra::EventDispatcherWithWeakPtrConnector&lt; T &gt;">
+<area shape="rect" id="node2" href="$d3/d0e/classinfra_1_1_interface_connector.html" title="infra::InterfaceConnector\l\&lt; EventDispatcherWorker \&gt;" alt="" coords="932,5,1115,47"/>
+<area shape="rect" id="node3" href="$d7/d34/classinfra_1_1_event_dispatcher_worker.html" title="infra::EventDispatcherWorker" alt="" coords="315,22,505,49"/>
+<area shape="rect" id="node5" href="$de/d88/classinfra_1_1_event_dispatcher_with_weak_ptr_worker.html" title="infra::EventDispatcherWith\lWeakPtrWorker" alt="" coords="733,124,908,165"/>
+<area shape="rect" id="node4" href="$d3/d0e/classinfra_1_1_interface_connector.html" title="infra::InterfaceConnector\l\&lt; EventDispatcherWithWeakPtrWorker \&gt;" alt="" coords="1139,104,1399,145"/>
+<area shape="rect" id="node8" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; std::pair\&lt; infra::\lStaticStorageForPolymorphic\lObjects, std::atomic\&lt; bool \&gt; \&gt; \&gt;" alt="" coords="304,185,516,256"/>
+<area shape="rect" id="node11" href="$d3/dee/class_t.html" title="T" alt="" coords="1249,170,1288,197"/>
+</map>

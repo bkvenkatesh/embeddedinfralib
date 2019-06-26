@@ -1,0 +1,5 @@
+<map id="hal::SynchronousFlashHomogeneous" name="hal::SynchronousFlashHomogeneous">
+<area shape="rect" id="node3" href="$d7/ddb/classservices_1_1_synchronous_flash_quad_spi.html" title="services::SynchronousFlash\lQuadSpi" alt="" coords="5,155,191,196"/>
+<area shape="rect" id="node4" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html" title="services::SynchronousFlashSpi" alt="" coords="215,162,419,189"/>
+<area shape="rect" id="node2" href="$d5/dff/classhal_1_1_synchronous_flash.html" title="hal::SynchronousFlash" alt="" coords="130,5,285,32"/>
+</map>

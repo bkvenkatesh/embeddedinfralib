@@ -1,0 +1,12 @@
+digraph "services::HttpClientObserverFactory::Port"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node17 [label="services::HttpClientObserver\lFactory::Port",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node17 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="HttpClientBasicTest\l::HttpClientBasicTest",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dad/class_http_client_basic_test.html#a9d77e46c5394eee171dffbca49833ffc"];
+  Node17 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="HttpClientJsonTest\l::HttpClientJsonTest",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d06/class_http_client_json_test.html#aa00bea486e253e25d40c6c69fc9c86b9"];
+}

@@ -1,0 +1,23 @@
+<map id="services::SntpClient" name="services::SntpClient">
+<area shape="rect" id="node2" href="$d3/d18/classservices_1_1_datagram_exchange_observer.html" title="services::DatagramExchange\lObserver" alt="" coords="1640,293,1831,334"/>
+<area shape="rect" id="node3" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; DatagramExchangeObserver,\l DatagramExchange \&gt;" alt="" coords="1215,219,1417,275"/>
+<area shape="rect" id="node6" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; SntpResultObserver,\l ObserverSubjectType \&gt;" alt="" coords="1009,5,1170,61"/>
+<area shape="rect" id="node16" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; DatagramExchangeObserver,\l ObserverSubjectType \&gt;" alt="" coords="988,85,1191,141"/>
+<area shape="rect" id="node5" href="$d1/db2/classinfra_1_1_subject.html" title="infra::Subject\&lt; SntpResult\lObserver \&gt;" alt="" coords="2069,63,2244,105"/>
+<area shape="rect" id="node18" href="$db/d9d/classinfra_1_1_derived_timer_service.html" title="infra::DerivedTimerService" alt="" coords="1865,485,2035,512"/>
+<area shape="rect" id="node8" href="$d7/da1/classservices_1_1_datagram_factory.html" title="services::DatagramFactory" alt="" coords="2280,295,2457,321"/>
+<area shape="rect" id="node9" href="$d1/d17/classinfra_1_1_shared_ptr.html" title="infra::SharedPtr\&lt; services\l::DatagramExchange \&gt;" alt="" coords="2283,178,2454,219"/>
+<area shape="rect" id="node10" href="$dd/d9a/classinfra_1_1detail_1_1_shared_ptr_control.html" title="infra::detail::SharedPtr\lControl" alt="" coords="1875,178,2025,219"/>
+<area shape="rect" id="node13" href="$da/dcd/classinfra_1_1_shared_object_deleter.html" title="infra::SharedObjectDeleter" alt="" coords="1441,199,1616,225"/>
+<area shape="rect" id="node14" href="$d9/dc8/classservices_1_1_datagram_exchange.html" title="services::DatagramExchange" alt="" coords="1855,105,2045,132"/>
+<area shape="rect" id="node15" href="$d1/db2/classinfra_1_1_subject.html" title="infra::Subject\&lt; Datagram\lExchangeObserver \&gt;" alt="" coords="1445,82,1612,123"/>
+<area shape="rect" id="node17" href="$da/dc6/classservices_1_1_time_with_localization.html" title="services::TimeWithLocalization" alt="" coords="2268,405,2469,432"/>
+<area shape="rect" id="node19" href="$da/def/classinfra_1_1_timer_service.html" title="infra::TimerService" alt="" coords="701,439,829,465"/>
+<area shape="rect" id="node28" href="$d5/da5/classinfra_1_1_timer.html" title="infra::Timer" alt="" coords="1046,615,1133,641"/>
+<area shape="rect" id="node20" href="$d7/d4a/classinfra_1_1detail_1_1_intrusive_forward_list_node.html" title="infra::IntrusiveForwardList\l\&lt; TimerService \&gt;::NodeType" alt="" coords="285,397,472,438"/>
+<area shape="rect" id="node29" href="$d7/d4a/classinfra_1_1detail_1_1_intrusive_forward_list_node.html" title="infra::IntrusiveForwardList\l\&lt; Timer \&gt;::NodeType" alt="" coords="496,610,664,651"/>
+<area shape="rect" id="node23" href="$d3/d66/classinfra_1_1_intrusive_forward_list.html" title="infra::IntrusiveForwardList\l\&lt; infra::Timer \&gt;" alt="" coords="295,279,463,321"/>
+<area shape="rect" id="node24" href="$d7/d4a/classinfra_1_1detail_1_1_intrusive_forward_list_node.html" title="infra::detail::Intrusive\lForwardListNode\&lt; infra\l::Timer \&gt;" alt="" coords="11,272,166,328"/>
+<area shape="rect" id="node27" href="$d8/d87/classinfra_1_1_timer_single_shot.html" title="infra::TimerSingleShot" alt="" coords="1454,600,1603,627"/>
+<area shape="rect" id="node30" href="$da/d07/classinfra_1_1_function.html" title="infra::Function\&lt; void()\&gt;" alt="" coords="688,709,843,736"/>
+</map>

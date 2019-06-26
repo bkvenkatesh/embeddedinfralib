@@ -1,0 +1,20 @@
+<map id="services::ConnectionFactoryWithNameResolverImpl::Action" name="services::ConnectionFactoryWithNameResolverImpl::Action">
+<area shape="rect" id="node2" href="$df/d75/classservices_1_1_name_resolver_result.html" title="services::NameResolverResult" alt="" coords="1224,113,1421,140"/>
+<area shape="rect" id="node3" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; NameResolverResult\l \&gt;::NodeType" alt="" coords="768,5,923,61"/>
+<area shape="rect" id="node6" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; ClientConnectionObserverFactory\l \&gt;::NodeType" alt="" coords="503,49,730,105"/>
+<area shape="rect" id="node11" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; T \&gt;" alt="" coords="547,210,687,251"/>
+<area shape="rect" id="node25" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; ClientConnectionObserverFactory\lWithNameResolver \&gt;::NodeType" alt="" coords="503,129,730,185"/>
+<area shape="rect" id="node5" href="$dc/d43/classservices_1_1_client_connection_observer_factory.html" title="services::ClientConnection\lObserverFactory" alt="" coords="1235,157,1410,198"/>
+<area shape="rect" id="node7" href="$d6/ddc/classservices_1_1_connection_factory_with_name_resolver_impl.html" title="services::ConnectionFactory\lWithNameResolverImpl" alt="" coords="1460,379,1647,421"/>
+<area shape="rect" id="node8" href="$dc/dfc/classservices_1_1_connection_factory_with_name_resolver.html" title="services::ConnectionFactory\lWithNameResolver" alt="" coords="973,466,1159,507"/>
+<area shape="rect" id="node9" href="$d0/d69/classservices_1_1_name_resolver.html" title="services::NameResolver" alt="" coords="986,532,1146,559"/>
+<area shape="rect" id="node10" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; services::ClientConnection\lObserverFactoryWithNameResolver \&gt;" alt="" coords="947,255,1185,311"/>
+<area shape="rect" id="node12" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; services::ClientConnection\lObserverFactoryWithNameResolver \&gt;" alt="" coords="497,329,736,385"/>
+<area shape="rect" id="node14" href="$d8/d38/classinfra_1_1_bounded_list.html" title="infra::BoundedList\l\&lt; services::ConnectionFactory\lWithNameResolverImpl::Action \&gt;" alt="" coords="959,385,1173,441"/>
+<area shape="rect" id="node22" href="$da/d2a/classinfra_1_1_variant.html" title="infra::Variant\&lt; services\l::IPv4Address, services\l::IPv6Address \&gt;" alt="" coords="987,596,1145,652"/>
+<area shape="rect" id="node15" href="$df/dad/structinfra_1_1detail_1_1_bounded_list_node.html" title="infra::detail::BoundedList\lNode\&lt; T \&gt;" alt="" coords="534,519,699,561"/>
+<area shape="rect" id="node18" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; infra::StaticStorage\l\&lt; infra::detail::BoundedList\lNode\&lt; services::ConnectionFactoryWith\lNameResolverImpl::Action \&gt; \&gt; \&gt;" alt="" coords="489,409,744,495"/>
+<area shape="rect" id="node19" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; infra::detail::BoundedList\lNode\&lt; services::ConnectionFactory\lWithNameResolverImpl::Action \&gt; \&gt;" alt="" coords="129,427,357,498"/>
+<area shape="rect" id="node21" href="$db/db4/classservices_1_1_connection_factory.html" title="services::ConnectionFactory" alt="" coords="973,335,1159,361"/>
+<area shape="rect" id="node24" href="$de/d08/classservices_1_1_client_connection_observer_factory_with_name_resolver.html" title="services::ClientConnection\lObserverFactoryWithNameResolver" alt="" coords="1209,214,1436,255"/>
+</map>

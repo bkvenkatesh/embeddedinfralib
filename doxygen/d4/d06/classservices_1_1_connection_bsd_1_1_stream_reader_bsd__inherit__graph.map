@@ -1,0 +1,5 @@
+<map id="services::ConnectionBsd::StreamReaderBsd" name="services::ConnectionBsd::StreamReaderBsd">
+<area shape="rect" id="node2" href="$d7/dea/classinfra_1_1_bounded_deque_input_stream_reader.html" title="infra::BoundedDequeInput\lStreamReader" alt="" coords="31,155,202,196"/>
+<area shape="rect" id="node3" href="$d0/d1b/classinfra_1_1_stream_reader_with_rewinding.html" title="infra::StreamReaderWithRewinding" alt="" coords="5,80,228,107"/>
+<area shape="rect" id="node4" href="$d2/d90/classinfra_1_1_stream_reader.html" title="infra::StreamReader" alt="" coords="48,5,185,32"/>
+</map>

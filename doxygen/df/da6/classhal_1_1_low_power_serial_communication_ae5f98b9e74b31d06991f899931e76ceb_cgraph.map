@@ -1,0 +1,5 @@
+<map id="hal::LowPowerSerialCommunication::SendData" name="hal::LowPowerSerialCommunication::SendData">
+<area shape="rect" id="node2" href="$d3/d8e/classinfra_1_1_main_clock_reference.html#a0cb5e21e70cf759e6cffa410758172e6" title="infra::MainClockReference\l::Refere" alt="" coords="283,5,456,47"/>
+<area shape="rect" id="node3" href="$d3/d8e/classinfra_1_1_main_clock_reference.html#ae0b07b50cc639678792fcf12090d4223" title="infra::MainClockReference\l::Release" alt="" coords="283,71,456,112"/>
+<area shape="rect" id="node4" href="$d6/dba/classhal_1_1_serial_communication.html#a9c94f3aed0ca15268f0f731ea53fcdf6" title="hal::SerialCommunication\l::SendData" alt="" coords="284,136,455,177"/>
+</map>

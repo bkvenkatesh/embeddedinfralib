@@ -1,0 +1,4 @@
+<map id="hal::GpioPin" name="hal::GpioPin">
+<area shape="rect" id="node2" href="$d1/d19/classhal_1_1_dummy_pin.html" title="hal::DummyPin" alt="" coords="5,80,116,107"/>
+<area shape="rect" id="node3" href="$d5/d1f/classservices_1_1_gpio_pin_inverted.html" title="services::GpioPinInverted" alt="" coords="140,80,307,107"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hal::Flash::AtStartOfSector" name="hal::Flash::AtStartOfSector">
+<area shape="rect" id="node2" href="$dd/d95/classhal_1_1_flash.html#a82859c1d11698c606553fd546d0070f9" title="hal::Flash::StartOfSector" alt="" coords="232,31,399,57"/>
+<area shape="rect" id="node3" href="$dd/d95/classhal_1_1_flash.html#a57e55c9b32c2eacb23e8a4e9dcb3133f" title="hal::Flash::AddressOfSector" alt="" coords="447,5,633,32"/>
+<area shape="rect" id="node4" href="$dd/d95/classhal_1_1_flash.html#a8fdc674c7384cdfb555cad2201848751" title="hal::Flash::SectorOfAddress" alt="" coords="447,56,633,83"/>
+</map>

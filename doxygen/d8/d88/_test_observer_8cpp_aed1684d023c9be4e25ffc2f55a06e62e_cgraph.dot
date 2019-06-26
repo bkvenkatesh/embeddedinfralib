@@ -1,0 +1,16 @@
+digraph "TEST"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node24 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node24 -> Node25 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node25 [label="infra::Observer::Attach",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dd4/classinfra_1_1_observer.html#a65d9954cdcd77a1b5a0e7c16d069f4ed"];
+  Node24 -> Node26 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node26 [label="infra::Observer::Attached",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dd4/classinfra_1_1_observer.html#a1eedc585f7ba3338f50654fced3614e5"];
+  Node24 -> Node27 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node27 [label="EXPECT_TRUE",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/def/_test_json_8cpp.html#a84dbe6e62bbec23a120a258315c7b6dc"];
+  Node24 -> Node28 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node28 [label="infra::Subject::NotifyObservers",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db2/classinfra_1_1_subject.html#a0992f3cdf215e556c9a1166d2234ecba"];
+}

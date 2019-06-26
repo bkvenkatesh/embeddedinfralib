@@ -1,0 +1,26 @@
+<map id="services::DatagramBsd" name="services::DatagramBsd">
+<area shape="rect" id="node7" href="$d3/daa/classinfra_1_1_weak_ptr.html" title="infra::WeakPtr\&lt; Datagram\lBsd \&gt;" alt="" coords="1607,1084,1780,1125"/>
+<area shape="rect" id="node2" href="$d9/dc8/classservices_1_1_datagram_exchange.html" title="services::DatagramExchange" alt="" coords="1044,811,1235,838"/>
+<area shape="rect" id="node3" href="$d1/db2/classinfra_1_1_subject.html" title="infra::Subject\&lt; Datagram\lExchangeObserver \&gt;" alt="" coords="650,810,817,852"/>
+<area shape="rect" id="node4" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; DatagramExchangeObserver,\l ObserverSubjectType \&gt;" alt="" coords="243,756,445,812"/>
+<area shape="rect" id="node6" href="$dd/df1/classinfra_1_1_enable_shared_from_this.html" title="infra::EnableSharedFromThis\l\&lt; DatagramBsd \&gt;" alt="" coords="1880,1049,2069,1090"/>
+<area shape="rect" id="node8" href="$dd/d9a/classinfra_1_1detail_1_1_shared_ptr_control.html" title="infra::detail::SharedPtr\lControl" alt="" coords="658,1450,809,1492"/>
+<area shape="rect" id="node21" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::DatagramBsd\l::StreamWriterBsd \&gt;" alt="" coords="1055,1306,1223,1362"/>
+<area shape="rect" id="node11" href="$da/dcd/classinfra_1_1_shared_object_deleter.html" title="infra::SharedObjectDeleter" alt="" coords="257,1406,431,1432"/>
+<area shape="rect" id="node12" href="$da/d2a/classinfra_1_1_variant.html" title="infra::Variant\&lt; Udpv4Socket,\l Udpv6Socket \&gt;" alt="" coords="640,878,827,920"/>
+<area shape="rect" id="node33" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; services::ListenerWin \&gt;" alt="" coords="648,432,819,473"/>
+<area shape="rect" id="node37" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; services::ListenerBsd \&gt;" alt="" coords="648,497,819,538"/>
+<area shape="rect" id="node17" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; infra::BoundedVector\l\&lt; uint8_t \&gt;::WithMaxSize\l\&lt; 508 \&gt; \&gt;" alt="" coords="259,1218,429,1289"/>
+<area shape="rect" id="node20" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; infra::Variant \&gt;" alt="" coords="277,1085,411,1126"/>
+<area shape="rect" id="node23" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; services::DatagramBsd\l::StreamWriterBsd \&gt;" alt="" coords="260,1318,428,1374"/>
+<area shape="rect" id="node15" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; infra\l::BoundedVector\&lt; uint8\l_t \&gt;::WithMaxSize\&lt; 508 \&gt; \&gt;" alt="" coords="639,1170,827,1226"/>
+<area shape="rect" id="node19" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; infra\l::Variant \&gt;" alt="" coords="664,1050,803,1092"/>
+<area shape="rect" id="node22" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; services\l::DatagramBsd::StreamWriterBsd \&gt;" alt="" coords="619,1313,848,1354"/>
+<area shape="rect" id="node24" href="$d0/d67/classservices_1_1_event_dispatcher_with_network.html" title="services::EventDispatcher\lWithNetwork" alt="" coords="1054,394,1225,436"/>
+<area shape="rect" id="node25" href="$db/da8/classinfra_1_1_event_dispatcher_with_weak_ptr_1_1_with_size.html" title="infra::EventDispatcherWith\lWeakPtr::WithSize\&lt; 50 \&gt;" alt="" coords="646,745,821,786"/>
+<area shape="rect" id="node26" href="$db/db4/classservices_1_1_connection_factory.html" title="services::ConnectionFactory" alt="" coords="640,16,827,43"/>
+<area shape="rect" id="node27" href="$d7/da1/classservices_1_1_datagram_factory.html" title="services::DatagramFactory" alt="" coords="645,67,822,94"/>
+<area shape="rect" id="node34" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; services::ListenerWin \&gt;" alt="" coords="233,396,455,437"/>
+<area shape="rect" id="node35" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; T \&gt;" alt="" coords="274,461,414,502"/>
+<area shape="rect" id="node38" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; services::ListenerBsd \&gt;" alt="" coords="233,580,455,621"/>
+</map>

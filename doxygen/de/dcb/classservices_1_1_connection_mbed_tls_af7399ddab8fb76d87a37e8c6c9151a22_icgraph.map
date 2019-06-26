@@ -1,0 +1,5 @@
+<map id="services::ConnectionMbedTls::TryAllocateSendStream" name="services::ConnectionMbedTls::TryAllocateSendStream">
+<area shape="rect" id="node2" href="$de/dcb/classservices_1_1_connection_mbed_tls.html#a30a4daddad21fd4712f72f7ade7a0b00" title="services::ConnectionMbed\lTls::RequestSendStream" alt="" coords="237,5,412,47"/>
+<area shape="rect" id="node3" href="$de/dcb/classservices_1_1_connection_mbed_tls.html#a4ee3315ea0084ee8d0e8269b0e08b6ee" title="services::ConnectionMbed\lTls::TrySend" alt="" coords="237,71,412,112"/>
+<area shape="rect" id="node4" href="$de/dcb/classservices_1_1_connection_mbed_tls.html#a5a3ba98e94df8c89d1f597e3d8eb3d89" title="services::ConnectionMbed\lTls::SendStreamAvailable" alt="" coords="460,71,635,112"/>
+</map>

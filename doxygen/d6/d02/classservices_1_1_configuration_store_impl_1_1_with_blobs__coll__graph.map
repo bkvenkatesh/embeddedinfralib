@@ -1,0 +1,13 @@
+<map id="services::ConfigurationStoreImpl&lt; T &gt;::WithBlobs" name="services::ConfigurationStoreImpl&lt; T &gt;::WithBlobs">
+<area shape="rect" id="node2" href="$de/d57/classservices_1_1_configuration_store_impl.html" title="services::ConfigurationStore\lImpl\&lt; T \&gt;" alt="" coords="697,291,880,332"/>
+<area shape="rect" id="node3" href="$d4/dc9/classservices_1_1_configuration_store_base.html" title="services::ConfigurationStoreBase" alt="" coords="342,183,555,210"/>
+<area shape="rect" id="node4" href="$d7/d56/classservices_1_1_configuration_store_interface.html" title="services::ConfigurationStore\lInterface" alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node5" href="$d5/d33/classinfra_1_1_auto_reset_function.html" title="infra::AutoResetFunction\l\&lt; void()\&gt;" alt="" coords="14,71,179,112"/>
+<area shape="rect" id="node6" href="$d5/d33/classinfra_1_1_auto_reset_function.html" title="infra::AutoResetFunction\l\&lt; void(bool success)\&gt;" alt="" coords="14,281,179,323"/>
+<area shape="rect" id="node16" href="$db/d26/classservices_1_1_configuration_blob_impl.html" title="services::ConfigurationBlobImpl" alt="" coords="347,423,550,450"/>
+<area shape="rect" id="node9" href="$d1/da2/classservices_1_1_configuration_blob.html" title="services::ConfigurationBlob" alt="" coords="7,377,186,403"/>
+<area shape="rect" id="node10" href="$d3/db6/classservices_1_1_configuration_store.html" title="services::ConfigurationStore\&lt; T \&gt;" alt="" coords="341,273,556,299"/>
+<area shape="rect" id="node12" href="$d2/d40/classinfra_1_1_with_storage.html" title="infra::WithStorage\l\&lt; T::maxMessageSize \&gt;" alt="" coords="706,489,871,531"/>
+<area shape="rect" id="node13" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; StorageType, T::maxMessageSize \&gt;" alt="" coords="325,549,572,591"/>
+<area shape="rect" id="node17" href="$dd/d95/classhal_1_1_flash.html" title="hal::Flash" alt="" coords="57,455,136,482"/>
+</map>

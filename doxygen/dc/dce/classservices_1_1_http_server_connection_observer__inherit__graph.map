@@ -1,0 +1,6 @@
+<map id="services::HttpServerConnectionObserver" name="services::HttpServerConnectionObserver">
+<area shape="rect" id="node2" href="$dc/de5/classservices_1_1_connection_observer.html" title="services::ConnectionObserver" alt="" coords="213,20,406,47"/>
+<area shape="rect" id="node3" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;" alt="" coords="5,5,160,61"/>
+<area shape="rect" id="node4" href="$dc/dbe/classservices_1_1_http_server_connection.html" title="services::HttpServerConnection" alt="" coords="208,71,411,97"/>
+<area shape="rect" id="node5" href="$d9/da2/classservices_1_1_http_page_server.html" title="services::HttpPageServer" alt="" coords="226,121,393,148"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="infra::ScalableDerivedTimerService::ScaleTime" name="infra::ScalableDerivedTimerService::ScaleTime">
+<area shape="rect" id="node2" href="$da/dc4/classinfra_1_1_scalable_derived_timer_service.html#a28598eb5eaf5bdf3d3ff98fabe0824ab" title="infra::ScalableDerivedTimer\lService::NextTriggerChanged" alt="" coords="232,71,421,112"/>
+<area shape="rect" id="node5" href="$da/dc4/classinfra_1_1_scalable_derived_timer_service.html#a75ea8d1af15ea8ed0f327138cdd58f22" title="infra::ScalableDerivedTimer\lService::Now" alt="" coords="237,5,416,47"/>
+<area shape="rect" id="node3" href="$da/dc4/classinfra_1_1_scalable_derived_timer_service.html#a30e873a4b4cf8cbacf09c1cddd55970b" title="infra::ScalableDerivedTimer\lService::Scale" alt="" coords="469,5,648,47"/>
+<area shape="rect" id="node4" href="$da/dc4/classinfra_1_1_scalable_derived_timer_service.html#a5e73baf089685fb705478e7ad5db4915" title="infra::ScalableDerivedTimer\lService::Shift" alt="" coords="469,71,648,112"/>
+</map>

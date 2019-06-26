@@ -1,0 +1,6 @@
+<map id="application::UpgradePackBuilder::AddEpilogue" name="application::UpgradePackBuilder::AddEpilogue">
+<area shape="rect" id="node2" href="$db/dab/classapplication_1_1_upgrade_pack_builder.html#afac237e4e13d10d8b75ae7f0c3a076a2" title="application::UpgradePack\lBuilder::AssignZeroFilled" alt="" coords="224,37,395,79"/>
+<area shape="rect" id="node5" href="$de/d60/classapplication_1_1_image_signer.html#af5a8470d905a09dbc4242a97ea53f7d5" title="application::ImageSigner\l::SignatureLength" alt="" coords="227,103,391,144"/>
+<area shape="rect" id="node3" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="443,5,581,47"/>
+<area shape="rect" id="node4" href="$d0/d6d/classinfra_1_1_memory_range.html#a7a83ceae17802af5ecebfb9557912ece" title="infra::MemoryRange\l::begin" alt="" coords="443,71,581,112"/>
+</map>

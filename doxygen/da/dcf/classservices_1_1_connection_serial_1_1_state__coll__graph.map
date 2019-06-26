@@ -1,0 +1,36 @@
+<map id="services::ConnectionSerial::State" name="services::ConnectionSerial::State">
+<area shape="rect" id="node46" href="$d5/d39/classinfra_1_1_static_storage_for_polymorphic_objects.html" title="infra::StaticStorageForPolymorphic\lObjects\&lt; services::ConnectionSerial\l::State, T... \&gt;" alt="" coords="1044,1292,1276,1348"/>
+<area shape="rect" id="node2" href="$d6/dba/classhal_1_1_serial_communication.html" title="hal::SerialCommunication" alt="" coords="205,571,375,597"/>
+<area shape="rect" id="node3" href="$d3/d9a/classservices_1_1_connection_serial.html" title="services::ConnectionSerial" alt="" coords="2076,901,2251,928"/>
+<area shape="rect" id="node4" href="$d0/dde/classservices_1_1_connection.html" title="services::Connection" alt="" coords="1587,147,1730,173"/>
+<area shape="rect" id="node5" href="$d1/db2/classinfra_1_1_subject.html" title="infra::Subject\&lt; Connection\lObserver \&gt;" alt="" coords="840,201,1015,242"/>
+<area shape="rect" id="node6" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l ObserverSubjectType \&gt;" alt="" coords="401,189,563,245"/>
+<area shape="rect" id="node10" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;" alt="" coords="213,5,367,61"/>
+<area shape="rect" id="node8" href="$d1/d17/classinfra_1_1_shared_ptr.html" title="infra::SharedPtr\&lt; services\l::ConnectionObserver \&gt;" alt="" coords="1075,51,1245,93"/>
+<area shape="rect" id="node9" href="$dc/de5/classservices_1_1_connection_observer.html" title="services::ConnectionObserver" alt="" coords="605,20,798,47"/>
+<area shape="rect" id="node11" href="$dd/d9a/classinfra_1_1detail_1_1_shared_ptr_control.html" title="infra::detail::SharedPtr\lControl" alt="" coords="626,90,777,131"/>
+<area shape="rect" id="node15" href="$d1/d17/classinfra_1_1_shared_ptr.html" title="infra::SharedPtr\&lt; void \&gt;" alt="" coords="1081,117,1239,144"/>
+<area shape="rect" id="node27" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::ConnectionSerial\l::StreamWriterWithCyclicBuffer \&gt;" alt="" coords="1551,600,1766,656"/>
+<area shape="rect" id="node14" href="$da/dcd/classinfra_1_1_shared_object_deleter.html" title="infra::SharedObjectDeleter" alt="" coords="203,395,377,421"/>
+<area shape="rect" id="node17" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; services\l::ConnectionSerial::SerialConnection\lStreamReader \&gt;" alt="" coords="1043,987,1277,1043"/>
+<area shape="rect" id="node18" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; services::ConnectionSerial\l::SerialConnectionStreamReader \&gt;" alt="" coords="590,1005,813,1061"/>
+<area shape="rect" id="node29" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; services::ConnectionSerial\l::StreamWriterWithCyclicBuffer \&gt;" alt="" coords="594,617,809,673"/>
+<area shape="rect" id="node31" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; size_t \&gt;" alt="" coords="635,859,768,901"/>
+<area shape="rect" id="node41" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; services::ConnectionSerial\l::MessageHeader \&gt;" alt="" coords="608,925,795,981"/>
+<area shape="rect" id="node44" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; uint8_t \&gt;" alt="" coords="635,1086,768,1127"/>
+<area shape="rect" id="node28" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; services\l::ConnectionSerial::StreamWriter\lWithCyclicBuffer \&gt;" alt="" coords="1053,676,1267,732"/>
+<area shape="rect" id="node30" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; size_t \&gt;" alt="" coords="1079,868,1241,895"/>
+<area shape="rect" id="node33" href="$da/d20/classinfra_1_1_claimable_resource_1_1_claimer_base.html" title="infra::ClaimableResource\l::ClaimerBase" alt="" coords="1077,1149,1243,1190"/>
+<area shape="rect" id="node40" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; services\l::ConnectionSerial::MessageHeader \&gt;" alt="" coords="1039,921,1281,962"/>
+<area shape="rect" id="node21" href="$db/de0/classinfra_1_1_queue_for_one_reader_one_irq_writer.html" title="infra::QueueForOneReader\lOneIrqWriter\&lt; uint8_t \&gt;" alt="" coords="1571,391,1747,433"/>
+<area shape="rect" id="node22" href="$da/d07/classinfra_1_1_function.html" title="infra::Function\&lt; void()\&gt;" alt="" coords="1083,399,1237,425"/>
+<area shape="rect" id="node25" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; uint8_t \&gt;" alt="" coords="1091,333,1229,374"/>
+<area shape="rect" id="node32" href="$d0/d93/classinfra_1_1_claimable_resource.html" title="infra::ClaimableResource" alt="" coords="1575,1157,1742,1184"/>
+<area shape="rect" id="node34" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; ClaimerBase \&gt;::NodeType" alt="" coords="608,1151,795,1193"/>
+<area shape="rect" id="node37" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; T \&gt;" alt="" coords="631,1351,771,1393"/>
+<area shape="rect" id="node36" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; infra::ClaimableResource\l::ClaimerBase \&gt;" alt="" coords="1071,1372,1249,1428"/>
+<area shape="rect" id="node38" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; infra::ClaimableResource\l::ClaimerBase \&gt;" alt="" coords="587,1271,816,1327"/>
+<area shape="rect" id="node42" href="$d5/db7/classinfra_1_1_bounded_deque.html" title="infra::BoundedDeque\l\&lt; uint8_t \&gt;" alt="" coords="1587,1075,1730,1117"/>
+<area shape="rect" id="node45" href="$de/dcd/classinfra_1_1_polymorphic_variant.html" title="infra::PolymorphicVariant\l\&lt; services::ConnectionSerial\l::State, services::ConnectionSerial\l::StateInitSizeRequest, services\l::ConnectionSerial::StateInitSizeResponseRequest,\l services::ConnectionSerial::StateInitSizeResponse,\l services::ConnectionSerial::StateConnectedIdle,\l services::ConnectionSerial::StateConnectedSendingContent,\l services::ConnectionSerial::StateSendingUpdate \&gt;" alt="" coords="1471,1348,1847,1492"/>
+<area shape="rect" id="node43" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; infra::StaticStorage\l\&lt; uint8_t \&gt; \&gt;" alt="" coords="1087,1068,1233,1124"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="services::TracingConnectionMbedTls" name="services::TracingConnectionMbedTls">
+<area shape="rect" id="node2" href="$de/dcb/classservices_1_1_connection_mbed_tls.html" title="services::ConnectionMbedTls" alt="" coords="469,81,660,107"/>
+<area shape="rect" id="node3" href="$d0/dde/classservices_1_1_connection.html" title="services::Connection" alt="" coords="253,19,396,46"/>
+<area shape="rect" id="node4" href="$d1/db2/classinfra_1_1_subject.html" title="infra::Subject\&lt; Connection\lObserver \&gt;" alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node5" href="$dc/de5/classservices_1_1_connection_observer.html" title="services::ConnectionObserver" alt="" coords="228,81,421,107"/>
+<area shape="rect" id="node6" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;" alt="" coords="15,71,170,127"/>
+<area shape="rect" id="node7" href="$dd/df1/classinfra_1_1_enable_shared_from_this.html" title="infra::EnableSharedFromThis\l\&lt; ConnectionMbedTls \&gt;" alt="" coords="230,132,419,173"/>
+</map>

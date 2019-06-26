@@ -1,0 +1,11 @@
+<map id="services::FactoryDefaultConfigurationStore::WithBlobs::WithBlobs" name="services::FactoryDefaultConfigurationStore::WithBlobs::WithBlobs">
+<area shape="rect" id="node2" href="$de/def/classservices_1_1_factory_default_configuration_store_base.html#a18e689846f9181d7346dcdec30c6a496" title="services::FactoryDefault\lConfigurationStoreBase\l::Recover" alt="" coords="249,141,411,197"/>
+<area shape="rect" id="node3" href="$d1/da2/classservices_1_1_configuration_blob.html#a071805fa86dd447aac99b9711bf54f72" title="services::ConfigurationBlob\l::Recover" alt="" coords="691,5,870,47"/>
+<area shape="rect" id="node4" href="$d1/da2/classservices_1_1_configuration_blob.html#a279b97e0a18250115b470e71b57dad3e" title="services::ConfigurationBlob\l::Erase" alt="" coords="691,71,870,112"/>
+<area shape="rect" id="node5" href="$d4/dc9/classservices_1_1_configuration_store_base.html#a190f61ac910e9c41edbf4b0c57a98a84" title="services::ConfigurationStore\lBase::Serialize" alt="" coords="459,305,641,347"/>
+<area shape="rect" id="node6" href="$d4/dc9/classservices_1_1_configuration_store_base.html#a055291782b499dc8c5da8feea63992d2" title="services::ConfigurationStore\lBase::Recover" alt="" coords="459,180,641,221"/>
+<area shape="rect" id="node8" href="$d4/dc9/classservices_1_1_configuration_store_base.html#aa8acc547f66f4216c8f660878250ebfe" title="services::ConfigurationStore\lBase::Deserialize" alt="" coords="920,232,1103,273"/>
+<area shape="rect" id="node10" href="$d4/dc9/classservices_1_1_configuration_store_base.html#ad2af2f4f6a9696a1bf505841f4d67ed8" title="services::ConfigurationStore\lBase::Erase" alt="" coords="459,115,641,156"/>
+<area shape="rect" id="node7" href="$d4/dc9/classservices_1_1_configuration_store_base.html#a684451c2d4b570d28b31d0e91a8717b1" title="services::ConfigurationStore\lBase::OnBlobLoaded" alt="" coords="689,188,872,229"/>
+<area shape="rect" id="node9" href="$d0/de3/namespaceinfra.html#a032811931ada58a358282ecfcfd58de5" title="infra::swap" alt="" coords="969,151,1053,178"/>
+</map>

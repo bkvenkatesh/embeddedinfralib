@@ -1,0 +1,6 @@
+<map id="services::LlmnrResponder::DataReceived" name="services::LlmnrResponder::DataReceived">
+<area shape="rect" id="node2" href="$db/dda/classinfra_1_1_input_stream.html#ae6c6c4af7669aa70e60847a11ffd8e85" title="infra::InputStream\l::Failed" alt="" coords="257,5,381,47"/>
+<area shape="rect" id="node4" href="$da/dac/classservices_1_1_llmnr_responder.html#a253bc884e8cf2266e64ecfc437cfeed8" title="services::LlmnrResponder\l::PacketValid" alt="" coords="234,71,405,112"/>
+<area shape="rect" id="node5" href="$d9/dc8/classservices_1_1_datagram_exchange.html#ad523a613c488c1e63c5302de31bb95da" title="services::DatagramExchange\l::RequestSendStream" alt="" coords="224,136,415,177"/>
+<area shape="rect" id="node3" href="$d5/d4a/classinfra_1_1_stream_error_policy.html#ac1558d645711dd9685f926115719eb15" title="infra::StreamErrorPolicy\l::Failed" alt="" coords="463,5,623,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="hal::UsbLinkLayer" name="hal::UsbLinkLayer">
+<area shape="rect" id="node2" href="$d1/db2/classinfra_1_1_subject.html" title="infra::Subject\&lt; UsbLinkLayer\lObserver \&gt;" alt="" coords="5,213,195,255"/>
+<area shape="rect" id="node3" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; UsbLinkLayerObserver,\l ObserverSubjectType \&gt;" alt="" coords="16,95,184,151"/>
+</map>

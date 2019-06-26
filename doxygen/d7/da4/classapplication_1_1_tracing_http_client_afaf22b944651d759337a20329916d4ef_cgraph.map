@@ -1,0 +1,12 @@
+<map id="application::TracingHttpClient::Connected" name="application::TracingHttpClient::Connected">
+<area shape="rect" id="node2" href="$db/dae/classservices_1_1_http_client_basic.html#a760cdf38fc8e48515d326410f047a65e" title="services::HttpClientBasic\l::Headers" alt="" coords="212,96,379,137"/>
+<area shape="rect" id="node3" href="$db/dae/classservices_1_1_http_client_basic.html#afe3f34509600d5aa457f0fe9c59af112" title="services::HttpClientBasic\l::Path" alt="" coords="212,161,379,203"/>
+<area shape="rect" id="node4" href="$db/d91/namespaceservices.html#a5bdfa2e0a65043c99778bf1360edfd82" title="services::PathFromUrl" alt="" coords="436,51,587,78"/>
+<area shape="rect" id="node7" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#aab36b8eaee21d6ab3be734e07f499382" title="infra::BoundedStringBase\l::size" alt="" coords="427,103,596,144"/>
+<area shape="rect" id="node8" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#aef23e4250cad2fdc69ccc39f68734233" title="infra::BoundedStringBase\l::begin" alt="" coords="659,161,828,203"/>
+<area shape="rect" id="node9" href="$d0/de3/namespaceinfra.html#afe38b7d4318537de2f28b244211c4275" title="infra::MakeRange" alt="" coords="450,219,573,246"/>
+<area shape="rect" id="node11" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#a6e0ddaef135d65c70184b48d772befff" title="infra::BoundedStringBase\l::max_size" alt="" coords="427,271,596,312"/>
+<area shape="rect" id="node5" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#a1625463cbee712d1217102c3bdde924d" title="infra::BoundedStringBase\l::find" alt="" coords="659,5,828,47"/>
+<area shape="rect" id="node6" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#a46ec1a3a673136ace03af8c6ec94aa89" title="infra::BoundedStringBase\l::substr" alt="" coords="659,71,828,112"/>
+<area shape="rect" id="node10" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#af5021f1ea3898146d0a55c2895f07dbf" title="infra::BoundedStringBase::end" alt="" coords="644,227,843,254"/>
+</map>

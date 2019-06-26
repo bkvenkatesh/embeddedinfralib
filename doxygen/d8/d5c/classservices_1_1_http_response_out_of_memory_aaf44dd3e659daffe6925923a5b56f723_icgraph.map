@@ -1,0 +1,5 @@
+<map id="services::HttpResponseOutOfMemory::Instance" name="services::HttpResponseOutOfMemory::Instance">
+<area shape="rect" id="node2" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#afd24d585e0b90fc44643244b0712f92f" title="services::HttpServerConnection\lObserver::ReceivedTooMuchData" alt="" coords="233,5,447,47"/>
+<area shape="rect" id="node3" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a3c5cabea13da6e140280b1b8c77244b3" title="services::HttpServerConnection\lObserver::DataReceived" alt="" coords="495,5,697,47"/>
+<area shape="rect" id="node4" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a579fc75f469c5b79141187fc04dbf74c" title="services::HttpServerConnection\lObserver::SendStreamAvailable" alt="" coords="745,5,949,47"/>
+</map>

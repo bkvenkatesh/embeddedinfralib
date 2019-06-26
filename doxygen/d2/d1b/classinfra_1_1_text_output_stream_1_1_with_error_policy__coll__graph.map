@@ -1,0 +1,7 @@
+<map id="infra::TextOutputStream::WithErrorPolicy" name="infra::TextOutputStream::WithErrorPolicy">
+<area shape="rect" id="node2" href="$de/dad/classinfra_1_1_text_output_stream.html" title="infra::TextOutputStream" alt="" coords="176,288,336,315"/>
+<area shape="rect" id="node3" href="$d6/d97/classinfra_1_1_output_stream.html" title="infra::OutputStream" alt="" coords="123,199,258,225"/>
+<area shape="rect" id="node4" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="5,109,165,136"/>
+<area shape="rect" id="node7" href="$de/dba/classinfra_1_1_stream_writer.html" title="infra::StreamWriter" alt="" coords="189,109,320,136"/>
+<area shape="rect" id="node9" href="$d4/daa/structinfra_1_1_width.html" title="infra::Width" alt="" coords="361,199,449,225"/>
+</map>

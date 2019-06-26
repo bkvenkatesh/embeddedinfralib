@@ -1,0 +1,9 @@
+<map id="services::I2cMultipleAccessMaster" name="services::I2cMultipleAccessMaster">
+<area shape="rect" id="node2" href="$df/d85/classhal_1_1_i2c_master.html" title="hal::I2cMaster" alt="" coords="1045,61,1149,88"/>
+<area shape="rect" id="node3" href="$d0/d93/classinfra_1_1_claimable_resource.html" title="infra::ClaimableResource" alt="" coords="1013,129,1180,156"/>
+<area shape="rect" id="node4" href="$da/d20/classinfra_1_1_claimable_resource_1_1_claimer_base.html" title="infra::ClaimableResource\l::ClaimerBase" alt="" coords="1313,217,1480,258"/>
+<area shape="rect" id="node5" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; ClaimerBase \&gt;::NodeType" alt="" coords="487,242,673,283"/>
+<area shape="rect" id="node9" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; T \&gt;" alt="" coords="278,57,418,98"/>
+<area shape="rect" id="node8" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; infra::ClaimableResource\l::ClaimerBase \&gt;" alt="" coords="697,100,876,156"/>
+<area shape="rect" id="node10" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; infra::ClaimableResource\l::ClaimerBase \&gt;" alt="" coords="233,176,463,232"/>
+</map>

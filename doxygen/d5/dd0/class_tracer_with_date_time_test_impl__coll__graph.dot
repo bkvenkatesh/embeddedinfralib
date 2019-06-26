@@ -1,0 +1,56 @@
+digraph "TracerWithDateTimeTestImpl"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node3 [label="TracerWithDateTimeTestImpl",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="services::TracerWithDateTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dd7/classservices_1_1_tracer_with_date_time.html"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="services::Tracer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d42/classservices_1_1_tracer.html"];
+  Node6 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" stream" ,fontname="Helvetica"];
+  Node6 [label="infra::TextOutputStream",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dad/classinfra_1_1_text_output_stream.html"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="infra::OutputStream",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d97/classinfra_1_1_output_stream.html"];
+  Node8 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" errorPolicy" ,fontname="Helvetica"];
+  Node8 [label="infra::StreamErrorPolicy",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d4a/classinfra_1_1_stream_error_policy.html"];
+  Node9 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" checkedFail\nfailed" ,fontname="Helvetica"];
+  Node9 [label="bool",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node10 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" failureMode" ,fontname="Helvetica"];
+  Node10 [label="FailureMode",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node11 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" writer" ,fontname="Helvetica"];
+  Node11 [label="infra::StreamWriter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dba/classinfra_1_1_stream_writer.html"];
+  Node12 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" radix" ,fontname="Helvetica"];
+  Node12 [label="Radix",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node13 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" width" ,fontname="Helvetica"];
+  Node13 [label="infra::Width",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/daa/structinfra_1_1_width.html"];
+  Node14 -> Node13 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" padding" ,fontname="Helvetica"];
+  Node14 [label="char",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node15 -> Node13 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" width" ,fontname="Helvetica"];
+  Node15 [label="size_t",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node16 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" timerService" ,fontname="Helvetica"];
+  Node16 [label="infra::TimerService",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/def/classinfra_1_1_timer_service.html"];
+  Node17 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="infra::IntrusiveForwardList\l\< TimerService \>::NodeType",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d4a/classinfra_1_1detail_1_1_intrusive_forward_list_node.html"];
+  Node18 -> Node17 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" next" ,fontname="Helvetica"];
+  Node18 [label="IntrusiveForwardListNode\l\< T \> *",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node19 -> Node16 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" nextTrigger" ,fontname="Helvetica"];
+  Node19 [label="time_point",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node20 -> Node16 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" timerIterator\nscheduledTimers" ,fontname="Helvetica"];
+  Node20 [label="infra::IntrusiveForwardList\l\< infra::Timer \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d66/classinfra_1_1_intrusive_forward_list.html"];
+  Node21 -> Node20 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" beginNode" ,fontname="Helvetica"];
+  Node21 [label="infra::detail::Intrusive\lForwardListNode\< infra\l::Timer \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d4a/classinfra_1_1detail_1_1_intrusive_forward_list_node.html"];
+  Node21 -> Node21 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" next" ,fontname="Helvetica"];
+  Node22 -> Node16 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" id" ,fontname="Helvetica"];
+  Node22 [label="uint32_t",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node9 -> Node16 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" holdUpdate\nupdateNeeded" ,fontname="Helvetica"];
+  Node23 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" stream" ,fontname="Helvetica"];
+  Node23 [label="infra::WithStorage\l\< 32 \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d40/classinfra_1_1_with_storage.html"];
+  Node24 -> Node23 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node24 [label="infra::detail::StorageHolder\l\< StorageType, 32 \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html"];
+  Node25 -> Node24 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" storage" ,fontname="Helvetica"];
+  Node25 [label="StorageType",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node26 -> Node23 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node26 [label="32",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

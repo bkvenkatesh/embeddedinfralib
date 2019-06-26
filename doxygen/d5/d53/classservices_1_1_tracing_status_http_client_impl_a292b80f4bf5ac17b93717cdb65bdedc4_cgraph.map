@@ -1,0 +1,6 @@
+<map id="services::TracingStatusHttpClientImpl::StatusAvailable" name="services::TracingStatusHttpClientImpl::StatusAvailable">
+<area shape="rect" id="node2" href="$db/dd6/classservices_1_1_http_client_impl.html#ade3f31e8ea2577eb815ff727b1a9b8a8" title="services::HttpClientImpl\l::StatusAvailable" alt="" coords="235,5,393,47"/>
+<area shape="rect" id="node3" href="$dc/d42/classservices_1_1_tracer.html#a25248c7fb378a73f189defd30a4593f2" title="services::Tracer::Trace" alt="" coords="237,71,391,98"/>
+<area shape="rect" id="node4" href="$dc/d42/classservices_1_1_tracer.html#a9bbd41af2cd3049df3e56fe63ebad051" title="services::Tracer::Continue" alt="" coords="441,42,613,69"/>
+<area shape="rect" id="node5" href="$dc/d42/classservices_1_1_tracer.html#a38963ac748f455f5439fd9e312273588" title="services::Tracer::Insert\lHeader" alt="" coords="451,93,604,135"/>
+</map>

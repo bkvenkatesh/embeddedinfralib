@@ -1,0 +1,38 @@
+<map id="infra::EventDispatcherWorker::Schedule" name="infra::EventDispatcherWorker::Schedule">
+<area shape="rect" id="node2" href="$d0/d93/classinfra_1_1_claimable_resource.html#af0c7794a3ed43ac41f1c657990b4f24e" title="infra::ClaimableResource\l::AddClaim" alt="" coords="266,5,433,47"/>
+<area shape="rect" id="node3" href="$d3/d9a/classservices_1_1_connection_serial.html#a2a628c7073bbaf07211d9272f4227ed2" title="services::ConnectionSerial\l::AllocatedSendStream" alt="" coords="262,71,437,112"/>
+<area shape="rect" id="node6" href="$de/d8b/classservices_1_1_connection_bsd.html#a99c9de1c7a44deec022efdb1bb12f5e3" title="services::ConnectionBsd\l::ConnectionBsd" alt="" coords="267,136,432,177"/>
+<area shape="rect" id="node7" href="$db/d8b/classservices_1_1_connection_win.html#afa1b3bc6eca0e83e1ce0b1f607de2dfe" title="services::ConnectionWin\l::ConnectionWin" alt="" coords="267,201,432,243"/>
+<area shape="rect" id="node8" href="$d0/db3/classservices_1_1_flash_quad_spi.html#ad5eea94e8c563df753b4a66292d1e73d" title="services::FlashQuadSpi\l::EraseSectors" alt="" coords="270,267,429,308"/>
+<area shape="rect" id="node9" href="$df/d28/classservices_1_1_flash_spi.html#a5b3e05583977f2aebb2cb4b25491390a" title="services::FlashSpi\l::EraseSectors" alt="" coords="285,332,413,373"/>
+<area shape="rect" id="node10" href="$d1/d88/classservices_1_1_flash_quad_spi_cypress_fll.html#a90cf929fd86b0302556e665e336f08d0" title="services::FlashQuadSpiCypress\lFll::FlashQuadSpiCypressFll" alt="" coords="246,397,453,439"/>
+<area shape="rect" id="node11" href="$d8/dbe/classservices_1_1_flash_quad_spi_micron_n25q.html#ab936eba5af1f7e92e96d364095237b38" title="services::FlashQuadSpiMicron\lN25q::FlashQuadSpiMicronN25q" alt="" coords="244,463,455,504"/>
+<area shape="rect" id="node12" href="$d1/d3f/classservices_1_1_datagram_bsd.html#a18e1ec8aa7a2f5e0a8401af799af99f9" title="services::DatagramBsd\l::InitSocket" alt="" coords="271,528,427,569"/>
+<area shape="rect" id="node14" href="$d2/d7b/classservices_1_1_datagram_win.html#a658541984182e1f50cdd52ccafefd00f" title="services::DatagramWin\l::InitSocket" alt="" coords="271,593,427,635"/>
+<area shape="rect" id="node16" href="$d4/dbc/classservices_1_1_name_lookup_bsd.html#ae2b6d6cf69286121cb2bab00aadbfbe9" title="services::NameLookupBsd\l::LookupIPv4" alt="" coords="261,659,437,700"/>
+<area shape="rect" id="node19" href="$d8/dbd/classservices_1_1_name_lookup_win.html#afcf5c4d0f1af787356c6af874c8d0541" title="services::NameLookupWin\l::LookupIPv4" alt="" coords="261,724,437,765"/>
+<area shape="rect" id="node22" href="$db/de0/classinfra_1_1_queue_for_one_reader_one_irq_writer.html#aa0acebb831086e7f87294f62004fa8e7" title="infra::QueueForOneReader\lOneIrqWriter\&lt; uint8_t\l \&gt;::NotifyDataAvailable" alt="" coords="261,790,437,846"/>
+<area shape="rect" id="node23" href="$df/d2e/classinfra_1_1_tick_on_interrupt_timer_service.html#a0d28d96bcfbeca6cad1712d7fee3fe12" title="infra::TickOnInterruptTimer\lService::ProcessTicks" alt="" coords="262,871,437,912"/>
+<area shape="rect" id="node24" href="$df/d2e/classinfra_1_1_tick_on_interrupt_timer_service.html#af615ce0c6415bcc94cd68780136ba165" title="infra::TickOnInterruptTimer\lService::SystemTickInterrupt" alt="" coords="512,900,700,941"/>
+<area shape="rect" id="node25" href="$de/d21/classinfra_1_1_system_state_participant.html#a611ff2cda764c08411e59fa4fc4d18b4" title="infra::SystemStateParticipant\l::ReachedState" alt="" coords="253,988,445,1029"/>
+<area shape="rect" id="node26" href="$d0/d93/classinfra_1_1_claimable_resource.html#ad16fa9c6beff4ee4ce162a408ab8efe2" title="infra::ClaimableResource\l::RemoveClaim" alt="" coords="266,1053,433,1095"/>
+<area shape="rect" id="node27" href="$d3/d9a/classservices_1_1_connection_serial.html#a197a821b97a604c09cdbe22e1a9e53f1" title="services::ConnectionSerial\l::SendStreamFilled" alt="" coords="262,1119,437,1160"/>
+<area shape="rect" id="node28" href="$d7/d8f/classhal_1_1_timer_service_bsd.html#a6cad4d6f63d52b0eb822c9262b340351" title="hal::TimerServiceBsd\l::WaitForTrigger" alt="" coords="277,1184,421,1225"/>
+<area shape="rect" id="node30" href="$d1/d79/classhal_1_1_timer_service_win.html#ab1bb01d8405ab7b2634952c09a04e249" title="hal::TimerServiceWin\l::WaitForTrigger" alt="" coords="277,1249,421,1291"/>
+<area shape="rect" id="node32" href="$df/d28/classservices_1_1_flash_spi.html#a565d63c057e750b2c5703b83e2987e0d" title="services::FlashSpi\l::WriteBuffer" alt="" coords="285,1315,413,1356"/>
+<area shape="rect" id="node33" href="$d0/db3/classservices_1_1_flash_quad_spi.html#a9e190d022eb9d8fc0f88e89160f89b0f" title="services::FlashQuadSpi\l::WriteBufferSequence" alt="" coords="270,1380,429,1421"/>
+<area shape="rect" id="node35" href="$d4/d36/classservices_1_1_cyclic_store.html#a08dbba8a0aaac53dc54133f23475c423" title="services::CyclicStore\l::WriteRange" alt="" coords="277,1445,421,1487"/>
+<area shape="rect" id="node4" href="$d3/d9a/classservices_1_1_connection_serial.html#af51ecce8f4a73a4b8bda835e83e96588" title="services::ConnectionSerial\l::RequestSendStream" alt="" coords="519,39,693,80"/>
+<area shape="rect" id="node5" href="$d3/d9a/classservices_1_1_connection_serial.html#a917bfc2884788b187ec8f1e533f0c788" title="services::ConnectionSerial\l::SendStreamAllocatable" alt="" coords="519,104,693,145"/>
+<area shape="rect" id="node13" href="$d1/d3f/classservices_1_1_datagram_bsd.html#ab7a4b207514941e4eb588be4f8f0ed7f" title="services::DatagramBsd\l::DatagramBsd" alt="" coords="528,528,684,569"/>
+<area shape="rect" id="node15" href="$d2/d7b/classservices_1_1_datagram_win.html#a62a0f8b7fde4709242ab5693e5386e3b" title="services::DatagramWin\l::DatagramWin" alt="" coords="528,593,684,635"/>
+<area shape="rect" id="node17" href="$d4/dbc/classservices_1_1_name_lookup_bsd.html#a43cc90c11b3626246f5e45b35e4a4188" title="services::NameLookupBsd::Run" alt="" coords="503,666,709,693"/>
+<area shape="rect" id="node18" href="$d4/dbc/classservices_1_1_name_lookup_bsd.html#a9a05ffa0533c664fc7d39b5122e43da3" title="services::NameLookupBsd\l::NameLookupBsd" alt="" coords="757,659,933,700"/>
+<area shape="rect" id="node20" href="$d8/dbd/classservices_1_1_name_lookup_win.html#a94bebcaf572453651531050398cb47d8" title="services::NameLookupWin::Run" alt="" coords="503,731,709,758"/>
+<area shape="rect" id="node21" href="$d8/dbd/classservices_1_1_name_lookup_win.html#ae00677ab7da6b7f7e2aba8eef6804504" title="services::NameLookupWin\l::NameLookupWin" alt="" coords="757,724,933,765"/>
+<area shape="rect" id="node29" href="$d7/d8f/classhal_1_1_timer_service_bsd.html#a7c5aaa118c30ecd78d358acf09e87479" title="hal::TimerServiceBsd\l::TimerServiceBsd" alt="" coords="534,1184,678,1225"/>
+<area shape="rect" id="node31" href="$d1/d79/classhal_1_1_timer_service_win.html#ae48d7518770ff8663f7c8dab08a6cf78" title="hal::TimerServiceWin\l::TimerServiceWin" alt="" coords="534,1249,678,1291"/>
+<area shape="rect" id="node34" href="$d0/db3/classservices_1_1_flash_quad_spi.html#a3ff6a6b4dc7fa4f07ff1dc03d9292f33" title="services::FlashQuadSpi\l::WriteBuffer" alt="" coords="527,1380,685,1421"/>
+<area shape="rect" id="node36" href="$d4/d36/classservices_1_1_cyclic_store.html#a6831a59811174b5a79616e69b555ef12" title="services::CyclicStore::Add" alt="" coords="519,1453,693,1479"/>
+<area shape="rect" id="node37" href="$d4/d36/classservices_1_1_cyclic_store.html#a7aeab26acd5d9c4df8de0dd8eceb6af8" title="services::CyclicStore\l::AddPartial" alt="" coords="773,1445,917,1487"/>
+</map>

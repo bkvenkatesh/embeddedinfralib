@@ -1,0 +1,8 @@
+<map id="services::SynchronousFlashSpi" name="services::SynchronousFlashSpi">
+<area shape="rect" id="node2" href="$de/d9c/classhal_1_1_synchronous_flash_homogeneous.html" title="hal::SynchronousFlashHomogeneous" alt="" coords="337,5,576,32"/>
+<area shape="rect" id="node3" href="$d5/dff/classhal_1_1_synchronous_flash.html" title="hal::SynchronousFlash" alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node8" href="$dc/dec/structservices_1_1_synchronous_flash_spi_config.html" title="services::SynchronousFlash\lSpiConfig" alt="" coords="364,178,549,219"/>
+<area shape="rect" id="node5" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; const uint8_t \&gt;" alt="" coords="387,243,526,285"/>
+<area shape="rect" id="node7" href="$d9/dad/classhal_1_1_synchronous_spi.html" title="hal::SynchronousSpi" alt="" coords="385,309,528,336"/>
+<area shape="rect" id="node10" href="$df/d0d/structservices_1_1_synchronous_flash_spi_1_1_instruction_and_address.html" title="services::SynchronousFlash\lSpi::InstructionAndAddress" alt="" coords="364,526,549,567"/>
+</map>

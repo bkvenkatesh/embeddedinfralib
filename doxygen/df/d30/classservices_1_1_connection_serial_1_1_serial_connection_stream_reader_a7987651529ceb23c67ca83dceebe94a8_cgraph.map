@@ -1,0 +1,5 @@
+<map id="services::ConnectionSerial::SerialConnectionStreamReader::PeekContiguousRange" name="services::ConnectionSerial::SerialConnectionStreamReader::PeekContiguousRange">
+<area shape="rect" id="node2" href="$d5/db7/classinfra_1_1_bounded_deque.html#a11e8b6093e259d16920cdcd2b83999c4" title="infra::BoundedDeque\l::begin" alt="" coords="264,5,407,47"/>
+<area shape="rect" id="node3" href="$d5/db7/classinfra_1_1_bounded_deque.html#ae7bdbe1764e9168b674e51e2c1ea973c" title="infra::BoundedDeque\l::contiguous_range" alt="" coords="264,71,407,112"/>
+<area shape="rect" id="node4" href="$d5/db7/classinfra_1_1_bounded_deque.html#ac32cda72da6791ea7b4e2244b84c09d4" title="infra::BoundedDeque\l::size" alt="" coords="264,136,407,177"/>
+</map>

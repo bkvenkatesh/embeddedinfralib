@@ -1,0 +1,12 @@
+<map id="services::HttpClientJson::StatusAvailable" name="services::HttpClientJson::StatusAvailable">
+<area shape="rect" id="node2" href="$db/dae/classservices_1_1_http_client_basic.html#a5dddcabc1a37c6c9d218e3707de51c67" title="services::HttpClientBasic\l::ContentError" alt="" coords="215,78,381,119"/>
+<area shape="rect" id="node3" href="$db/dae/classservices_1_1_http_client_basic.html#a7546f777efacb9d02ebfda4164526bda" title="services::HttpClientBasic\l::Close" alt="" coords="429,78,596,119"/>
+<area shape="rect" id="node4" href="$dc/d4c/classinfra_1_1_single_observer.html#aec7e28f414f104d93f5e4adcc2d6774b" title="infra::SingleObserver\l\&lt; HttpClientObserver,\l HttpClient \&gt;::Attached" alt="" coords="644,5,799,61"/>
+<area shape="rect" id="node5" href="$d5/da5/classinfra_1_1_timer.html#abf5658fb078dc1dad0705a7791f7b84c" title="infra::Timer::Cancel" alt="" coords="654,85,789,112"/>
+<area shape="rect" id="node11" href="$dc/d4c/classinfra_1_1_single_observer.html#abb13c69cc61182baf350ff1736fa772e" title="infra::SingleObserver\l\&lt; HttpClientObserver,\l HttpClient \&gt;::Subject" alt="" coords="648,136,795,192"/>
+<area shape="rect" id="node6" href="$d5/da5/classinfra_1_1_timer.html#a11b396e8d4300da06b8ce83624991b73" title="infra::Timer::Convert" alt="" coords="865,60,1003,87"/>
+<area shape="rect" id="node7" href="$d5/da5/classinfra_1_1_timer.html#a2b0bc71ca10c69d01f4965c576af73fd" title="infra::Timer::UnregisterSelf" alt="" coords="847,111,1021,137"/>
+<area shape="rect" id="node8" href="$da/def/classinfra_1_1_timer_service.html#a51f86cbeef8dc4866c087b68c24635d8" title="infra::TimerService\l::UnregisterTimer" alt="" coords="1069,103,1197,145"/>
+<area shape="rect" id="node9" href="$da/def/classinfra_1_1_timer_service.html#afb8a6ef3ee5ba728f1a8f232514bad8c" title="infra::TimerService\l::ComputeNextTrigger" alt="" coords="1245,103,1393,145"/>
+<area shape="rect" id="node10" href="$da/def/classinfra_1_1_timer_service.html#a6ae66196dc18d8b383ba5e0f0b6f22fa" title="infra::TimerService\l::NextTriggerChanged" alt="" coords="1441,103,1588,145"/>
+</map>

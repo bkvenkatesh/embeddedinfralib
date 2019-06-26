@@ -1,0 +1,12 @@
+<map id="services::ConnectionWin::Receive" name="services::ConnectionWin::Receive">
+<area shape="rect" id="node2" href="$d5/db7/classinfra_1_1_bounded_deque.html#a5a35a0944e4ed13a840c6be08aa1761c" title="infra::BoundedDeque::end" alt="" coords="257,5,428,32"/>
+<area shape="rect" id="node3" href="$d5/db7/classinfra_1_1_bounded_deque.html#ac5bf03d3538657af1663cec133161225" title="infra::BoundedDeque\l::full" alt="" coords="271,57,414,98"/>
+<area shape="rect" id="node4" href="$d5/db7/classinfra_1_1_bounded_deque.html#ada9c4e05fa965d4d57f3f2faf93c8838" title="infra::BoundedDeque\l::insert" alt="" coords="271,122,414,163"/>
+<area shape="rect" id="node5" href="$d3/d0e/classinfra_1_1_interface_connector.html#aed1d9e952d3d0dfa68e59ee4e868b380" title="infra::InterfaceConnector\l\&lt; EventDispatcherWithWeakPtrWorker\l \&gt;::Instance" alt="" coords="219,188,467,244"/>
+<area shape="rect" id="node6" href="$d5/db7/classinfra_1_1_bounded_deque.html#a092bec48cdf6aeba4065e1c9c44f37cd" title="infra::BoundedDeque\l::max_size" alt="" coords="271,269,414,310"/>
+<area shape="rect" id="node7" href="$d0/dde/classservices_1_1_connection.html#ae93c3fdf056fd6e66613fd384a365fde" title="services::Connection\l::ResetOwnership" alt="" coords="271,334,414,375"/>
+<area shape="rect" id="node8" href="$de/d88/classinfra_1_1_event_dispatcher_with_weak_ptr_worker.html#a0444150202eeeeb51399634d6e24b13b" title="infra::EventDispatcherWith\lWeakPtrWorker::Schedule" alt="" coords="254,399,431,441"/>
+<area shape="rect" id="node10" href="$dd/df1/classinfra_1_1_enable_shared_from_this.html#af905d6b4aef4f252a28b1f4edebc99b3" title="infra::EnableSharedFromThis\l\&lt; ConnectionWin \&gt;::SharedFromThis" alt="" coords="224,465,461,506"/>
+<area shape="rect" id="node11" href="$d5/db7/classinfra_1_1_bounded_deque.html#ac32cda72da6791ea7b4e2244b84c09d4" title="infra::BoundedDeque\l::size" alt="" coords="271,530,414,571"/>
+<area shape="rect" id="node9" href="$de/d88/classinfra_1_1_event_dispatcher_with_weak_ptr_worker.html#ac68250c0670ca6c8c2bfadb6cdbadff7" title="infra::EventDispatcherWith\lWeakPtrWorker::RequestExecution" alt="" coords="515,399,744,441"/>
+</map>

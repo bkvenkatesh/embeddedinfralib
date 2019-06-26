@@ -1,0 +1,4 @@
+<map id="infra::StreamReaderWithRewinding::Rewind" name="infra::StreamReaderWithRewinding::Rewind">
+<area shape="rect" id="node2" href="$d1/d68/classservices_1_1_http_client_impl_1_1_http_response_parser.html#a0a3548eaeba6fbb9da20db77122292e4" title="services::HttpClientImpl\l::HttpResponseParser::ParseHeaders" alt="" coords="283,5,523,47"/>
+<area shape="rect" id="node3" href="$d1/d68/classservices_1_1_http_client_impl_1_1_http_response_parser.html#a03728efaf9cbc991702311c178f460e9" title="services::HttpClientImpl\l::HttpResponseParser::ParseStatusLine" alt="" coords="276,71,531,112"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="services::NameResolverResult::Hostname" name="services::NameResolverResult::Hostname">
+<area shape="rect" id="node2" href="$d4/dbc/classservices_1_1_name_lookup_bsd.html#ae2b6d6cf69286121cb2bab00aadbfbe9" title="services::NameLookupBsd\l::LookupIPv4" alt="" coords="261,5,437,47"/>
+<area shape="rect" id="node5" href="$d8/dbd/classservices_1_1_name_lookup_win.html#afcf5c4d0f1af787356c6af874c8d0541" title="services::NameLookupWin\l::LookupIPv4" alt="" coords="261,71,437,112"/>
+<area shape="rect" id="node8" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#acf7510ed181dff53bc67837c490b6062" title="services::NameResolverCache\l::NameLookupSuccess" alt="" coords="251,136,448,177"/>
+<area shape="rect" id="node9" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#ab7141f612bda1a9d19040d37b6a74cbe" title="services::NameResolverCache\l::SearchCache" alt="" coords="251,201,448,243"/>
+<area shape="rect" id="node3" href="$d4/dbc/classservices_1_1_name_lookup_bsd.html#a43cc90c11b3626246f5e45b35e4a4188" title="services::NameLookupBsd::Run" alt="" coords="496,13,703,39"/>
+<area shape="rect" id="node4" href="$d4/dbc/classservices_1_1_name_lookup_bsd.html#a9a05ffa0533c664fc7d39b5122e43da3" title="services::NameLookupBsd\l::NameLookupBsd" alt="" coords="751,5,927,47"/>
+<area shape="rect" id="node6" href="$d8/dbd/classservices_1_1_name_lookup_win.html#a94bebcaf572453651531050398cb47d8" title="services::NameLookupWin::Run" alt="" coords="496,78,703,105"/>
+<area shape="rect" id="node7" href="$d8/dbd/classservices_1_1_name_lookup_win.html#ae00677ab7da6b7f7e2aba8eef6804504" title="services::NameLookupWin\l::NameLookupWin" alt="" coords="751,71,927,112"/>
+<area shape="rect" id="node10" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#abc352a890afcb36ba7bfe88c9e040ed5" title="services::NameResolverCache\l::Lookup" alt="" coords="501,201,698,243"/>
+</map>

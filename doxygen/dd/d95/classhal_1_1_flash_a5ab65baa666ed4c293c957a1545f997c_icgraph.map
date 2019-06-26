@@ -1,0 +1,17 @@
+<map id="hal::Flash::ReadBuffer" name="hal::Flash::ReadBuffer">
+<area shape="rect" id="node2" href="$d8/db5/classapplication_1_1_deploy_pack_to_external.html#a266ba4b3faeea4ab1efca546279509cd" title="application::DeployPackTo\lExternal::DeployPackToExternal" alt="" coords="204,5,415,47"/>
+<area shape="rect" id="node3" href="$d4/d36/classservices_1_1_cyclic_store.html#a9a8d58930d91d2606ce40f651da398bb" title="services::CyclicStore\l::EraseSectorIfAtStart" alt="" coords="235,479,384,520"/>
+<area shape="rect" id="node6" href="$d6/d25/classservices_1_1_flash_region.html#ad5eb24ddaa06aebeecb0a3399ff2de27" title="services::FlashRegion\l::ReadBuffer" alt="" coords="235,136,384,177"/>
+<area shape="rect" id="node7" href="$d7/d35/classservices_1_1_tracing_flash.html#aef065129a5911ba49726eec5fc37a8bf" title="services::TracingFlash\l::ReadBuffer" alt="" coords="234,201,385,243"/>
+<area shape="rect" id="node8" href="$d8/d5b/classservices_1_1_flash_multiple_access_master.html#a7b2040abb0a2b76c13725e9964211b0f" title="services::FlashMultipleAccess\lMaster::ReadBuffer" alt="" coords="210,71,409,112"/>
+<area shape="rect" id="node10" href="$db/dce/classservices_1_1_flash_delayed_init.html#a9c3187a4f69c6f199969265725ff711e" title="services::FlashDelayedInit\l::ReadBuffer" alt="" coords="223,348,396,389"/>
+<area shape="rect" id="node11" href="$db/d26/classservices_1_1_configuration_blob_impl.html#a9889a45472556ca301dac5956520fda3" title="services::ConfigurationBlob\lImpl::Recover" alt="" coords="220,413,399,455"/>
+<area shape="rect" id="node12" href="$d4/d36/classservices_1_1_cyclic_store.html#aad16c79a455a56877863b2828a03a22b" title="services::CyclicStore\l::RecoverEndAddress" alt="" coords="236,544,383,585"/>
+<area shape="rect" id="node15" href="$d4/d36/classservices_1_1_cyclic_store.html#a7b83c7433db716af9eedc8b4b56e2c17" title="services::CyclicStore\l::RecoverSector" alt="" coords="237,609,381,651"/>
+<area shape="rect" id="node16" href="$d4/d36/classservices_1_1_cyclic_store.html#ad6ae3d3b0cade2999ee863bee7740db4" title="services::CyclicStore\l::WriteSectorStatusIfAtStart\lOfSector" alt="" coords="217,267,401,323"/>
+<area shape="rect" id="node4" href="$d4/d36/classservices_1_1_cyclic_store.html#a6831a59811174b5a79616e69b555ef12" title="services::CyclicStore::Add" alt="" coords="475,385,649,411"/>
+<area shape="rect" id="node5" href="$d4/d36/classservices_1_1_cyclic_store.html#a7aeab26acd5d9c4df8de0dd8eceb6af8" title="services::CyclicStore\l::AddPartial" alt="" coords="709,377,853,419"/>
+<area shape="rect" id="node9" href="$db/d9d/classservices_1_1_flash_multiple_access.html#a52feaf0b702b3b4a27ac261061fa8628" title="services::FlashMultipleAccess\l::ReadBuffer" alt="" coords="463,71,661,112"/>
+<area shape="rect" id="node13" href="$d4/d36/classservices_1_1_cyclic_store.html#a5b397293a572ce5d6d3144f0d284770f" title="services::CyclicStore\l::Recover" alt="" coords="490,576,634,617"/>
+<area shape="rect" id="node14" href="$d4/d36/classservices_1_1_cyclic_store.html#a6a29c761506bd86c65acb03b1a717e9a" title="services::CyclicStore\l::CyclicStore" alt="" coords="709,576,853,617"/>
+</map>

@@ -1,0 +1,18 @@
+digraph "hal::CleanFlashMock::CleanFlashMock"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node2 [label="hal::CleanFlashMock\l::CleanFlashMock",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hal::Flash::AddressOfSector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d95/classhal_1_1_flash.html#a57e55c9b32c2eacb23e8a4e9dcb3133f"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="infra::Lambda",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/de3/namespaceinfra.html#ad3c6bd8ed52c76540399aec31f6159d7"];
+  Node2 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="hal::Flash::NumberOfSectors",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d95/classhal_1_1_flash.html#a95a53addc25efb18fe295f5124c29a25"];
+  Node2 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hal::Flash::SectorOfAddress",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d95/classhal_1_1_flash.html#a8fdc674c7384cdfb555cad2201848751"];
+  Node2 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hal::Flash::SizeOfSector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d95/classhal_1_1_flash.html#aa68cb41a2cbe038e3bff43597665ff79"];
+}

@@ -1,0 +1,7 @@
+<map id="services::NameResolverCache::TryResolveNext" name="services::NameResolverCache::TryResolveNext">
+<area shape="rect" id="node2" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#abc352a890afcb36ba7bfe88c9e040ed5" title="services::NameResolverCache\l::Lookup" alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node3" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#a305b317d2e9c12c41b6620185e61e8e1" title="services::NameResolverCache\l::NameLookupDone" alt="" coords="251,71,448,112"/>
+<area shape="rect" id="node4" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#ac6156bc4cc11655f69b747d66be6e2e8" title="services::NameResolverCache\l::NameLookupCancelled" alt="" coords="496,5,693,47"/>
+<area shape="rect" id="node5" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#a284f1785bb30775e050c62eb61b4a63d" title="services::NameResolverCache\l::NameLookupFailed" alt="" coords="496,71,693,112"/>
+<area shape="rect" id="node6" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#acf7510ed181dff53bc67837c490b6062" title="services::NameResolverCache\l::NameLookupSuccess" alt="" coords="496,136,693,177"/>
+</map>

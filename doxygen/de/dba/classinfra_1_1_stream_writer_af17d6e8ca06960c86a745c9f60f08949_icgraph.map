@@ -1,0 +1,21 @@
+<map id="infra::StreamWriter::ConstructSaveMarker" name="infra::StreamWriter::ConstructSaveMarker">
+<area shape="rect" id="node2" href="$d6/d97/classinfra_1_1_output_stream.html#a206389ce4c805263bd5b70c5bfe84a26" title="infra::OutputStream\l::SaveMarker" alt="" coords="208,185,343,226"/>
+<area shape="rect" id="node3" href="$d2/d1b/classinfra_1_1_proto_length_delimited_formatter.html#ad247ee660181cda6625da2ccf1ef6b11" title="infra::ProtoLengthDelimited\lFormatter::ProtoLengthDelimited\lFormatter" alt="" coords="391,5,601,61"/>
+<area shape="rect" id="node4" href="$db/dc0/classinfra_1_1_asn1_formatter.html#a431d7bf9494f31039208dabf07e81574" title="infra::Asn1Formatter\l::StartBitString" alt="" coords="426,86,566,127"/>
+<area shape="rect" id="node5" href="$db/dc0/classinfra_1_1_asn1_formatter.html#aefe45b742ca0862df39a4ec8cbd2fefe" title="infra::Asn1Formatter\l::StartContextSpecific" alt="" coords="421,151,571,193"/>
+<area shape="rect" id="node6" href="$db/dc0/classinfra_1_1_asn1_formatter.html#a9a12f4e6e52acc290d02deb03de934e2" title="infra::Asn1Formatter\l::StartSequence" alt="" coords="426,217,566,258"/>
+<area shape="rect" id="node11" href="$db/dc0/classinfra_1_1_asn1_formatter.html#a2bd0f8e3cd66dcc1deed08e60bfe06de" title="infra::Asn1Formatter\l::StartSet" alt="" coords="426,282,566,323"/>
+<area shape="rect" id="node12" href="$d9/dce/classservices_1_1_http_response.html#a2bdfd05b582453e0ba050dfa18009be7" title="services::HttpResponse\l::WriteResponse" alt="" coords="417,347,575,389"/>
+<area shape="rect" id="node7" href="$df/d23/classservices_1_1_certificates_mbed_tls.html#a63f4477d0889d479f476070910087cef" title="services::CertificatesMbed\lTls::WriteOwnCertificate" alt="" coords="914,217,1089,258"/>
+<area shape="rect" id="node8" href="$df/d23/classservices_1_1_certificates_mbed_tls.html#a5705b4ef4325d0b778078e6761e35fec" title="services::CertificatesMbed\lTls::WritePrivateKey" alt="" coords="663,151,838,193"/>
+<area shape="rect" id="node9" href="$df/d23/classservices_1_1_certificates_mbed_tls.html#a60975eeeeaf6a805df536a7d167270af" title="services::CertificatesMbed\lTls::X509AddAlgorithm" alt="" coords="663,217,838,258"/>
+<area shape="rect" id="node10" href="$df/d23/classservices_1_1_certificates_mbed_tls.html#a2a4620eb2357d703d8166932662f2445" title="services::CertificatesMbed\lTls::X509AddName" alt="" coords="663,282,838,323"/>
+<area shape="rect" id="node13" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a48786ed298c958e0c90a861ab09f01b2" title="services::HttpServerConnection\lObserver::SendResponse" alt="" coords="649,347,852,389"/>
+<area shape="rect" id="node14" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#afd24d585e0b90fc44643244b0712f92f" title="services::HttpServerConnection\lObserver::ReceivedTooMuchData" alt="" coords="1151,289,1364,330"/>
+<area shape="rect" id="node17" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a54d34389a1f80059a349bfb5b5f273dc" title="services::HttpServerConnection\lObserver::TryHandleRequest" alt="" coords="1412,347,1615,389"/>
+<area shape="rect" id="node19" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a9d0c9926c69222f44621afb71304247d" title="services::HttpServerConnection\lObserver::ServePage" alt="" coords="900,406,1103,447"/>
+<area shape="rect" id="node15" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a3c5cabea13da6e140280b1b8c77244b3" title="services::HttpServerConnection\lObserver::DataReceived" alt="" coords="1913,318,2116,359"/>
+<area shape="rect" id="node16" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a579fc75f469c5b79141187fc04dbf74c" title="services::HttpServerConnection\lObserver::SendStreamAvailable" alt="" coords="2164,318,2368,359"/>
+<area shape="rect" id="node18" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a6213f7b12f5fb1c0ddbabdb859ddca0a" title="services::HttpServerConnection\lObserver::ReceivedRequest" alt="" coords="1663,347,1865,389"/>
+<area shape="rect" id="node20" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a52e5c280fabbed909272946c730d6aff" title="services::HttpServerConnection\lObserver::HandleRequest" alt="" coords="1156,406,1359,447"/>
+</map>

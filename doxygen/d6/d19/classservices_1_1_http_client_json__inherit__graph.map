@@ -1,0 +1,7 @@
+<map id="services::HttpClientJson" name="services::HttpClientJson">
+<area shape="rect" id="node2" href="$db/dae/classservices_1_1_http_client_basic.html" title="services::HttpClientBasic" alt="" coords="473,57,640,84"/>
+<area shape="rect" id="node3" href="$d3/db1/classservices_1_1_http_client_observer.html" title="services::HttpClientObserver" alt="" coords="240,25,425,52"/>
+<area shape="rect" id="node4" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; HttpClientObserver,\l HttpClient \&gt;" alt="" coords="25,5,172,61"/>
+<area shape="rect" id="node5" href="$d9/d25/classservices_1_1_http_client_observer_factory.html" title="services::HttpClientObserver\lFactory" alt="" coords="240,82,425,123"/>
+<area shape="rect" id="node6" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; HttpClientObserverFactory\l \&gt;::NodeType" alt="" coords="5,85,192,141"/>
+</map>

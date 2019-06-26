@@ -1,0 +1,7 @@
+<map id="hal::I2cMaster::SendData" name="hal::I2cMaster::SendData">
+<area shape="rect" id="node2" href="$da/dea/classhal_1_1_i2c_master_register_access.html#a3e32561d4c8528fd4517934589b05aa1" title="hal::I2cMasterRegisterAccess\l::ReadRegister" alt="" coords="223,5,419,47"/>
+<area shape="rect" id="node3" href="$de/d17/classservices_1_1_i2c_multiple_access_master.html#a13868de3dab049a8c449317b490ff928" title="services::I2cMultipleAccess\lMaster::SendData" alt="" coords="229,71,412,112"/>
+<area shape="rect" id="node6" href="$da/dea/classhal_1_1_i2c_master_register_access.html#a7afbe88ff80644dd7c566b642aa74843" title="hal::I2cMasterRegisterAccess\l::WriteRegister" alt="" coords="223,136,419,177"/>
+<area shape="rect" id="node4" href="$d3/dda/classservices_1_1_i2c_multiple_access.html#aa3b4e20bf507918669973bc14d66b9a8" title="services::I2cMultipleAccess\l::SendDataOnClaimed" alt="" coords="467,71,649,112"/>
+<area shape="rect" id="node5" href="$d3/dda/classservices_1_1_i2c_multiple_access.html#acc5e509101c8e830c4c8fa791aa97dc0" title="services::I2cMultipleAccess\l::SendData" alt="" coords="697,71,880,112"/>
+</map>

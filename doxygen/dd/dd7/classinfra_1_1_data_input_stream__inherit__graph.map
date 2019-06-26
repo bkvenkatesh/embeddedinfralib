@@ -1,0 +1,17 @@
+<map id="infra::DataInputStream" name="infra::DataInputStream">
+<area shape="rect" id="node3" href="$d6/deb/classinfra_1_1_data_input_stream_1_1_with_error_policy.html" title="infra::DataInputStream\l::WithErrorPolicy" alt="" coords="424,5,575,47"/>
+<area shape="rect" id="node4" href="$d8/def/classinfra_1_1_data_input_stream_1_1_with_reader.html" title="infra::DataInputStream\l::WithReader\&lt; TheReader \&gt;" alt="" coords="407,71,591,112"/>
+<area shape="rect" id="node5" href="$d8/def/classinfra_1_1_data_input_stream_1_1_with_reader.html" title="infra::DataInputStream\l::WithReader\&lt; BoundedDequeInput\lStreamReader \&gt;" alt="" coords="386,137,613,193"/>
+<area shape="rect" id="node7" href="$d8/def/classinfra_1_1_data_input_stream_1_1_with_reader.html" title="infra::DataInputStream\l::WithReader\&lt; ByteInputStream\lReader \&gt;" alt="" coords="396,217,603,273"/>
+<area shape="rect" id="node9" href="$d8/def/classinfra_1_1_data_input_stream_1_1_with_reader.html" title="infra::DataInputStream\l::WithReader\&lt; CountingStream\lReader \&gt;" alt="" coords="398,297,601,353"/>
+<area shape="rect" id="node11" href="$d8/def/classinfra_1_1_data_input_stream_1_1_with_reader.html" title="infra::DataInputStream\l::WithReader\&lt; LimitedStreamReader \&gt;" alt="" coords="376,377,623,419"/>
+<area shape="rect" id="node13" href="$d8/def/classinfra_1_1_data_input_stream_1_1_with_reader.html" title="infra::DataInputStream\l::WithReader\&lt; StdVectorInput\lStreamReader \&gt;" alt="" coords="401,443,597,499"/>
+<area shape="rect" id="node15" href="$d8/def/classinfra_1_1_data_input_stream_1_1_with_reader.html" title="infra::DataInputStream\l::WithReader\&lt; TracingStreamReader \&gt;" alt="" coords="376,524,623,565"/>
+<area shape="rect" id="node2" href="$db/dda/classinfra_1_1_input_stream.html" title="infra::InputStream" alt="" coords="5,271,129,298"/>
+<area shape="rect" id="node6" href="$d4/d83/classinfra_1_1_bounded_deque_input_stream.html" title="infra::BoundedDequeInput\lStream" alt="" coords="682,144,853,185"/>
+<area shape="rect" id="node8" href="$d7/d19/classinfra_1_1_byte_input_stream.html" title="infra::ByteInputStream" alt="" coords="692,231,843,258"/>
+<area shape="rect" id="node10" href="$df/db7/classinfra_1_1_counting_data_input_stream.html" title="infra::CountingDataInput\lStream" alt="" coords="687,304,847,345"/>
+<area shape="rect" id="node12" href="$dc/da9/classinfra_1_1_limited_data_input_stream.html" title="infra::LimitedDataInputStream" alt="" coords="671,385,864,411"/>
+<area shape="rect" id="node14" href="$dd/d82/classinfra_1_1_std_vector_input_stream.html" title="infra::StdVectorInputStream" alt="" coords="676,458,859,485"/>
+<area shape="rect" id="node16" href="$dc/dfd/classservices_1_1_tracing_input_stream.html" title="services::TracingInputStream" alt="" coords="673,531,862,558"/>
+</map>

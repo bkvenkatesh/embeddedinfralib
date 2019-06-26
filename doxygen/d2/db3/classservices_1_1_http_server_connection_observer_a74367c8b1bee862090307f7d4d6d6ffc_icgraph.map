@@ -1,0 +1,8 @@
+<map id="services::HttpServerConnectionObserver::ReceivedHttpRequest" name="services::HttpServerConnectionObserver::ReceivedHttpRequest">
+<area shape="rect" id="node2" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#ad9ee8e60b54a215cd8edec275193b645" title="services::HttpServerConnection\lObserver::RequestIsNowInProgress" alt="" coords="259,5,485,47"/>
+<area shape="rect" id="node3" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a52e5c280fabbed909272946c730d6aff" title="services::HttpServerConnection\lObserver::HandleRequest" alt="" coords="533,5,736,47"/>
+<area shape="rect" id="node4" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a54d34389a1f80059a349bfb5b5f273dc" title="services::HttpServerConnection\lObserver::TryHandleRequest" alt="" coords="784,5,987,47"/>
+<area shape="rect" id="node5" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a6213f7b12f5fb1c0ddbabdb859ddca0a" title="services::HttpServerConnection\lObserver::ReceivedRequest" alt="" coords="1035,5,1237,47"/>
+<area shape="rect" id="node6" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a3c5cabea13da6e140280b1b8c77244b3" title="services::HttpServerConnection\lObserver::DataReceived" alt="" coords="1285,5,1488,47"/>
+<area shape="rect" id="node7" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a579fc75f469c5b79141187fc04dbf74c" title="services::HttpServerConnection\lObserver::SendStreamAvailable" alt="" coords="1536,5,1740,47"/>
+</map>

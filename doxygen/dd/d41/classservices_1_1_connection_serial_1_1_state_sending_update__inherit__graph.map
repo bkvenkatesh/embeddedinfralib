@@ -1,0 +1,5 @@
+<map id="services::ConnectionSerial::StateSendingUpdate" name="services::ConnectionSerial::StateSendingUpdate">
+<area shape="rect" id="node2" href="$dc/d3d/classservices_1_1_connection_serial_1_1_state_sending.html" title="services::ConnectionSerial\l::StateSending" alt="" coords="5,184,180,225"/>
+<area shape="rect" id="node3" href="$d2/d3d/classservices_1_1_connection_serial_1_1_state_connected.html" title="services::ConnectionSerial\l::StateConnected" alt="" coords="5,95,180,136"/>
+<area shape="rect" id="node4" href="$d6/dcc/classservices_1_1_connection_serial_1_1_state.html" title="services::ConnectionSerial\l::State" alt="" coords="5,5,180,47"/>
+</map>

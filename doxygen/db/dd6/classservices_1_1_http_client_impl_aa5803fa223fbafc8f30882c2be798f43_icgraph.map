@@ -1,0 +1,4 @@
+<map id="services::HttpClientImpl::WriteRequest" name="services::HttpClientImpl::WriteRequest">
+<area shape="rect" id="node2" href="$db/dd6/classservices_1_1_http_client_impl.html#a9bbe9de98aa556cba3337c0d75692f5c" title="services::HttpClientImpl\l::SendStreamAvailable" alt="" coords="221,5,379,47"/>
+<area shape="rect" id="node3" href="$df/d09/classservices_1_1_tracing_http_client_impl.html#a17a4c8c6e500a0483ebfad6df5e2596c" title="services::TracingHttpClient\lImpl::WriteRequest" alt="" coords="212,71,388,112"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="infra::StreamWriterPrintF::Insert" name="infra::StreamWriterPrintF::Insert">
+<area shape="rect" id="node2" href="$d0/de3/namespaceinfra.html#ad2eae6128b7a057916770ee2ccc8945c" title="infra::Copy" alt="" coords="239,27,323,54"/>
+<area shape="rect" id="node4" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="405,71,543,112"/>
+<area shape="rect" id="node5" href="$d0/d6d/classinfra_1_1_memory_range.html#a0dc90caa282524ee9828bf8128e3a569" title="infra::MemoryRange\l::empty" alt="" coords="212,129,351,171"/>
+<area shape="rect" id="node6" href="$d0/de3/namespaceinfra.html#a97dc5194236a205b697e668f00d42353" title="infra::Head" alt="" coords="239,195,323,222"/>
+<area shape="rect" id="node8" href="$d0/d6d/classinfra_1_1_memory_range.html#adf5b31ae0a4ccba88bb4b284935e8a1a" title="infra::MemoryRange\l::pop_front" alt="" coords="212,247,351,288"/>
+<area shape="rect" id="node3" href="$d0/d6d/classinfra_1_1_memory_range.html#a7a83ceae17802af5ecebfb9557912ece" title="infra::MemoryRange\l::begin" alt="" coords="405,5,543,47"/>
+<area shape="rect" id="node7" href="$d0/d6d/classinfra_1_1_memory_range.html#a322f6976f2774c6ba7494b9e27f07624" title="infra::MemoryRange\l::shrink_from_back_to" alt="" coords="399,188,549,229"/>
+</map>

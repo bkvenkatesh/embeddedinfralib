@@ -1,0 +1,18 @@
+digraph "HttpClientTest::HttpClientTest"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="HttpClientTest::HttpClientTest",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="HttpClientTest::Connect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d64/class_http_client_test.html#a8ccf0a4bb57b88f753942a4deb63607e"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="services::HttpClientConnector\lImpl::ConnectionEstablished",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dd2/classservices_1_1_http_client_connector_impl.html#aa905d48d98d1e333514bfa5a2528aa77"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="infra::SingleObserver\l::Attach",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d4c/classinfra_1_1_single_observer.html#a7691ac8d2aa56fb17be6a73d1b47e9b5"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="services::ConnectionObserver\l::Connected",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/de5/classservices_1_1_connection_observer.html#a0d525f5750b4f4d86d8b3b92915491f9"];
+  Node0 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="services::HttpClientConnector\lImpl::Connect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dd2/classservices_1_1_http_client_connector_impl.html#a62cac349dc6f8409cc4d694d56701163"];
+}

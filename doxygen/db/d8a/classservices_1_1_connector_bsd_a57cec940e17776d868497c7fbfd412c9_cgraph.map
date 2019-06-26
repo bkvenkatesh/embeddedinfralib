@@ -1,0 +1,5 @@
+<map id="services::ConnectorBsd::Failed" name="services::ConnectorBsd::Failed">
+<area shape="rect" id="node2" href="$dc/d43/classservices_1_1_client_connection_observer_factory.html#aeb8ac1f73fbabfc10f2c8be8172307cd" title="services::ClientConnection\lObserverFactory::ConnectionFailed" alt="" coords="215,5,440,47"/>
+<area shape="rect" id="node3" href="$d0/d67/classservices_1_1_event_dispatcher_with_network.html#a30e1f5c152104ba9c88e0521c5073172" title="services::EventDispatcher\lWithNetwork::DeregisterConnector" alt="" coords="216,71,439,112"/>
+<area shape="rect" id="node4" href="$dd/df1/classinfra_1_1_enable_shared_from_this.html#af905d6b4aef4f252a28b1f4edebc99b3" title="infra::EnableSharedFromThis\l\&lt; ConnectorBsd \&gt;::SharedFromThis" alt="" coords="212,136,443,177"/>
+</map>

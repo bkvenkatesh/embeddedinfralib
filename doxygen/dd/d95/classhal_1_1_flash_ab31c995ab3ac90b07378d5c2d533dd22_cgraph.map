@@ -1,0 +1,4 @@
+<map id="hal::Flash::EraseAll" name="hal::Flash::EraseAll">
+<area shape="rect" id="node2" href="$dd/d95/classhal_1_1_flash.html#a130f9d9d12cc17700070fc33eb520162" title="hal::Flash::EraseSectors" alt="" coords="201,5,368,32"/>
+<area shape="rect" id="node3" href="$dd/d95/classhal_1_1_flash.html#a95a53addc25efb18fe295f5124c29a25" title="hal::Flash::NumberOfSectors" alt="" coords="189,56,380,83"/>
+</map>

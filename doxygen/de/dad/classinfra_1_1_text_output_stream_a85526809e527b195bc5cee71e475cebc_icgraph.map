@@ -1,0 +1,7 @@
+<map id="infra::TextOutputStream::OutputOptionalPadding" name="infra::TextOutputStream::OutputOptionalPadding">
+<area shape="rect" id="node2" href="$de/dad/classinfra_1_1_text_output_stream.html#ad9a08dad6ccb61560ee3fe4988c46b14" title="infra::TextOutputStream\l::operator\&lt;\&lt;" alt="" coords="217,5,377,47"/>
+<area shape="rect" id="node3" href="$de/dad/classinfra_1_1_text_output_stream.html#a9b627105e14075f43bb5fc5d4ad68471" title="infra::TextOutputStream\l::OutputAsBinary" alt="" coords="217,71,377,112"/>
+<area shape="rect" id="node5" href="$de/dad/classinfra_1_1_text_output_stream.html#a55298d6ae079533b0ba5b3f39864e53d" title="infra::TextOutputStream\l::OutputAsDecimal" alt="" coords="217,136,377,177"/>
+<area shape="rect" id="node6" href="$de/dad/classinfra_1_1_text_output_stream.html#aa1bfa573ef214b73cb1e821d7a3d17e2" title="infra::TextOutputStream\l::OutputAsHexadecimal" alt="" coords="217,201,377,243"/>
+<area shape="rect" id="node4" href="$de/dad/classinfra_1_1_text_output_stream.html#ad5d6120732b9ad9d235c654c7eeb8a78" title="infra::TextOutputStream\l::operator\&lt;\&lt;" alt="" coords="425,136,585,177"/>
+</map>

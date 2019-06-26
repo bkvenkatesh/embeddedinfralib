@@ -1,0 +1,4 @@
+<map id="services::DnsResolver::HostnameParts::Empty" name="services::DnsResolver::HostnameParts::Empty">
+<area shape="rect" id="node2" href="$d5/d9a/classservices_1_1_dns_resolver_1_1_reply_parser.html#a1934eecbc0cf508af672a675098b280d" title="services::DnsResolver\l::ReplyParser::ReadAndMatch\lHostnamePart" alt="" coords="220,5,419,61"/>
+<area shape="rect" id="node3" href="$d5/d9a/classservices_1_1_dns_resolver_1_1_reply_parser.html#a024b65ab82f603cbe52834d663412524" title="services::DnsResolver\l::ReplyParser::ReadAndMatch\lHostnameWithoutReference" alt="" coords="220,85,419,141"/>
+</map>

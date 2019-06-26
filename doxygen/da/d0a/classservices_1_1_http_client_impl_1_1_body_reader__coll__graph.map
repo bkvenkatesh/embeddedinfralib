@@ -1,0 +1,10 @@
+<map id="services::HttpClientImpl::BodyReader" name="services::HttpClientImpl::BodyReader">
+<area shape="rect" id="node2" href="$d1/d17/classinfra_1_1_shared_ptr.html" title="infra::SharedPtr\&lt; infra\l::StreamReaderWithRewinding \&gt;" alt="" coords="856,150,1067,191"/>
+<area shape="rect" id="node3" href="$dd/d9a/classinfra_1_1detail_1_1_shared_ptr_control.html" title="infra::detail::SharedPtr\lControl" alt="" coords="577,77,728,118"/>
+<area shape="rect" id="node6" href="$da/dcd/classinfra_1_1_shared_object_deleter.html" title="infra::SharedObjectDeleter" alt="" coords="221,115,396,141"/>
+<area shape="rect" id="node7" href="$d0/d1b/classinfra_1_1_stream_reader_with_rewinding.html" title="infra::StreamReaderWithRewinding" alt="" coords="541,157,764,184"/>
+<area shape="rect" id="node8" href="$d2/d90/classinfra_1_1_stream_reader.html" title="infra::StreamReader" alt="" coords="240,225,377,252"/>
+<area shape="rect" id="node9" href="$d1/dc1/classinfra_1_1_counting_stream_reader.html" title="infra::CountingStreamReader" alt="" coords="559,395,747,421"/>
+<area shape="rect" id="node14" href="$d9/db6/classinfra_1_1_limited_stream_reader.html" title="infra::LimitedStreamReader" alt="" coords="563,225,742,252"/>
+<area shape="rect" id="node10" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="229,448,389,475"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="infra::InputStream::Reader" name="infra::InputStream::Reader">
+<area shape="rect" id="node2" href="$d0/db4/classinfra_1_1_data_input_stream.html#a95f524fbb8b64a99b0534bcbb0fa5e78" title="infra::DataInputStream\l::operator\&gt;\&gt;" alt="" coords="177,5,328,47"/>
+<area shape="rect" id="node3" href="$d7/d93/classinfra_1_1_text_input_stream.html#a81177021104b578af501153a665750bf" title="infra::TextInputStream\l::operator\&gt;\&gt;" alt="" coords="178,71,327,112"/>
+<area shape="rect" id="node5" href="$d7/d93/classinfra_1_1_text_input_stream.html#a37f8a18ba4c7477ffa9d26b83aa0849d" title="infra::TextInputStream\l::ReadAsDecimal" alt="" coords="376,148,525,189"/>
+<area shape="rect" id="node9" href="$d7/d93/classinfra_1_1_text_input_stream.html#ac76645a4fee308debc716ae6e5a2961a" title="infra::TextInputStream\l::ReadAsHex" alt="" coords="376,236,525,277"/>
+<area shape="rect" id="node11" href="$d7/d93/classinfra_1_1_text_input_stream.html#a9acce538269dafb453bd83f20808a458" title="infra::TextInputStream\l::SkipSpaces" alt="" coords="178,188,327,229"/>
+<area shape="rect" id="node4" href="$d7/d93/classinfra_1_1_text_input_stream.html#a0c4a6602a4104666cb247a15ce1f1a57" title="infra::TextInputStream\l::operator\&gt;\&gt;" alt="" coords="376,71,525,112"/>
+<area shape="rect" id="node6" href="$d7/d93/classinfra_1_1_text_input_stream.html#ac3a7e4a3e77144f3b309730fcd91e570" title="infra::TextInputStream\l::Read" alt="" coords="573,171,723,212"/>
+<area shape="rect" id="node8" href="$d7/d93/classinfra_1_1_text_input_stream.html#a73e0b4b5d322edd1bcd38335442f5f35" title="infra::TextInputStream\l::ReadAsDecimal" alt="" coords="573,105,723,147"/>
+<area shape="rect" id="node7" href="$d7/d93/classinfra_1_1_text_input_stream.html#a8b90f80f1548f6cc603e0807e68b9a78" title="infra::TextInputStream\l::operator\&gt;\&gt;" alt="" coords="771,171,920,212"/>
+<area shape="rect" id="node10" href="$d7/d93/classinfra_1_1_text_input_stream.html#ac6378625d4c4df73b79a7ec22f09994b" title="infra::TextInputStream\l::ReadAsHex" alt="" coords="573,236,723,277"/>
+</map>

@@ -1,0 +1,19 @@
+digraph "DnsResolverTest"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node0 [label="DnsResolverTest",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="testing::TestWithParam\l\< int \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node2 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="infra::ClockFixture",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d73/classinfra_1_1_clock_fixture.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="infra::EventDispatcherWith\lWeakPtrFixture",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d37/classinfra_1_1_event_dispatcher_with_weak_ptr_fixture.html"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="EventDispatcherWithWeakPtr\l::WithSize\< 50 \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/da8/classinfra_1_1_event_dispatcher_with_weak_ptr_1_1_with_size.html"];
+  Node0 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="DnsResolverTestEvenShorter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dc1/class_dns_resolver_test_even_shorter.html"];
+  Node0 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="DnsResolverTestTooShort",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/db0/class_dns_resolver_test_too_short.html"];
+}

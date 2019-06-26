@@ -1,0 +1,5 @@
+<map id="services::HttpServerConnectionObserver::TryHandleRequest" name="services::HttpServerConnectionObserver::TryHandleRequest">
+<area shape="rect" id="node2" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a6213f7b12f5fb1c0ddbabdb859ddca0a" title="services::HttpServerConnection\lObserver::ReceivedRequest" alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node3" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a3c5cabea13da6e140280b1b8c77244b3" title="services::HttpServerConnection\lObserver::DataReceived" alt="" coords="507,5,709,47"/>
+<area shape="rect" id="node4" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a579fc75f469c5b79141187fc04dbf74c" title="services::HttpServerConnection\lObserver::SendStreamAvailable" alt="" coords="757,5,961,47"/>
+</map>

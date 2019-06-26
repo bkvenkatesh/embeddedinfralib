@@ -1,0 +1,4 @@
+<map id="services::DatagramExchange::RequestSendStream" name="services::DatagramExchange::RequestSendStream">
+<area shape="rect" id="node2" href="$da/dac/classservices_1_1_llmnr_responder.html#ab76113d488d6035a4c07a857ea760b38" title="services::LlmnrResponder\l::DataReceived" alt="" coords="244,5,415,47"/>
+<area shape="rect" id="node3" href="$d8/d04/classservices_1_1_sntp_client.html#a996a3adc689174588642cadf3e1cbc82" title="services::SntpClient\l::RequestTime" alt="" coords="261,71,398,112"/>
+</map>

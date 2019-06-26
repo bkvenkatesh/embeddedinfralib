@@ -1,0 +1,4 @@
+<map id="services::HttpServerConnectionObserver::CloseWhenIdle" name="services::HttpServerConnectionObserver::CloseWhenIdle">
+<area shape="rect" id="node2" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a15fda946dfcd1bef1595df4ba747def9" title="services::HttpServerConnection\lObserver::Close" alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node3" href="$d0/dde/classservices_1_1_connection.html#aa46394f498a40168584a97003f31aa22" title="services::Connection\l::CloseAndDestroy" alt="" coords="507,5,649,47"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="infra::Timer::Resolution" name="infra::Timer::Resolution">
+<area shape="rect" id="node2" href="$db/d9e/classinfra_1_1_timer_limited_repeating.html#a9b10d097885e6940c419ddbb62502939" title="infra::TimerLimitedRepeating\l::Start" alt="" coords="208,7,395,48"/>
+<area shape="rect" id="node4" href="$d0/d7e/classinfra_1_1_timer_evolving.html#a5635a0cace39581c32bb3e488f83854c" title="infra::TimerEvolving\l::Start" alt="" coords="235,73,367,115"/>
+<area shape="rect" id="node6" href="$d9/dec/classinfra_1_1_timer_alternating.html#a19acbb208e43bd8cc6bdf6c110830095" title="infra::TimerAlternating\l::Start" alt="" coords="227,140,375,181"/>
+<area shape="rect" id="node8" href="$df/d93/classinfra_1_1_timer_limited_repeating_with_closing_action.html#a260a7dcf1446a2456aa93e8cfccf73f7" title="infra::TimerLimitedRepeating\lWithClosingAction::Start" alt="" coords="208,209,395,251"/>
+<area shape="rect" id="node10" href="$d8/d87/classinfra_1_1_timer_single_shot.html#aa76a7526e88f2818fbc6567db181f24d" title="infra::TimerSingleShot\l::Start" alt="" coords="227,577,376,619"/>
+<area shape="rect" id="node34" href="$d3/d9e/classinfra_1_1_timer_repeating.html#ad2eeb1fcc08e3eab3ceb404e2338597b" title="infra::TimerRepeating\l::Start" alt="" coords="229,1001,373,1043"/>
+<area shape="rect" id="node3" href="$db/d9e/classinfra_1_1_timer_limited_repeating.html#a791dd159790bfc74601eb909ea9594fa" title="infra::TimerLimitedRepeating\l::TimerLimitedRepeating" alt="" coords="455,5,641,47"/>
+<area shape="rect" id="node5" href="$d0/d7e/classinfra_1_1_timer_evolving.html#ab19975502faf4280dc2e25a22f6d6e92" title="infra::TimerEvolving\l::TimerEvolving" alt="" coords="482,71,614,112"/>
+<area shape="rect" id="node7" href="$d9/dec/classinfra_1_1_timer_alternating.html#a159973a5309091eb4f916dd3c80b4650" title="infra::TimerAlternating\l::TimerAlternating" alt="" coords="474,136,622,177"/>
+<area shape="rect" id="node9" href="$df/d93/classinfra_1_1_timer_limited_repeating_with_closing_action.html#ae946a652778084b2413971986f5f0f52" title="infra::TimerLimitedRepeating\lWithClosingAction::TimerLimited\lRepeatingWithClosingAction" alt="" coords="443,202,653,258"/>
+<area shape="rect" id="node11" href="$d1/dfe/classservices_1_1_debounced_button.html#aff73660a88f1c178ca8c7122b89ec584" title="services::DebouncedButton\l::ButtonPressed" alt="" coords="458,283,638,324"/>
+<area shape="rect" id="node14" href="$d1/dfe/classservices_1_1_debounced_button.html#a04ba592736f64e1d65e1f103cfa934f6" title="services::DebouncedButton\l::ButtonReleased" alt="" coords="458,348,638,389"/>
+<area shape="rect" id="node15" href="$db/d9d/classinfra_1_1_derived_timer_service.html#a561871017cf0ba4564f3d2d576d2710e" title="infra::DerivedTimerService\l::NextTriggerChanged" alt="" coords="463,413,633,455"/>
+<area shape="rect" id="node17" href="$d1/d88/classservices_1_1_flash_quad_spi_cypress_fll.html#a90cf929fd86b0302556e665e336f08d0" title="services::FlashQuadSpiCypress\lFll::FlashQuadSpiCypressFll" alt="" coords="445,479,651,520"/>
+<area shape="rect" id="node18" href="$d8/dbe/classservices_1_1_flash_quad_spi_micron_n25q.html#ab936eba5af1f7e92e96d364095237b38" title="services::FlashQuadSpiMicron\lN25q::FlashQuadSpiMicronN25q" alt="" coords="443,544,653,585"/>
+<area shape="rect" id="node19" href="$df/d28/classservices_1_1_flash_spi.html#a84fae0acb54bc7f4841ee1e2c970618f" title="services::FlashSpi\l::HoldWhileWriteInProgress" alt="" coords="457,609,639,651"/>
+<area shape="rect" id="node22" href="$db/dae/classservices_1_1_http_client_basic.html#a1b97214767813f813dee6ee393533e23" title="services::HttpClientBasic\l::ConnectionEstablished" alt="" coords="465,675,631,716"/>
+<area shape="rect" id="node23" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#a94507ff8cefc3037d6695fdc82c827e3" title="services::NameResolverCache\l::Cleanup" alt="" coords="449,740,647,781"/>
+<area shape="rect" id="node27" href="$d0/d08/classservices_1_1_repeating_button.html#a18153734f98c67f2096d641f5fb8d66f" title="services::RepeatingButton\l::ButtonPressed" alt="" coords="461,805,635,847"/>
+<area shape="rect" id="node30" href="$da/dc4/classinfra_1_1_scalable_derived_timer_service.html#a28598eb5eaf5bdf3d3ff98fabe0824ab" title="infra::ScalableDerivedTimer\lService::NextTriggerChanged" alt="" coords="453,871,643,912"/>
+<area shape="rect" id="node33" href="$d8/d87/classinfra_1_1_timer_single_shot.html#aa0fa630e9c4e0d0cecbc5b6ea6dca746" title="infra::TimerSingleShot\l::TimerSingleShot" alt="" coords="473,936,623,977"/>
+<area shape="rect" id="node12" href="$d1/dfe/classservices_1_1_debounced_button.html#a1256f1c824fb2ad839ca74f87622feab" title="services::DebouncedButton\l::ButtonChanged" alt="" coords="710,316,890,357"/>
+<area shape="rect" id="node13" href="$d1/dfe/classservices_1_1_debounced_button.html#aa4d2ea4a1751a1d33ddb65e61ae719b1" title="services::DebouncedButton\l::DebouncedButton" alt="" coords="955,316,1135,357"/>
+<area shape="rect" id="node16" href="$db/d9d/classinfra_1_1_derived_timer_service.html#a757e398797fa31a9637392778a8693d8" title="infra::DerivedTimerService\l::Shift" alt="" coords="715,413,885,455"/>
+<area shape="rect" id="node20" href="$df/d28/classservices_1_1_flash_spi.html#a565d63c057e750b2c5703b83e2987e0d" title="services::FlashSpi\l::WriteBuffer" alt="" coords="736,577,864,619"/>
+<area shape="rect" id="node21" href="$df/d28/classservices_1_1_flash_spi.html#a5b3e05583977f2aebb2cb4b25491390a" title="services::FlashSpi\l::EraseSectors" alt="" coords="736,643,864,684"/>
+<area shape="rect" id="node24" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#a4bea9f7ed8aa9320e48906769a0ad9f6" title="services::NameResolverCache\l::AddToCache" alt="" coords="701,740,899,781"/>
+<area shape="rect" id="node25" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#a8d759a5e4b14b66215080996aed525c0" title="services::NameResolverCache\l::TryAddToCache" alt="" coords="947,740,1144,781"/>
+<area shape="rect" id="node26" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#acf7510ed181dff53bc67837c490b6062" title="services::NameResolverCache\l::NameLookupSuccess" alt="" coords="1192,740,1389,781"/>
+<area shape="rect" id="node28" href="$d0/d08/classservices_1_1_repeating_button.html#af9db5b4934e4610beb5e5071de6c58b7" title="services::RepeatingButton\l::ButtonChanged" alt="" coords="713,805,887,847"/>
+<area shape="rect" id="node29" href="$d0/d08/classservices_1_1_repeating_button.html#aa38e30277c5df615ae1a86617c4127c0" title="services::RepeatingButton\l::RepeatingButton" alt="" coords="959,805,1132,847"/>
+<area shape="rect" id="node31" href="$da/dc4/classinfra_1_1_scalable_derived_timer_service.html#a30e873a4b4cf8cbacf09c1cddd55970b" title="infra::ScalableDerivedTimer\lService::Scale" alt="" coords="711,871,889,912"/>
+<area shape="rect" id="node32" href="$da/dc4/classinfra_1_1_scalable_derived_timer_service.html#a5e73baf089685fb705478e7ad5db4915" title="infra::ScalableDerivedTimer\lService::Shift" alt="" coords="711,936,889,977"/>
+<area shape="rect" id="node35" href="$d3/d9e/classinfra_1_1_timer_repeating.html#aa9d1504266e538abb13f5d8209bc48e6" title="infra::TimerRepeating\l::TimerRepeating" alt="" coords="476,1001,620,1043"/>
+<area shape="rect" id="node36" href="$d3/d9e/classinfra_1_1_timer_repeating.html#a04e65f09da5c159f0a7834c237027cee" title="infra::TimerRepeating\l::Start" alt="" coords="476,1067,620,1108"/>
+</map>

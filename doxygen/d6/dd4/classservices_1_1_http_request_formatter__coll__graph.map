@@ -1,0 +1,8 @@
+<map id="services::HttpRequestFormatter" name="services::HttpRequestFormatter">
+<area shape="rect" id="node2" href="$d2/d40/classinfra_1_1_with_storage.html" title="infra::WithStorage\&lt; 8 \&gt;" alt="" coords="509,43,666,70"/>
+<area shape="rect" id="node3" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; StorageType, 8 \&gt;" alt="" coords="196,5,371,47"/>
+<area shape="rect" id="node6" href="$df/dab/classservices_1_1_http_header.html" title="services::HttpHeader" alt="" coords="516,171,659,198"/>
+<area shape="rect" id="node8" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; services\l::HttpHeader \&gt;" alt="" coords="507,223,668,264"/>
+<area shape="rect" id="node9" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; services::HttpHeader \&gt;" alt="" coords="200,189,367,231"/>
+<area shape="rect" id="node13" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\&lt; T \&gt;" alt="" coords="503,339,672,366"/>
+</map>

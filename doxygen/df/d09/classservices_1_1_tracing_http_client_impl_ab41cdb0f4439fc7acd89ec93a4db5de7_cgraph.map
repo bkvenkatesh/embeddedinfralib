@@ -1,0 +1,9 @@
+<map id="services::TracingHttpClientImpl::Connected" name="services::TracingHttpClientImpl::Connected">
+<area shape="rect" id="node2" href="$db/dd6/classservices_1_1_http_client_impl.html#ae22b6756b8c6f841fa530e89e55b7a35" title="services::HttpClientImpl\l::Connected" alt="" coords="229,108,388,149"/>
+<area shape="rect" id="node6" href="$dc/d42/classservices_1_1_tracer.html#a25248c7fb378a73f189defd30a4593f2" title="services::Tracer::Trace" alt="" coords="232,217,385,243"/>
+<area shape="rect" id="node3" href="$d1/db2/classinfra_1_1_subject.html#ae6779efb6b9b18a7638fef4ce0553466" title="infra::Subject\&lt; HttpClient\lObserver \&gt;::GetObserver" alt="" coords="446,5,613,47"/>
+<area shape="rect" id="node4" href="$da/d78/classinfra_1_1_accessed_by_shared_ptr.html#afed78c7dc79ccbb4711b34a1d7c7e63e" title="infra::AccessedBySharedPtr\l::SetAction" alt="" coords="436,71,623,112"/>
+<area shape="rect" id="node5" href="$dc/d4c/classinfra_1_1_single_observer.html#abb13c69cc61182baf350ff1736fa772e" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;::Subject" alt="" coords="452,137,607,193"/>
+<area shape="rect" id="node7" href="$dc/d42/classservices_1_1_tracer.html#a9bbd41af2cd3049df3e56fe63ebad051" title="services::Tracer::Continue" alt="" coords="443,217,615,243"/>
+<area shape="rect" id="node8" href="$dc/d42/classservices_1_1_tracer.html#a38963ac748f455f5439fd9e312273588" title="services::Tracer::Insert\lHeader" alt="" coords="453,268,606,309"/>
+</map>

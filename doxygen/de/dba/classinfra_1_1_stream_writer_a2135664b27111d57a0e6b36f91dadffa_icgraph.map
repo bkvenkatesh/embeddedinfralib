@@ -1,0 +1,13 @@
+<map id="infra::StreamWriter::Insert" name="infra::StreamWriter::Insert">
+<area shape="rect" id="node2" href="$de/dad/classinfra_1_1_text_output_stream.html#a48c069cf897f332dee1d405702870bc9" title="infra::TextOutputStream\l::FormatArgs" alt="" coords="191,5,351,47"/>
+<area shape="rect" id="node5" href="$dd/d12/classinfra_1_1_limited_stream_writer.html#a3969db62a50522b586459836d485d572" title="infra::LimitedStreamWriter\l::Insert" alt="" coords="184,71,357,112"/>
+<area shape="rect" id="node6" href="$d6/d7d/classinfra_1_1_data_output_stream.html#ad3665d4bdb9335eac620f85b6554a384" title="infra::DataOutputStream\l::operator\&lt;\&lt;" alt="" coords="189,136,352,177"/>
+<area shape="rect" id="node7" href="$de/dad/classinfra_1_1_text_output_stream.html#ad9a08dad6ccb61560ee3fe4988c46b14" title="infra::TextOutputStream\l::operator\&lt;\&lt;" alt="" coords="405,205,565,247"/>
+<area shape="rect" id="node8" href="$de/dad/classinfra_1_1_text_output_stream.html#a9b627105e14075f43bb5fc5d4ad68471" title="infra::TextOutputStream\l::OutputAsBinary" alt="" coords="405,277,565,319"/>
+<area shape="rect" id="node10" href="$de/dad/classinfra_1_1_text_output_stream.html#a55298d6ae079533b0ba5b3f39864e53d" title="infra::TextOutputStream\l::OutputAsDecimal" alt="" coords="405,343,565,384"/>
+<area shape="rect" id="node11" href="$de/dad/classinfra_1_1_text_output_stream.html#aa1bfa573ef214b73cb1e821d7a3d17e2" title="infra::TextOutputStream\l::OutputAsHexadecimal" alt="" coords="405,408,565,449"/>
+<area shape="rect" id="node12" href="$de/dad/classinfra_1_1_text_output_stream.html#a85526809e527b195bc5cee71e475cebc" title="infra::TextOutputStream\l::OutputOptionalPadding" alt="" coords="189,304,353,345"/>
+<area shape="rect" id="node3" href="$de/dad/classinfra_1_1_text_output_stream.html#af330288c320a9be573f622c3461bb13e" title="infra::TextOutputStream\l::FormatHelper" alt="" coords="405,5,565,47"/>
+<area shape="rect" id="node4" href="$de/dad/classinfra_1_1_text_output_stream.html#a0cc7fbf3249a462792fed4557b33c4b2" title="infra::TextOutputStream\l::Format" alt="" coords="613,5,773,47"/>
+<area shape="rect" id="node9" href="$de/dad/classinfra_1_1_text_output_stream.html#ad5d6120732b9ad9d235c654c7eeb8a78" title="infra::TextOutputStream\l::operator\&lt;\&lt;" alt="" coords="613,343,773,384"/>
+</map>

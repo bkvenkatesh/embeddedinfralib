@@ -1,0 +1,6 @@
+<map id="hal::I2cMaster::ReceiveData" name="hal::I2cMaster::ReceiveData">
+<area shape="rect" id="node2" href="$da/dea/classhal_1_1_i2c_master_register_access.html#a3e32561d4c8528fd4517934589b05aa1" title="hal::I2cMasterRegisterAccess\l::ReadRegister" alt="" coords="237,5,433,47"/>
+<area shape="rect" id="node3" href="$de/d17/classservices_1_1_i2c_multiple_access_master.html#a028cbbfe486203e9b1cd8c6bc627735e" title="services::I2cMultipleAccess\lMaster::ReceiveData" alt="" coords="244,71,427,112"/>
+<area shape="rect" id="node4" href="$d3/dda/classservices_1_1_i2c_multiple_access.html#a439ffd78578d60c9ad735db4f9058140" title="services::I2cMultipleAccess\l::ReceiveDataOnClaimed" alt="" coords="481,71,664,112"/>
+<area shape="rect" id="node5" href="$d3/dda/classservices_1_1_i2c_multiple_access.html#a198dd0a57652b91831980ce75a46fafa" title="services::I2cMultipleAccess\l::ReceiveData" alt="" coords="712,71,895,112"/>
+</map>

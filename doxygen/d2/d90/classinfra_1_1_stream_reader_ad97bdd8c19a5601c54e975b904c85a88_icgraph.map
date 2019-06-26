@@ -1,0 +1,13 @@
+<map id="infra::StreamReader::Peek" name="infra::StreamReader::Peek">
+<area shape="rect" id="node2" href="$d7/d93/classinfra_1_1_text_input_stream.html#a0c4a6602a4104666cb247a15ce1f1a57" title="infra::TextInputStream\l::operator\&gt;\&gt;" alt="" coords="217,5,367,47"/>
+<area shape="rect" id="node3" href="$df/dbd/classservices_1_1_tracing_stream_reader.html#a9f61fcb6bb566cd7bfaf9df62cbc6e0b" title="services::TracingStreamReader\l::Peek" alt="" coords="191,71,393,112"/>
+<area shape="rect" id="node4" href="$d9/db6/classinfra_1_1_limited_stream_reader.html#a953a731a043dc9a52f5def8b229a456c" title="infra::LimitedStreamReader\l::Peek" alt="" coords="203,136,381,177"/>
+<area shape="rect" id="node5" href="$d1/dc1/classinfra_1_1_counting_stream_reader.html#a258a2762ea57e6206708bff45bd3e0b5" title="infra::CountingStreamReader\l::Peek" alt="" coords="198,201,386,243"/>
+<area shape="rect" id="node6" href="$d7/d93/classinfra_1_1_text_input_stream.html#a37f8a18ba4c7477ffa9d26b83aa0849d" title="infra::TextInputStream\l::ReadAsDecimal" alt="" coords="441,287,591,328"/>
+<area shape="rect" id="node10" href="$d7/d93/classinfra_1_1_text_input_stream.html#ac76645a4fee308debc716ae6e5a2961a" title="infra::TextInputStream\l::ReadAsHex" alt="" coords="441,352,591,393"/>
+<area shape="rect" id="node12" href="$d7/d93/classinfra_1_1_text_input_stream.html#a9acce538269dafb453bd83f20808a458" title="infra::TextInputStream\l::SkipSpaces" alt="" coords="217,319,367,360"/>
+<area shape="rect" id="node7" href="$d7/d93/classinfra_1_1_text_input_stream.html#ac3a7e4a3e77144f3b309730fcd91e570" title="infra::TextInputStream\l::Read" alt="" coords="639,319,788,360"/>
+<area shape="rect" id="node9" href="$d7/d93/classinfra_1_1_text_input_stream.html#a73e0b4b5d322edd1bcd38335442f5f35" title="infra::TextInputStream\l::ReadAsDecimal" alt="" coords="639,253,788,295"/>
+<area shape="rect" id="node8" href="$d7/d93/classinfra_1_1_text_input_stream.html#a8b90f80f1548f6cc603e0807e68b9a78" title="infra::TextInputStream\l::operator\&gt;\&gt;" alt="" coords="836,319,985,360"/>
+<area shape="rect" id="node11" href="$d7/d93/classinfra_1_1_text_input_stream.html#ac6378625d4c4df73b79a7ec22f09994b" title="infra::TextInputStream\l::ReadAsHex" alt="" coords="639,384,788,425"/>
+</map>

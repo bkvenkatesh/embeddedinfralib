@@ -1,0 +1,4 @@
+<map id="services::SynchronousFlashSpi::HoldWhileWriteInProgress" name="services::SynchronousFlashSpi::HoldWhileWriteInProgress">
+<area shape="rect" id="node2" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#a78462388776e5596c74234595e8213bf" title="services::SynchronousFlash\lSpi::EraseSectors" alt="" coords="255,5,440,47"/>
+<area shape="rect" id="node3" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#ab9ea42bce7156cde8fae8bb51c050fe8" title="services::SynchronousFlash\lSpi::WriteBuffer" alt="" coords="255,71,440,112"/>
+</map>

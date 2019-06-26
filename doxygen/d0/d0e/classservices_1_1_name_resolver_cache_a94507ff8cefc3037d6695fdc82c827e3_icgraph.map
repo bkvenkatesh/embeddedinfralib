@@ -1,0 +1,5 @@
+<map id="services::NameResolverCache::Cleanup" name="services::NameResolverCache::Cleanup">
+<area shape="rect" id="node2" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#a4bea9f7ed8aa9320e48906769a0ad9f6" title="services::NameResolverCache\l::AddToCache" alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node3" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#a8d759a5e4b14b66215080996aed525c0" title="services::NameResolverCache\l::TryAddToCache" alt="" coords="496,5,693,47"/>
+<area shape="rect" id="node4" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#acf7510ed181dff53bc67837c490b6062" title="services::NameResolverCache\l::NameLookupSuccess" alt="" coords="741,5,939,47"/>
+</map>

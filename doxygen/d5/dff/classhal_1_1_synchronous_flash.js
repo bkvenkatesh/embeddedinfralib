@@ -1,0 +1,25 @@
+var classhal_1_1_synchronous_flash =
+[
+    [ "Range", "d5/dff/classhal_1_1_synchronous_flash.html#aa59db9740273c26a67658fda23a121ad", null ],
+    [ "SynchronousFlash", "d5/dff/classhal_1_1_synchronous_flash.html#aa8b587c505e4fbc1485bb3d87f1524e6", null ],
+    [ "SynchronousFlash", "d5/dff/classhal_1_1_synchronous_flash.html#a1a5e04c5446597b2c2c91468c9461ded", null ],
+    [ "~SynchronousFlash", "d5/dff/classhal_1_1_synchronous_flash.html#aff3c33c157b0cbea1f9246b863d6877b", null ],
+    [ "AddressOffsetInSector", "d5/dff/classhal_1_1_synchronous_flash.html#ae0ffa50633226598ff634051fdf07530", null ],
+    [ "AddressOfSector", "d5/dff/classhal_1_1_synchronous_flash.html#a1e8a643bee9d6a9c199ed42957201500", null ],
+    [ "AtStartOfSector", "d5/dff/classhal_1_1_synchronous_flash.html#a02efb1efa2d56346ca691a3693ec695b", null ],
+    [ "EraseAll", "d5/dff/classhal_1_1_synchronous_flash.html#ab92467d8431b295a7bf5ebf725d1c2d6", null ],
+    [ "EraseSector", "d5/dff/classhal_1_1_synchronous_flash.html#a015ca7ba75feaadc422aaace902c0299", null ],
+    [ "EraseSectors", "d5/dff/classhal_1_1_synchronous_flash.html#afea2762203cbf1fcdeff8ce3b7e2444c", null ],
+    [ "NumberOfSectors", "d5/dff/classhal_1_1_synchronous_flash.html#a17edf309c541ed7381a7e3162fd083e4", null ],
+    [ "operator=", "d5/dff/classhal_1_1_synchronous_flash.html#a6a4dd6e790477343e267083c21b5af66", null ],
+    [ "ReadBuffer", "d5/dff/classhal_1_1_synchronous_flash.html#a8e353a81cf310908c987d6cac6e452ec", null ],
+    [ "SectorOfAddress", "d5/dff/classhal_1_1_synchronous_flash.html#a4414c85ecb179359e5d0dc1c830cc903", null ],
+    [ "SizeOfSector", "d5/dff/classhal_1_1_synchronous_flash.html#af03681fb969a8bca06aa64966f80ad25", null ],
+    [ "StartOfNextSector", "d5/dff/classhal_1_1_synchronous_flash.html#a1d188f8a95ed195d4b3c79e74b52cd43", null ],
+    [ "StartOfNextSectorCyclical", "d5/dff/classhal_1_1_synchronous_flash.html#a2ee669929885788f418bb62e7be7505a", null ],
+    [ "StartOfPreviousSector", "d5/dff/classhal_1_1_synchronous_flash.html#a26938163f0859a508efcbbd5cc3bcb41", null ],
+    [ "StartOfPreviousSectorCyclical", "d5/dff/classhal_1_1_synchronous_flash.html#a07de6a3e30744a50d7c8dcc6cec40f84", null ],
+    [ "StartOfSector", "d5/dff/classhal_1_1_synchronous_flash.html#a2b4419e346a7d9feecb65501c61a6f8e", null ],
+    [ "TotalSize", "d5/dff/classhal_1_1_synchronous_flash.html#afa3be37518bb3070d933ee542f476838", null ],
+    [ "WriteBuffer", "d5/dff/classhal_1_1_synchronous_flash.html#a61b77f790bc72a2bb8d7316a2d8fa3ce", null ]
+];

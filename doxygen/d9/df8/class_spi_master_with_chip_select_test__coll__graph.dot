@@ -1,0 +1,35 @@
+digraph "SpiMasterWithChipSelectTest"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node4 [label="SpiMasterWithChipSelectTest",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Test",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node6 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="infra::EventDispatcherFixture",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/df4/classinfra_1_1_event_dispatcher_fixture.html"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="EventDispatcher::WithSize\l\< 50 \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node8 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" spiMock" ,fontname="Helvetica"];
+  Node8 [label="StrictMock\< hal::SpiAsynchronous\lMock \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node9 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" chipSelect" ,fontname="Helvetica"];
+  Node9 [label="hal::GpioPinStub",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d34/classhal_1_1_gpio_pin_stub.html"];
+  Node10 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="hal::GpioPin",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d8c/classhal_1_1_gpio_pin.html"];
+  Node11 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" triggerOnChange" ,fontname="Helvetica"];
+  Node11 [label="infra::Optional\< std\l::pair\< infra::Function\l\< void()\>, InterruptTrigger \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/df7/classinfra_1_1_optional.html"];
+  Node12 -> Node11 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" initialized" ,fontname="Helvetica"];
+  Node12 [label="bool",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node13 -> Node11 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node13 [label="infra::StaticStorage\l\< std::pair\< infra::Function\l\< void()\>, InterruptTrigger \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d8c/classinfra_1_1_static_storage.html"];
+  Node14 -> Node13 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node14 [label="type",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node12 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" input\nstate" ,fontname="Helvetica"];
+  Node15 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" spi" ,fontname="Helvetica"];
+  Node15 [label="infra::Optional\< services\l::SpiMasterWithChipSelect \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/df7/classinfra_1_1_optional.html"];
+  Node16 -> Node15 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node16 [label="infra::StaticStorage\l\< services::SpiMasterWithChip\lSelect \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d8c/classinfra_1_1_static_storage.html"];
+  Node14 -> Node16 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node12 -> Node15 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" initialized" ,fontname="Helvetica"];
+}

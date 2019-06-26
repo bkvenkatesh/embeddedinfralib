@@ -1,0 +1,6 @@
+<map id="services::DatagramWin::UpdateEventFlags" name="services::DatagramWin::UpdateEventFlags">
+<area shape="rect" id="node2" href="$d2/d7b/classservices_1_1_datagram_win.html#a658541984182e1f50cdd52ccafefd00f" title="services::DatagramWin\l::InitSocket" alt="" coords="209,5,365,47"/>
+<area shape="rect" id="node4" href="$d2/d7b/classservices_1_1_datagram_win.html#a911fc384f3243be0610ac6542aa8674e" title="services::DatagramWin\l::Send" alt="" coords="209,71,365,112"/>
+<area shape="rect" id="node3" href="$d2/d7b/classservices_1_1_datagram_win.html#a62a0f8b7fde4709242ab5693e5386e3b" title="services::DatagramWin\l::DatagramWin" alt="" coords="413,5,569,47"/>
+<area shape="rect" id="node5" href="$d2/d7b/classservices_1_1_datagram_win.html#aee0015559f65552dbc999db0db50980b" title="services::DatagramWin\l::TrySend" alt="" coords="413,71,569,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="infra::BoundedPriorityQueue&lt; T, Max, Compare &gt;" name="infra::BoundedPriorityQueue&lt; T, Max, Compare &gt;">
+<area shape="rect" id="node2" href="$dc/de7/classinfra_1_1_bounded_vector.html" title="infra::BoundedVector\l\&lt; value_type \&gt;" alt="" coords="92,332,235,373"/>
+<area shape="rect" id="node3" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; infra::StaticStorage\l\&lt; value_type \&gt; \&gt;" alt="" coords="5,213,151,269"/>
+<area shape="rect" id="node4" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; value_type \&gt;" alt="" coords="11,95,145,136"/>
+</map>

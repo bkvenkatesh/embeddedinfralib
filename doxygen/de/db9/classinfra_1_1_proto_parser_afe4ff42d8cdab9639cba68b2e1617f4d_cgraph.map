@@ -1,0 +1,7 @@
+<map id="infra::ProtoParser::GetField" name="infra::ProtoParser::GetField">
+<area shape="rect" id="node2" href="$db/dda/classinfra_1_1_input_stream.html#ae6c6c4af7669aa70e60847a11ffd8e85" title="infra::InputStream\l::Failed" alt="" coords="347,65,471,107"/>
+<area shape="rect" id="node4" href="$de/db9/classinfra_1_1_proto_parser.html#a67885de2711f77d17d629b6c9b517982" title="infra::ProtoParser\l::GetFixed32" alt="" coords="176,29,299,71"/>
+<area shape="rect" id="node5" href="$de/db9/classinfra_1_1_proto_parser.html#a48014b56b9688adf1c4e1d7c7033f683" title="infra::ProtoParser\l::GetFixed64" alt="" coords="176,95,299,136"/>
+<area shape="rect" id="node6" href="$de/db9/classinfra_1_1_proto_parser.html#a3ab7e8722bbf3e0a3a0889a2a5146891" title="infra::ProtoParser\l::GetVarInt" alt="" coords="176,160,299,201"/>
+<area shape="rect" id="node3" href="$d5/d4a/classinfra_1_1_stream_error_policy.html#ac1558d645711dd9685f926115719eb15" title="infra::StreamErrorPolicy\l::Failed" alt="" coords="519,65,679,107"/>
+</map>

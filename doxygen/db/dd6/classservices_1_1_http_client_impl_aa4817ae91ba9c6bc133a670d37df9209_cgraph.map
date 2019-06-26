@@ -1,0 +1,4 @@
+<map id="services::HttpClientImpl::Close" name="services::HttpClientImpl::Close">
+<area shape="rect" id="node2" href="$da/d78/classinfra_1_1_accessed_by_shared_ptr.html#afed78c7dc79ccbb4711b34a1d7c7e63e" title="infra::AccessedBySharedPtr\l::SetAction" alt="" coords="212,5,399,47"/>
+<area shape="rect" id="node3" href="$dc/d4c/classinfra_1_1_single_observer.html#abb13c69cc61182baf350ff1736fa772e" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;::Subject" alt="" coords="228,71,383,127"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="services::HttpClientImpl::WriteRequest" name="services::HttpClientImpl::WriteRequest">
+<area shape="rect" id="node2" href="$db/dd6/classservices_1_1_http_client_impl.html#a09ea262c4fb5c28d4539e73b9411191c" title="services::HttpClientImpl\l::RequestForwardStreamOrExpect\lResponse" alt="" coords="212,5,433,61"/>
+<area shape="rect" id="node3" href="$dc/d4c/classinfra_1_1_single_observer.html#abb13c69cc61182baf350ff1736fa772e" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;::Subject" alt="" coords="481,5,636,61"/>
+</map>

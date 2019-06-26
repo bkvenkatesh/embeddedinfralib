@@ -1,0 +1,24 @@
+digraph "RegisterAccessMockTest"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node4 [label="RegisterAccessMockTest",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Test",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node6 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="infra::EventDispatcherFixture",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/df4/classinfra_1_1_event_dispatcher_fixture.html"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="EventDispatcher::WithSize\l\< 50 \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node8 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" masterMock" ,fontname="Helvetica"];
+  Node8 [label="hal::I2cMasterRegisterAccessMock",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d9c/classhal_1_1_i2c_master_register_access_mock.html"];
+  Node9 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="hal::I2cMaster",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d85/classhal_1_1_i2c_master.html"];
+  Node10 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" dataRegister" ,fontname="Helvetica"];
+  Node10 [label="uint8_t",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node11 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" sending\natStart" ,fontname="Helvetica"];
+  Node11 [label="bool",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node12 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" currentSendData\ncurrentReceiveData" ,fontname="Helvetica"];
+  Node12 [label="vector\< uint8_t \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node9 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" master" ,fontname="Helvetica"];
+}

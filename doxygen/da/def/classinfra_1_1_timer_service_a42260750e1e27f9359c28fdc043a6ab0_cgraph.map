@@ -1,0 +1,4 @@
+<map id="infra::TimerService::~TimerService" name="infra::TimerService::~TimerService">
+<area shape="rect" id="node2" href="$d3/d0e/classinfra_1_1_interface_connector.html#aed1d9e952d3d0dfa68e59ee4e868b380" title="infra::InterfaceConnector\l\&lt; TimerServiceManager \&gt;\l::Instance" alt="" coords="185,5,356,61"/>
+<area shape="rect" id="node3" href="$db/d70/classinfra_1_1_timer_service_manager.html#ac58feadfb82982425a599f9d0759ee7d" title="infra::TimerServiceManager\l::UnregisterTimerService" alt="" coords="181,86,360,127"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="services::SynchronousFlashQuadSpi::ReadStatusRegister" name="services::SynchronousFlashQuadSpi::ReadStatusRegister">
+<area shape="rect" id="node2" href="$d7/ddb/classservices_1_1_synchronous_flash_quad_spi.html#a70d888de46b5dc987b6dc802f6637069" title="services::SynchronousFlash\lQuadSpi::HoldWhileWriteInProgress" alt="" coords="249,5,481,47"/>
+<area shape="rect" id="node3" href="$d7/ddb/classservices_1_1_synchronous_flash_quad_spi.html#a269561aa405364b3c6df913a1c607b00" title="services::SynchronousFlash\lQuadSpi::WriteBuffer" alt="" coords="529,5,715,47"/>
+</map>

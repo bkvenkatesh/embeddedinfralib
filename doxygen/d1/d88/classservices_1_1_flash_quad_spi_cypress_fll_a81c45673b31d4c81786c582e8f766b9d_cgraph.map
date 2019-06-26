@@ -1,0 +1,6 @@
+<map id="services::FlashQuadSpiCypressFll::ReadBuffer" name="services::FlashQuadSpiCypressFll::ReadBuffer">
+<area shape="rect" id="node2" href="$dd/df2/classhal_1_1_quad_spi.html#a962b4ce2b2f8ae4fb7b83324db78244c" title="hal::QuadSpi::AddressToVector" alt="" coords="260,5,465,32"/>
+<area shape="rect" id="node3" href="$d0/de3/namespaceinfra.html#a0ec8c0f8585063ab97f13228d4888974" title="infra::MakeOptional" alt="" coords="295,56,430,83"/>
+<area shape="rect" id="node4" href="$da/d1d/structhal_1_1_quad_spi_1_1_lines.html#a355cdd0f183ce81c385236c7d850df73" title="hal::QuadSpi::Lines\l::QuadSpeed" alt="" coords="295,107,431,149"/>
+<area shape="rect" id="node5" href="$dd/df2/classhal_1_1_quad_spi.html#a07c583b84750ae9f6276c0d702fa6bcc" title="hal::QuadSpi::ReceiveData" alt="" coords="274,173,451,200"/>
+</map>

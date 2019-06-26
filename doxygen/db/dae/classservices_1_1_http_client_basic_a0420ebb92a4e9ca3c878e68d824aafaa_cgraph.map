@@ -1,0 +1,12 @@
+<map id="services::HttpClientBasic::ClosingConnection" name="services::HttpClientBasic::ClosingConnection">
+<area shape="rect" id="node2" href="$dc/d4c/classinfra_1_1_single_observer.html#afb2ca130bf5c6b4333736d0df3e098ea" title="infra::SingleObserver\l\&lt; HttpClientObserver,\l HttpClient \&gt;::Detach" alt="" coords="240,5,387,61"/>
+<area shape="rect" id="node3" href="$db/dae/classservices_1_1_http_client_basic.html#adbf11cf7b70f6aaeff6c80b205ac97dd" title="services::HttpClientBasic\l::ReportError" alt="" coords="230,86,397,127"/>
+<area shape="rect" id="node11" href="$da/d78/classinfra_1_1_accessed_by_shared_ptr.html#afed78c7dc79ccbb4711b34a1d7c7e63e" title="infra::AccessedBySharedPtr\l::SetAction" alt="" coords="220,151,407,193"/>
+<area shape="rect" id="node4" href="$d5/da5/classinfra_1_1_timer.html#abf5658fb078dc1dad0705a7791f7b84c" title="infra::Timer::Cancel" alt="" coords="471,64,605,91"/>
+<area shape="rect" id="node10" href="$db/dae/classservices_1_1_http_client_basic.html#a13235ae81afcffea28aa1612a3050ed4" title="services::HttpClientBasic\l::Error" alt="" coords="455,115,621,157"/>
+<area shape="rect" id="node5" href="$d5/da5/classinfra_1_1_timer.html#a11b396e8d4300da06b8ce83624991b73" title="infra::Timer::Convert" alt="" coords="688,39,825,65"/>
+<area shape="rect" id="node6" href="$d5/da5/classinfra_1_1_timer.html#a2b0bc71ca10c69d01f4965c576af73fd" title="infra::Timer::UnregisterSelf" alt="" coords="669,89,844,116"/>
+<area shape="rect" id="node7" href="$da/def/classinfra_1_1_timer_service.html#a51f86cbeef8dc4866c087b68c24635d8" title="infra::TimerService\l::UnregisterTimer" alt="" coords="892,82,1020,123"/>
+<area shape="rect" id="node8" href="$da/def/classinfra_1_1_timer_service.html#afb8a6ef3ee5ba728f1a8f232514bad8c" title="infra::TimerService\l::ComputeNextTrigger" alt="" coords="1068,82,1216,123"/>
+<area shape="rect" id="node9" href="$da/def/classinfra_1_1_timer_service.html#a6ae66196dc18d8b383ba5e0f0b6f22fa" title="infra::TimerService\l::NextTriggerChanged" alt="" coords="1264,82,1411,123"/>
+</map>

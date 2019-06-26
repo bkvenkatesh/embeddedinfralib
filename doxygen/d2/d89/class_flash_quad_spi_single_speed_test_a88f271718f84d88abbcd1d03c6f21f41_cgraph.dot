@@ -1,0 +1,22 @@
+digraph "FlashQuadSpiSingleSpeedTest::FlashQuadSpiSingleSpeedTest"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="FlashQuadSpiSingleSpeedTest\l::FlashQuadSpiSingleSpeedTest",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="infra::ClockFixture\l::ForwardTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d73/classinfra_1_1_clock_fixture.html#abfaa1ad76e45d90d1e359dd8687e5ee1"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="infra::PerfectTimerService::Now",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d35/classinfra_1_1_perfect_timer_service.html#ae2fe9119723df5368cdc7a6a0c081e81"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="infra::TimerService\l::NextTrigger",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/def/classinfra_1_1_timer_service.html#ae092e0679a0307ceb7ec802c576e9ef2"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="infra::PerfectTimerService\l::TimeProgressed",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d35/classinfra_1_1_perfect_timer_service.html#acfde81d88734d60563c4769fb628a840"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="infra::TimerService\l::Progressed",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/def/classinfra_1_1_timer_service.html#a62136eeac9187506213715289cb9c560"];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="infra::TimerService\l::ComputeNextTrigger",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/def/classinfra_1_1_timer_service.html#afb8a6ef3ee5ba728f1a8f232514bad8c"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="infra::TimerService\l::NextTriggerChanged",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/def/classinfra_1_1_timer_service.html#a6ae66196dc18d8b383ba5e0f0b6f22fa"];
+}

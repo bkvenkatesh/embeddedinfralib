@@ -1,0 +1,4 @@
+<map id="services::SynchronousFlashSpi::SendEraseSector" name="services::SynchronousFlashSpi::SendEraseSector">
+<area shape="rect" id="node2" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#a839c8db6b02afe47fb8c6745fde89ab7" title="services::SynchronousFlash\lSpi::EraseSomeSectors" alt="" coords="239,5,424,47"/>
+<area shape="rect" id="node3" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#a78462388776e5596c74234595e8213bf" title="services::SynchronousFlash\lSpi::EraseSectors" alt="" coords="472,5,657,47"/>
+</map>

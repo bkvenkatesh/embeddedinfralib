@@ -1,0 +1,49 @@
+digraph "FactoryDefaultConfigurationStoreTest"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node2 [label="FactoryDefaultConfiguration\lStoreTest",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Test",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" onEraseDone" ,fontname="Helvetica"];
+  Node4 [label="infra::Function\< void()\>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d07/classinfra_1_1_function.html"];
+  Node5 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" blob" ,fontname="Helvetica"];
+  Node5 [label="uint32_t",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node6 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" configurationBlob1\nconfigurationBlob2\nconfigurationBlobFactoryDefault" ,fontname="Helvetica"];
+  Node6 [label="StrictMock\< Configuration\lBlobMock \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node7 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" onRecoverDone" ,fontname="Helvetica"];
+  Node7 [label="infra::Function\< void\l(bool success)\>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d07/classinfra_1_1_function.html"];
+  Node8 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" configurationStore" ,fontname="Helvetica"];
+  Node8 [label="services::FactoryDefault\lConfigurationStore\< FactoryDefault\lConfigurationStoreTest::DataStub \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dab/classservices_1_1_factory_default_configuration_store.html"];
+  Node9 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="services::FactoryDefault\lConfigurationStoreBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/def/classservices_1_1_factory_default_configuration_store_base.html"];
+  Node10 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="services::ConfigurationStore\lInterface",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d56/classservices_1_1_configuration_store_interface.html"];
+  Node11 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" onRecovered" ,fontname="Helvetica"];
+  Node11 [label="infra::AutoResetFunction\l\< void(bool isFactoryDefault)\>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d33/classinfra_1_1_auto_reset_function.html"];
+  Node12 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" onLoadFactoryDefault" ,fontname="Helvetica"];
+  Node12 [label="infra::AutoResetFunction\l\< void()\>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d33/classinfra_1_1_auto_reset_function.html"];
+  Node13 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" factoryDefaultBlob" ,fontname="Helvetica"];
+  Node13 [label="services::ConfigurationBlob",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/da2/classservices_1_1_configuration_blob.html"];
+  Node14 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" configurationStore" ,fontname="Helvetica"];
+  Node14 [label="services::ConfigurationStoreBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/dc9/classservices_1_1_configuration_store_base.html"];
+  Node10 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 -> Node14 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" onWriteDone" ,fontname="Helvetica"];
+  Node15 -> Node14 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" onRecovered" ,fontname="Helvetica"];
+  Node15 [label="infra::AutoResetFunction\l\< void(bool success)\>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d33/classinfra_1_1_auto_reset_function.html"];
+  Node5 -> Node14 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" lockCount" ,fontname="Helvetica"];
+  Node16 -> Node14 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" writingBlob\nwriteRequested" ,fontname="Helvetica"];
+  Node16 [label="bool",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node13 -> Node14 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" activeBlob\ninactiveBlob" ,fontname="Helvetica"];
+  Node17 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="services::ConfigurationStore\l\< FactoryDefaultConfigurationStore\lTest::DataStub \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/db6/classservices_1_1_configuration_store.html"];
+  Node18 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" configurationStore" ,fontname="Helvetica"];
+  Node18 [label="services::ConfigurationStore\lImpl\< FactoryDefaultConfiguration\lStoreTest::DataStub \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d57/classservices_1_1_configuration_store_impl.html"];
+  Node14 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 -> Node18 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" configuration" ,fontname="Helvetica"];
+  Node19 [label="FactoryDefaultConfiguration\lStoreTest::DataStub",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/da0/struct_factory_default_configuration_store_test_1_1_data_stub.html"];
+  Node5 -> Node19 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" maxMessageSize\ndata" ,fontname="Helvetica"];
+}

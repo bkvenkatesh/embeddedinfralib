@@ -1,0 +1,7 @@
+<map id="infra::ProtoLengthDelimited" name="infra::ProtoLengthDelimited">
+<area shape="rect" id="node2" href="$d9/db6/classinfra_1_1_limited_stream_reader.html" title="infra::LimitedStreamReader" alt="" coords="33,199,211,225"/>
+<area shape="rect" id="node3" href="$d2/d90/classinfra_1_1_stream_reader.html" title="infra::StreamReader" alt="" coords="97,109,235,136"/>
+<area shape="rect" id="node6" href="$db/dda/classinfra_1_1_input_stream.html" title="infra::InputStream" alt="" coords="244,199,368,225"/>
+<area shape="rect" id="node5" href="$d0/db4/classinfra_1_1_data_input_stream.html" title="infra::DataInputStream" alt="" coords="231,275,381,301"/>
+<area shape="rect" id="node7" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="259,109,419,136"/>
+</map>

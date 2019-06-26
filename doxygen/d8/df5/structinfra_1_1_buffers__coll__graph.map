@@ -1,0 +1,9 @@
+<map id="infra::Buffers&lt; MaxTagLength, MaxValueLength, MaxObjectNesting &gt;" name="infra::Buffers&lt; MaxTagLength, MaxValueLength, MaxObjectNesting &gt;">
+<area shape="rect" id="node2" href="$d2/d40/classinfra_1_1_with_storage.html" title="infra::WithStorage\l\&lt; MaxValueLength \&gt;" alt="" coords="828,145,971,187"/>
+<area shape="rect" id="node3" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; StorageType, MaxValueLength \&gt;" alt="" coords="449,173,673,215"/>
+<area shape="rect" id="node12" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; StorageType, MaxTagLength \&gt;" alt="" coords="455,5,667,47"/>
+<area shape="rect" id="node6" href="$dc/de7/classinfra_1_1_bounded_vector.html" title="infra::BoundedVector\l\&lt; infra::PolymorphicVariant\l\&lt; infra::JsonSubParser, infra\l::JsonSubObjectParser, infra\l::JsonSubArrayParser \&gt; \&gt;" alt="" coords="805,246,993,331"/>
+<area shape="rect" id="node7" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; infra::StaticStorage\l\&lt; infra::PolymorphicVariant\l\&lt; infra::JsonSubParser, infra\l::JsonSubObjectParser, infra\l::JsonSubArrayParser \&gt; \&gt; \&gt;" alt="" coords="467,239,655,339"/>
+<area shape="rect" id="node8" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; infra::PolymorphicVariant\l\&lt; infra::JsonSubParser, infra\l::JsonSubObjectParser, infra\l::JsonSubArrayParser \&gt; \&gt;" alt="" coords="129,246,317,331"/>
+<area shape="rect" id="node11" href="$d2/d40/classinfra_1_1_with_storage.html" title="infra::WithStorage\l\&lt; MaxTagLength \&gt;" alt="" coords="834,64,965,105"/>
+</map>

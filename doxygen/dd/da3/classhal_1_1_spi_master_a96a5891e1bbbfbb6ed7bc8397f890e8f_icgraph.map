@@ -1,0 +1,7 @@
+<map id="hal::SpiMaster::SetChipSelectConfigurator" name="hal::SpiMaster::SetChipSelectConfigurator">
+<area shape="rect" id="node2" href="$d0/d6b/classservices_1_1_spi_multiple_access_master.html#ad09390da845bddde373e88893a70851c" title="services::SpiMultipleAccess\lMaster::SetChipSelectConfigurator" alt="" coords="251,5,473,47"/>
+<area shape="rect" id="node5" href="$db/d18/classhal_1_1_low_power_spi_master.html#a344e7b0c631463bcff8bcf6ae77f57a2" title="hal::LowPowerSpiMaster\l::SetChipSelectConfigurator" alt="" coords="271,71,453,112"/>
+<area shape="rect" id="node6" href="$d4/d41/classservices_1_1_spi_master_with_chip_select.html#a092cc863f47102be251a531cc5569de1" title="services::SpiMasterWithChip\lSelect::SpiMasterWithChipSelect" alt="" coords="254,136,470,177"/>
+<area shape="rect" id="node3" href="$d9/d2d/classservices_1_1_spi_multiple_access.html#a3395b2a1dcc5d0cd7ff24f30011f800e" title="services::SpiMultipleAccess\l::SendAndReceiveOnClaimed" alt="" coords="521,5,713,47"/>
+<area shape="rect" id="node4" href="$d9/d2d/classservices_1_1_spi_multiple_access.html#a88befdf785d01e504a686609a242f7b5" title="services::SpiMultipleAccess\l::SendAndReceive" alt="" coords="761,5,947,47"/>
+</map>

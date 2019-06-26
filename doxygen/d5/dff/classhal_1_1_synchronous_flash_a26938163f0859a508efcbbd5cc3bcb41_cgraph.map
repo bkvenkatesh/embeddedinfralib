@@ -1,0 +1,4 @@
+<map id="hal::SynchronousFlash::StartOfPreviousSector" name="hal::SynchronousFlash::StartOfPreviousSector">
+<area shape="rect" id="node2" href="$d5/dff/classhal_1_1_synchronous_flash.html#a1e8a643bee9d6a9c199ed42957201500" title="hal::SynchronousFlash\l::AddressOfSector" alt="" coords="212,5,367,47"/>
+<area shape="rect" id="node3" href="$d5/dff/classhal_1_1_synchronous_flash.html#a4414c85ecb179359e5d0dc1c830cc903" title="hal::SynchronousFlash\l::SectorOfAddress" alt="" coords="212,71,367,112"/>
+</map>

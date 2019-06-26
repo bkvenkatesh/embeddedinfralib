@@ -1,0 +1,5 @@
+<map id="infra::Tail" name="infra::Tail">
+<area shape="rect" id="node2" href="$df/d30/classservices_1_1_connection_serial_1_1_serial_connection_stream_reader.html#a9253fd8a16f44fab6c27117720919651" title="services::ConnectionSerial\l::SerialConnectionStreamReader\l::Extract" alt="" coords="130,5,341,61"/>
+<area shape="rect" id="node3" href="$d4/d55/classservices_1_1_connection_serial_1_1_state_connected_sending_content.html#a6a03f39255e227790d18e3bce3670d14" title="services::ConnectionSerial\l::StateConnectedSendingContent\l::SendPartialContent" alt="" coords="128,85,343,141"/>
+<area shape="rect" id="node4" href="$dd/db4/classservices_1_1_connection_serial_1_1_message_header.html#aad442a828482fe6aee5b480bd4b00740" title="services::ConnectionSerial\l::MessageHeader::SetContent" alt="" coords="137,166,334,207"/>
+</map>

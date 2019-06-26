@@ -1,0 +1,4 @@
+<map id="infra::SharedObjectAllocator&lt; T, void(ConstructionArgs...)&gt;" name="infra::SharedObjectAllocator&lt; T, void(ConstructionArgs...)&gt;">
+<area shape="rect" id="node2" href="$d4/d3d/classinfra_1_1_shared_object_allocator_fixed_size_3_01_t_00_01void_07_construction_args_8_8_8_08_4.html" title="infra::SharedObjectAllocator\lFixedSize\&lt; T, void(Construction\lArgs...)\&gt;" alt="" coords="263,5,470,61"/>
+<area shape="rect" id="node3" href="$da/d93/classinfra_1_1_shared_object_allocator_heap_3_01_t_00_01void_07_construction_args_8_8_8_08_4.html" title="infra::SharedObjectAllocator\lHeap\&lt; T, void(ConstructionArgs...)\&gt;" alt="" coords="252,86,481,127"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="services::FlashQuadSpi" name="services::FlashQuadSpi">
+<area shape="rect" id="node2" href="$d8/d29/classhal_1_1_flash_homogeneous.html" title="hal::FlashHomogeneous" alt="" coords="1067,5,1229,32"/>
+<area shape="rect" id="node3" href="$dd/d95/classhal_1_1_flash.html" title="hal::Flash" alt="" coords="751,5,829,32"/>
+<area shape="rect" id="node5" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; const uint8_t \&gt;" alt="" coords="1079,178,1217,219"/>
+<area shape="rect" id="node7" href="$d5/d33/classinfra_1_1_auto_reset_function.html" title="infra::AutoResetFunction\l\&lt; void()\&gt;" alt="" coords="1065,243,1231,285"/>
+<area shape="rect" id="node8" href="$d8/dcc/classinfra_1_1_sequencer.html" title="infra::Sequencer" alt="" coords="1090,309,1206,336"/>
+<area shape="rect" id="node9" href="$dc/de7/classinfra_1_1_bounded_vector.html" title="infra::BoundedVector\l\&lt; uint8_t \&gt;" alt="" coords="719,233,861,274"/>
+<area shape="rect" id="node10" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; infra::StaticStorage\l\&lt; uint8_t \&gt; \&gt;" alt="" coords="395,183,540,239"/>
+<area shape="rect" id="node11" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; uint8_t \&gt;" alt="" coords="129,190,263,231"/>
+<area shape="rect" id="node14" href="$da/d07/classinfra_1_1_function.html" title="infra::Function\&lt; void\l(), INFRA_SEQUENCER_FUNCTION\l_EXTRA_SIZE \&gt;" alt="" coords="672,299,908,355"/>
+<area shape="rect" id="node17" href="$dd/df2/classhal_1_1_quad_spi.html" title="hal::QuadSpi" alt="" coords="1099,411,1197,437"/>
+</map>

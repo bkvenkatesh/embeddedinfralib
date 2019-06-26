@@ -1,0 +1,5 @@
+<map id="infra::ProtoLengthDelimited::GetString" name="infra::ProtoLengthDelimited::GetString">
+<area shape="rect" id="node2" href="$db/dda/classinfra_1_1_input_stream.html#a2a8a5906d057b8e49f4eaccabf8c6578" title="infra::InputStream\l::Available" alt="" coords="254,5,378,47"/>
+<area shape="rect" id="node4" href="$d0/de3/namespaceinfra.html#a0c84a597359489e77f73d6cfd3bc8516" title="infra::StringAsByteRange" alt="" coords="232,71,400,98"/>
+<area shape="rect" id="node3" href="$d2/d90/classinfra_1_1_stream_reader.html#a006dafbe8dd85d298f4874efd047ed67" title="infra::StreamReader\l::Available" alt="" coords="448,5,585,47"/>
+</map>

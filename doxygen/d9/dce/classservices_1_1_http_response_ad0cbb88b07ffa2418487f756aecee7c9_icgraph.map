@@ -1,0 +1,11 @@
+<map id="services::HttpResponse::ContentType" name="services::HttpResponse::ContentType">
+<area shape="rect" id="node2" href="$d9/dce/classservices_1_1_http_response.html#a2bdfd05b582453e0ba050dfa18009be7" title="services::HttpResponse\l::WriteResponse" alt="" coords="212,64,371,105"/>
+<area shape="rect" id="node3" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a48786ed298c958e0c90a861ab09f01b2" title="services::HttpServerConnection\lObserver::SendResponse" alt="" coords="419,64,621,105"/>
+<area shape="rect" id="node4" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#afd24d585e0b90fc44643244b0712f92f" title="services::HttpServerConnection\lObserver::ReceivedTooMuchData" alt="" coords="920,5,1133,47"/>
+<area shape="rect" id="node7" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a54d34389a1f80059a349bfb5b5f273dc" title="services::HttpServerConnection\lObserver::TryHandleRequest" alt="" coords="1181,64,1384,105"/>
+<area shape="rect" id="node9" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a9d0c9926c69222f44621afb71304247d" title="services::HttpServerConnection\lObserver::ServePage" alt="" coords="669,123,872,164"/>
+<area shape="rect" id="node5" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a3c5cabea13da6e140280b1b8c77244b3" title="services::HttpServerConnection\lObserver::DataReceived" alt="" coords="1683,35,1885,76"/>
+<area shape="rect" id="node6" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a579fc75f469c5b79141187fc04dbf74c" title="services::HttpServerConnection\lObserver::SendStreamAvailable" alt="" coords="1933,35,2137,76"/>
+<area shape="rect" id="node8" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a6213f7b12f5fb1c0ddbabdb859ddca0a" title="services::HttpServerConnection\lObserver::ReceivedRequest" alt="" coords="1432,64,1635,105"/>
+<area shape="rect" id="node10" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a52e5c280fabbed909272946c730d6aff" title="services::HttpServerConnection\lObserver::HandleRequest" alt="" coords="925,123,1128,164"/>
+</map>

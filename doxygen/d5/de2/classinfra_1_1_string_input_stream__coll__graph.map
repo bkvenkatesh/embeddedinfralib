@@ -1,0 +1,14 @@
+<map id="infra::StringInputStream" name="infra::StringInputStream">
+<area shape="rect" id="node2" href="$d5/dec/classinfra_1_1_text_input_stream_1_1_with_reader.html" title="infra::TextInputStream\l::WithReader\&lt; StringInputStream\lReader \&gt;" alt="" coords="1437,159,1652,215"/>
+<area shape="rect" id="node3" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; StringInputStreamReader,\l WithReader\&lt; StringInputStreamReader \&gt; \&gt;" alt="" coords="1113,233,1388,289"/>
+<area shape="rect" id="node4" href="$d8/deb/classinfra_1_1_string_input_stream_reader.html" title="infra::StringInputStream\lReader" alt="" coords="840,290,999,331"/>
+<area shape="rect" id="node5" href="$d0/d1b/classinfra_1_1_stream_reader_with_rewinding.html" title="infra::StreamReaderWithRewinding" alt="" coords="503,268,725,295"/>
+<area shape="rect" id="node6" href="$d2/d90/classinfra_1_1_stream_reader.html" title="infra::StreamReader" alt="" coords="236,233,373,260"/>
+<area shape="rect" id="node14" href="$db/dda/classinfra_1_1_input_stream.html" title="infra::InputStream" alt="" coords="857,123,981,149"/>
+<area shape="rect" id="node8" href="$d1/d2a/classinfra_1_1_bounded_string_base.html" title="infra::BoundedStringBase\l\&lt; const char \&gt;" alt="" coords="529,370,699,411"/>
+<area shape="rect" id="node9" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; const char \&gt;" alt="" coords="235,370,374,411"/>
+<area shape="rect" id="node13" href="$d7/d93/classinfra_1_1_text_input_stream.html" title="infra::TextInputStream" alt="" coords="1176,97,1325,124"/>
+<area shape="rect" id="node15" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="534,152,694,179"/>
+<area shape="rect" id="node18" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; std\l::size_t \&gt;" alt="" coords="853,57,985,98"/>
+<area shape="rect" id="node19" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; std::size_t \&gt;" alt="" coords="547,83,681,125"/>
+</map>

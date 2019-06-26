@@ -1,0 +1,6 @@
+<map id="hal::SynchronousQuadSpi::ReceiveDataQuad" name="hal::SynchronousQuadSpi::ReceiveDataQuad">
+<area shape="rect" id="node2" href="$d7/ddb/classservices_1_1_synchronous_flash_quad_spi.html#a2f692b3bab208d588684f0704117efaf" title="services::SynchronousFlash\lQuadSpi::ReadBuffer" alt="" coords="232,5,417,47"/>
+<area shape="rect" id="node3" href="$d7/ddb/classservices_1_1_synchronous_flash_quad_spi.html#aca959594eb79c62ac69e05c83ddb7a7b" title="services::SynchronousFlash\lQuadSpi::ReadStatusRegister" alt="" coords="227,71,423,112"/>
+<area shape="rect" id="node4" href="$d7/ddb/classservices_1_1_synchronous_flash_quad_spi.html#a70d888de46b5dc987b6dc802f6637069" title="services::SynchronousFlash\lQuadSpi::HoldWhileWriteInProgress" alt="" coords="471,71,703,112"/>
+<area shape="rect" id="node5" href="$d7/ddb/classservices_1_1_synchronous_flash_quad_spi.html#a269561aa405364b3c6df913a1c607b00" title="services::SynchronousFlash\lQuadSpi::WriteBuffer" alt="" coords="751,71,936,112"/>
+</map>

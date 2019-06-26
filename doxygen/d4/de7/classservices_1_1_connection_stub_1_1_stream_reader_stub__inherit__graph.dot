@@ -1,0 +1,13 @@
+digraph "services::ConnectionStub::StreamReaderStub"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node0 [label="services::ConnectionStub\l::StreamReaderStub",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="infra::BoundedDequeInput\lStreamReader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dea/classinfra_1_1_bounded_deque_input_stream_reader.html"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="infra::StreamReaderWithRewinding",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d1b/classinfra_1_1_stream_reader_with_rewinding.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="infra::StreamReader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d90/classinfra_1_1_stream_reader.html"];
+}

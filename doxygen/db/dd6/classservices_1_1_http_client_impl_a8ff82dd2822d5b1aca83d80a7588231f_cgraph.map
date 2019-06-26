@@ -1,0 +1,6 @@
+<map id="services::HttpClientImpl::BodyReceived" name="services::HttpClientImpl::BodyReceived">
+<area shape="rect" id="node2" href="$db/dd6/classservices_1_1_http_client_impl.html#aa217ca14077903856dd75b407653e07c" title="services::HttpClientImpl\l::BodyComplete" alt="" coords="226,5,385,47"/>
+<area shape="rect" id="node3" href="$d0/de3/namespaceinfra.html#af113404041b6d15ab539059f0876bb82" title="infra::MakeContainedShared\lObject" alt="" coords="213,71,398,112"/>
+<area shape="rect" id="node4" href="$da/d78/classinfra_1_1_accessed_by_shared_ptr.html#a9a3b6445cae28c4ab728ca757cdd8ee7" title="infra::AccessedBySharedPtr\l::MakeShared" alt="" coords="212,136,399,177"/>
+<area shape="rect" id="node5" href="$dc/d4c/classinfra_1_1_single_observer.html#abb13c69cc61182baf350ff1736fa772e" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;::Subject" alt="" coords="228,202,383,258"/>
+</map>

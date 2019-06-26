@@ -1,0 +1,6 @@
+<map id="services::WiFiNetwork" name="services::WiFiNetwork">
+<area shape="rect" id="node2" href="$d1/db2/classinfra_1_1_subject.html" title="infra::Subject\&lt; WiFiNetwork\lStationObserver \&gt;" alt="" coords="541,15,725,57"/>
+<area shape="rect" id="node3" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; WiFiNetworkStationObserver,\l ObserverSubjectType \&gt;" alt="" coords="219,5,423,61"/>
+<area shape="rect" id="node6" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; WiFiNetworkAccessPointObserver,\l ObserverSubjectType \&gt;" alt="" coords="203,85,440,141"/>
+<area shape="rect" id="node5" href="$d1/db2/classinfra_1_1_subject.html" title="infra::Subject\&lt; WiFiNetwork\lAccessPointObserver \&gt;" alt="" coords="541,87,725,129"/>
+</map>

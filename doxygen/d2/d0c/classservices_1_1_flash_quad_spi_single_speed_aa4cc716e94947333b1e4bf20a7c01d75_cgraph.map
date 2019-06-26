@@ -1,0 +1,6 @@
+<map id="services::FlashQuadSpiSingleSpeed::ReadBuffer" name="services::FlashQuadSpiSingleSpeed::ReadBuffer">
+<area shape="rect" id="node2" href="$dd/df2/classhal_1_1_quad_spi.html#a962b4ce2b2f8ae4fb7b83324db78244c" title="hal::QuadSpi::AddressToVector" alt="" coords="248,5,453,32"/>
+<area shape="rect" id="node3" href="$d0/de3/namespaceinfra.html#a0ec8c0f8585063ab97f13228d4888974" title="infra::MakeOptional" alt="" coords="283,56,418,83"/>
+<area shape="rect" id="node4" href="$dd/df2/classhal_1_1_quad_spi.html#a07c583b84750ae9f6276c0d702fa6bcc" title="hal::QuadSpi::ReceiveData" alt="" coords="262,107,439,133"/>
+<area shape="rect" id="node5" href="$da/d1d/structhal_1_1_quad_spi_1_1_lines.html#a4e953de94e4c5d8501f26d0f880f15fa" title="hal::QuadSpi::Lines\l::SingleSpeed" alt="" coords="283,158,419,199"/>
+</map>

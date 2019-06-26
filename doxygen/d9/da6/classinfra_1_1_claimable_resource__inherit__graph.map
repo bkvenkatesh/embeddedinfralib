@@ -1,0 +1,5 @@
+<map id="infra::ClaimableResource" name="infra::ClaimableResource">
+<area shape="rect" id="node2" href="$d8/d5b/classservices_1_1_flash_multiple_access_master.html" title="services::FlashMultipleAccess\lMaster" alt="" coords="220,5,419,47"/>
+<area shape="rect" id="node3" href="$de/d17/classservices_1_1_i2c_multiple_access_master.html" title="services::I2cMultipleAccess\lMaster" alt="" coords="228,71,411,112"/>
+<area shape="rect" id="node4" href="$d0/d6b/classservices_1_1_spi_multiple_access_master.html" title="services::SpiMultipleAccess\lMaster" alt="" coords="227,136,412,177"/>
+</map>

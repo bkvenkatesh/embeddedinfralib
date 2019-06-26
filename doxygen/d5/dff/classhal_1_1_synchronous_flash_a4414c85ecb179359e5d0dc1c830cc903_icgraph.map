@@ -1,0 +1,17 @@
+<map id="hal::SynchronousFlash::SectorOfAddress" name="hal::SynchronousFlash::SectorOfAddress">
+<area shape="rect" id="node2" href="$d0/d97/classservices_1_1_synchronous_flash_region.html#a1041454a1209149a475143955ad932af" title="services::SynchronousFlash\lRegion::SectorOfAddress" alt="" coords="217,37,403,79"/>
+<area shape="rect" id="node5" href="$d5/dff/classhal_1_1_synchronous_flash.html#a1d188f8a95ed195d4b3c79e74b52cd43" title="hal::SynchronousFlash\l::StartOfNextSector" alt="" coords="233,103,387,144"/>
+<area shape="rect" id="node6" href="$d5/dff/classhal_1_1_synchronous_flash.html#a2ee669929885788f418bb62e7be7505a" title="hal::SynchronousFlash\l::StartOfNextSectorCyclical" alt="" coords="219,168,401,209"/>
+<area shape="rect" id="node7" href="$d5/dff/classhal_1_1_synchronous_flash.html#a26938163f0859a508efcbbd5cc3bcb41" title="hal::SynchronousFlash\l::StartOfPreviousSector" alt="" coords="231,233,389,275"/>
+<area shape="rect" id="node8" href="$d5/dff/classhal_1_1_synchronous_flash.html#a07de6a3e30744a50d7c8dcc6cec40f84" title="hal::SynchronousFlash\l::StartOfPreviousSectorCyclical" alt="" coords="208,299,412,340"/>
+<area shape="rect" id="node9" href="$d5/dff/classhal_1_1_synchronous_flash.html#a2b4419e346a7d9feecb65501c61a6f8e" title="hal::SynchronousFlash\l::StartOfSector" alt="" coords="233,364,387,405"/>
+<area shape="rect" id="node16" href="$d7/d5d/classapplication_1_1_image_upgrader_internal_flash.html#a5930f5460a6be09433e3c5ecc18062a0" title="application::ImageUpgrader\lInternalFlash::Upgrade" alt="" coords="221,429,399,471"/>
+<area shape="rect" id="node3" href="$d0/d97/classservices_1_1_synchronous_flash_region.html#a173d778c280bd91b98f849891e919724" title="services::SynchronousFlash\lRegion::WriteBuffer" alt="" coords="460,5,645,47"/>
+<area shape="rect" id="node4" href="$d0/d97/classservices_1_1_synchronous_flash_region.html#a7b36ad4ff58827013f2d093089d43af3" title="services::SynchronousFlash\lRegion::ReadBuffer" alt="" coords="460,71,645,112"/>
+<area shape="rect" id="node10" href="$d5/dff/classhal_1_1_synchronous_flash.html#ae0ffa50633226598ff634051fdf07530" title="hal::SynchronousFlash\l::AddressOffsetInSector" alt="" coords="473,332,633,373"/>
+<area shape="rect" id="node15" href="$d5/dff/classhal_1_1_synchronous_flash.html#a02efb1efa2d56346ca691a3693ec695b" title="hal::SynchronousFlash\l::AtStartOfSector" alt="" coords="475,397,630,439"/>
+<area shape="rect" id="node11" href="$d7/ddb/classservices_1_1_synchronous_flash_quad_spi.html#a7f860e4ff104978a992a29616fa64df0" title="services::SynchronousFlash\lQuadSpi::PageProgram" alt="" coords="693,300,879,341"/>
+<area shape="rect" id="node13" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#ade68b69886938a3ab630aa808dba1970" title="services::SynchronousFlash\lSpi::PageProgram" alt="" coords="693,365,879,407"/>
+<area shape="rect" id="node12" href="$d7/ddb/classservices_1_1_synchronous_flash_quad_spi.html#a269561aa405364b3c6df913a1c607b00" title="services::SynchronousFlash\lQuadSpi::WriteBuffer" alt="" coords="927,300,1112,341"/>
+<area shape="rect" id="node14" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#ab9ea42bce7156cde8fae8bb51c050fe8" title="services::SynchronousFlash\lSpi::WriteBuffer" alt="" coords="927,365,1112,407"/>
+</map>

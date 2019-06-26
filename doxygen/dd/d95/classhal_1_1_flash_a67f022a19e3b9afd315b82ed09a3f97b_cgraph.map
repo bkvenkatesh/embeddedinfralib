@@ -1,0 +1,5 @@
+<map id="hal::Flash::StartOfNextSectorCyclical" name="hal::Flash::StartOfNextSectorCyclical">
+<area shape="rect" id="node2" href="$dd/d95/classhal_1_1_flash.html#a57e55c9b32c2eacb23e8a4e9dcb3133f" title="hal::Flash::AddressOfSector" alt="" coords="249,5,435,32"/>
+<area shape="rect" id="node3" href="$dd/d95/classhal_1_1_flash.html#a95a53addc25efb18fe295f5124c29a25" title="hal::Flash::NumberOfSectors" alt="" coords="247,56,437,83"/>
+<area shape="rect" id="node4" href="$dd/d95/classhal_1_1_flash.html#a8fdc674c7384cdfb555cad2201848751" title="hal::Flash::SectorOfAddress" alt="" coords="249,107,435,133"/>
+</map>

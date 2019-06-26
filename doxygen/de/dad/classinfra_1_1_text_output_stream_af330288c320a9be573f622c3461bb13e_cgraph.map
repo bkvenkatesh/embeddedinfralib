@@ -1,0 +1,11 @@
+<map id="infra::TextOutputStream::FormatHelper" name="infra::TextOutputStream::FormatHelper">
+<area shape="rect" id="node2" href="$de/dad/classinfra_1_1_text_output_stream.html#a48c069cf897f332dee1d405702870bc9" title="infra::TextOutputStream\l::FormatArgs" alt="" coords="213,159,373,200"/>
+<area shape="rect" id="node3" href="$d6/d97/classinfra_1_1_output_stream.html#a6487a46afede51852f17cd7239848f3e" title="infra::OutputStream\l::ErrorPolicy" alt="" coords="439,5,574,47"/>
+<area shape="rect" id="node4" href="$de/dba/classinfra_1_1_stream_writer.html#a2135664b27111d57a0e6b36f91dadffa" title="infra::StreamWriter\l::Insert" alt="" coords="441,71,572,112"/>
+<area shape="rect" id="node5" href="$d0/de3/namespaceinfra.html#afe38b7d4318537de2f28b244211c4275" title="infra::MakeRange" alt="" coords="445,137,568,163"/>
+<area shape="rect" id="node8" href="$d0/de3/namespaceinfra.html#a74203fdf2e029d2667c7e4925092cc9a" title="infra::ReinterpretCastByte\lRange" alt="" coords="421,188,592,229"/>
+<area shape="rect" id="node9" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="437,253,576,295"/>
+<area shape="rect" id="node10" href="$d6/d97/classinfra_1_1_output_stream.html#a84a64f5c0f2237260bbc1aa42f39eacc" title="infra::OutputStream\l::Writer" alt="" coords="439,319,574,360"/>
+<area shape="rect" id="node6" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#aef23e4250cad2fdc69ccc39f68734233" title="infra::BoundedStringBase\l::begin" alt="" coords="655,100,824,141"/>
+<area shape="rect" id="node7" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#af5021f1ea3898146d0a55c2895f07dbf" title="infra::BoundedStringBase::end" alt="" coords="640,166,839,193"/>
+</map>

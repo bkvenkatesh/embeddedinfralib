@@ -1,0 +1,5 @@
+<map id="services::ConnectionSerial::AllocatedSendStream" name="services::ConnectionSerial::AllocatedSendStream">
+<area shape="rect" id="node2" href="$d1/db2/classinfra_1_1_subject.html#ae6779efb6b9b18a7638fef4ce0553466" title="infra::Subject\&lt; Connection\lObserver \&gt;::GetObserver" alt="" coords="236,5,411,47"/>
+<area shape="rect" id="node3" href="$d3/d0e/classinfra_1_1_interface_connector.html#aed1d9e952d3d0dfa68e59ee4e868b380" title="infra::InterfaceConnector\l\&lt; EventDispatcherWorker\l \&gt;::Instance" alt="" coords="238,71,409,127"/>
+<area shape="rect" id="node4" href="$d7/d34/classinfra_1_1_event_dispatcher_worker.html#a5922b8fd5101b15f20b639fcd11fa272" title="infra::EventDispatcherWorker\l::Schedule" alt="" coords="228,152,419,193"/>
+</map>

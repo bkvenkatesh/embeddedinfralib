@@ -1,0 +1,11 @@
+<map id="infra::StringAsByteRange" name="infra::StringAsByteRange">
+<area shape="rect" id="node2" href="$dd/db0/classservices_1_1_mqtt_client_impl_1_1_mqtt_formatter.html#a00d9190469d001acdb824e9e24e36c3b" title="services::MqttClientImpl\l::MqttFormatter::AddString" alt="" coords="241,5,418,47"/>
+<area shape="rect" id="node3" href="$d9/de8/classinfra_1_1_proto_length_delimited.html#abec8d6a15eb68e8e4493c20537b9a6f2" title="infra::ProtoLengthDelimited\l::GetString" alt="" coords="240,71,419,112"/>
+<area shape="rect" id="node4" href="$dd/db0/classservices_1_1_mqtt_client_impl_1_1_mqtt_formatter.html#ac389cc732d927ac109179988fed2d56e" title="services::MqttClientImpl\l::MqttFormatter::MessagePublish" alt="" coords="221,136,437,177"/>
+<area shape="rect" id="node6" href="$df/d59/classinfra_1_1_proto_formatter.html#a23fc0bd9e30729f8aa43802bd917d484" title="infra::ProtoFormatter\l::PutString" alt="" coords="259,201,400,243"/>
+<area shape="rect" id="node8" href="$da/d8b/classservices_1_1_dns_resolver_1_1_hostname_parts_stream.html#a49b7f93ce0133c5efaa890fb3065c116" title="services::DnsResolver\l::HostnamePartsStream\l::ReadNext" alt="" coords="248,267,411,323"/>
+<area shape="rect" id="node10" href="$da/dac/classservices_1_1_llmnr_responder.html#afbe7aa5113ae4450ecc5d1f3d6db33e0" title="services::LlmnrResponder\l::SendStreamAvailable" alt="" coords="244,348,415,389"/>
+<area shape="rect" id="node5" href="$d7/dac/classservices_1_1_mqtt_client_impl_1_1_state_connected.html#a2126ad9b3de6dab368a8aec628d60342" title="services::MqttClientImpl\l::StateConnected::SendStreamAvailable" alt="" coords="485,136,740,177"/>
+<area shape="rect" id="node7" href="$df/d59/classinfra_1_1_proto_formatter.html#a15fa83534cb5ce04f54d90dff7e429e7" title="infra::ProtoFormatter\l::PutStringField" alt="" coords="542,201,683,243"/>
+<area shape="rect" id="node9" href="$da/d8b/classservices_1_1_dns_resolver_1_1_hostname_parts_stream.html#a85dda13f1f2949d561fbbb84fe63c1ab" title="services::DnsResolver\l::HostnamePartsStream\l::HostnamePartsStream" alt="" coords="531,267,694,323"/>
+</map>

@@ -1,0 +1,14 @@
+digraph "infra::Subject::GetObserver"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node7 [label="infra::Subject::GetObserver",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="services::ConnectionLoop\lBack::Connect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d7a/classservices_1_1_connection_loop_back.html#a706ddd59ab87ebc33a3869784c4fad0b"];
+  Node7 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d88/_test_observer_8cpp.html#ad8cfcd0906c38bb0055feb0a9f96b623"];
+  Node7 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="services::ConnectionLoop\lBackPeer::StreamWriterLoopBack\l::~StreamWriterLoopBack",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d69/classservices_1_1_connection_loop_back_peer_1_1_stream_writer_loop_back.html#ab1f373c03d1684bf0d20302c5460bf3a"];
+}

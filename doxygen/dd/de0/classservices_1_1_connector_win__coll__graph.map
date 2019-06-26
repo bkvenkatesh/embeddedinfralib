@@ -1,0 +1,18 @@
+<map id="services::ConnectorWin" name="services::ConnectorWin">
+<area shape="rect" id="node5" href="$d3/daa/classinfra_1_1_weak_ptr.html" title="infra::WeakPtr\&lt; Connector\lWin \&gt;" alt="" coords="1692,865,1868,906"/>
+<area shape="rect" id="node2" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; ConnectorWin \&gt;::NodeType" alt="" coords="484,975,679,1017"/>
+<area shape="rect" id="node13" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; ClientConnectionObserverFactory\l \&gt;::NodeType" alt="" coords="233,287,460,343"/>
+<area shape="rect" id="node25" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; T \&gt;" alt="" coords="277,749,417,790"/>
+<area shape="rect" id="node4" href="$dd/df1/classinfra_1_1_enable_shared_from_this.html" title="infra::EnableSharedFromThis\l\&lt; ConnectorWin \&gt;" alt="" coords="1968,830,2157,871"/>
+<area shape="rect" id="node6" href="$dd/d9a/classinfra_1_1detail_1_1_shared_ptr_control.html" title="infra::detail::SharedPtr\lControl" alt="" coords="1445,1067,1596,1109"/>
+<area shape="rect" id="node9" href="$da/dcd/classinfra_1_1_shared_object_deleter.html" title="infra::SharedObjectDeleter" alt="" coords="1127,1100,1301,1127"/>
+<area shape="rect" id="node14" href="$d0/d67/classservices_1_1_event_dispatcher_with_network.html" title="services::EventDispatcher\lWithNetwork" alt="" coords="1129,455,1299,497"/>
+<area shape="rect" id="node12" href="$dc/d43/classservices_1_1_client_connection_observer_factory.html" title="services::ClientConnection\lObserverFactory" alt="" coords="928,26,1103,67"/>
+<area shape="rect" id="node15" href="$db/da8/classinfra_1_1_event_dispatcher_with_weak_ptr_1_1_with_size.html" title="infra::EventDispatcherWith\lWeakPtr::WithSize\&lt; 50 \&gt;" alt="" coords="716,331,891,373"/>
+<area shape="rect" id="node16" href="$db/db4/classservices_1_1_connection_factory.html" title="services::ConnectionFactory" alt="" coords="710,397,897,424"/>
+<area shape="rect" id="node17" href="$d7/da1/classservices_1_1_datagram_factory.html" title="services::DatagramFactory" alt="" coords="715,448,892,475"/>
+<area shape="rect" id="node23" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; services::ListenerWin \&gt;" alt="" coords="718,813,889,854"/>
+<area shape="rect" id="node24" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; services::ListenerWin \&gt;" alt="" coords="236,683,457,725"/>
+<area shape="rect" id="node27" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; services::ListenerBsd \&gt;" alt="" coords="718,878,889,919"/>
+<area shape="rect" id="node28" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; services::ListenerBsd \&gt;" alt="" coords="236,919,457,961"/>
+</map>

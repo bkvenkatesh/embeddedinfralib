@@ -1,0 +1,8 @@
+<map id="application::LineException" name="application::LineException">
+<area shape="rect" id="node2" href="$d9/dcc/structapplication_1_1_data_after_end_of_file_exception.html" title="application::DataAfterEnd\lOfFileException" alt="" coords="237,5,406,47"/>
+<area shape="rect" id="node3" href="$d9/d91/structapplication_1_1_incorrect_crc_exception.html" title="application::IncorrectCrc\lException" alt="" coords="240,71,403,112"/>
+<area shape="rect" id="node4" href="$d7/d0e/structapplication_1_1_no_end_of_file_exception.html" title="application::NoEndOfFile\lException" alt="" coords="239,136,404,177"/>
+<area shape="rect" id="node5" href="$d6/ded/structapplication_1_1_record_too_long_exception.html" title="application::RecordTooLong\lException" alt="" coords="230,201,413,243"/>
+<area shape="rect" id="node6" href="$d4/d94/structapplication_1_1_record_too_short_exception.html" title="application::RecordTooShort\lException" alt="" coords="229,267,414,308"/>
+<area shape="rect" id="node7" href="$de/d08/structapplication_1_1_unknown_record_exception.html" title="application::UnknownRecord\lException" alt="" coords="228,332,415,373"/>
+</map>

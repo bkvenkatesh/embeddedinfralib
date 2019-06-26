@@ -1,0 +1,13 @@
+<map id="services::FlashMultipleAccess" name="services::FlashMultipleAccess">
+<area shape="rect" id="node2" href="$dd/d95/classhal_1_1_flash.html" title="hal::Flash" alt="" coords="1349,147,1428,174"/>
+<area shape="rect" id="node15" href="$d8/d5b/classservices_1_1_flash_multiple_access_master.html" title="services::FlashMultipleAccess\lMaster" alt="" coords="1622,217,1821,259"/>
+<area shape="rect" id="node3" href="$d7/d6a/classinfra_1_1_claimable_resource_1_1_claimer_with_size.html" title="infra::ClaimableResource\l::ClaimerWithSize\&lt; SERVICES\l_FLASH_MULTIPLE_ACCESS_FUNCTION\l_EXTRA_SIZE \&gt;" alt="" coords="1585,5,1857,76"/>
+<area shape="rect" id="node4" href="$da/d20/classinfra_1_1_claimable_resource_1_1_claimer_base.html" title="infra::ClaimableResource\l::ClaimerBase" alt="" coords="1305,81,1472,123"/>
+<area shape="rect" id="node7" href="$d0/d93/classinfra_1_1_claimable_resource.html" title="infra::ClaimableResource" alt="" coords="1013,178,1180,205"/>
+<area shape="rect" id="node5" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; ClaimerBase \&gt;::NodeType" alt="" coords="487,35,673,76"/>
+<area shape="rect" id="node9" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; T \&gt;" alt="" coords="278,145,418,187"/>
+<area shape="rect" id="node8" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; infra::ClaimableResource\l::ClaimerBase \&gt;" alt="" coords="697,139,876,195"/>
+<area shape="rect" id="node10" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; infra::ClaimableResource\l::ClaimerBase \&gt;" alt="" coords="233,265,463,321"/>
+<area shape="rect" id="node13" href="$d5/d33/classinfra_1_1_auto_reset_function.html" title="infra::AutoResetFunction\l\&lt; void(), ExtraSize \&gt;" alt="" coords="1306,16,1471,57"/>
+<area shape="rect" id="node14" href="$d5/d33/classinfra_1_1_auto_reset_function.html" title="infra::AutoResetFunction\l\&lt; void()\&gt;" alt="" coords="1639,152,1804,193"/>
+</map>

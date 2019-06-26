@@ -1,0 +1,8 @@
+<map id="hal::FlashHomogeneous" name="hal::FlashHomogeneous">
+<area shape="rect" id="node3" href="$d0/db3/classservices_1_1_flash_quad_spi.html" title="services::FlashQuadSpi" alt="" coords="343,56,501,83"/>
+<area shape="rect" id="node7" href="$df/d28/classservices_1_1_flash_spi.html" title="services::FlashSpi" alt="" coords="358,107,486,133"/>
+<area shape="rect" id="node2" href="$dd/d95/classhal_1_1_flash.html" title="hal::Flash" alt="" coords="5,81,84,108"/>
+<area shape="rect" id="node4" href="$d1/d88/classservices_1_1_flash_quad_spi_cypress_fll.html" title="services::FlashQuadSpiCypressFll" alt="" coords="553,5,774,32"/>
+<area shape="rect" id="node5" href="$d8/dbe/classservices_1_1_flash_quad_spi_micron_n25q.html" title="services::FlashQuadSpiMicronN25q" alt="" coords="549,56,777,83"/>
+<area shape="rect" id="node6" href="$d2/d0c/classservices_1_1_flash_quad_spi_single_speed.html" title="services::FlashQuadSpiSingle\lSpeed" alt="" coords="566,107,761,149"/>
+</map>

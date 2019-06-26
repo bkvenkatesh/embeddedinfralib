@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d9/dce/classservices_1_1_http_response.html" title="services::HttpResponse" alt="" coords="5,82,164,109"/>
+<area shape="rect" id="node2" href="$d9/d3e/classapplication_1_1_time_http_page_1_1_time_response.html" title="application::TimeHttpPage\l::TimeResponse" alt="" coords="218,45,393,87"/>
+<area shape="rect" id="node3" href="$d8/d8d/classservices_1_1_http_error_response.html" title="services::HttpErrorResponse" alt="" coords="212,111,399,138"/>
+<area shape="rect" id="node4" href="$d6/dc5/classservices_1_1_http_response_bad_request.html" title="services::HttpResponseBad\lRequest" alt="" coords="457,5,639,47"/>
+<area shape="rect" id="node5" href="$dd/de4/classservices_1_1_http_response_method_not_allowed.html" title="services::HttpResponseMethod\lNotAllowed" alt="" coords="447,71,649,112"/>
+<area shape="rect" id="node6" href="$de/d59/classservices_1_1_http_response_not_found.html" title="services::HttpResponseNot\lFound" alt="" coords="459,136,637,177"/>
+<area shape="rect" id="node7" href="$d8/d5c/classservices_1_1_http_response_out_of_memory.html" title="services::HttpResponseOut\lOfMemory" alt="" coords="458,201,638,243"/>
+</map>

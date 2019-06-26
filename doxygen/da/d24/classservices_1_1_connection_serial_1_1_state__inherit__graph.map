@@ -1,0 +1,11 @@
+<map id="services::ConnectionSerial::State" name="services::ConnectionSerial::State">
+<area shape="rect" id="node2" href="$d2/d3d/classservices_1_1_connection_serial_1_1_state_connected.html" title="services::ConnectionSerial\l::StateConnected" alt="" coords="228,71,403,112"/>
+<area shape="rect" id="node7" href="$d0/db5/classservices_1_1_connection_serial_1_1_state_init.html" title="services::ConnectionSerial\l::StateInit" alt="" coords="228,169,403,211"/>
+<area shape="rect" id="node3" href="$dc/dee/classservices_1_1_connection_serial_1_1_state_connected_idle.html" title="services::ConnectionSerial\l::StateConnectedIdle" alt="" coords="469,5,643,47"/>
+<area shape="rect" id="node4" href="$dc/d3d/classservices_1_1_connection_serial_1_1_state_sending.html" title="services::ConnectionSerial\l::StateSending" alt="" coords="469,71,643,112"/>
+<area shape="rect" id="node5" href="$d4/d55/classservices_1_1_connection_serial_1_1_state_connected_sending_content.html" title="services::ConnectionSerial\l::StateConnectedSendingContent" alt="" coords="709,39,924,80"/>
+<area shape="rect" id="node6" href="$da/d87/classservices_1_1_connection_serial_1_1_state_sending_update.html" title="services::ConnectionSerial\l::StateSendingUpdate" alt="" coords="729,104,904,145"/>
+<area shape="rect" id="node8" href="$d5/d0a/classservices_1_1_connection_serial_1_1_state_init_size_request.html" title="services::ConnectionSerial\l::StateInitSizeRequest" alt="" coords="469,136,643,177"/>
+<area shape="rect" id="node9" href="$df/dfb/classservices_1_1_connection_serial_1_1_state_init_size_response.html" title="services::ConnectionSerial\l::StateInitSizeResponse" alt="" coords="469,201,643,243"/>
+<area shape="rect" id="node10" href="$d4/d34/classservices_1_1_connection_serial_1_1_state_init_size_response_request.html" title="services::ConnectionSerial\l::StateInitSizeResponseRequest" alt="" coords="451,267,661,308"/>
+</map>

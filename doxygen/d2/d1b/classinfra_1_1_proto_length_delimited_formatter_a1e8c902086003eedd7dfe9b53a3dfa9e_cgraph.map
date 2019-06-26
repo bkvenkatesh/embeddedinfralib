@@ -1,0 +1,5 @@
+<map id="infra::ProtoLengthDelimitedFormatter::~ProtoLengthDelimitedFormatter" name="infra::ProtoLengthDelimitedFormatter::~ProtoLengthDelimitedFormatter">
+<area shape="rect" id="node2" href="$d6/d97/classinfra_1_1_output_stream.html#a0a450346655274469b89ef62d85869c8" title="infra::OutputStream\l::ProcessedBytesSince" alt="" coords="272,5,431,47"/>
+<area shape="rect" id="node4" href="$df/d59/classinfra_1_1_proto_formatter.html#a86f1b90ba28fd2291d30312a5b8d1f82" title="infra::ProtoFormatter\l::PutVarInt" alt="" coords="281,71,422,112"/>
+<area shape="rect" id="node3" href="$de/dba/classinfra_1_1_stream_writer.html#af0dd36973b3af708faa536741e5b5420" title="infra::StreamWriter\l::GetProcessedBytesSince" alt="" coords="479,5,659,47"/>
+</map>

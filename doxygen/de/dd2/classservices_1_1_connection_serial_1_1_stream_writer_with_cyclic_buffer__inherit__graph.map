@@ -1,0 +1,4 @@
+<map id="services::ConnectionSerial::StreamWriterWithCyclicBuffer" name="services::ConnectionSerial::StreamWriterWithCyclicBuffer">
+<area shape="rect" id="node2" href="$df/d15/classinfra_1_1_byte_output_stream_writer.html" title="infra::ByteOutputStreamWriter" alt="" coords="8,80,205,107"/>
+<area shape="rect" id="node3" href="$de/dba/classinfra_1_1_stream_writer.html" title="infra::StreamWriter" alt="" coords="41,5,172,32"/>
+</map>

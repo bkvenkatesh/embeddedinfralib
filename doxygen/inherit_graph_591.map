@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d3/d0e/classinfra_1_1_interface_connector.html" title="infra::InterfaceConnector\l\&lt; EventDispatcherWithWeakPtrWorker \&gt;" alt="" coords="5,5,265,47"/>
+<area shape="rect" id="node2" href="$d8/d3a/classinfra_1_1_event_dispatcher_with_weak_ptr_connector.html" title="infra::EventDispatcherWith\lWeakPtrConnector\&lt; T \&gt;" alt="" coords="345,64,520,105"/>
+<area shape="rect" id="node3" href="$d3/d0e/classinfra_1_1_interface_connector.html" title="infra::InterfaceConnector\l\&lt; EventDispatcherWorker \&gt;" alt="" coords="44,123,227,164"/>
+<area shape="rect" id="node4" href="$d3/d09/classinfra_1_1_event_dispatcher_connector.html" title="infra::EventDispatcherConnector\&lt; T \&gt;" alt="" coords="313,130,552,157"/>
+<area shape="rect" id="node5" href="$d3/dee/class_t.html" title="T" alt="" coords="116,71,155,98"/>
+</map>

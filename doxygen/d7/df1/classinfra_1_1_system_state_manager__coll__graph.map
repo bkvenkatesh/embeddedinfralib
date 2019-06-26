@@ -1,0 +1,7 @@
+<map id="infra::SystemStateManager" name="infra::SystemStateManager">
+<area shape="rect" id="node2" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; infra::SystemStateParticipant \&gt;" alt="" coords="592,162,808,203"/>
+<area shape="rect" id="node3" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; infra::SystemState\lParticipant \&gt;" alt="" coords="235,59,428,115"/>
+<area shape="rect" id="node4" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; T \&gt;" alt="" coords="261,139,401,181"/>
+<area shape="rect" id="node7" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; const infra::SystemState\lBase \&gt;" alt="" coords="611,307,789,363"/>
+<area shape="rect" id="node8" href="$dc/da5/classinfra_1_1_system_state_base.html" title="infra::SystemStateBase" alt="" coords="251,284,411,311"/>
+</map>

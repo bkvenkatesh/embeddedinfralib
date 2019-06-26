@@ -1,0 +1,5 @@
+<map id="hal::LowPowerSerialCommunication" name="hal::LowPowerSerialCommunication">
+<area shape="rect" id="node2" href="$d6/dba/classhal_1_1_serial_communication.html" title="hal::SerialCommunication" alt="" coords="280,5,451,32"/>
+<area shape="rect" id="node3" href="$d5/d33/classinfra_1_1_auto_reset_function.html" title="infra::AutoResetFunction\l\&lt; void()\&gt;" alt="" coords="283,67,448,109"/>
+<area shape="rect" id="node4" href="$d3/d8e/classinfra_1_1_main_clock_reference.html" title="infra::MainClockReference" alt="" coords="279,133,452,160"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="services::FlashDelayedInit" name="services::FlashDelayedInit">
+<area shape="rect" id="node2" href="$dd/d95/classhal_1_1_flash.html" title="hal::Flash" alt="" coords="109,5,187,32"/>
+<area shape="rect" id="node4" href="$d5/d33/classinfra_1_1_auto_reset_function.html" title="infra::AutoResetFunction\l\&lt; void(), SERVICES_FLASH\l_DELAYED_INIT_FUNCTION_EXTRA_SIZE \&gt;" alt="" coords="5,121,291,177"/>
+</map>

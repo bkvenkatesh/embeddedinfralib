@@ -1,0 +1,6 @@
+<map id="infra::DiscardHead" name="infra::DiscardHead">
+<area shape="rect" id="node2" href="$db/d26/classservices_1_1_configuration_blob_impl.html#af35c32cf35f68a3bf4a811d76074a777" title="services::ConfigurationBlob\lImpl::CurrentBlob" alt="" coords="191,5,369,47"/>
+<area shape="rect" id="node3" href="$db/d26/classservices_1_1_configuration_blob_impl.html#ad39c0f61828aa30368cbc7ce113e0d3d" title="services::ConfigurationBlob\lImpl::MaxBlob" alt="" coords="191,71,369,112"/>
+<area shape="rect" id="node4" href="$df/d97/classinfra_1_1_string_output_stream_writer.html#a6f5878448350554901cbb5c37726a444" title="infra::StringOutputStream\lWriter::Overwrite" alt="" coords="195,136,365,177"/>
+<area shape="rect" id="node5" href="$df/d15/classinfra_1_1_byte_output_stream_writer.html#a0da9ab104bff67ad997c37116b80e126" title="infra::ByteOutputStreamWriter\l::Overwrite" alt="" coords="181,201,379,243"/>
+</map>

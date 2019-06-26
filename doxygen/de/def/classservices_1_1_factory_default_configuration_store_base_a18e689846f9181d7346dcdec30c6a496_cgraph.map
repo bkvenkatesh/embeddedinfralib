@@ -1,0 +1,10 @@
+<map id="services::FactoryDefaultConfigurationStoreBase::Recover" name="services::FactoryDefaultConfigurationStoreBase::Recover">
+<area shape="rect" id="node2" href="$d4/dc9/classservices_1_1_configuration_store_base.html#aa8acc547f66f4216c8f660878250ebfe" title="services::ConfigurationStore\lBase::Deserialize" alt="" coords="676,173,859,214"/>
+<area shape="rect" id="node3" href="$d1/da2/classservices_1_1_configuration_blob.html#a279b97e0a18250115b470e71b57dad3e" title="services::ConfigurationBlob\l::Erase" alt="" coords="447,72,626,113"/>
+<area shape="rect" id="node4" href="$d4/dc9/classservices_1_1_configuration_store_base.html#ad2af2f4f6a9696a1bf505841f4d67ed8" title="services::ConfigurationStore\lBase::Erase" alt="" coords="215,82,397,124"/>
+<area shape="rect" id="node5" href="$d1/da2/classservices_1_1_configuration_blob.html#a071805fa86dd447aac99b9711bf54f72" title="services::ConfigurationBlob\l::Recover" alt="" coords="447,137,626,178"/>
+<area shape="rect" id="node6" href="$d4/dc9/classservices_1_1_configuration_store_base.html#a055291782b499dc8c5da8feea63992d2" title="services::ConfigurationStore\lBase::Recover" alt="" coords="215,200,397,241"/>
+<area shape="rect" id="node9" href="$d4/dc9/classservices_1_1_configuration_store_base.html#a190f61ac910e9c41edbf4b0c57a98a84" title="services::ConfigurationStore\lBase::Serialize" alt="" coords="215,265,397,306"/>
+<area shape="rect" id="node7" href="$d4/dc9/classservices_1_1_configuration_store_base.html#a684451c2d4b570d28b31d0e91a8717b1" title="services::ConfigurationStore\lBase::OnBlobLoaded" alt="" coords="445,202,628,244"/>
+<area shape="rect" id="node8" href="$d0/de3/namespaceinfra.html#a032811931ada58a358282ecfcfd58de5" title="infra::swap" alt="" coords="725,239,809,266"/>
+</map>

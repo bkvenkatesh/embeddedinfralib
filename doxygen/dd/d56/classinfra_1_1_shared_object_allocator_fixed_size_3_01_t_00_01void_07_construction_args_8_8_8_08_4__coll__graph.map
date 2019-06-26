@@ -1,0 +1,7 @@
+<map id="infra::SharedObjectAllocatorFixedSize&lt; T, void(ConstructionArgs...)&gt;" name="infra::SharedObjectAllocatorFixedSize&lt; T, void(ConstructionArgs...)&gt;">
+<area shape="rect" id="node2" href="$dd/d4f/classinfra_1_1_shared_object_allocator_3_01_t_00_01void_07_construction_args_8_8_8_08_4.html" title="infra::SharedObjectAllocator\l\&lt; T, void(ConstructionArgs...)\&gt;" alt="" coords="672,5,871,47"/>
+<area shape="rect" id="node3" href="$da/dcd/classinfra_1_1_shared_object_deleter.html" title="infra::SharedObjectDeleter" alt="" coords="684,71,859,98"/>
+<area shape="rect" id="node4" href="$dc/de7/classinfra_1_1_bounded_vector.html" title="infra::BoundedVector\l\&lt; Node \&gt;" alt="" coords="700,123,843,164"/>
+<area shape="rect" id="node6" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; infra::StaticStorage\l\&lt; Node \&gt; \&gt;" alt="" coords="395,157,540,213"/>
+<area shape="rect" id="node7" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; Node \&gt;" alt="" coords="129,164,263,205"/>
+</map>

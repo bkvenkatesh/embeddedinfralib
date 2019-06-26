@@ -1,0 +1,10 @@
+<map id="services::AllocatorTracingConnectionMbedTlsAdapter" name="services::AllocatorTracingConnectionMbedTlsAdapter">
+<area shape="rect" id="node2" href="$d9/d7e/classinfra_1_1_shared_object_allocator.html" title="AllocatorConnectionMbedTls" alt="" coords="967,68,1153,95"/>
+<area shape="rect" id="node3" href="$dc/d42/classservices_1_1_tracer.html" title="services::Tracer" alt="" coords="1003,119,1117,145"/>
+<area shape="rect" id="node4" href="$de/dad/classinfra_1_1_text_output_stream.html" title="infra::TextOutputStream" alt="" coords="713,119,873,145"/>
+<area shape="rect" id="node5" href="$d6/d97/classinfra_1_1_output_stream.html" title="infra::OutputStream" alt="" coords="496,68,631,95"/>
+<area shape="rect" id="node6" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="221,40,381,67"/>
+<area shape="rect" id="node9" href="$de/dba/classinfra_1_1_stream_writer.html" title="infra::StreamWriter" alt="" coords="236,91,367,117"/>
+<area shape="rect" id="node11" href="$d4/daa/structinfra_1_1_width.html" title="infra::Width" alt="" coords="519,169,607,196"/>
+<area shape="rect" id="node14" href="$d9/d7e/classinfra_1_1_shared_object_allocator.html" title="infra::SharedObjectAllocator\l\&lt; T, ConstructionArgs \&gt;" alt="" coords="968,170,1152,211"/>
+</map>

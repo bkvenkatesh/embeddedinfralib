@@ -1,0 +1,5 @@
+<map id="infra::OutputStream::Failed" name="infra::OutputStream::Failed">
+<area shape="rect" id="node2" href="$db/dc0/classinfra_1_1_asn1_formatter.html#a5cc9492762c4ce2da2f418b3fa11b38a" title="infra::Asn1Formatter\l::Failed" alt="" coords="205,5,345,47"/>
+<area shape="rect" id="node3" href="$d5/d0c/classinfra_1_1_json_object_formatter.html#a767a4663a1909e40cd8e69d9a4853ec3" title="infra::JsonObjectFormatter\l::Failed" alt="" coords="188,71,363,112"/>
+<area shape="rect" id="node4" href="$df/d1e/classinfra_1_1_json_array_formatter.html#af3eeb73381db16b99f421c34ae20710a" title="infra::JsonArrayFormatter\l::Failed" alt="" coords="191,136,359,177"/>
+</map>

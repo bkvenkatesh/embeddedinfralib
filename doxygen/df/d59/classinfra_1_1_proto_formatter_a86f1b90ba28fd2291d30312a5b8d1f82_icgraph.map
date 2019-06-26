@@ -1,0 +1,14 @@
+<map id="infra::ProtoFormatter::PutVarInt" name="infra::ProtoFormatter::PutVarInt">
+<area shape="rect" id="node2" href="$d2/d1b/classinfra_1_1_proto_length_delimited_formatter.html#ad247ee660181cda6625da2ccf1ef6b11" title="infra::ProtoLengthDelimited\lFormatter::ProtoLengthDelimited\lFormatter" alt="" coords="199,5,409,61"/>
+<area shape="rect" id="node3" href="$df/d59/classinfra_1_1_proto_formatter.html#aeec08e808f4af95fa7d6039939b6a40c" title="infra::ProtoFormatter\l::PutBytes" alt="" coords="233,86,375,127"/>
+<area shape="rect" id="node4" href="$df/d59/classinfra_1_1_proto_formatter.html#a00c1b95b0e5789dbe82964023af30b89" title="infra::ProtoFormatter\l::PutBytesField" alt="" coords="467,115,608,157"/>
+<area shape="rect" id="node5" href="$df/d59/classinfra_1_1_proto_formatter.html#ad5b073c9322bfe35ae3ba5a74113c968" title="infra::ProtoFormatter\l::PutFixed32Field" alt="" coords="233,203,375,245"/>
+<area shape="rect" id="node6" href="$df/d59/classinfra_1_1_proto_formatter.html#ab4e2b0623fff0e441c8b30d544034dd6" title="infra::ProtoFormatter\l::PutFixed64Field" alt="" coords="233,269,375,310"/>
+<area shape="rect" id="node7" href="$df/d59/classinfra_1_1_proto_formatter.html#a2756034a6cc6ebfb77b30edeb39732a4" title="infra::ProtoFormatter\l::PutLengthDelimitedField" alt="" coords="219,334,389,375"/>
+<area shape="rect" id="node8" href="$df/d59/classinfra_1_1_proto_formatter.html#aaceecfba999cbb656ad056d2da1fe681" title="infra::ProtoFormatter\l::PutSignedVarInt" alt="" coords="233,399,375,441"/>
+<area shape="rect" id="node9" href="$df/d59/classinfra_1_1_proto_formatter.html#abc120e58fbd003adbb3b59b656261b74" title="infra::ProtoFormatter\l::PutSignedVarIntField" alt="" coords="461,442,613,483"/>
+<area shape="rect" id="node10" href="$df/d59/classinfra_1_1_proto_formatter.html#a23fc0bd9e30729f8aa43802bd917d484" title="infra::ProtoFormatter\l::PutString" alt="" coords="233,517,375,558"/>
+<area shape="rect" id="node11" href="$df/d59/classinfra_1_1_proto_formatter.html#a15fa83534cb5ce04f54d90dff7e429e7" title="infra::ProtoFormatter\l::PutStringField" alt="" coords="467,533,608,574"/>
+<area shape="rect" id="node12" href="$df/d59/classinfra_1_1_proto_formatter.html#a51ada341eb6d2a190e560d705885594e" title="infra::ProtoFormatter\l::PutVarIntField" alt="" coords="233,634,375,675"/>
+<area shape="rect" id="node13" href="$d2/d1b/classinfra_1_1_proto_length_delimited_formatter.html#a1e8c902086003eedd7dfe9b53a3dfa9e" title="infra::ProtoLengthDelimited\lFormatter::~ProtoLengthDelimited\lFormatter" alt="" coords="195,700,413,756"/>
+</map>

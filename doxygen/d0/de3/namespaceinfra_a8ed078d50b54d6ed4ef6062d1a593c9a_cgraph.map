@@ -1,0 +1,9 @@
+<map id="infra::operator&gt;&gt;" name="infra::operator&gt;&gt;">
+<area shape="rect" id="node2" href="$d0/d6d/classinfra_1_1_memory_range.html#a0dc90caa282524ee9828bf8128e3a569" title="infra::MemoryRange\l::empty" alt="" coords="181,5,320,47"/>
+<area shape="rect" id="node3" href="$db/dda/classinfra_1_1_input_stream.html#abffe6dcc91399c191c6fb7dbd610274f" title="infra::InputStream\l::Empty" alt="" coords="189,71,313,112"/>
+<area shape="rect" id="node5" href="$db/dda/classinfra_1_1_input_stream.html#a2ba329777e84a8bba1d9d7b29ed6bee1" title="infra::InputStream\l::ErrorPolicy" alt="" coords="189,136,313,177"/>
+<area shape="rect" id="node6" href="$d0/d6d/classinfra_1_1_memory_range.html#a1d00b8e252248622430ca2fa142e8059" title="infra::MemoryRange\l::front" alt="" coords="181,201,320,243"/>
+<area shape="rect" id="node7" href="$d0/d6d/classinfra_1_1_memory_range.html#adf5b31ae0a4ccba88bb4b284935e8a1a" title="infra::MemoryRange\l::pop_front" alt="" coords="181,267,320,308"/>
+<area shape="rect" id="node8" href="$d5/d4a/classinfra_1_1_stream_error_policy.html#a708126a1c40b64fd503bed2d8b8f9700" title="infra::StreamErrorPolicy\l::ReportResult" alt="" coords="171,332,331,373"/>
+<area shape="rect" id="node4" href="$d2/d90/classinfra_1_1_stream_reader.html#a072ccaa780dbf7599fa984a0d1ff7413" title="infra::StreamReader\l::Empty" alt="" coords="379,71,516,112"/>
+</map>

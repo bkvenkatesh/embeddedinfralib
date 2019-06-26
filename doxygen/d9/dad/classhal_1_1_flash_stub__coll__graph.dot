@@ -1,0 +1,23 @@
+digraph "hal::FlashStub"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node2 [label="hal::FlashStub",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hal::Flash",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d95/classhal_1_1_flash.html"];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" sectors" ,fontname="Helvetica"];
+  Node4 [label="vector\< std::vector\l\< uint8_t \> \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node5 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" onEraseDone" ,fontname="Helvetica"];
+  Node5 [label="infra::Function\< void()\>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d07/classinfra_1_1_function.html"];
+  Node6 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" delaySignalEraseDone" ,fontname="Helvetica"];
+  Node6 [label="bool",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node7 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" stopAfterWriteSteps" ,fontname="Helvetica"];
+  Node7 [label="infra::Optional\< uint8_t \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/df7/classinfra_1_1_optional.html"];
+  Node6 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" initialized" ,fontname="Helvetica"];
+  Node8 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node8 [label="infra::StaticStorage\l\< uint8_t \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d8c/classinfra_1_1_static_storage.html"];
+  Node9 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node9 [label="type",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

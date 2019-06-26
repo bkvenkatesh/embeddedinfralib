@@ -1,0 +1,4 @@
+<map id="infra::StreamReader::PeekContiguousRange" name="infra::StreamReader::PeekContiguousRange">
+<area shape="rect" id="node2" href="$d1/dc1/classinfra_1_1_counting_stream_reader.html#ad50e748a2a29d6d72e9341c50239931d" title="infra::CountingStreamReader\l::PeekContiguousRange" alt="" coords="216,5,404,47"/>
+<area shape="rect" id="node3" href="$db/dda/classinfra_1_1_input_stream.html#a1fe3eb64f639e7adbd244f40958107ce" title="infra::InputStream\l::PeekContiguousRange" alt="" coords="229,71,391,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="infra::TickOnInterruptTimerService::SetResolution" name="infra::TickOnInterruptTimerService::SetResolution">
+<area shape="rect" id="node2" href="$df/d2e/classinfra_1_1_tick_on_interrupt_timer_service.html#a759f8e66c86fadc950be404e563ae8ff" title="infra::TickOnInterruptTimer\lService::NextTriggerChanged" alt="" coords="228,5,417,47"/>
+<area shape="rect" id="node3" href="$da/def/classinfra_1_1_timer_service.html#ae092e0679a0307ceb7ec802c576e9ef2" title="infra::TimerService\l::NextTrigger" alt="" coords="465,5,593,47"/>
+</map>

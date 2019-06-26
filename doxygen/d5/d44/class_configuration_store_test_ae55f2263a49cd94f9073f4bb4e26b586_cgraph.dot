@@ -1,0 +1,21 @@
+digraph "ConfigurationStoreTest::DontRecover"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node2 [label="ConfigurationStoreTest\l::DontRecover",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="services::ConfigurationStore\lBase::Recover",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/dc9/classservices_1_1_configuration_store_base.html#a055291782b499dc8c5da8feea63992d2"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="services::ConfigurationBlob\l::Recover",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/da2/classservices_1_1_configuration_blob.html#a071805fa86dd447aac99b9711bf54f72"];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="services::ConfigurationBlob\l::Erase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/da2/classservices_1_1_configuration_blob.html#a279b97e0a18250115b470e71b57dad3e"];
+  Node3 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="services::ConfigurationStore\lBase::OnBlobLoaded",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/dc9/classservices_1_1_configuration_store_base.html#a684451c2d4b570d28b31d0e91a8717b1"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="infra::swap",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/de3/namespaceinfra.html#a032811931ada58a358282ecfcfd58de5"];
+  Node6 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="services::ConfigurationStore\lBase::Deserialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/dc9/classservices_1_1_configuration_store_base.html#aa8acc547f66f4216c8f660878250ebfe"];
+  Node3 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

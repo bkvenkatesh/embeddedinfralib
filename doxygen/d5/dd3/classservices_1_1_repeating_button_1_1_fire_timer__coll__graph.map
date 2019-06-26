@@ -1,0 +1,9 @@
+<map id="services::RepeatingButton::FireTimer" name="services::RepeatingButton::FireTimer">
+<area shape="rect" id="node2" href="$d5/da5/classinfra_1_1_timer.html" title="infra::Timer" alt="" coords="988,179,1075,206"/>
+<area shape="rect" id="node3" href="$d7/d4a/classinfra_1_1detail_1_1_intrusive_forward_list_node.html" title="infra::IntrusiveForwardList\l\&lt; Timer \&gt;::NodeType" alt="" coords="496,7,664,48"/>
+<area shape="rect" id="node8" href="$d7/d4a/classinfra_1_1detail_1_1_intrusive_forward_list_node.html" title="infra::IntrusiveForwardList\l\&lt; TimerService \&gt;::NodeType" alt="" coords="285,57,472,99"/>
+<area shape="rect" id="node5" href="$da/d07/classinfra_1_1_function.html" title="infra::Function\&lt; void()\&gt;" alt="" coords="688,230,843,257"/>
+<area shape="rect" id="node7" href="$da/def/classinfra_1_1_timer_service.html" title="infra::TimerService" alt="" coords="701,179,829,206"/>
+<area shape="rect" id="node10" href="$d3/d66/classinfra_1_1_intrusive_forward_list.html" title="infra::IntrusiveForwardList\l\&lt; infra::Timer \&gt;" alt="" coords="295,123,463,164"/>
+<area shape="rect" id="node11" href="$d7/d4a/classinfra_1_1detail_1_1_intrusive_forward_list_node.html" title="infra::detail::Intrusive\lForwardListNode\&lt; infra\l::Timer \&gt;" alt="" coords="11,115,166,171"/>
+</map>

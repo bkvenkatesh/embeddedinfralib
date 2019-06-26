@@ -1,0 +1,21 @@
+<map id="infra::Sequencer::If" name="infra::Sequencer::If">
+<area shape="rect" id="node2" href="$d4/d36/classservices_1_1_cyclic_store.html#a6831a59811174b5a79616e69b555ef12" title="services::CyclicStore::Add" alt="" coords="434,151,609,178"/>
+<area shape="rect" id="node4" href="$d8/db5/classapplication_1_1_deploy_pack_to_external.html#a266ba4b3faeea4ab1efca546279509cd" title="application::DeployPackTo\lExternal::DeployPackToExternal" alt="" coords="416,377,627,419"/>
+<area shape="rect" id="node5" href="$d4/d36/classservices_1_1_cyclic_store.html#a9a8d58930d91d2606ce40f651da398bb" title="services::CyclicStore\l::EraseSectorIfAtStart" alt="" coords="201,268,351,309"/>
+<area shape="rect" id="node6" href="$d4/d36/classservices_1_1_cyclic_store.html#abbfca86f746373ca05c917d087761080" title="services::CyclicStore\l::FillSectorIfDataDoesNotFit" alt="" coords="185,5,367,47"/>
+<area shape="rect" id="node7" href="$d8/d2e/classservices_1_1_cyclic_store_1_1_iterator.html#a381735d4db303d7075fb985d38620026" title="services::CyclicStore\l::Iterator::Read" alt="" coords="449,443,593,484"/>
+<area shape="rect" id="node8" href="$d8/d2e/classservices_1_1_cyclic_store_1_1_iterator.html#a15d402ff832887c4acbb33e8098d4ad4" title="services::CyclicStore\l::Iterator::ReadSectorStatus\lIfAtStart" alt="" coords="184,625,368,681"/>
+<area shape="rect" id="node9" href="$d4/d36/classservices_1_1_cyclic_store.html#a5b397293a572ce5d6d3144f0d284770f" title="services::CyclicStore\l::Recover" alt="" coords="682,413,826,455"/>
+<area shape="rect" id="node11" href="$d4/d36/classservices_1_1_cyclic_store.html#aad16c79a455a56877863b2828a03a22b" title="services::CyclicStore\l::RecoverEndAddress" alt="" coords="448,508,595,549"/>
+<area shape="rect" id="node12" href="$d8/dcc/classinfra_1_1_sequencer.html#afc41c4a19e4ea4741222953cd5b3db33" title="infra::Sequencer::While" alt="" coords="197,574,355,601"/>
+<area shape="rect" id="node19" href="$d4/d36/classservices_1_1_cyclic_store.html#a08dbba8a0aaac53dc54133f23475c423" title="services::CyclicStore\l::WriteRange" alt="" coords="204,71,348,112"/>
+<area shape="rect" id="node20" href="$d4/d36/classservices_1_1_cyclic_store.html#ad6ae3d3b0cade2999ee863bee7740db4" title="services::CyclicStore\l::WriteSectorStatusIfAtStart\lOfSector" alt="" coords="184,137,368,193"/>
+<area shape="rect" id="node3" href="$d4/d36/classservices_1_1_cyclic_store.html#a7aeab26acd5d9c4df8de0dd8eceb6af8" title="services::CyclicStore\l::AddPartial" alt="" coords="682,144,826,185"/>
+<area shape="rect" id="node10" href="$d4/d36/classservices_1_1_cyclic_store.html#a6a29c761506bd86c65acb03b1a717e9a" title="services::CyclicStore\l::CyclicStore" alt="" coords="881,413,1025,455"/>
+<area shape="rect" id="node13" href="$d0/db3/classservices_1_1_flash_quad_spi.html#ad5eea94e8c563df753b4a66292d1e73d" title="services::FlashQuadSpi\l::EraseSectors" alt="" coords="442,573,601,615"/>
+<area shape="rect" id="node14" href="$d0/db3/classservices_1_1_flash_quad_spi.html#a9e190d022eb9d8fc0f88e89160f89b0f" title="services::FlashQuadSpi\l::WriteBufferSequence" alt="" coords="442,639,601,680"/>
+<area shape="rect" id="node16" href="$df/d28/classservices_1_1_flash_spi.html#a565d63c057e750b2c5703b83e2987e0d" title="services::FlashSpi\l::WriteBuffer" alt="" coords="690,715,818,756"/>
+<area shape="rect" id="node17" href="$df/d28/classservices_1_1_flash_spi.html#a5b3e05583977f2aebb2cb4b25491390a" title="services::FlashSpi\l::EraseSectors" alt="" coords="690,803,818,844"/>
+<area shape="rect" id="node18" href="$df/d28/classservices_1_1_flash_spi.html#a84fae0acb54bc7f4841ee1e2c970618f" title="services::FlashSpi\l::HoldWhileWriteInProgress" alt="" coords="430,756,613,797"/>
+<area shape="rect" id="node15" href="$d0/db3/classservices_1_1_flash_quad_spi.html#a3ff6a6b4dc7fa4f07ff1dc03d9292f33" title="services::FlashQuadSpi\l::WriteBuffer" alt="" coords="675,639,833,680"/>
+</map>

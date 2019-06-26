@@ -1,0 +1,11 @@
+<map id="hal::SynchronousFlash::WriteBuffer" name="hal::SynchronousFlash::WriteBuffer">
+<area shape="rect" id="node2" href="$d7/da5/classapplication_1_1_pack_upgrader.html#a6d81d95339a3312b78f65ef0b8b94229" title="application::PackUpgrader\l::MarkAsDeployed" alt="" coords="441,5,616,47"/>
+<area shape="rect" id="node4" href="$d7/da5/classapplication_1_1_pack_upgrader.html#a91eb5f598ef46b8027b49bf978a1e97b" title="application::PackUpgrader\l::MarkAsDeployStarted" alt="" coords="441,71,616,112"/>
+<area shape="rect" id="node5" href="$d5/dc9/classapplication_1_1_second_stage_to_ram_loader.html#a2ea672dd0c1198a92881a9cb60cff7c0" title="application::SecondStage\lToRamLoader::MarkAsError" alt="" coords="209,129,392,171"/>
+<area shape="rect" id="node7" href="$d7/da5/classapplication_1_1_pack_upgrader.html#a6bc737ce61630bc7a68a046b2b464a90" title="application::PackUpgrader\l::MarkAsError" alt="" coords="213,195,388,236"/>
+<area shape="rect" id="node9" href="$d7/d5d/classapplication_1_1_image_upgrader_internal_flash.html#a5930f5460a6be09433e3c5ecc18062a0" title="application::ImageUpgrader\lInternalFlash::Upgrade" alt="" coords="211,260,390,301"/>
+<area shape="rect" id="node10" href="$d0/d97/classservices_1_1_synchronous_flash_region.html#a173d778c280bd91b98f849891e919724" title="services::SynchronousFlash\lRegion::WriteBuffer" alt="" coords="208,325,393,367"/>
+<area shape="rect" id="node3" href="$d7/da5/classapplication_1_1_pack_upgrader.html#aff7dca5e5b0c0c6ebbed6753cfc0f50a" title="application::PackUpgrader\l::UpgradeFromImages" alt="" coords="664,133,839,175"/>
+<area shape="rect" id="node6" href="$d5/dc9/classapplication_1_1_second_stage_to_ram_loader.html#a80d50e315681e442cdce991d9185340c" title="application::SecondStage\lToRamLoader::Load" alt="" coords="443,136,614,177"/>
+<area shape="rect" id="node8" href="$d7/da5/classapplication_1_1_pack_upgrader.html#a1337cb46d527469775a711277a01e516" title="application::PackUpgrader\l::TryUpgradeImage" alt="" coords="441,253,616,295"/>
+</map>

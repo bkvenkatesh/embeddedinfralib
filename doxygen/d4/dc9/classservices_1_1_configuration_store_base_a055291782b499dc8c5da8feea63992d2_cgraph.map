@@ -1,0 +1,7 @@
+<map id="services::ConfigurationStoreBase::Recover" name="services::ConfigurationStoreBase::Recover">
+<area shape="rect" id="node2" href="$d1/da2/classservices_1_1_configuration_blob.html#a279b97e0a18250115b470e71b57dad3e" title="services::ConfigurationBlob\l::Erase" alt="" coords="238,5,417,47"/>
+<area shape="rect" id="node3" href="$d4/dc9/classservices_1_1_configuration_store_base.html#a684451c2d4b570d28b31d0e91a8717b1" title="services::ConfigurationStore\lBase::OnBlobLoaded" alt="" coords="236,71,419,112"/>
+<area shape="rect" id="node5" href="$d0/de3/namespaceinfra.html#a032811931ada58a358282ecfcfd58de5" title="infra::swap" alt="" coords="516,137,600,163"/>
+<area shape="rect" id="node6" href="$d1/da2/classservices_1_1_configuration_blob.html#a071805fa86dd447aac99b9711bf54f72" title="services::ConfigurationBlob\l::Recover" alt="" coords="238,188,417,229"/>
+<area shape="rect" id="node4" href="$d4/dc9/classservices_1_1_configuration_store_base.html#aa8acc547f66f4216c8f660878250ebfe" title="services::ConfigurationStore\lBase::Deserialize" alt="" coords="467,71,649,112"/>
+</map>

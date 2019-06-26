@@ -1,0 +1,5 @@
+<map id="application::Input" name="application::Input">
+<area shape="rect" id="node2" href="$d9/dec/classapplication_1_1_input_binary.html" title="application::InputBinary" alt="" coords="5,80,163,107"/>
+<area shape="rect" id="node3" href="$dd/dac/classapplication_1_1_input_hex.html" title="application::InputHex" alt="" coords="187,80,330,107"/>
+<area shape="rect" id="node4" href="$d6/de5/classapplication_1_1_no_file_input.html" title="application::NoFileInput" alt="" coords="355,80,512,107"/>
+</map>

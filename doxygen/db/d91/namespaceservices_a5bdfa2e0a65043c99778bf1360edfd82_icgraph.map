@@ -1,0 +1,5 @@
+<map id="services::PathFromUrl" name="services::PathFromUrl">
+<area shape="rect" id="node2" href="$db/dae/classservices_1_1_http_client_basic.html#afe3f34509600d5aa457f0fe9c59af112" title="services::HttpClientBasic\l::Path" alt="" coords="204,39,371,80"/>
+<area shape="rect" id="node3" href="$df/dd9/classservices_1_1_http_client_json.html#ab4d16df0033aab2282ed087d7eaf8b19" title="services::HttpClientJson\l::Connected" alt="" coords="419,5,580,47"/>
+<area shape="rect" id="node4" href="$d7/da4/classapplication_1_1_tracing_http_client.html#afaf22b944651d759337a20329916d4ef" title="application::TracingHttp\lClient::Connected" alt="" coords="420,71,579,112"/>
+</map>

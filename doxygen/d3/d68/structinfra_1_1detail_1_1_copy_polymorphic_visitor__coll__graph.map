@@ -1,0 +1,5 @@
+<map id="infra::detail::CopyPolymorphicVisitor&lt; Base, T &gt;" name="infra::detail::CopyPolymorphicVisitor&lt; Base, T &gt;">
+<area shape="rect" id="node2" href="$d2/dca/classinfra_1_1_static_visitor.html" title="infra::StaticVisitor\l\&lt; void \&gt;" alt="" coords="5,199,131,240"/>
+<area shape="rect" id="node3" href="$de/dcd/classinfra_1_1_polymorphic_variant.html" title="infra::PolymorphicVariant\l\&lt; Base, T... \&gt;" alt="" coords="155,199,322,240"/>
+<area shape="rect" id="node5" href="$d5/d39/classinfra_1_1_static_storage_for_polymorphic_objects.html" title="infra::StaticStorageForPolymorphic\lObjects\&lt; Base, T... \&gt;" alt="" coords="232,95,456,136"/>
+</map>

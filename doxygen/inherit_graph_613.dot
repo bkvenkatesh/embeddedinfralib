@@ -1,0 +1,22 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="services::HttpResponse",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dce/classservices_1_1_http_response.html"];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="application::TimeHttpPage\l::TimeResponse",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d3e/classapplication_1_1_time_http_page_1_1_time_response.html"];
+  Node0 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="services::HttpErrorResponse",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d8d/classservices_1_1_http_error_response.html"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="services::HttpResponseBad\lRequest",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dc5/classservices_1_1_http_response_bad_request.html"];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="services::HttpResponseMethod\lNotAllowed",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/de4/classservices_1_1_http_response_method_not_allowed.html"];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="services::HttpResponseNot\lFound",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d59/classservices_1_1_http_response_not_found.html"];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="services::HttpResponseOut\lOfMemory",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d5c/classservices_1_1_http_response_out_of_memory.html"];
+  Node0 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="services::HttpResponseMock",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d36/classservices_1_1_http_response_mock.html"];
+}

@@ -1,0 +1,9 @@
+<map id="infra::TextOutputStream::WithWriter&lt; TheWriter &gt;" name="infra::TextOutputStream::WithWriter&lt; TheWriter &gt;">
+<area shape="rect" id="node2" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; TheWriter, WithWriter\&lt;\l TheWriter \&gt; \&gt;" alt="" coords="745,5,920,61"/>
+<area shape="rect" id="node3" href="$d4/d5e/class_the_writer.html" title="TheWriter" alt="" coords="524,20,603,47"/>
+<area shape="rect" id="node4" href="$de/dad/classinfra_1_1_text_output_stream.html" title="infra::TextOutputStream" alt="" coords="753,169,913,196"/>
+<area shape="rect" id="node5" href="$d6/d97/classinfra_1_1_output_stream.html" title="infra::OutputStream" alt="" coords="496,136,631,163"/>
+<area shape="rect" id="node6" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="221,100,381,127"/>
+<area shape="rect" id="node9" href="$de/dba/classinfra_1_1_stream_writer.html" title="infra::StreamWriter" alt="" coords="236,165,367,192"/>
+<area shape="rect" id="node11" href="$d4/daa/structinfra_1_1_width.html" title="infra::Width" alt="" coords="519,237,607,264"/>
+</map>

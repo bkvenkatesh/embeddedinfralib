@@ -1,0 +1,7 @@
+<map id="infra::CopyToken" name="infra::CopyToken">
+<area shape="rect" id="node2" href="$d0/de3/namespaceinfra.html#a6ff0375316ccb5c29bfb9a55090610f0" title="infra::ApplyVisitor" alt="" coords="195,5,319,32"/>
+<area shape="rect" id="node3" href="$d7/d8e/classinfra_1_1_json_token_1_1_string.html#a5434d68141a00e7664fb1d5c8ae21cef" title="infra::JsonToken::String\l::RawValue" alt="" coords="178,57,337,98"/>
+<area shape="rect" id="node5" href="$d2/d84/classinfra_1_1_json_token_1_1_integer.html#a97f8d96410727e87e9f8ffc53b3dc13d" title="infra::JsonToken::Integer\l::Value" alt="" coords="176,122,339,163"/>
+<area shape="rect" id="node6" href="$db/d82/classinfra_1_1_json_token_1_1_boolean.html#a760328927920e1bd169d852c5f0e61dc" title="infra::JsonToken::Boolean\l::Value" alt="" coords="172,187,343,229"/>
+<area shape="rect" id="node4" href="$d1/d16/classinfra_1_1_json_string.html#ad263c80c4c79cde62e14e4b83eb34e97" title="infra::JsonString::Raw" alt="" coords="391,64,539,91"/>
+</map>

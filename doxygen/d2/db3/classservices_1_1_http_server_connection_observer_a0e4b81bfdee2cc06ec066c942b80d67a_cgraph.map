@@ -1,0 +1,8 @@
+<map id="services::HttpServerConnectionObserver::TakeOverConnection" name="services::HttpServerConnectionObserver::TakeOverConnection">
+<area shape="rect" id="node2" href="$dc/d4c/classinfra_1_1_single_observer.html#a7691ac8d2aa56fb17be6a73d1b47e9b5" title="infra::SingleObserver\l::Attach" alt="" coords="278,5,419,47"/>
+<area shape="rect" id="node3" href="$dc/d4c/classinfra_1_1_single_observer.html#afb2ca130bf5c6b4333736d0df3e098ea" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;::Detach" alt="" coords="271,71,426,127"/>
+<area shape="rect" id="node4" href="$d0/de3/namespaceinfra.html#af113404041b6d15ab539059f0876bb82" title="infra::MakeContainedShared\lObject" alt="" coords="256,152,441,193"/>
+<area shape="rect" id="node5" href="$d0/dde/classservices_1_1_connection.html#acb239e2807e95387fb6aa33372b44038" title="services::Connection\l::Observer" alt="" coords="277,217,420,259"/>
+<area shape="rect" id="node6" href="$dc/d4c/classinfra_1_1_single_observer.html#abb13c69cc61182baf350ff1736fa772e" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;::Subject" alt="" coords="271,283,426,339"/>
+<area shape="rect" id="node7" href="$d0/dde/classservices_1_1_connection.html#af8fa2ec2a0aa82506ac38d4621fd9e5b" title="services::Connection\l::SwitchObserver" alt="" coords="277,364,420,405"/>
+</map>

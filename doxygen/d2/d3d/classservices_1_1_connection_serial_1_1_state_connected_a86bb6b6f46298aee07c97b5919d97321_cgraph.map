@@ -1,0 +1,4 @@
+<map id="services::ConnectionSerial::StateConnected::IsEscapedByte" name="services::ConnectionSerial::StateConnected::IsEscapedByte">
+<area shape="rect" id="node2" href="$dd/db4/classservices_1_1_connection_serial_1_1_message_header.html#a603199f3a0e7ad701509c945ece8f616" title="services::ConnectionSerial\l::MessageHeader::IsEscapeByte" alt="" coords="272,5,485,47"/>
+<area shape="rect" id="node3" href="$dd/db4/classservices_1_1_connection_serial_1_1_message_header.html#a6303a901ee504b9e2f71542eceeaacce" title="services::ConnectionSerial\l::MessageHeader::IsHeaderByte" alt="" coords="273,71,484,112"/>
+</map>

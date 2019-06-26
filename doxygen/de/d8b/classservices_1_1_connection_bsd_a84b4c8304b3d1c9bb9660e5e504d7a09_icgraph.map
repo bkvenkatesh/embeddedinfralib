@@ -1,0 +1,5 @@
+<map id="services::ConnectionBsd::TryAllocateSendStream" name="services::ConnectionBsd::TryAllocateSendStream">
+<area shape="rect" id="node2" href="$de/d8b/classservices_1_1_connection_bsd.html#a2fd659c8bb86c113759c84c6de5ffd11" title="services::ConnectionBsd\l::RequestSendStream" alt="" coords="220,5,385,47"/>
+<area shape="rect" id="node3" href="$de/d8b/classservices_1_1_connection_bsd.html#abd0d4817f9fbeb070f1fe89332f33d0f" title="services::ConnectionBsd\l::Send" alt="" coords="220,71,385,112"/>
+<area shape="rect" id="node4" href="$de/d8b/classservices_1_1_connection_bsd.html#ae7929b686931d7def6a1d13821958d0a" title="services::ConnectionBsd\l::TrySend" alt="" coords="433,71,599,112"/>
+</map>

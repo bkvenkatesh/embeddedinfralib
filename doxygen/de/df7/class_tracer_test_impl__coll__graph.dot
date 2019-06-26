@@ -1,0 +1,29 @@
+digraph "TracerTestImpl"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node2 [label="TracerTestImpl",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="services::Tracer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d42/classservices_1_1_tracer.html"];
+  Node4 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" stream" ,fontname="Helvetica"];
+  Node4 [label="infra::TextOutputStream",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dad/classinfra_1_1_text_output_stream.html"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="infra::OutputStream",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d97/classinfra_1_1_output_stream.html"];
+  Node6 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" errorPolicy" ,fontname="Helvetica"];
+  Node6 [label="infra::StreamErrorPolicy",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d4a/classinfra_1_1_stream_error_policy.html"];
+  Node7 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" checkedFail\nfailed" ,fontname="Helvetica"];
+  Node7 [label="bool",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node8 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" failureMode" ,fontname="Helvetica"];
+  Node8 [label="FailureMode",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node9 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" writer" ,fontname="Helvetica"];
+  Node9 [label="infra::StreamWriter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dba/classinfra_1_1_stream_writer.html"];
+  Node10 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" radix" ,fontname="Helvetica"];
+  Node10 [label="Radix",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node11 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" width" ,fontname="Helvetica"];
+  Node11 [label="infra::Width",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/daa/structinfra_1_1_width.html"];
+  Node12 -> Node11 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" padding" ,fontname="Helvetica"];
+  Node12 [label="char",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node13 -> Node11 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" width" ,fontname="Helvetica"];
+  Node13 [label="size_t",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

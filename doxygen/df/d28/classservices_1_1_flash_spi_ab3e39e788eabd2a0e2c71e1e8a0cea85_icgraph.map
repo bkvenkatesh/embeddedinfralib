@@ -1,0 +1,9 @@
+<map id="services::FlashSpi::ConvertAddress" name="services::FlashSpi::ConvertAddress">
+<area shape="rect" id="node2" href="$df/d28/classservices_1_1_flash_spi.html#aea31dd62ec4d7cc0ac72c485fab0dece" title="services::FlashSpi\l::PageProgram" alt="" coords="195,5,323,47"/>
+<area shape="rect" id="node4" href="$df/d28/classservices_1_1_flash_spi.html#a779453e98e31045c379a8db1d69f5573" title="services::FlashSpi\l::ReadBuffer" alt="" coords="195,71,323,112"/>
+<area shape="rect" id="node5" href="$df/d28/classservices_1_1_flash_spi.html#a83fb0df7e373ebbcb9b3fc4fa5855dce" title="services::FlashSpi\l::SendEraseSector" alt="" coords="193,136,325,177"/>
+<area shape="rect" id="node8" href="$df/d28/classservices_1_1_flash_spi.html#a27212b42f9853b69cd597d96779d2f4f" title="services::FlashSpi\l::SendEraseSubSector" alt="" coords="181,201,336,243"/>
+<area shape="rect" id="node3" href="$df/d28/classservices_1_1_flash_spi.html#a565d63c057e750b2c5703b83e2987e0d" title="services::FlashSpi\l::WriteBuffer" alt="" coords="391,5,519,47"/>
+<area shape="rect" id="node6" href="$df/d28/classservices_1_1_flash_spi.html#aa87d4ca73eedb68b123567cb8d678743" title="services::FlashSpi\l::EraseSomeSectors" alt="" coords="384,168,527,209"/>
+<area shape="rect" id="node7" href="$df/d28/classservices_1_1_flash_spi.html#a5b3e05583977f2aebb2cb4b25491390a" title="services::FlashSpi\l::EraseSectors" alt="" coords="575,168,703,209"/>
+</map>

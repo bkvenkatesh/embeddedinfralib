@@ -1,0 +1,9 @@
+<map id="infra::LimitedDataOutputStream" name="infra::LimitedDataOutputStream">
+<area shape="rect" id="node2" href="$dd/dd9/classinfra_1_1_data_output_stream_1_1_with_writer.html" title="infra::DataOutputStream\l::WithWriter\&lt; LimitedStreamWriter \&gt;" alt="" coords="1056,124,1291,165"/>
+<area shape="rect" id="node3" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; LimitedStreamWriter, WithWriter\l\&lt; LimitedStreamWriter \&gt; \&gt;" alt="" coords="784,47,1007,103"/>
+<area shape="rect" id="node4" href="$dd/d12/classinfra_1_1_limited_stream_writer.html" title="infra::LimitedStreamWriter" alt="" coords="496,14,669,41"/>
+<area shape="rect" id="node5" href="$de/dba/classinfra_1_1_stream_writer.html" title="infra::StreamWriter" alt="" coords="236,10,367,37"/>
+<area shape="rect" id="node8" href="$d6/d97/classinfra_1_1_output_stream.html" title="infra::OutputStream" alt="" coords="515,131,650,158"/>
+<area shape="rect" id="node7" href="$d6/d7d/classinfra_1_1_data_output_stream.html" title="infra::DataOutputStream" alt="" coords="814,131,977,158"/>
+<area shape="rect" id="node9" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="221,171,381,198"/>
+</map>

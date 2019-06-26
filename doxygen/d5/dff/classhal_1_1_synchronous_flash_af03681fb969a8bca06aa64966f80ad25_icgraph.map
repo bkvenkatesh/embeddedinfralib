@@ -1,0 +1,4 @@
+<map id="hal::SynchronousFlash::SizeOfSector" name="hal::SynchronousFlash::SizeOfSector">
+<area shape="rect" id="node2" href="$d0/d97/classservices_1_1_synchronous_flash_region.html#a9a8fb31305d60d7319d4e9e035cfe280" title="services::SynchronousFlash\lRegion::SizeOfSector" alt="" coords="208,5,393,47"/>
+<area shape="rect" id="node3" href="$d5/dff/classhal_1_1_synchronous_flash.html#afa3be37518bb3070d933ee542f476838" title="hal::SynchronousFlash\l::TotalSize" alt="" coords="223,71,378,112"/>
+</map>

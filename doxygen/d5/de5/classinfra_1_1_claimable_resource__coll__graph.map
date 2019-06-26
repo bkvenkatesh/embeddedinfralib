@@ -1,0 +1,7 @@
+<map id="infra::ClaimableResource" name="infra::ClaimableResource">
+<area shape="rect" id="node2" href="$da/d20/classinfra_1_1_claimable_resource_1_1_claimer_base.html" title="infra::ClaimableResource\l::ClaimerBase" alt="" coords="1305,133,1472,175"/>
+<area shape="rect" id="node3" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; ClaimerBase \&gt;::NodeType" alt="" coords="487,5,673,47"/>
+<area shape="rect" id="node7" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; T \&gt;" alt="" coords="278,51,418,92"/>
+<area shape="rect" id="node6" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; infra::ClaimableResource\l::ClaimerBase \&gt;" alt="" coords="697,154,876,210"/>
+<area shape="rect" id="node8" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; infra::ClaimableResource\l::ClaimerBase \&gt;" alt="" coords="233,170,463,226"/>
+</map>

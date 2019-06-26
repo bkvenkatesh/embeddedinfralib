@@ -1,0 +1,4 @@
+<map id="services::EventDispatcherWithNetwork::RegisterConnection" name="services::EventDispatcherWithNetwork::RegisterConnection">
+<area shape="rect" id="node2" href="$de/d8b/classservices_1_1_connection_bsd.html#a51b230e2f01488c1aa9f47d70b5e6025" title="services::ConnectionBsd\l::SetObserver" alt="" coords="271,5,436,47"/>
+<area shape="rect" id="node3" href="$db/d8b/classservices_1_1_connection_win.html#ab2282afaa3527f535a5d05f91b64def0" title="services::ConnectionWin\l::SetObserver" alt="" coords="271,71,436,112"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="infra::LimitedDataInputStream" name="infra::LimitedDataInputStream">
+<area shape="rect" id="node2" href="$d8/def/classinfra_1_1_data_input_stream_1_1_with_reader.html" title="infra::DataInputStream\l::WithReader\&lt; LimitedStreamReader \&gt;" alt="" coords="1073,125,1320,166"/>
+<area shape="rect" id="node3" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; LimitedStreamReader, WithReader\l\&lt; LimitedStreamReader \&gt; \&gt;" alt="" coords="789,48,1024,104"/>
+<area shape="rect" id="node4" href="$d9/db6/classinfra_1_1_limited_stream_reader.html" title="infra::LimitedStreamReader" alt="" coords="496,15,675,41"/>
+<area shape="rect" id="node5" href="$d2/d90/classinfra_1_1_stream_reader.html" title="infra::StreamReader" alt="" coords="233,11,370,37"/>
+<area shape="rect" id="node8" href="$db/dda/classinfra_1_1_input_stream.html" title="infra::InputStream" alt="" coords="523,132,647,159"/>
+<area shape="rect" id="node7" href="$d0/db4/classinfra_1_1_data_input_stream.html" title="infra::DataInputStream" alt="" coords="831,132,982,159"/>
+<area shape="rect" id="node9" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="221,172,381,199"/>
+</map>

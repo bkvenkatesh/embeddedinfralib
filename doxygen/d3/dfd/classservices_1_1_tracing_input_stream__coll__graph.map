@@ -1,0 +1,14 @@
+<map id="services::TracingInputStream" name="services::TracingInputStream">
+<area shape="rect" id="node2" href="$d8/def/classinfra_1_1_data_input_stream_1_1_with_reader.html" title="infra::DataInputStream\l::WithReader\&lt; TracingStreamReader \&gt;" alt="" coords="1776,166,2023,207"/>
+<area shape="rect" id="node3" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; TracingStreamReader, WithReader\l\&lt; TracingStreamReader \&gt; \&gt;" alt="" coords="1492,89,1727,145"/>
+<area shape="rect" id="node4" href="$df/dbd/classservices_1_1_tracing_stream_reader.html" title="services::TracingStreamReader" alt="" coords="1193,79,1396,105"/>
+<area shape="rect" id="node5" href="$d2/d90/classinfra_1_1_stream_reader.html" title="infra::StreamReader" alt="" coords="967,73,1104,100"/>
+<area shape="rect" id="node18" href="$db/dda/classinfra_1_1_input_stream.html" title="infra::InputStream" alt="" coords="1233,173,1357,200"/>
+<area shape="rect" id="node6" href="$dc/d42/classservices_1_1_tracer.html" title="services::Tracer" alt="" coords="979,140,1092,167"/>
+<area shape="rect" id="node7" href="$de/dad/classinfra_1_1_text_output_stream.html" title="infra::TextOutputStream" alt="" coords="713,133,873,160"/>
+<area shape="rect" id="node8" href="$d6/d97/classinfra_1_1_output_stream.html" title="infra::OutputStream" alt="" coords="496,107,631,133"/>
+<area shape="rect" id="node9" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="221,208,381,235"/>
+<area shape="rect" id="node12" href="$de/dba/classinfra_1_1_stream_writer.html" title="infra::StreamWriter" alt="" coords="236,107,367,133"/>
+<area shape="rect" id="node14" href="$d4/daa/structinfra_1_1_width.html" title="infra::Width" alt="" coords="519,56,607,83"/>
+<area shape="rect" id="node17" href="$d0/db4/classinfra_1_1_data_input_stream.html" title="infra::DataInputStream" alt="" coords="1534,173,1685,200"/>
+</map>

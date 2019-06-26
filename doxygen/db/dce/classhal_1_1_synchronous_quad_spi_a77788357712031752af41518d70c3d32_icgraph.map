@@ -1,0 +1,5 @@
+<map id="hal::SynchronousQuadSpi::SendDataQuad" name="hal::SynchronousQuadSpi::SendDataQuad">
+<area shape="rect" id="node2" href="$d7/ddb/classservices_1_1_synchronous_flash_quad_spi.html#a7f860e4ff104978a992a29616fa64df0" title="services::SynchronousFlash\lQuadSpi::PageProgram" alt="" coords="227,5,412,47"/>
+<area shape="rect" id="node4" href="$d7/ddb/classservices_1_1_synchronous_flash_quad_spi.html#a4852e7f5e9ac0badcaad07a7fa1892b4" title="services::SynchronousFlash\lQuadSpi::WriteEnable" alt="" coords="227,71,412,112"/>
+<area shape="rect" id="node3" href="$d7/ddb/classservices_1_1_synchronous_flash_quad_spi.html#a269561aa405364b3c6df913a1c607b00" title="services::SynchronousFlash\lQuadSpi::WriteBuffer" alt="" coords="460,39,645,80"/>
+</map>

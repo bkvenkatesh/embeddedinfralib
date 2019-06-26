@@ -1,0 +1,18 @@
+digraph "hal::SynchronousFlashStub::ApplyBuffer"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node4 [label="hal::SynchronousFlashStub\l::ApplyBuffer",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="hal::SynchronousFlash\l::AddressOffsetInSector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dff/classhal_1_1_synchronous_flash.html#ae0ffa50633226598ff634051fdf07530"];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="hal::SynchronousFlash\l::StartOfSector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dff/classhal_1_1_synchronous_flash.html#a2b4419e346a7d9feecb65501c61a6f8e"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hal::SynchronousFlash\l::AddressOfSector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dff/classhal_1_1_synchronous_flash.html#a1e8a643bee9d6a9c199ed42957201500"];
+  Node6 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="hal::SynchronousFlash\l::SectorOfAddress",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dff/classhal_1_1_synchronous_flash.html#a4414c85ecb179359e5d0dc1c830cc903"];
+  Node4 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="hal::SynchronousFlashStub\l::SectorOfAddress",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d61/classhal_1_1_synchronous_flash_stub.html#a02f1c6158858410c26426d7a2c56dd46"];
+}

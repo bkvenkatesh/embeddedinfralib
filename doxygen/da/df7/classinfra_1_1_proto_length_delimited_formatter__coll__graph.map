@@ -1,0 +1,7 @@
+<map id="infra::ProtoLengthDelimitedFormatter" name="infra::ProtoLengthDelimitedFormatter">
+<area shape="rect" id="node3" href="$df/d59/classinfra_1_1_proto_formatter.html" title="infra::ProtoFormatter" alt="" coords="135,364,276,391"/>
+<area shape="rect" id="node4" href="$d6/d7d/classinfra_1_1_data_output_stream.html" title="infra::DataOutputStream" alt="" coords="124,275,287,301"/>
+<area shape="rect" id="node5" href="$d6/d97/classinfra_1_1_output_stream.html" title="infra::OutputStream" alt="" coords="138,199,273,225"/>
+<area shape="rect" id="node6" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="5,109,165,136"/>
+<area shape="rect" id="node9" href="$de/dba/classinfra_1_1_stream_writer.html" title="infra::StreamWriter" alt="" coords="189,109,320,136"/>
+</map>

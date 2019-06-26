@@ -1,0 +1,5 @@
+<map id="hal::SynchronousFlash::AddressOffsetInSector" name="hal::SynchronousFlash::AddressOffsetInSector">
+<area shape="rect" id="node2" href="$d5/dff/classhal_1_1_synchronous_flash.html#a2b4419e346a7d9feecb65501c61a6f8e" title="hal::SynchronousFlash\l::StartOfSector" alt="" coords="213,39,368,80"/>
+<area shape="rect" id="node3" href="$d5/dff/classhal_1_1_synchronous_flash.html#a1e8a643bee9d6a9c199ed42957201500" title="hal::SynchronousFlash\l::AddressOfSector" alt="" coords="416,5,571,47"/>
+<area shape="rect" id="node4" href="$d5/dff/classhal_1_1_synchronous_flash.html#a4414c85ecb179359e5d0dc1c830cc903" title="hal::SynchronousFlash\l::SectorOfAddress" alt="" coords="416,71,571,112"/>
+</map>

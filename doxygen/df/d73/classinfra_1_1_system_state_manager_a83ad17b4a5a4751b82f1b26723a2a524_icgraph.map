@@ -1,0 +1,6 @@
+<map id="infra::SystemStateManager::GoToNextState" name="infra::SystemStateManager::GoToNextState">
+<area shape="rect" id="node2" href="$df/d73/classinfra_1_1_system_state_manager.html#a913ae6f9d9655a40f7ab6697cc24b315" title="infra::SystemStateManager\l::InformAllParticipants" alt="" coords="233,5,413,47"/>
+<area shape="rect" id="node3" href="$df/d73/classinfra_1_1_system_state_manager.html#a113a3fb016683d199280ea150069372b" title="infra::SystemStateManager\l::ReachedState" alt="" coords="233,71,413,112"/>
+<area shape="rect" id="node5" href="$df/d73/classinfra_1_1_system_state_manager.html#aa51e6449beae5e1c31343f0ac83491fc" title="infra::SystemStateManager\l::RunStates" alt="" coords="233,136,413,177"/>
+<area shape="rect" id="node4" href="$de/d21/classinfra_1_1_system_state_participant.html#a611ff2cda764c08411e59fa4fc4d18b4" title="infra::SystemStateParticipant\l::ReachedState" alt="" coords="461,71,653,112"/>
+</map>

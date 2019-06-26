@@ -1,0 +1,10 @@
+<map id="services::HttpClientBasic::Close" name="services::HttpClientBasic::Close">
+<area shape="rect" id="node2" href="$db/dae/classservices_1_1_http_client_basic.html#ac76e2a1fb9d9dc6bfe80509321fd1fd7" title="services::HttpClientBasic\l::BodyComplete" alt="" coords="220,5,387,47"/>
+<area shape="rect" id="node3" href="$db/dae/classservices_1_1_http_client_basic.html#a7013193bda83830a96e57ed41c5a87d1" title="services::HttpClientBasic\l::Cancel" alt="" coords="220,71,387,112"/>
+<area shape="rect" id="node5" href="$db/dae/classservices_1_1_http_client_basic.html#a5dddcabc1a37c6c9d218e3707de51c67" title="services::HttpClientBasic\l::ContentError" alt="" coords="220,136,387,177"/>
+<area shape="rect" id="node8" href="$db/dae/classservices_1_1_http_client_basic.html#a10d4df541459a417c1517c4a83c3c598" title="services::HttpClientBasic\l::Timeout" alt="" coords="220,217,387,259"/>
+<area shape="rect" id="node4" href="$df/dd9/classservices_1_1_http_client_json.html#ad4647fcc0e0ed96424ca89969a32d82d" title="services::HttpClientJson\l::Cancel" alt="" coords="437,53,599,95"/>
+<area shape="rect" id="node6" href="$df/dd9/classservices_1_1_http_client_json.html#a74d34299fd89804a97cbd56c0b65251a" title="services::HttpClientJson\l::StatusAvailable" alt="" coords="437,119,599,160"/>
+<area shape="rect" id="node7" href="$df/dd9/classservices_1_1_http_client_json.html#a972155f1b6521ea28456acaf8d84c7fe" title="services::HttpClientJson\l::HeaderAvailable" alt="" coords="437,184,599,225"/>
+<area shape="rect" id="node9" href="$db/dae/classservices_1_1_http_client_basic.html#a1b97214767813f813dee6ee393533e23" title="services::HttpClientBasic\l::ConnectionEstablished" alt="" coords="435,249,601,291"/>
+</map>

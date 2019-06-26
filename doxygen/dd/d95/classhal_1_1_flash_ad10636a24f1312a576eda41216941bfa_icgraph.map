@@ -1,0 +1,5 @@
+<map id="hal::Flash::StartOfPreviousSectorCyclical" name="hal::Flash::StartOfPreviousSectorCyclical">
+<area shape="rect" id="node2" href="$d4/d36/classservices_1_1_cyclic_store.html#aad16c79a455a56877863b2828a03a22b" title="services::CyclicStore\l::RecoverEndAddress" alt="" coords="231,5,377,47"/>
+<area shape="rect" id="node3" href="$d4/d36/classservices_1_1_cyclic_store.html#a5b397293a572ce5d6d3144f0d284770f" title="services::CyclicStore\l::Recover" alt="" coords="425,5,569,47"/>
+<area shape="rect" id="node4" href="$d4/d36/classservices_1_1_cyclic_store.html#a6a29c761506bd86c65acb03b1a717e9a" title="services::CyclicStore\l::CyclicStore" alt="" coords="617,5,761,47"/>
+</map>

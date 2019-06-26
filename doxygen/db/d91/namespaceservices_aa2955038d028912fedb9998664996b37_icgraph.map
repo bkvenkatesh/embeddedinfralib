@@ -1,0 +1,7 @@
+<map id="services::ConvertToUint32" name="services::ConvertToUint32">
+<area shape="rect" id="node2" href="$d1/d3f/classservices_1_1_datagram_bsd.html#ae8ba6d6dc3bf1c052257705787359199" title="services::DatagramBsd\l::BindRemote" alt="" coords="225,5,381,47"/>
+<area shape="rect" id="node4" href="$db/d8a/classservices_1_1_connector_bsd.html#aeb909da32e4783058f25ae753837f597" title="services::ConnectorBsd\l::ConnectorBsd" alt="" coords="224,71,383,112"/>
+<area shape="rect" id="node5" href="$d1/d3f/classservices_1_1_datagram_bsd.html#aca4978658bb0d48c8dda99b879efd44e" title="services::DatagramBsd\l::Send" alt="" coords="225,136,381,177"/>
+<area shape="rect" id="node3" href="$d1/d3f/classservices_1_1_datagram_bsd.html#a059d4ce38fcf9b980f21536279934749" title="services::DatagramBsd\l::DatagramBsd" alt="" coords="431,5,587,47"/>
+<area shape="rect" id="node6" href="$d1/d3f/classservices_1_1_datagram_bsd.html#adefa1044916c18d957f119f6bc9929a7" title="services::DatagramBsd\l::TrySend" alt="" coords="431,136,587,177"/>
+</map>

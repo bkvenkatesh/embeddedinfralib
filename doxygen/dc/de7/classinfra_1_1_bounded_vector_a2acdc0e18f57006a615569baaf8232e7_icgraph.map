@@ -1,0 +1,6 @@
+<map id="infra::BoundedVector::data" name="infra::BoundedVector::data">
+<area shape="rect" id="node2" href="$d2/d7b/classservices_1_1_datagram_win.html#a911fc384f3243be0610ac6542aa8674e" title="services::DatagramWin\l::Send" alt="" coords="196,5,352,47"/>
+<area shape="rect" id="node4" href="$d1/d3f/classservices_1_1_datagram_bsd.html#aca4978658bb0d48c8dda99b879efd44e" title="services::DatagramBsd\l::Send" alt="" coords="196,71,352,112"/>
+<area shape="rect" id="node3" href="$d2/d7b/classservices_1_1_datagram_win.html#aee0015559f65552dbc999db0db50980b" title="services::DatagramWin\l::TrySend" alt="" coords="400,5,556,47"/>
+<area shape="rect" id="node5" href="$d1/d3f/classservices_1_1_datagram_bsd.html#adefa1044916c18d957f119f6bc9929a7" title="services::DatagramBsd\l::TrySend" alt="" coords="400,71,556,112"/>
+</map>

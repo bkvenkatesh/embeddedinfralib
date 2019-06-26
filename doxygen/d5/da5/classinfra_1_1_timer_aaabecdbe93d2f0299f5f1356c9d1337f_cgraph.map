@@ -1,0 +1,6 @@
+<map id="infra::Timer::RegisterSelf" name="infra::Timer::RegisterSelf">
+<area shape="rect" id="node2" href="$da/def/classinfra_1_1_timer_service.html#ac048d92f92957b56b420dd78bcc84528" title="infra::TimerService\l::RegisterTimer" alt="" coords="217,27,345,69"/>
+<area shape="rect" id="node3" href="$d5/da5/classinfra_1_1_timer.html#a1efe7b4dc3d40f8357b1fc94855e5145" title="infra::Timer::NextTrigger" alt="" coords="393,5,553,32"/>
+<area shape="rect" id="node5" href="$da/def/classinfra_1_1_timer_service.html#a6ae66196dc18d8b383ba5e0f0b6f22fa" title="infra::TimerService\l::NextTriggerChanged" alt="" coords="400,57,547,98"/>
+<area shape="rect" id="node4" href="$d5/da5/classinfra_1_1_timer.html#a11b396e8d4300da06b8ce83624991b73" title="infra::Timer::Convert" alt="" coords="601,5,739,32"/>
+</map>

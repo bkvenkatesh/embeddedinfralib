@@ -1,0 +1,6 @@
+<map id="services::SynchronousFlashRegion::WriteBuffer" name="services::SynchronousFlashRegion::WriteBuffer">
+<area shape="rect" id="node2" href="$d0/d97/classservices_1_1_synchronous_flash_region.html#a1041454a1209149a475143955ad932af" title="services::SynchronousFlash\lRegion::SectorOfAddress" alt="" coords="239,5,424,47"/>
+<area shape="rect" id="node4" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="262,71,401,112"/>
+<area shape="rect" id="node5" href="$d5/dff/classhal_1_1_synchronous_flash.html#a61b77f790bc72a2bb8d7316a2d8fa3ce" title="hal::SynchronousFlash\l::WriteBuffer" alt="" coords="254,136,409,177"/>
+<area shape="rect" id="node3" href="$d5/dff/classhal_1_1_synchronous_flash.html#a4414c85ecb179359e5d0dc1c830cc903" title="hal::SynchronousFlash\l::SectorOfAddress" alt="" coords="472,5,627,47"/>
+</map>

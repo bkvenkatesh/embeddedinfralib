@@ -1,0 +1,5 @@
+<map id="services::FlashSpi::ReadStatusRegister" name="services::FlashSpi::ReadStatusRegister">
+<area shape="rect" id="node2" href="$df/d28/classservices_1_1_flash_spi.html#a84fae0acb54bc7f4841ee1e2c970618f" title="services::FlashSpi\l::HoldWhileWriteInProgress" alt="" coords="200,39,383,80"/>
+<area shape="rect" id="node3" href="$df/d28/classservices_1_1_flash_spi.html#a5b3e05583977f2aebb2cb4b25491390a" title="services::FlashSpi\l::EraseSectors" alt="" coords="431,5,559,47"/>
+<area shape="rect" id="node4" href="$df/d28/classservices_1_1_flash_spi.html#a565d63c057e750b2c5703b83e2987e0d" title="services::FlashSpi\l::WriteBuffer" alt="" coords="431,71,559,112"/>
+</map>

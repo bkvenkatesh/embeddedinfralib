@@ -1,0 +1,6 @@
+<map id="infra::TickOnInterruptTimerService::NextTriggerChanged" name="infra::TickOnInterruptTimerService::NextTriggerChanged">
+<area shape="rect" id="node2" href="$df/d2e/classinfra_1_1_tick_on_interrupt_timer_service.html#a0d28d96bcfbeca6cad1712d7fee3fe12" title="infra::TickOnInterruptTimer\lService::ProcessTicks" alt="" coords="273,5,447,47"/>
+<area shape="rect" id="node4" href="$df/d2e/classinfra_1_1_tick_on_interrupt_timer_service.html#a7b9d74ec49405ba9ba47ebb5e3d04769" title="infra::TickOnInterruptTimer\lService::SetResolution" alt="" coords="273,71,447,112"/>
+<area shape="rect" id="node5" href="$df/d2e/classinfra_1_1_tick_on_interrupt_timer_service.html#ad1f541fcd0a64f4a94676a1a66fb9165" title="infra::TickOnInterruptTimer\lService::TickOnInterruptTimerService" alt="" coords="243,136,477,177"/>
+<area shape="rect" id="node3" href="$df/d2e/classinfra_1_1_tick_on_interrupt_timer_service.html#af615ce0c6415bcc94cd68780136ba165" title="infra::TickOnInterruptTimer\lService::SystemTickInterrupt" alt="" coords="525,5,713,47"/>
+</map>

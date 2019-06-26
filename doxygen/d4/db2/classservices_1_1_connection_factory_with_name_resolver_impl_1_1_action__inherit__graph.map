@@ -1,0 +1,6 @@
+<map id="services::ConnectionFactoryWithNameResolverImpl::Action" name="services::ConnectionFactoryWithNameResolverImpl::Action">
+<area shape="rect" id="node2" href="$df/d75/classservices_1_1_name_resolver_result.html" title="services::NameResolverResult" alt="" coords="280,25,477,52"/>
+<area shape="rect" id="node3" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; NameResolverResult\l \&gt;::NodeType" alt="" coords="41,5,196,61"/>
+<area shape="rect" id="node4" href="$dc/d43/classservices_1_1_client_connection_observer_factory.html" title="services::ClientConnection\lObserverFactory" alt="" coords="291,82,466,123"/>
+<area shape="rect" id="node5" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; ClientConnectionObserverFactory\l \&gt;::NodeType" alt="" coords="5,85,232,141"/>
+</map>

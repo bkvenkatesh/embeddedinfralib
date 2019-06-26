@@ -1,0 +1,25 @@
+<map id="application::TracingHttpClient" name="application::TracingHttpClient">
+<area shape="rect" id="node2" href="$db/dae/classservices_1_1_http_client_basic.html" title="services::HttpClientBasic" alt="" coords="1647,290,1813,317"/>
+<area shape="rect" id="node3" href="$d3/db1/classservices_1_1_http_client_observer.html" title="services::HttpClientObserver" alt="" coords="1291,173,1476,199"/>
+<area shape="rect" id="node4" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; HttpClientObserver,\l HttpClient \&gt;" alt="" coords="1028,118,1175,174"/>
+<area shape="rect" id="node6" href="$d9/d25/classservices_1_1_http_client_observer_factory.html" title="services::HttpClientObserver\lFactory" alt="" coords="1291,224,1476,265"/>
+<area shape="rect" id="node7" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; HttpClientObserverFactory\l \&gt;::NodeType" alt="" coords="1008,201,1195,257"/>
+<area shape="rect" id="node10" href="$d8/d87/classinfra_1_1_timer_single_shot.html" title="infra::TimerSingleShot" alt="" coords="1309,341,1458,367"/>
+<area shape="rect" id="node11" href="$d5/da5/classinfra_1_1_timer.html" title="infra::Timer" alt="" coords="1058,339,1145,366"/>
+<area shape="rect" id="node12" href="$d7/d4a/classinfra_1_1detail_1_1_intrusive_forward_list_node.html" title="infra::IntrusiveForwardList\l\&lt; Timer \&gt;::NodeType" alt="" coords="496,75,664,116"/>
+<area shape="rect" id="node17" href="$d7/d4a/classinfra_1_1detail_1_1_intrusive_forward_list_node.html" title="infra::IntrusiveForwardList\l\&lt; TimerService \&gt;::NodeType" alt="" coords="285,180,472,221"/>
+<area shape="rect" id="node14" href="$da/d07/classinfra_1_1_function.html" title="infra::Function\&lt; void()\&gt;" alt="" coords="698,461,853,487"/>
+<area shape="rect" id="node27" href="$da/d78/classinfra_1_1_accessed_by_shared_ptr.html" title="infra::AccessedBySharedPtr" alt="" coords="1290,501,1477,527"/>
+<area shape="rect" id="node16" href="$da/def/classinfra_1_1_timer_service.html" title="infra::TimerService" alt="" coords="711,294,839,321"/>
+<area shape="rect" id="node19" href="$d3/d66/classinfra_1_1_intrusive_forward_list.html" title="infra::IntrusiveForwardList\l\&lt; infra::Timer \&gt;" alt="" coords="295,245,463,287"/>
+<area shape="rect" id="node20" href="$d7/d4a/classinfra_1_1detail_1_1_intrusive_forward_list_node.html" title="infra::detail::Intrusive\lForwardListNode\&lt; infra\l::Timer \&gt;" alt="" coords="11,238,166,294"/>
+<area shape="rect" id="node34" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="695,795,855,822"/>
+<area shape="rect" id="node29" href="$dd/d9a/classinfra_1_1detail_1_1_shared_ptr_control.html" title="infra::detail::SharedPtr\lControl" alt="" coords="1026,580,1177,621"/>
+<area shape="rect" id="node25" href="$de/d5a/classservices_1_1_http_client_connector.html" title="services::HttpClientConnector" alt="" coords="1287,71,1480,98"/>
+<area shape="rect" id="node28" href="$da/dcd/classinfra_1_1_shared_object_deleter.html" title="infra::SharedObjectDeleter" alt="" coords="688,521,863,547"/>
+<area shape="rect" id="node31" href="$dc/d42/classservices_1_1_tracer.html" title="services::Tracer" alt="" coords="1673,538,1787,565"/>
+<area shape="rect" id="node32" href="$de/dad/classinfra_1_1_text_output_stream.html" title="infra::TextOutputStream" alt="" coords="1303,770,1463,797"/>
+<area shape="rect" id="node33" href="$d6/d97/classinfra_1_1_output_stream.html" title="infra::OutputStream" alt="" coords="1034,795,1169,822"/>
+<area shape="rect" id="node36" href="$de/dba/classinfra_1_1_stream_writer.html" title="infra::StreamWriter" alt="" coords="710,745,841,771"/>
+<area shape="rect" id="node38" href="$d4/daa/structinfra_1_1_width.html" title="infra::Width" alt="" coords="1057,846,1145,873"/>
+</map>

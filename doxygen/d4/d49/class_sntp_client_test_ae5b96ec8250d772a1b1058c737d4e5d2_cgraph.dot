@@ -1,0 +1,54 @@
+digraph "SntpClientTest::HeaderReceived"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node26 [label="SntpClientTest::HeaderReceived",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node26 -> Node27 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node27 [label="SntpClientTest::DataReceived",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d49/class_sntp_client_test.html#a0f655c884bc3a8d346b8a704b27341b3"];
+  Node27 -> Node28 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node28 [label="services::SntpClient\l::DataReceived",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d04/classservices_1_1_sntp_client.html#a34f569549a7c6f789382a6dd9f44ba24"];
+  Node28 -> Node29 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node29 [label="infra::StreamReader\l::Empty",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d90/classinfra_1_1_stream_reader.html#a072ccaa780dbf7599fa984a0d1ff7413"];
+  Node28 -> Node30 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node30 [label="services::SntpClient\l::NotifyTimeUnavailable",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d04/classservices_1_1_sntp_client.html#a50f4b45c74f1236d13c6fabba8041474"];
+  Node30 -> Node31 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node31 [label="infra::Subject\< SntpResult\lObserver \>::NotifyObservers",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db2/classinfra_1_1_subject.html#a0992f3cdf215e556c9a1166d2234ecba"];
+  Node28 -> Node32 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node32 [label="infra::InputStream\l::Failed",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/dda/classinfra_1_1_input_stream.html#ae6c6c4af7669aa70e60847a11ffd8e85"];
+  Node32 -> Node33 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node33 [label="infra::StreamErrorPolicy\l::Failed",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d4a/classinfra_1_1_stream_error_policy.html#ac1558d645711dd9685f926115719eb15"];
+  Node28 -> Node34 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node34 [label="services::SntpClient\l::NotifyKissOfDeath",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d04/classservices_1_1_sntp_client.html#a40cb44a10aa5446ba30c4e6e4dd3cedd"];
+  Node34 -> Node35 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node35 [label="infra::ByteRangeAsString",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/de3/namespaceinfra.html#ad3ab5a04b30f8c78b822d60f8d142b71"];
+  Node35 -> Node36 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node36 [label="infra::MemoryRange\l::begin",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d6d/classinfra_1_1_memory_range.html#a7a83ceae17802af5ecebfb9557912ece"];
+  Node35 -> Node37 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node37 [label="infra::MemoryRange\l::size",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66"];
+  Node34 -> Node38 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node38 [label="infra::MakeByteRange",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/de3/namespaceinfra.html#ae4478bf95f90ceb679642cb4180f205f"];
+  Node38 -> Node39 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node39 [label="infra::ReinterpretCastByte\lRange",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/de3/namespaceinfra.html#a74203fdf2e029d2667c7e4925092cc9a"];
+  Node38 -> Node40 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node40 [label="infra::MakeRange",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/de3/namespaceinfra.html#afe38b7d4318537de2f28b244211c4275"];
+  Node40 -> Node41 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node41 [label="infra::BoundedStringBase\l::begin",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2a/classinfra_1_1_bounded_string_base.html#aef23e4250cad2fdc69ccc39f68734233"];
+  Node40 -> Node42 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node42 [label="infra::BoundedStringBase::end",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2a/classinfra_1_1_bounded_string_base.html#af5021f1ea3898146d0a55c2895f07dbf"];
+  Node34 -> Node31 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node34 -> Node30 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node28 -> Node43 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node43 [label="services::SntpClient\l::NotifyOffsetAndDelay",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d04/classservices_1_1_sntp_client.html#a221c7cd699661e4440413c96e75cea75"];
+  Node43 -> Node44 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node44 [label="services::SntpClient\l::NtpTimestamp::Convert",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d15/structservices_1_1_sntp_client_1_1_ntp_timestamp.html#a4e39dffaaf3706e060a5c9bfdec131a1"];
+  Node43 -> Node45 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node45 [label="services::TimeWithLocalization::Utc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/dc6/classservices_1_1_time_with_localization.html#addff1b75a015f178c4e8f1d9bb45acfb"];
+  Node43 -> Node46 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node46 [label="infra::DerivedTimerService::Now",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d9d/classinfra_1_1_derived_timer_service.html#a09b9ef12b60c780c437545c00258c859"];
+  Node46 -> Node47 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node47 [label="infra::TimerService::Now",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/def/classinfra_1_1_timer_service.html#acb34d2766047f27ebcd1f552916c9a99"];
+  Node43 -> Node31 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node27 -> Node40 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

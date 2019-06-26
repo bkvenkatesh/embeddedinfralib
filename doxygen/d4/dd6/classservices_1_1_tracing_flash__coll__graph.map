@@ -1,0 +1,11 @@
+<map id="services::TracingFlash" name="services::TracingFlash">
+<area shape="rect" id="node2" href="$dd/d95/classhal_1_1_flash.html" title="hal::Flash" alt="" coords="1049,60,1127,87"/>
+<area shape="rect" id="node3" href="$dc/d42/classservices_1_1_tracer.html" title="services::Tracer" alt="" coords="1031,119,1145,145"/>
+<area shape="rect" id="node4" href="$de/dad/classinfra_1_1_text_output_stream.html" title="infra::TextOutputStream" alt="" coords="713,119,873,145"/>
+<area shape="rect" id="node5" href="$d6/d97/classinfra_1_1_output_stream.html" title="infra::OutputStream" alt="" coords="496,68,631,95"/>
+<area shape="rect" id="node6" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="221,40,381,67"/>
+<area shape="rect" id="node9" href="$de/dba/classinfra_1_1_stream_writer.html" title="infra::StreamWriter" alt="" coords="236,91,367,117"/>
+<area shape="rect" id="node11" href="$d4/daa/structinfra_1_1_width.html" title="infra::Width" alt="" coords="519,169,607,196"/>
+<area shape="rect" id="node14" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; const uint8_t \&gt;" alt="" coords="1019,171,1157,213"/>
+<area shape="rect" id="node16" href="$d5/d33/classinfra_1_1_auto_reset_function.html" title="infra::AutoResetFunction\l\&lt; void()\&gt;" alt="" coords="1005,237,1171,278"/>
+</map>

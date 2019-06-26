@@ -1,0 +1,20 @@
+digraph "ConnectionSerialTest::ReconstructConnection"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node75 [label="ConnectionSerialTest\l::ReconstructConnection",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node75 -> Node76 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node76 [label="infra::Optional::Emplace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/df7/classinfra_1_1_optional.html#a1605aac3a47de3990f0ea12b73941af3"];
+  Node75 -> Node77 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node77 [label="infra::MakeByteRange",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/de3/namespaceinfra.html#ae4478bf95f90ceb679642cb4180f205f"];
+  Node77 -> Node78 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node78 [label="infra::ReinterpretCastByte\lRange",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/de3/namespaceinfra.html#a74203fdf2e029d2667c7e4925092cc9a"];
+  Node77 -> Node79 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node79 [label="infra::MakeRange",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/de3/namespaceinfra.html#afe38b7d4318537de2f28b244211c4275"];
+  Node79 -> Node80 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node80 [label="infra::BoundedStringBase\l::begin",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2a/classinfra_1_1_bounded_string_base.html#aef23e4250cad2fdc69ccc39f68734233"];
+  Node79 -> Node81 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node81 [label="infra::BoundedStringBase::end",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2a/classinfra_1_1_bounded_string_base.html#af5021f1ea3898146d0a55c2895f07dbf"];
+}

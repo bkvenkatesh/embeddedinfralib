@@ -1,0 +1,7 @@
+<map id="services::ConnectionBsd::SetObserver" name="services::ConnectionBsd::SetObserver">
+<area shape="rect" id="node2" href="$dc/d4c/classinfra_1_1_single_observer.html#a7691ac8d2aa56fb17be6a73d1b47e9b5" title="infra::SingleObserver\l::Attach" alt="" coords="267,5,408,47"/>
+<area shape="rect" id="node3" href="$dc/de5/classservices_1_1_connection_observer.html#a0d525f5750b4f4d86d8b3b92915491f9" title="services::ConnectionObserver\l::Connected" alt="" coords="241,71,434,112"/>
+<area shape="rect" id="node4" href="$d0/d67/classservices_1_1_event_dispatcher_with_network.html#ac6df71a06776274d6d08225c605604ac" title="services::EventDispatcher\lWithNetwork::RegisterConnection" alt="" coords="229,136,446,177"/>
+<area shape="rect" id="node5" href="$d0/dde/classservices_1_1_connection.html#a8b63d911a62b14ed446abdbe2c1d4be5" title="services::Connection\l::SetOwnership" alt="" coords="266,201,409,243"/>
+<area shape="rect" id="node6" href="$dd/df1/classinfra_1_1_enable_shared_from_this.html#af905d6b4aef4f252a28b1f4edebc99b3" title="infra::EnableSharedFromThis\l\&lt; ConnectionBsd \&gt;::SharedFromThis" alt="" coords="219,267,456,308"/>
+</map>

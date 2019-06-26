@@ -1,0 +1,7 @@
+<map id="hal::FlashHomogeneous::NumberOfSectors" name="hal::FlashHomogeneous::NumberOfSectors">
+<area shape="rect" id="node2" href="$d2/d0c/classservices_1_1_flash_quad_spi_single_speed.html#a60db54616912db21b04d3f6b8f809f56" title="services::FlashQuadSpiSingle\lSpeed::EraseSomeSectors" alt="" coords="222,5,417,47"/>
+<area shape="rect" id="node3" href="$d8/dbe/classservices_1_1_flash_quad_spi_micron_n25q.html#a930007b55bc31caa9663b3e04ee562bf" title="services::FlashQuadSpiMicron\lN25q::EraseSomeSectors" alt="" coords="220,71,419,112"/>
+<area shape="rect" id="node4" href="$d1/d88/classservices_1_1_flash_quad_spi_cypress_fll.html#a6462920d4d5e7d433e896cfd160da015" title="services::FlashQuadSpiCypress\lFll::EraseSomeSectors" alt="" coords="216,136,423,177"/>
+<area shape="rect" id="node5" href="$df/d28/classservices_1_1_flash_spi.html#aa87d4ca73eedb68b123567cb8d678743" title="services::FlashSpi\l::EraseSomeSectors" alt="" coords="248,201,391,243"/>
+<area shape="rect" id="node6" href="$df/d28/classservices_1_1_flash_spi.html#a5b3e05583977f2aebb2cb4b25491390a" title="services::FlashSpi\l::EraseSectors" alt="" coords="471,201,599,243"/>
+</map>

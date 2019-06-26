@@ -1,0 +1,9 @@
+<map id="services::HttpClientImpl::SendStreamAvailable" name="services::HttpClientImpl::SendStreamAvailable">
+<area shape="rect" id="node2" href="$db/dd6/classservices_1_1_http_client_impl.html#a7ec7fae3b23475b2e2c3516ed77f4050" title="services::HttpClientImpl\l::ForwardStream" alt="" coords="212,136,371,177"/>
+<area shape="rect" id="node8" href="$db/dd6/classservices_1_1_http_client_impl.html#aa5803fa223fbafc8f30882c2be798f43" title="services::HttpClientImpl\l::WriteRequest" alt="" coords="212,205,371,247"/>
+<area shape="rect" id="node3" href="$de/dba/classinfra_1_1_stream_writer.html#a0198c23104a3abe6a1baca4d3dd87bf3" title="infra::StreamWriter\l::Available" alt="" coords="464,5,595,47"/>
+<area shape="rect" id="node4" href="$da/d78/classinfra_1_1_accessed_by_shared_ptr.html#a9a3b6445cae28c4ab728ca757cdd8ee7" title="infra::AccessedBySharedPtr\l::MakeShared" alt="" coords="436,71,623,112"/>
+<area shape="rect" id="node5" href="$db/dd6/classservices_1_1_http_client_impl.html#a09ea262c4fb5c28d4539e73b9411191c" title="services::HttpClientImpl\l::RequestForwardStreamOrExpect\lResponse" alt="" coords="419,202,640,258"/>
+<area shape="rect" id="node7" href="$da/d78/classinfra_1_1_accessed_by_shared_ptr.html#afed78c7dc79ccbb4711b34a1d7c7e63e" title="infra::AccessedBySharedPtr\l::SetAction" alt="" coords="436,136,623,177"/>
+<area shape="rect" id="node6" href="$dc/d4c/classinfra_1_1_single_observer.html#abb13c69cc61182baf350ff1736fa772e" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;::Subject" alt="" coords="688,202,843,258"/>
+</map>

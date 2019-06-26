@@ -1,0 +1,11 @@
+<map id="application::ImageUpgraderInternalFlash::Upgrade" name="application::ImageUpgraderInternalFlash::Upgrade">
+<area shape="rect" id="node2" href="$d3/d66/classapplication_1_1_decryptor.html#a9f27e7be16a169a5fe6dadcca097e35a" title="application::Decryptor\l::DecryptPart" alt="" coords="247,5,395,47"/>
+<area shape="rect" id="node3" href="$d5/dff/classhal_1_1_synchronous_flash.html#afea2762203cbf1fcdeff8ce3b7e2444c" title="hal::SynchronousFlash\l::EraseSectors" alt="" coords="244,71,399,112"/>
+<area shape="rect" id="node4" href="$d0/de3/namespaceinfra.html#a97dc5194236a205b697e668f00d42353" title="infra::Head" alt="" coords="279,137,363,163"/>
+<area shape="rect" id="node6" href="$d7/d96/classapplication_1_1_image_upgrader.html#a6ced8f5b960684e9ebf0594e9181f0f9" title="application::ImageUpgrader\l::ImageDecryptor" alt="" coords="232,188,411,229"/>
+<area shape="rect" id="node7" href="$d5/dff/classhal_1_1_synchronous_flash.html#a8e353a81cf310908c987d6cac6e452ec" title="hal::SynchronousFlash\l::ReadBuffer" alt="" coords="244,253,399,295"/>
+<area shape="rect" id="node8" href="$d5/dff/classhal_1_1_synchronous_flash.html#a4414c85ecb179359e5d0dc1c830cc903" title="hal::SynchronousFlash\l::SectorOfAddress" alt="" coords="244,319,399,360"/>
+<area shape="rect" id="node9" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="252,384,391,425"/>
+<area shape="rect" id="node10" href="$d5/dff/classhal_1_1_synchronous_flash.html#a61b77f790bc72a2bb8d7316a2d8fa3ce" title="hal::SynchronousFlash\l::WriteBuffer" alt="" coords="244,449,399,491"/>
+<area shape="rect" id="node5" href="$d0/d6d/classinfra_1_1_memory_range.html#a322f6976f2774c6ba7494b9e27f07624" title="infra::MemoryRange\l::shrink_from_back_to" alt="" coords="459,129,609,171"/>
+</map>

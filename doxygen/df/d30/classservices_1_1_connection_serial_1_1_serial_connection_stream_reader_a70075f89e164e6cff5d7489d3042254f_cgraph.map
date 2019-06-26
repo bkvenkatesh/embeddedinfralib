@@ -1,0 +1,4 @@
+<map id="services::ConnectionSerial::SerialConnectionStreamReader::Peek" name="services::ConnectionSerial::SerialConnectionStreamReader::Peek">
+<area shape="rect" id="node2" href="$d5/d4a/classinfra_1_1_stream_error_policy.html#ac1558d645711dd9685f926115719eb15" title="infra::StreamErrorPolicy\l::Failed" alt="" coords="303,5,463,47"/>
+<area shape="rect" id="node3" href="$d5/d4a/classinfra_1_1_stream_error_policy.html#a708126a1c40b64fd503bed2d8b8f9700" title="infra::StreamErrorPolicy\l::ReportResult" alt="" coords="303,71,463,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="services::FlashQuadSpiMicronN25q::ReadBuffer" name="services::FlashQuadSpiMicronN25q::ReadBuffer">
+<area shape="rect" id="node2" href="$d0/db3/classservices_1_1_flash_quad_spi.html#afa24eb06baec2e2b6413ed10a567e876" title="services::FlashQuadSpi\l::ConvertAddress" alt="" coords="261,5,420,47"/>
+<area shape="rect" id="node4" href="$d0/de3/namespaceinfra.html#a0ec8c0f8585063ab97f13228d4888974" title="infra::MakeOptional" alt="" coords="273,71,408,98"/>
+<area shape="rect" id="node5" href="$da/d1d/structhal_1_1_quad_spi_1_1_lines.html#a355cdd0f183ce81c385236c7d850df73" title="hal::QuadSpi::Lines\l::QuadSpeed" alt="" coords="273,123,409,164"/>
+<area shape="rect" id="node6" href="$dd/df2/classhal_1_1_quad_spi.html#a07c583b84750ae9f6276c0d702fa6bcc" title="hal::QuadSpi::ReceiveData" alt="" coords="252,189,429,215"/>
+<area shape="rect" id="node3" href="$dd/df2/classhal_1_1_quad_spi.html#a962b4ce2b2f8ae4fb7b83324db78244c" title="hal::QuadSpi::AddressToVector" alt="" coords="477,13,683,39"/>
+</map>

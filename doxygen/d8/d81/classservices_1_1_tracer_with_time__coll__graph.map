@@ -1,0 +1,12 @@
+<map id="services::TracerWithTime" name="services::TracerWithTime">
+<area shape="rect" id="node2" href="$dc/d42/classservices_1_1_tracer.html" title="services::Tracer" alt="" coords="1364,257,1477,284"/>
+<area shape="rect" id="node3" href="$de/dad/classinfra_1_1_text_output_stream.html" title="infra::TextOutputStream" alt="" coords="1111,315,1271,341"/>
+<area shape="rect" id="node4" href="$d6/d97/classinfra_1_1_output_stream.html" title="infra::OutputStream" alt="" coords="893,328,1028,355"/>
+<area shape="rect" id="node5" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="619,379,779,405"/>
+<area shape="rect" id="node13" href="$da/def/classinfra_1_1_timer_service.html" title="infra::TimerService" alt="" coords="635,176,763,203"/>
+<area shape="rect" id="node8" href="$de/dba/classinfra_1_1_stream_writer.html" title="infra::StreamWriter" alt="" coords="633,328,764,355"/>
+<area shape="rect" id="node10" href="$d4/daa/structinfra_1_1_width.html" title="infra::Width" alt="" coords="917,277,1005,304"/>
+<area shape="rect" id="node14" href="$d7/d4a/classinfra_1_1detail_1_1_intrusive_forward_list_node.html" title="infra::IntrusiveForwardList\l\&lt; TimerService \&gt;::NodeType" alt="" coords="285,169,472,210"/>
+<area shape="rect" id="node17" href="$d3/d66/classinfra_1_1_intrusive_forward_list.html" title="infra::IntrusiveForwardList\l\&lt; infra::Timer \&gt;" alt="" coords="295,51,463,93"/>
+<area shape="rect" id="node18" href="$d7/d4a/classinfra_1_1detail_1_1_intrusive_forward_list_node.html" title="infra::detail::Intrusive\lForwardListNode\&lt; infra\l::Timer \&gt;" alt="" coords="11,44,166,100"/>
+</map>

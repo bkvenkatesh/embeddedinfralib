@@ -1,0 +1,20 @@
+<map id="infra::StreamReader::Empty" name="infra::StreamReader::Empty">
+<area shape="rect" id="node2" href="$d8/d04/classservices_1_1_sntp_client.html#a34f569549a7c6f789382a6dd9f44ba24" title="services::SntpClient\l::DataReceived" alt="" coords="223,5,361,47"/>
+<area shape="rect" id="node3" href="$df/dbd/classservices_1_1_tracing_stream_reader.html#ae446bacfb6215d53907bf4c1156b85e2" title="services::TracingStreamReader\l::Empty" alt="" coords="191,71,393,112"/>
+<area shape="rect" id="node4" href="$d9/db6/classinfra_1_1_limited_stream_reader.html#a6d3dda05504bcef945ca914e989a0dc9" title="infra::LimitedStreamReader\l::Empty" alt="" coords="203,136,381,177"/>
+<area shape="rect" id="node5" href="$d1/dc1/classinfra_1_1_counting_stream_reader.html#aefb7b802fbb73a44a72b3ed53f567f8b" title="infra::CountingStreamReader\l::Empty" alt="" coords="198,201,386,243"/>
+<area shape="rect" id="node6" href="$db/dda/classinfra_1_1_input_stream.html#abffe6dcc91399c191c6fb7dbd610274f" title="infra::InputStream\l::Empty" alt="" coords="230,267,354,308"/>
+<area shape="rect" id="node18" href="$d7/d93/classinfra_1_1_text_input_stream.html#ad3bf36ff96c58dde1cd607e9c12b5400" title="infra::TextInputStream\l::ReadAsDecimal" alt="" coords="217,332,367,373"/>
+<area shape="rect" id="node19" href="$d7/d93/classinfra_1_1_text_input_stream.html#ad4c126f5224a9aca3685c53b8c12e50f" title="infra::TextInputStream\l::ReadAsHex" alt="" coords="217,397,367,439"/>
+<area shape="rect" id="node7" href="$df/dd9/classservices_1_1_http_client_json.html#a4a2a1339e9f36b1cad73648cd070d9be" title="services::HttpClientJson\l::BodyAvailable" alt="" coords="481,5,642,47"/>
+<area shape="rect" id="node8" href="$d7/da4/classapplication_1_1_tracing_http_client.html#ada950b62a2814b3604a73b9566e09a79" title="application::TracingHttp\lClient::BodyAvailable" alt="" coords="482,71,641,112"/>
+<area shape="rect" id="node9" href="$df/d09/classservices_1_1_tracing_http_client_impl.html#a2a4ebdef9cd37da3c11625013714992d" title="services::TracingHttpClient\lImpl::DataReceived" alt="" coords="473,136,649,177"/>
+<area shape="rect" id="node10" href="$de/db9/classinfra_1_1_proto_parser.html#ac9a7287c767e32217a0af48d4afbcdb6" title="infra::ProtoParser\l::Empty" alt="" coords="500,201,623,243"/>
+<area shape="rect" id="node11" href="$d5/df5/structapplication_1_1_binary_object_1_1_line_contents.html#a74f818b7374ceefb5bc167dae1864ea3" title="application::BinaryObject\l::LineContents::LineContents" alt="" coords="466,267,657,308"/>
+<area shape="rect" id="node12" href="$d0/de3/namespaceinfra.html#a8ed078d50b54d6ed4ef6062d1a593c9a" title="infra::operator\&gt;\&gt;" alt="" coords="503,333,620,359"/>
+<area shape="rect" id="node13" href="$d1/d68/classservices_1_1_http_client_impl_1_1_http_response_parser.html#a0a3548eaeba6fbb9da20db77122292e4" title="services::HttpClientImpl\l::HttpResponseParser::ParseHeaders" alt="" coords="441,384,681,425"/>
+<area shape="rect" id="node14" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#afd24d585e0b90fc44643244b0712f92f" title="services::HttpServerConnection\lObserver::ReceivedTooMuchData" alt="" coords="455,449,668,491"/>
+<area shape="rect" id="node17" href="$d9/de8/classinfra_1_1_proto_length_delimited.html#a56c72a9a3f142165035adaad1c35ddd3" title="infra::ProtoLengthDelimited\l::SkipEverything" alt="" coords="472,515,651,556"/>
+<area shape="rect" id="node15" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a3c5cabea13da6e140280b1b8c77244b3" title="services::HttpServerConnection\lObserver::DataReceived" alt="" coords="729,449,932,491"/>
+<area shape="rect" id="node16" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a579fc75f469c5b79141187fc04dbf74c" title="services::HttpServerConnection\lObserver::SendStreamAvailable" alt="" coords="980,449,1184,491"/>
+</map>

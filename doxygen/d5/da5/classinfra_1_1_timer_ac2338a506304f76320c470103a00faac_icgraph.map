@@ -1,0 +1,10 @@
+<map id="infra::Timer::Armed" name="infra::Timer::Armed">
+<area shape="rect" id="node2" href="$d1/dfe/classservices_1_1_debounced_button.html#aff73660a88f1c178ca8c7122b89ec584" title="services::DebouncedButton\l::ButtonPressed" alt="" coords="185,5,365,47"/>
+<area shape="rect" id="node5" href="$d0/d08/classservices_1_1_repeating_button.html#a18153734f98c67f2096d641f5fb8d66f" title="services::RepeatingButton\l::ButtonPressed" alt="" coords="189,136,362,177"/>
+<area shape="rect" id="node8" href="$d1/dfe/classservices_1_1_debounced_button.html#a04ba592736f64e1d65e1f103cfa934f6" title="services::DebouncedButton\l::ButtonReleased" alt="" coords="185,71,365,112"/>
+<area shape="rect" id="node9" href="$d0/d08/classservices_1_1_repeating_button.html#a0162b5f3d2e2ce1bc02c448c9dbfa1f4" title="services::RepeatingButton\l::ButtonReleased" alt="" coords="189,201,362,243"/>
+<area shape="rect" id="node3" href="$d1/dfe/classservices_1_1_debounced_button.html#a1256f1c824fb2ad839ca74f87622feab" title="services::DebouncedButton\l::ButtonChanged" alt="" coords="413,39,593,80"/>
+<area shape="rect" id="node4" href="$d1/dfe/classservices_1_1_debounced_button.html#aa4d2ea4a1751a1d33ddb65e61ae719b1" title="services::DebouncedButton\l::DebouncedButton" alt="" coords="641,39,821,80"/>
+<area shape="rect" id="node6" href="$d0/d08/classservices_1_1_repeating_button.html#af9db5b4934e4610beb5e5071de6c58b7" title="services::RepeatingButton\l::ButtonChanged" alt="" coords="417,168,590,209"/>
+<area shape="rect" id="node7" href="$d0/d08/classservices_1_1_repeating_button.html#aa38e30277c5df615ae1a86617c4127c0" title="services::RepeatingButton\l::RepeatingButton" alt="" coords="645,168,818,209"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="hal::SynchronousFlash::AddressOffsetInSector" name="hal::SynchronousFlash::AddressOffsetInSector">
+<area shape="rect" id="node2" href="$d7/ddb/classservices_1_1_synchronous_flash_quad_spi.html#a7f860e4ff104978a992a29616fa64df0" title="services::SynchronousFlash\lQuadSpi::PageProgram" alt="" coords="213,5,399,47"/>
+<area shape="rect" id="node4" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#ade68b69886938a3ab630aa808dba1970" title="services::SynchronousFlash\lSpi::PageProgram" alt="" coords="213,71,399,112"/>
+<area shape="rect" id="node3" href="$d7/ddb/classservices_1_1_synchronous_flash_quad_spi.html#a269561aa405364b3c6df913a1c607b00" title="services::SynchronousFlash\lQuadSpi::WriteBuffer" alt="" coords="447,5,632,47"/>
+<area shape="rect" id="node5" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#ab9ea42bce7156cde8fae8bb51c050fe8" title="services::SynchronousFlash\lSpi::WriteBuffer" alt="" coords="447,71,632,112"/>
+</map>

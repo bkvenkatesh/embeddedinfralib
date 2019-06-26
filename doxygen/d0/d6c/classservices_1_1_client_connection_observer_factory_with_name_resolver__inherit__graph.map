@@ -1,0 +1,5 @@
+<map id="services::ClientConnectionObserverFactoryWithNameResolver" name="services::ClientConnectionObserverFactoryWithNameResolver">
+<area shape="rect" id="node3" href="$d6/d9f/classservices_1_1_connection_factory_with_name_resolver_for_tls.html" title="services::ConnectionFactory\lWithNameResolverForTls" alt="" coords="558,5,745,47"/>
+<area shape="rect" id="node4" href="$d6/dd2/classservices_1_1_http_client_connector_impl.html" title="services::HttpClientConnector\lImpl\&lt; HttpClient, Args \&gt;" alt="" coords="555,71,748,112"/>
+<area shape="rect" id="node2" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; ClientConnectionObserverFactory\lWithNameResolver \&gt;::NodeType" alt="" coords="5,31,232,87"/>
+</map>

@@ -1,0 +1,12 @@
+digraph "infra::ByteInputStreamReader::Remaining"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node46 [label="infra::ByteInputStreamReader\l::Remaining",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node46 -> Node47 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node47 [label="hal::I2cMasterRegisterAccess\lMock::SendData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d9c/classhal_1_1_i2c_master_register_access_mock.html#a97ec3d1b8c6672a27cfd92614f55b8b0"];
+  Node46 -> Node48 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node48 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dd6/_test_byte_input_stream_8cpp.html#a45d846713983e9ed3ceb9fb7784b5d76"];
+}

@@ -1,0 +1,6 @@
+<map id="infra::LimitedTextOutputStream" name="infra::LimitedTextOutputStream">
+<area shape="rect" id="node2" href="$da/d99/classinfra_1_1_text_output_stream_1_1_with_writer.html" title="infra::TextOutputStream\l::WithWriter\&lt; LimitedStreamWriter \&gt;" alt="" coords="459,46,693,87"/>
+<area shape="rect" id="node3" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; LimitedStreamWriter, WithWriter\l\&lt; LimitedStreamWriter \&gt; \&gt;" alt="" coords="188,5,411,61"/>
+<area shape="rect" id="node4" href="$de/dad/classinfra_1_1_text_output_stream.html" title="infra::TextOutputStream" alt="" coords="219,85,379,112"/>
+<area shape="rect" id="node5" href="$d6/d97/classinfra_1_1_output_stream.html" title="infra::OutputStream" alt="" coords="5,85,140,112"/>
+</map>

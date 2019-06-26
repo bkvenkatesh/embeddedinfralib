@@ -1,0 +1,5 @@
+<map id="infra::Timer::UnregisterSelf" name="infra::Timer::UnregisterSelf">
+<area shape="rect" id="node2" href="$da/def/classinfra_1_1_timer_service.html#a51f86cbeef8dc4866c087b68c24635d8" title="infra::TimerService\l::UnregisterTimer" alt="" coords="228,5,356,47"/>
+<area shape="rect" id="node3" href="$da/def/classinfra_1_1_timer_service.html#afb8a6ef3ee5ba728f1a8f232514bad8c" title="infra::TimerService\l::ComputeNextTrigger" alt="" coords="404,5,552,47"/>
+<area shape="rect" id="node4" href="$da/def/classinfra_1_1_timer_service.html#a6ae66196dc18d8b383ba5e0f0b6f22fa" title="infra::TimerService\l::NextTriggerChanged" alt="" coords="600,5,747,47"/>
+</map>

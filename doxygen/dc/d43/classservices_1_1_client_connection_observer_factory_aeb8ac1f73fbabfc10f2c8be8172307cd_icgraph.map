@@ -1,0 +1,6 @@
+<map id="services::ClientConnectionObserverFactory::ConnectionFailed" name="services::ClientConnectionObserverFactory::ConnectionFailed">
+<area shape="rect" id="node2" href="$d3/d44/classservices_1_1_connection_mbed_tls_connector.html#a77b6693c645b2d49fe159f68b2bc6cb1" title="services::ConnectionMbed\lTlsConnector::ConnectionFailed" alt="" coords="279,5,485,47"/>
+<area shape="rect" id="node4" href="$db/d8a/classservices_1_1_connector_bsd.html#a57cec940e17776d868497c7fbfd412c9" title="services::ConnectorBsd\l::Failed" alt="" coords="303,71,461,112"/>
+<area shape="rect" id="node5" href="$dc/dec/classservices_1_1_connector_win.html#adf67b165548086b6b2e0551a770bb74d" title="services::ConnectorWin\l::Failed" alt="" coords="303,136,461,177"/>
+<area shape="rect" id="node3" href="$d3/d44/classservices_1_1_connection_mbed_tls_connector.html#aec41c5e15eb35d9ed1beaf9dbba94c59" title="services::ConnectionMbed\lTlsConnector::ConnectionEstablished" alt="" coords="533,5,772,47"/>
+</map>

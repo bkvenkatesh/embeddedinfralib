@@ -1,0 +1,21 @@
+digraph "DnsResolverTest::MakeAnswerCName"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node228 [label="DnsResolverTest::MakeAnswer\lCName",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node228 -> Node229 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node229 [label="DnsResolverTest::MakeDns\lResponseWithCNameWithInnerReference",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d31/class_dns_resolver_test.html#aee5271b765746f6bd1882a5ec1cc9df6"];
+  Node228 -> Node230 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node230 [label="DnsResolverTest::MakeDns\lResponseWithSecondCNameWithInner\lReference",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d31/class_dns_resolver_test.html#a1b4a21646bf9fbe8a4aeea9541d2ca72"];
+  Node228 -> Node231 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node231 [label="DnsResolverTest::MakeReference\lAnswerCName",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d31/class_dns_resolver_test.html#a8a0ae38c15e729a60d72f3f1b421fef3"];
+  Node231 -> Node232 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node232 [label="DnsResolverTest::MakeDns\lResponseWithCName",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d31/class_dns_resolver_test.html#ad188bc7997f2f6bfce932a3a4ad9d36c"];
+  Node231 -> Node233 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node233 [label="DnsResolverTest::MakeDns\lResponseWithCNameAndAnswer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d31/class_dns_resolver_test.html#ac7d6d6185bd0c30b8ffe81a69d6a6c32"];
+  Node233 -> Node234 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node234 [label="DnsResolverTest::MakeDns\lResponseWithCNameAndAnswerFor\lDifferentHost",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d31/class_dns_resolver_test.html#a83399f4e5aee2baac47b0933b3873257"];
+  Node231 -> Node230 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

@@ -1,0 +1,9 @@
+<map id="infra::ClaimableResource::ClaimerWithSize&lt; ExtraSize &gt;" name="infra::ClaimableResource::ClaimerWithSize&lt; ExtraSize &gt;">
+<area shape="rect" id="node2" href="$da/d20/classinfra_1_1_claimable_resource_1_1_claimer_base.html" title="infra::ClaimableResource\l::ClaimerBase" alt="" coords="633,77,799,119"/>
+<area shape="rect" id="node5" href="$d0/d93/classinfra_1_1_claimable_resource.html" title="infra::ClaimableResource" alt="" coords="963,137,1130,163"/>
+<area shape="rect" id="node3" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; ClaimerBase \&gt;::NodeType" alt="" coords="255,19,441,60"/>
+<area shape="rect" id="node7" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; T \&gt;" alt="" coords="278,136,418,177"/>
+<area shape="rect" id="node6" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; infra::ClaimableResource\l::ClaimerBase \&gt;" alt="" coords="627,223,805,279"/>
+<area shape="rect" id="node8" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; infra::ClaimableResource\l::ClaimerBase \&gt;" alt="" coords="233,255,463,311"/>
+<area shape="rect" id="node11" href="$d5/d33/classinfra_1_1_auto_reset_function.html" title="infra::AutoResetFunction\l\&lt; void(), ExtraSize \&gt;" alt="" coords="633,5,799,47"/>
+</map>

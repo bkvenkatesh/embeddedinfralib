@@ -1,0 +1,7 @@
+<map id="hal::SynchronousFlash::NumberOfSectors" name="hal::SynchronousFlash::NumberOfSectors">
+<area shape="rect" id="node2" href="$d5/dff/classhal_1_1_synchronous_flash.html#ab92467d8431b295a7bf5ebf725d1c2d6" title="hal::SynchronousFlash\l::EraseAll" alt="" coords="240,5,395,47"/>
+<area shape="rect" id="node3" href="$d5/dff/classhal_1_1_synchronous_flash.html#a2ee669929885788f418bb62e7be7505a" title="hal::SynchronousFlash\l::StartOfNextSectorCyclical" alt="" coords="226,71,409,112"/>
+<area shape="rect" id="node4" href="$d5/dff/classhal_1_1_synchronous_flash.html#a07de6a3e30744a50d7c8dcc6cec40f84" title="hal::SynchronousFlash\l::StartOfPreviousSectorCyclical" alt="" coords="215,136,419,177"/>
+<area shape="rect" id="node5" href="$d0/d97/classservices_1_1_synchronous_flash_region.html#a267425721f9440895a28f49b726ac7c1" title="services::SynchronousFlash\lRegion::SynchronousFlashRegion" alt="" coords="208,201,427,243"/>
+<area shape="rect" id="node6" href="$d5/dff/classhal_1_1_synchronous_flash.html#afa3be37518bb3070d933ee542f476838" title="hal::SynchronousFlash\l::TotalSize" alt="" coords="240,267,395,308"/>
+</map>

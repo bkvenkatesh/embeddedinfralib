@@ -1,0 +1,4 @@
+<map id="services::SntpClient::NtpTimestamp::Convert" name="services::SntpClient::NtpTimestamp::Convert">
+<area shape="rect" id="node2" href="$d8/d04/classservices_1_1_sntp_client.html#a221c7cd699661e4440413c96e75cea75" title="services::SntpClient\l::NotifyOffsetAndDelay" alt="" coords="219,5,372,47"/>
+<area shape="rect" id="node3" href="$d8/d04/classservices_1_1_sntp_client.html#a34f569549a7c6f789382a6dd9f44ba24" title="services::SntpClient\l::DataReceived" alt="" coords="420,5,557,47"/>
+</map>

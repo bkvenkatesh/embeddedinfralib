@@ -1,0 +1,6 @@
+<map id="services::ConnectionSerial::StateSendingUpdate::StateSendingUpdate" name="services::ConnectionSerial::StateSendingUpdate::StateSendingUpdate">
+<area shape="rect" id="node2" href="$da/d87/classservices_1_1_connection_serial_1_1_state_sending_update.html#a276b17de9be8100c96e2a946b2a15a81" title="services::ConnectionSerial\l::StateSendingUpdate::SendUpdate" alt="" coords="288,39,516,80"/>
+<area shape="rect" id="node3" href="$d6/dba/classhal_1_1_serial_communication.html#a9c94f3aed0ca15268f0f731ea53fcdf6" title="hal::SerialCommunication\l::SendData" alt="" coords="566,5,737,47"/>
+<area shape="rect" id="node4" href="$d2/d3d/classservices_1_1_connection_serial_1_1_state_connected.html#a36342b53a064924a384a612e1c009d2a" title="services::ConnectionSerial\l::StateConnected::Reset" alt="" coords="564,71,739,112"/>
+<area shape="rect" id="node5" href="$d0/d6d/classinfra_1_1_memory_range.html#a42c2668a04c8c709ae147e93475f54d2" title="infra::MemoryRange\l::clear" alt="" coords="787,71,925,112"/>
+</map>

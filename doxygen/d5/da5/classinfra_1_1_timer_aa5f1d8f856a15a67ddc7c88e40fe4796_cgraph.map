@@ -1,0 +1,10 @@
+<map id="infra::Timer::SetNextTriggerTime" name="infra::Timer::SetNextTriggerTime">
+<area shape="rect" id="node2" href="$d5/da5/classinfra_1_1_timer.html#a11b396e8d4300da06b8ce83624991b73" title="infra::Timer::Convert" alt="" coords="911,7,1049,34"/>
+<area shape="rect" id="node3" href="$d5/da5/classinfra_1_1_timer.html#aaabecdbe93d2f0299f5f1356c9d1337f" title="infra::Timer::RegisterSelf" alt="" coords="281,43,445,70"/>
+<area shape="rect" id="node7" href="$d5/da5/classinfra_1_1_timer.html#a51a6dd500d70207c8163a053db0b6e60" title="infra::Timer::UpdateTriggerTime" alt="" coords="261,119,464,146"/>
+<area shape="rect" id="node4" href="$da/def/classinfra_1_1_timer_service.html#ac048d92f92957b56b420dd78bcc84528" title="infra::TimerService\l::RegisterTimer" alt="" coords="517,36,645,77"/>
+<area shape="rect" id="node5" href="$d5/da5/classinfra_1_1_timer.html#a1efe7b4dc3d40f8357b1fc94855e5145" title="infra::Timer::NextTrigger" alt="" coords="699,23,859,50"/>
+<area shape="rect" id="node6" href="$da/def/classinfra_1_1_timer_service.html#a6ae66196dc18d8b383ba5e0f0b6f22fa" title="infra::TimerService\l::NextTriggerChanged" alt="" coords="907,84,1053,125"/>
+<area shape="rect" id="node8" href="$da/def/classinfra_1_1_timer_service.html#ac08c18576f1ca147f34136e9f75d124f" title="infra::TimerService\l::UpdateTriggerTime" alt="" coords="512,119,651,160"/>
+<area shape="rect" id="node9" href="$da/def/classinfra_1_1_timer_service.html#afb8a6ef3ee5ba728f1a8f232514bad8c" title="infra::TimerService\l::ComputeNextTrigger" alt="" coords="705,125,853,167"/>
+</map>

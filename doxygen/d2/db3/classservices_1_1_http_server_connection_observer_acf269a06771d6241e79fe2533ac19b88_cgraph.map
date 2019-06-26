@@ -1,0 +1,7 @@
+<map id="services::HttpServerConnectionObserver::PrepareForNextRequest" name="services::HttpServerConnectionObserver::PrepareForNextRequest">
+<area shape="rect" id="node2" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#a997d5df64b1649389d4bf107c2a91cb4" title="infra::BoundedStringBase\l::clear" alt="" coords="290,5,459,47"/>
+<area shape="rect" id="node3" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a15fda946dfcd1bef1595df4ba747def9" title="services::HttpServerConnection\lObserver::Close" alt="" coords="273,71,476,112"/>
+<area shape="rect" id="node5" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a5f1596968e2b15c170065391cfd7b29b" title="services::HttpServerConnection\lObserver::RequestSendStream" alt="" coords="273,137,476,179"/>
+<area shape="rect" id="node4" href="$d0/dde/classservices_1_1_connection.html#aa46394f498a40168584a97003f31aa22" title="services::Connection\l::CloseAndDestroy" alt="" coords="530,68,673,109"/>
+<area shape="rect" id="node6" href="$dc/d4c/classinfra_1_1_single_observer.html#abb13c69cc61182baf350ff1736fa772e" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;::Subject" alt="" coords="524,134,679,190"/>
+</map>

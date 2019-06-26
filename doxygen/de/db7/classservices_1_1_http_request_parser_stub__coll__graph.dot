@@ -1,0 +1,32 @@
+digraph "services::HttpRequestParserStub"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node2 [label="services::HttpRequestParserStub",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="services::HttpRequestParser",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d75/classservices_1_1_http_request_parser.html"];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" pathTokens" ,fontname="Helvetica"];
+  Node4 [label="infra::Tokenizer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dbd/classinfra_1_1_tokenizer.html"];
+  Node5 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" separator" ,fontname="Helvetica"];
+  Node5 [label="char",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node6 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" string" ,fontname="Helvetica"];
+  Node6 [label="infra::BoundedStringBase\l\< const char \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2a/classinfra_1_1_bounded_string_base.html"];
+  Node7 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" range" ,fontname="Helvetica"];
+  Node7 [label="infra::MemoryRange\l\< const char \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d6d/classinfra_1_1_memory_range.html"];
+  Node8 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" beginElement\nendElement" ,fontname="Helvetica"];
+  Node8 [label="const char *",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node9 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" length" ,fontname="Helvetica"];
+  Node9 [label="size_t",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node10 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" npos" ,fontname="Helvetica"];
+  Node10 [label="static const size_type",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node11 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" body" ,fontname="Helvetica"];
+  Node11 [label="string",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node12 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" headers" ,fontname="Helvetica"];
+  Node12 [label="vector\< std::pair\<\l std::string, std::string \> \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node13 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" verb" ,fontname="Helvetica"];
+  Node13 [label="HttpVerb",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node14 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" path" ,fontname="Helvetica"];
+  Node14 [label="BoundedStringBase\<\l const char \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

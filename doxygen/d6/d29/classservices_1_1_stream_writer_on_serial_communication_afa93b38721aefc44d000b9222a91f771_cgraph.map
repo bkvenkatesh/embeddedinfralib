@@ -1,0 +1,6 @@
+<map id="services::StreamWriterOnSerialCommunication::Insert" name="services::StreamWriterOnSerialCommunication::Insert">
+<area shape="rect" id="node2" href="$d0/d6d/classinfra_1_1_memory_range.html#a322f6976f2774c6ba7494b9e27f07624" title="infra::MemoryRange\l::shrink_from_back_to" alt="" coords="264,5,415,47"/>
+<area shape="rect" id="node3" href="$d6/d29/classservices_1_1_stream_writer_on_serial_communication.html#a22778223f311cb660e543fb0f9c0d597" title="services::StreamWriterOn\lSerialCommunication::TrySend" alt="" coords="239,71,440,112"/>
+<area shape="rect" id="node4" href="$d6/dba/classhal_1_1_serial_communication.html#a9c94f3aed0ca15268f0f731ea53fcdf6" title="hal::SerialCommunication\l::SendData" alt="" coords="539,5,710,47"/>
+<area shape="rect" id="node5" href="$d6/d29/classservices_1_1_stream_writer_on_serial_communication.html#a90ee2a769f1116cfcac275b69237551a" title="services::StreamWriterOn\lSerialCommunication::CommunicationDone" alt="" coords="488,71,761,112"/>
+</map>

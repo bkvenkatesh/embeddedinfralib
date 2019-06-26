@@ -1,0 +1,8 @@
+<map id="services::ConfigurationStoreInterface" name="services::ConfigurationStoreInterface">
+<area shape="rect" id="node2" href="$d4/dc9/classservices_1_1_configuration_store_base.html" title="services::ConfigurationStoreBase" alt="" coords="236,18,449,45"/>
+<area shape="rect" id="node5" href="$de/def/classservices_1_1_factory_default_configuration_store_base.html" title="services::FactoryDefault\lConfigurationStoreBase" alt="" coords="262,71,423,112"/>
+<area shape="rect" id="node3" href="$de/d57/classservices_1_1_configuration_store_impl.html" title="services::ConfigurationStore\lImpl\&lt; T \&gt;" alt="" coords="497,8,680,49"/>
+<area shape="rect" id="node4" href="$d5/d95/classservices_1_1_configuration_store_impl_1_1_with_blobs.html" title="services::ConfigurationStore\lImpl\&lt; T \&gt;::WithBlobs" alt="" coords="728,5,911,47"/>
+<area shape="rect" id="node6" href="$d0/dab/classservices_1_1_factory_default_configuration_store.html" title="services::FactoryDefault\lConfigurationStore\&lt; T \&gt;" alt="" coords="508,75,669,116"/>
+<area shape="rect" id="node7" href="$d8/dd1/classservices_1_1_factory_default_configuration_store_1_1_with_blobs.html" title="services::FactoryDefault\lConfigurationStore\&lt; T\l \&gt;::WithBlobs" alt="" coords="739,71,900,127"/>
+</map>

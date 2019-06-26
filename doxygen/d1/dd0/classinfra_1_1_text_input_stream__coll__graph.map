@@ -1,0 +1,7 @@
+<map id="infra::TextInputStream" name="infra::TextInputStream">
+<area shape="rect" id="node2" href="$db/dda/classinfra_1_1_input_stream.html" title="infra::InputStream" alt="" coords="185,221,309,247"/>
+<area shape="rect" id="node3" href="$d2/d90/classinfra_1_1_stream_reader.html" title="infra::StreamReader" alt="" coords="5,117,143,143"/>
+<area shape="rect" id="node4" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="167,117,327,143"/>
+<area shape="rect" id="node7" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; std\l::size_t \&gt;" alt="" coords="403,213,535,255"/>
+<area shape="rect" id="node8" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; std::size_t \&gt;" alt="" coords="529,109,662,151"/>
+</map>

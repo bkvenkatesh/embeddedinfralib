@@ -1,0 +1,5 @@
+<map id="application::ImageSigner::ImageSignature" name="application::ImageSigner::ImageSignature">
+<area shape="rect" id="node2" href="$db/dab/classapplication_1_1_upgrade_pack_builder.html#a1b80aa84f448859013555a9d77e030fc" title="application::UpgradePack\lBuilder::AddPrologueAndSignature" alt="" coords="217,5,440,47"/>
+<area shape="rect" id="node3" href="$db/dab/classapplication_1_1_upgrade_pack_builder.html#af2b0b0df0753894f42d41294a2f47e78" title="application::UpgradePack\lBuilder::CreateUpgradePack" alt="" coords="488,5,675,47"/>
+<area shape="rect" id="node4" href="$db/dab/classapplication_1_1_upgrade_pack_builder.html#a6318c52ba63f7022d709a546764cf453" title="application::UpgradePack\lBuilder::UpgradePackBuilder" alt="" coords="723,5,911,47"/>
+</map>

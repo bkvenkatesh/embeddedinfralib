@@ -1,0 +1,10 @@
+<map id="infra::OverwriteDataStream" name="infra::OverwriteDataStream">
+<area shape="rect" id="node2" href="$dd/dd9/classinfra_1_1_data_output_stream_1_1_with_writer.html" title="infra::DataOutputStream\l::WithWriter\&lt; OverwriteStream\lWriter \&gt;" alt="" coords="1219,145,1417,201"/>
+<area shape="rect" id="node3" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; OverwriteStreamWriter,\l WithWriter\&lt; OverwriteStreamWriter \&gt; \&gt;" alt="" coords="915,79,1169,135"/>
+<area shape="rect" id="node4" href="$dc/dcc/classinfra_1_1_overwrite_stream_writer.html" title="infra::OverwriteStreamWriter" alt="" coords="616,84,800,111"/>
+<area shape="rect" id="node5" href="$df/d15/classinfra_1_1_byte_output_stream_writer.html" title="infra::ByteOutputStreamWriter" alt="" coords="304,69,501,96"/>
+<area shape="rect" id="node6" href="$de/dba/classinfra_1_1_stream_writer.html" title="infra::StreamWriter" alt="" coords="25,127,155,153"/>
+<area shape="rect" id="node10" href="$d6/d97/classinfra_1_1_output_stream.html" title="infra::OutputStream" alt="" coords="641,160,775,187"/>
+<area shape="rect" id="node9" href="$d6/d7d/classinfra_1_1_data_output_stream.html" title="infra::DataOutputStream" alt="" coords="961,160,1123,187"/>
+<area shape="rect" id="node11" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="323,204,483,231"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hal::AnalogToDigitalPinConverter&lt; Conversion, Unit, Storage, Impl &gt;" name="hal::AnalogToDigitalPinConverter&lt; Conversion, Unit, Storage, Impl &gt;">
+<area shape="rect" id="node2" href="$d6/dcd/classhal_1_1_analog_to_digital_pin.html" title="hal::AnalogToDigitalPin\l\&lt; Unit, Storage \&gt;" alt="" coords="11,5,167,47"/>
+<area shape="rect" id="node3" href="$d2/d76/class_impl.html" title="Impl" alt="" coords="65,71,112,98"/>
+<area shape="rect" id="node4" href="$d5/d33/classinfra_1_1_auto_reset_function.html" title="infra::AutoResetFunction\l\&lt; void(infra::Quantity\l\&lt; Unit, Storage \&gt; value)\&gt;" alt="" coords="5,122,172,178"/>
+</map>

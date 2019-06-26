@@ -1,0 +1,14 @@
+<map id="services::Connection::CloseAndDestroy" name="services::Connection::CloseAndDestroy">
+<area shape="rect" id="node2" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a15fda946dfcd1bef1595df4ba747def9" title="services::HttpServerConnection\lObserver::Close" alt="" coords="196,100,399,141"/>
+<area shape="rect" id="node3" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a8057af5281f6e1991adc3443214c6173" title="services::HttpServerConnection\lObserver::HttpServerConnectionObserver" alt="" coords="447,5,704,47"/>
+<area shape="rect" id="node4" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#ae2e07fe0e67f0907a8f5770d6efae0cf" title="services::HttpServerConnection\lObserver::CloseWhenIdle" alt="" coords="474,71,677,112"/>
+<area shape="rect" id="node5" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a54d34389a1f80059a349bfb5b5f273dc" title="services::HttpServerConnection\lObserver::TryHandleRequest" alt="" coords="1515,203,1717,244"/>
+<area shape="rect" id="node9" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#acf269a06771d6241e79fe2533ac19b88" title="services::HttpServerConnection\lObserver::PrepareForNextRequest" alt="" coords="465,217,685,259"/>
+<area shape="rect" id="node6" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a6213f7b12f5fb1c0ddbabdb859ddca0a" title="services::HttpServerConnection\lObserver::ReceivedRequest" alt="" coords="1765,217,1968,259"/>
+<area shape="rect" id="node7" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a3c5cabea13da6e140280b1b8c77244b3" title="services::HttpServerConnection\lObserver::DataReceived" alt="" coords="2016,255,2219,296"/>
+<area shape="rect" id="node8" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a579fc75f469c5b79141187fc04dbf74c" title="services::HttpServerConnection\lObserver::SendStreamAvailable" alt="" coords="2267,255,2471,296"/>
+<area shape="rect" id="node10" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a48786ed298c958e0c90a861ab09f01b2" title="services::HttpServerConnection\lObserver::SendResponse" alt="" coords="752,232,955,273"/>
+<area shape="rect" id="node11" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#afd24d585e0b90fc44643244b0712f92f" title="services::HttpServerConnection\lObserver::ReceivedTooMuchData" alt="" coords="1253,305,1467,347"/>
+<area shape="rect" id="node12" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a9d0c9926c69222f44621afb71304247d" title="services::HttpServerConnection\lObserver::ServePage" alt="" coords="1003,188,1205,229"/>
+<area shape="rect" id="node13" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a52e5c280fabbed909272946c730d6aff" title="services::HttpServerConnection\lObserver::HandleRequest" alt="" coords="1259,188,1461,229"/>
+</map>

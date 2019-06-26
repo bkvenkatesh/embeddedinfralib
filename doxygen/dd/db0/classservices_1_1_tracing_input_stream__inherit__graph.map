@@ -1,0 +1,6 @@
+<map id="services::TracingInputStream" name="services::TracingInputStream">
+<area shape="rect" id="node2" href="$d8/def/classinfra_1_1_data_input_stream_1_1_with_reader.html" title="infra::DataInputStream\l::WithReader\&lt; TracingStreamReader \&gt;" alt="" coords="460,46,707,87"/>
+<area shape="rect" id="node3" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; TracingStreamReader, WithReader\l\&lt; TracingStreamReader \&gt; \&gt;" alt="" coords="177,5,412,61"/>
+<area shape="rect" id="node4" href="$d0/db4/classinfra_1_1_data_input_stream.html" title="infra::DataInputStream" alt="" coords="219,85,370,112"/>
+<area shape="rect" id="node5" href="$db/dda/classinfra_1_1_input_stream.html" title="infra::InputStream" alt="" coords="5,85,129,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="hal::SynchronousFlashHomogeneous::AddressOfSector" name="hal::SynchronousFlashHomogeneous::AddressOfSector">
+<area shape="rect" id="node2" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#abac18ce91a4d374f2fbfe18daf6e2bc6" title="services::SynchronousFlash\lSpi::SendEraseSector" alt="" coords="292,5,477,47"/>
+<area shape="rect" id="node5" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#aefd2455cea1f166037d34796641986c5" title="services::SynchronousFlash\lSpi::SendEraseSubSector" alt="" coords="292,71,477,112"/>
+<area shape="rect" id="node3" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#a839c8db6b02afe47fb8c6745fde89ab7" title="services::SynchronousFlash\lSpi::EraseSomeSectors" alt="" coords="525,39,711,80"/>
+<area shape="rect" id="node4" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#a78462388776e5596c74234595e8213bf" title="services::SynchronousFlash\lSpi::EraseSectors" alt="" coords="759,39,944,80"/>
+</map>

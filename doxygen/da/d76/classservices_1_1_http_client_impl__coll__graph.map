@@ -1,0 +1,25 @@
+<map id="services::HttpClientImpl" name="services::HttpClientImpl">
+<area shape="rect" id="node2" href="$dc/de5/classservices_1_1_connection_observer.html" title="services::ConnectionObserver" alt="" coords="833,35,1027,61"/>
+<area shape="rect" id="node3" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;" alt="" coords="401,5,556,61"/>
+<area shape="rect" id="node7" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; HttpClientObserver,\l ObserverSubjectType \&gt;" alt="" coords="209,69,371,125"/>
+<area shape="rect" id="node28" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; HttpClientObserver,\l HttpClient \&gt;" alt="" coords="217,149,363,205"/>
+<area shape="rect" id="node5" href="$dc/d97/classservices_1_1_http_client.html" title="services::HttpClient" alt="" coords="1085,104,1219,131"/>
+<area shape="rect" id="node6" href="$d1/db2/classinfra_1_1_subject.html" title="infra::Subject\&lt; HttpClient\lObserver \&gt;" alt="" coords="611,77,778,118"/>
+<area shape="rect" id="node8" href="$d1/d2a/classinfra_1_1_bounded_string_base.html" title="infra::BoundedStringBase\&lt; T \&gt;" alt="" coords="1052,488,1252,515"/>
+<area shape="rect" id="node12" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; uint32_t \&gt;" alt="" coords="1066,700,1238,727"/>
+<area shape="rect" id="node16" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; services\l::HttpClientImpl::HttpResponse\lParser \&gt;" alt="" coords="1051,620,1253,676"/>
+<area shape="rect" id="node18" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; services\l::HttpRequestFormatter \&gt;" alt="" coords="1067,825,1237,866"/>
+<area shape="rect" id="node29" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; services\l::HttpClientImpl::BodyReader \&gt;" alt="" coords="1051,890,1253,931"/>
+<area shape="rect" id="node14" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; uint32_t \&gt;" alt="" coords="628,690,761,731"/>
+<area shape="rect" id="node17" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; services::HttpClientImpl\l::HttpResponseParser \&gt;" alt="" coords="609,601,780,657"/>
+<area shape="rect" id="node19" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; services::HttpRequestFormatter \&gt;" alt="" coords="580,834,809,875"/>
+<area shape="rect" id="node30" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; services::HttpClientImpl\l::BodyReader \&gt;" alt="" coords="609,919,780,975"/>
+<area shape="rect" id="node20" href="$d1/d17/classinfra_1_1_shared_ptr.html" title="infra::SharedPtr\&lt; infra\l::StreamWriter \&gt;" alt="" coords="1078,293,1226,334"/>
+<area shape="rect" id="node21" href="$dd/d9a/classinfra_1_1detail_1_1_shared_ptr_control.html" title="infra::detail::SharedPtr\lControl" alt="" coords="619,222,770,263"/>
+<area shape="rect" id="node26" href="$d1/d17/classinfra_1_1_shared_ptr.html" title="infra::SharedPtr\&lt; services\l::HttpClientObserver \&gt;" alt="" coords="1067,157,1237,198"/>
+<area shape="rect" id="node31" href="$da/d78/classinfra_1_1_accessed_by_shared_ptr.html" title="infra::AccessedBySharedPtr" alt="" coords="1059,375,1245,401"/>
+<area shape="rect" id="node24" href="$da/dcd/classinfra_1_1_shared_object_deleter.html" title="infra::SharedObjectDeleter" alt="" coords="203,364,377,391"/>
+<area shape="rect" id="node25" href="$de/dba/classinfra_1_1_stream_writer.html" title="infra::StreamWriter" alt="" coords="629,288,760,315"/>
+<area shape="rect" id="node27" href="$d3/db1/classservices_1_1_http_client_observer.html" title="services::HttpClientObserver" alt="" coords="602,153,787,180"/>
+<area shape="rect" id="node32" href="$da/d07/classinfra_1_1_function.html" title="infra::Function\&lt; void()\&gt;" alt="" coords="617,339,772,365"/>
+</map>

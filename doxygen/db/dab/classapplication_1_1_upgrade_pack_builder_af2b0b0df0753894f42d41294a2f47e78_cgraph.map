@@ -1,0 +1,13 @@
+<map id="application::UpgradePackBuilder::CreateUpgradePack" name="application::UpgradePackBuilder::CreateUpgradePack">
+<area shape="rect" id="node2" href="$db/dab/classapplication_1_1_upgrade_pack_builder.html#a3c32bb010ca8df1f816926377101caab" title="application::UpgradePack\lBuilder::AddEpilogue" alt="" coords="266,37,437,79"/>
+<area shape="rect" id="node7" href="$db/dab/classapplication_1_1_upgrade_pack_builder.html#ad5237b5b88a6b59ab752c42fdfc34e3d" title="application::UpgradePack\lBuilder::AddImages" alt="" coords="266,103,437,144"/>
+<area shape="rect" id="node8" href="$db/dab/classapplication_1_1_upgrade_pack_builder.html#a1b80aa84f448859013555a9d77e030fc" title="application::UpgradePack\lBuilder::AddPrologueAndSignature" alt="" coords="240,233,463,275"/>
+<area shape="rect" id="node11" href="$db/dab/classapplication_1_1_upgrade_pack_builder.html#a173565742e1c0fb0cfe7c57b9cc542a6" title="application::UpgradePack\lBuilder::CheckSignature" alt="" coords="266,168,437,209"/>
+<area shape="rect" id="node3" href="$db/dab/classapplication_1_1_upgrade_pack_builder.html#afac237e4e13d10d8b75ae7f0c3a076a2" title="application::UpgradePack\lBuilder::AssignZeroFilled" alt="" coords="511,37,681,79"/>
+<area shape="rect" id="node6" href="$de/d60/classapplication_1_1_image_signer.html#af5a8470d905a09dbc4242a97ea53f7d5" title="application::ImageSigner\l::SignatureLength" alt="" coords="514,103,678,144"/>
+<area shape="rect" id="node4" href="$d0/d6d/classinfra_1_1_memory_range.html#a7a83ceae17802af5ecebfb9557912ece" title="infra::MemoryRange\l::begin" alt="" coords="729,5,868,47"/>
+<area shape="rect" id="node5" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="729,71,868,112"/>
+<area shape="rect" id="node9" href="$de/d60/classapplication_1_1_image_signer.html#aacffd25652b344775cac8463f88889af" title="application::ImageSigner\l::ImageSignature" alt="" coords="514,299,678,340"/>
+<area shape="rect" id="node10" href="$de/d60/classapplication_1_1_image_signer.html#a0ad1f2de28ef9d8df7851b4daaee76a0" title="application::ImageSigner\l::SignatureMethod" alt="" coords="514,233,678,275"/>
+<area shape="rect" id="node12" href="$de/d60/classapplication_1_1_image_signer.html#a7e04e1204b664207a6eebacc666fe55d" title="application::ImageSigner\l::CheckSignature" alt="" coords="514,168,678,209"/>
+</map>

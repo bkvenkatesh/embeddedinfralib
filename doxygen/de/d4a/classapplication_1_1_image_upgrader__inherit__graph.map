@@ -1,0 +1,5 @@
+<map id="application::ImageUpgrader" name="application::ImageUpgrader">
+<area shape="rect" id="node2" href="$d2/d34/classapplication_1_1_image_upgrader_erase_sectors.html" title="application::ImageUpgrader\lEraseSectors" alt="" coords="245,5,424,47"/>
+<area shape="rect" id="node3" href="$d7/d5d/classapplication_1_1_image_upgrader_internal_flash.html" title="application::ImageUpgrader\lInternalFlash" alt="" coords="245,71,424,112"/>
+<area shape="rect" id="node4" href="$d0/dc4/classapplication_1_1_image_upgrader_skip.html" title="application::ImageUpgraderSkip" alt="" coords="232,137,437,163"/>
+</map>

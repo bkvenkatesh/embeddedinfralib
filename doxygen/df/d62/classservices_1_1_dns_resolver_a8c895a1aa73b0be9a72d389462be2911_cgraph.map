@@ -1,0 +1,6 @@
+<map id="services::DnsResolver::NameLookupSuccess" name="services::DnsResolver::NameLookupSuccess">
+<area shape="rect" id="node2" href="$df/d75/classservices_1_1_name_resolver_result.html#af05454bbfd89bfd139bf63ec3df9d00a" title="services::NameResolverResult\l::NameLookupDone" alt="" coords="211,5,408,47"/>
+<area shape="rect" id="node3" href="$df/d62/classservices_1_1_dns_resolver.html#a4991eb314b3dedddf21a8aaa3168d947" title="services::DnsResolver\l::NameLookupDone" alt="" coords="235,71,384,112"/>
+<area shape="rect" id="node4" href="$df/d62/classservices_1_1_dns_resolver.html#a6ec127250fccdceecaf17aca6319b9c1" title="services::DnsResolver\l::TryResolveNext" alt="" coords="456,71,605,112"/>
+<area shape="rect" id="node5" href="$df/d62/classservices_1_1_dns_resolver.html#a64f257b248f4d277fb838d9da105d6e6" title="services::DnsResolver\l::Resolve" alt="" coords="653,71,803,112"/>
+</map>

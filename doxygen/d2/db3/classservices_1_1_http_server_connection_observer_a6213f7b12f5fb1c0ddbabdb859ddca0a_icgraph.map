@@ -1,0 +1,4 @@
+<map id="services::HttpServerConnectionObserver::ReceivedRequest" name="services::HttpServerConnectionObserver::ReceivedRequest">
+<area shape="rect" id="node2" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a3c5cabea13da6e140280b1b8c77244b3" title="services::HttpServerConnection\lObserver::DataReceived" alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node3" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a579fc75f469c5b79141187fc04dbf74c" title="services::HttpServerConnection\lObserver::SendStreamAvailable" alt="" coords="507,5,711,47"/>
+</map>

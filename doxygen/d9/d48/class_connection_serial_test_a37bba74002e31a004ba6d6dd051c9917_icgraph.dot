@@ -1,0 +1,16 @@
+digraph "ConnectionSerialTest::ExpectWindowSizeRequest"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node38 [label="ConnectionSerialTest\l::ExpectWindowSizeRequest",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node38 -> Node39 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node39 [label="ConnectionSerialTest\l::ConnectionSerialTest",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d48/class_connection_serial_test.html#ae43e3b7f1bf40e4fad25658cbbb71765"];
+  Node38 -> Node40 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node40 [label="ConnectionSerialTest\l::ExpectAndCompleteWindowSize\lRequest",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d48/class_connection_serial_test.html#a9a0ae22fee2b7cb45b36544a641371ae"];
+  Node38 -> Node41 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node41 [label="ConnectionSerialTest\l::ReconstructConnectionWith\lMinUpdateSize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d48/class_connection_serial_test.html#ae2fe964d69c9a73949418a13881fafc8"];
+  Node38 -> Node42 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node42 [label="ConnectionSerialTest\l::ReconstructConnectionWith\lReceiveBufferSize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d48/class_connection_serial_test.html#a2efb268d3a416be2e4d179ae2f77ee63"];
+}

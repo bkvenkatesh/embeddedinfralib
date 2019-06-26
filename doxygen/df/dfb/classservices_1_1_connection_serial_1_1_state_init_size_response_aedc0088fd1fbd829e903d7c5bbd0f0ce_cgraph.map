@@ -1,0 +1,4 @@
+<map id="services::ConnectionSerial::StateInitSizeResponse::StateInitSizeResponse" name="services::ConnectionSerial::StateInitSizeResponse::StateInitSizeResponse">
+<area shape="rect" id="node2" href="$df/dfb/classservices_1_1_connection_serial_1_1_state_init_size_response.html#a6a96565554c8716b86a9b7d4bd88a734" title="services::ConnectionSerial\l::StateInitSizeResponse\l::SendWindowSizeResponse" alt="" coords="228,5,419,61"/>
+<area shape="rect" id="node3" href="$d6/dba/classhal_1_1_serial_communication.html#a9c94f3aed0ca15268f0f731ea53fcdf6" title="hal::SerialCommunication\l::SendData" alt="" coords="467,13,637,54"/>
+</map>

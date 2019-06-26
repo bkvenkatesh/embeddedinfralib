@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d0/d69/classservices_1_1_name_resolver.html" title="services::NameResolver" alt="" coords="5,81,165,108"/>
+<area shape="rect" id="node2" href="$df/d62/classservices_1_1_dns_resolver.html" title="services::DnsResolver" alt="" coords="237,5,387,32"/>
+<area shape="rect" id="node3" href="$d4/dbc/classservices_1_1_name_lookup_bsd.html" title="services::NameLookupBsd" alt="" coords="224,56,400,83"/>
+<area shape="rect" id="node4" href="$d8/dbd/classservices_1_1_name_lookup_win.html" title="services::NameLookupWin" alt="" coords="224,107,400,133"/>
+<area shape="rect" id="node5" href="$d0/d0e/classservices_1_1_name_resolver_cache.html" title="services::NameResolverCache" alt="" coords="213,157,411,184"/>
+</map>

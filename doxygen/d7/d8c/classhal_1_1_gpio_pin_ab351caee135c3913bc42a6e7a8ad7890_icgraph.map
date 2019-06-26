@@ -1,0 +1,6 @@
+<map id="hal::GpioPin::Config" name="hal::GpioPin::Config">
+<area shape="rect" id="node2" href="$d5/d1f/classservices_1_1_gpio_pin_inverted.html#adbd9e96fea9d4c8b4d275e7c312a2f50" title="services::GpioPinInverted\l::Config" alt="" coords="199,5,365,47"/>
+<area shape="rect" id="node3" href="$db/dc6/classhal_1_1_input_pin.html#a3ee304871d0b84b6e3c3dbed92a46f8e" title="hal::InputPin::InputPin" alt="" coords="207,71,357,98"/>
+<area shape="rect" id="node4" href="$df/d03/classhal_1_1_output_pin.html#a059d25fc44d650e6e38dfd9cfe67b2e8" title="hal::OutputPin::OutputPin" alt="" coords="197,122,367,149"/>
+<area shape="rect" id="node5" href="$da/df4/classhal_1_1_tri_state_pin.html#a15f07cfbb84189d1fbaa5376b3164530" title="hal::TriStatePin::TriStatePin" alt="" coords="191,173,373,199"/>
+</map>

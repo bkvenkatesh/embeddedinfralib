@@ -1,0 +1,6 @@
+<map id="services::Terminal::StoreHistory" name="services::Terminal::StoreHistory">
+<area shape="rect" id="node2" href="$d5/db7/classinfra_1_1_bounded_deque.html#ac5bf03d3538657af1663cec133161225" title="infra::BoundedDeque\l::full" alt="" coords="180,5,323,47"/>
+<area shape="rect" id="node3" href="$d5/db7/classinfra_1_1_bounded_deque.html#a22bace5661b6e63cff13c6d3fd2e9402" title="infra::BoundedDeque\l::pop_front" alt="" coords="180,71,323,112"/>
+<area shape="rect" id="node4" href="$d5/db7/classinfra_1_1_bounded_deque.html#a81ee840f9b3ae02ec543fe7d3f7ebd8f" title="infra::BoundedDeque\l::push_back" alt="" coords="180,136,323,177"/>
+<area shape="rect" id="node5" href="$d5/db7/classinfra_1_1_bounded_deque.html#ac32cda72da6791ea7b4e2244b84c09d4" title="infra::BoundedDeque\l::size" alt="" coords="180,201,323,243"/>
+</map>

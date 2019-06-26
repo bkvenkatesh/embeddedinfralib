@@ -1,0 +1,10 @@
+<map id="infra::Timer" name="infra::Timer">
+<area shape="rect" id="node3" href="$d9/dec/classinfra_1_1_timer_alternating.html" title="infra::TimerAlternating" alt="" coords="375,5,523,32"/>
+<area shape="rect" id="node4" href="$d0/d7e/classinfra_1_1_timer_evolving.html" title="infra::TimerEvolving" alt="" coords="383,56,515,83"/>
+<area shape="rect" id="node5" href="$db/d9e/classinfra_1_1_timer_limited_repeating.html" title="infra::TimerLimitedRepeating" alt="" coords="356,107,543,133"/>
+<area shape="rect" id="node6" href="$df/d93/classinfra_1_1_timer_limited_repeating_with_closing_action.html" title="infra::TimerLimitedRepeating\lWithClosingAction" alt="" coords="356,158,543,199"/>
+<area shape="rect" id="node7" href="$d3/d9e/classinfra_1_1_timer_repeating.html" title="infra::TimerRepeating" alt="" coords="377,224,521,251"/>
+<area shape="rect" id="node8" href="$d8/d87/classinfra_1_1_timer_single_shot.html" title="infra::TimerSingleShot" alt="" coords="375,275,524,301"/>
+<area shape="rect" id="node9" href="$d5/dcb/classservices_1_1_repeating_button_1_1_fire_timer.html" title="services::RepeatingButton\l::FireTimer" alt="" coords="363,326,536,367"/>
+<area shape="rect" id="node2" href="$d7/d4a/classinfra_1_1detail_1_1_intrusive_forward_list_node.html" title="infra::IntrusiveForwardList\l\&lt; Timer \&gt;::NodeType" alt="" coords="5,158,173,199"/>
+</map>

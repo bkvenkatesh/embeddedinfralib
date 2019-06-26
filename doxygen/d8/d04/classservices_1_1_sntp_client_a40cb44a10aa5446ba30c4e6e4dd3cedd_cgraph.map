@@ -1,0 +1,12 @@
+<map id="services::SntpClient::NotifyKissOfDeath" name="services::SntpClient::NotifyKissOfDeath">
+<area shape="rect" id="node2" href="$d0/de3/namespaceinfra.html#ad3ab5a04b30f8c78b822d60f8d142b71" title="infra::ByteRangeAsString" alt="" coords="191,78,359,105"/>
+<area shape="rect" id="node5" href="$d0/de3/namespaceinfra.html#ae4478bf95f90ceb679642cb4180f205f" title="infra::MakeByteRange" alt="" coords="199,151,350,178"/>
+<area shape="rect" id="node10" href="$d1/db2/classinfra_1_1_subject.html#a0992f3cdf215e556c9a1166d2234ecba" title="infra::Subject\&lt; SntpResult\lObserver \&gt;::NotifyObservers" alt="" coords="407,253,591,295"/>
+<area shape="rect" id="node11" href="$d8/d04/classservices_1_1_sntp_client.html#a50f4b45c74f1236d13c6fabba8041474" title="services::SntpClient\l::NotifyTimeUnavailable" alt="" coords="197,253,353,295"/>
+<area shape="rect" id="node3" href="$d0/d6d/classinfra_1_1_memory_range.html#a7a83ceae17802af5ecebfb9557912ece" title="infra::MemoryRange\l::begin" alt="" coords="429,5,568,47"/>
+<area shape="rect" id="node4" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="429,71,568,112"/>
+<area shape="rect" id="node6" href="$d0/de3/namespaceinfra.html#afe38b7d4318537de2f28b244211c4275" title="infra::MakeRange" alt="" coords="437,137,560,163"/>
+<area shape="rect" id="node9" href="$d0/de3/namespaceinfra.html#a74203fdf2e029d2667c7e4925092cc9a" title="infra::ReinterpretCastByte\lRange" alt="" coords="413,188,584,229"/>
+<area shape="rect" id="node7" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#aef23e4250cad2fdc69ccc39f68734233" title="infra::BoundedStringBase\l::begin" alt="" coords="653,100,823,141"/>
+<area shape="rect" id="node8" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#af5021f1ea3898146d0a55c2895f07dbf" title="infra::BoundedStringBase::end" alt="" coords="639,166,837,193"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="services::FlashSpi::SendEraseSector" name="services::FlashSpi::SendEraseSector">
+<area shape="rect" id="node2" href="$df/d28/classservices_1_1_flash_spi.html#aa87d4ca73eedb68b123567cb8d678743" title="services::FlashSpi\l::EraseSomeSectors" alt="" coords="185,5,328,47"/>
+<area shape="rect" id="node3" href="$df/d28/classservices_1_1_flash_spi.html#a5b3e05583977f2aebb2cb4b25491390a" title="services::FlashSpi\l::EraseSectors" alt="" coords="376,5,504,47"/>
+</map>

@@ -1,0 +1,10 @@
+digraph "services::SntpClient::SendStreamAvailable"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node83 [label="services::SntpClient\l::SendStreamAvailable",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node83 -> Node84 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node84 [label="SntpClientTest::KissOfDeath\lReceived",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d49/class_sntp_client_test.html#a5a8608001ef1b68f9b8cc1c42943186f"];
+}

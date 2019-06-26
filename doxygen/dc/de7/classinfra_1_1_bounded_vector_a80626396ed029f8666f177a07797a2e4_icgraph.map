@@ -1,0 +1,5 @@
+<map id="infra::BoundedVector::max_size" name="infra::BoundedVector::max_size">
+<area shape="rect" id="node2" href="$d9/de8/classinfra_1_1_proto_length_delimited.html#a46493aebd6ea0d395aa2edc6fbd0292c" title="infra::ProtoLengthDelimited\l::GetBytes" alt="" coords="212,5,391,47"/>
+<area shape="rect" id="node3" href="$dc/de7/classinfra_1_1_bounded_vector.html#a48b8759f1cd9508f6020d3cec5032e64" title="infra::BoundedVector\l\&lt; infra::PolymorphicVariant\l\&lt; infra::JsonSubParser, infra\l::JsonSubObjectParser, infra\l::JsonSubArrayParser \&gt; \&gt;::swap" alt="" coords="196,71,407,157"/>
+<area shape="rect" id="node4" href="$d6/d32/classservices_1_1_web_socket.html#a290b24405af2bbf13a1fe42495e25071" title="services::WebSocket\l::UpgradeHeaders" alt="" coords="229,181,374,223"/>
+</map>

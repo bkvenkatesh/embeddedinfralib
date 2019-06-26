@@ -1,0 +1,12 @@
+digraph "TEST"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node28 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node28 -> Node29 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node29 [label="infra::SharedOptional\l::Emplace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d7f/classinfra_1_1_shared_optional.html#a7bd5c6d18995168aea4b6e735ab3f440"];
+  Node28 -> Node30 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node30 [label="infra::NotifyingSharedOptional\l::OnAllocatable",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d52/classinfra_1_1_notifying_shared_optional.html#ae15c38f6ca886097e157576f7c959e9d"];
+}

@@ -1,0 +1,25 @@
+<map id="services::FlashQuadSpiCypressFll::EraseSomeSectors" name="services::FlashQuadSpiCypressFll::EraseSomeSectors">
+<area shape="rect" id="node2" href="$d8/d29/classhal_1_1_flash_homogeneous.html#a51f40ebc3117a8a4f9b56b0b22bd1785" title="hal::FlashHomogeneous\l::NumberOfSectors" alt="" coords="282,25,445,67"/>
+<area shape="rect" id="node3" href="$d1/d88/classservices_1_1_flash_quad_spi_cypress_fll.html#a3418a4a113d4465e3bd5c900191e66d6" title="services::FlashQuadSpiCypress\lFll::SendEraseBlock" alt="" coords="260,156,467,197"/>
+<area shape="rect" id="node22" href="$d1/d88/classservices_1_1_flash_quad_spi_cypress_fll.html#ac76da2362d1cc4da4cde244e867d0762" title="services::FlashQuadSpiCypress\lFll::SendEraseChip" alt="" coords="260,91,467,132"/>
+<area shape="rect" id="node23" href="$d1/d88/classservices_1_1_flash_quad_spi_cypress_fll.html#a96e529e2fdf019af982d7ed66ad9cfa6" title="services::FlashQuadSpiCypress\lFll::SendEraseHalfBlock" alt="" coords="260,221,467,263"/>
+<area shape="rect" id="node24" href="$d1/d88/classservices_1_1_flash_quad_spi_cypress_fll.html#aa9aa28921db6ebbe4de8a57f6ec44263" title="services::FlashQuadSpiCypress\lFll::SendEraseSector" alt="" coords="260,287,467,328"/>
+<area shape="rect" id="node4" href="$d0/de3/namespaceinfra.html#a0ec8c0f8585063ab97f13228d4888974" title="infra::MakeOptional" alt="" coords="535,63,669,90"/>
+<area shape="rect" id="node5" href="$d0/db3/classservices_1_1_flash_quad_spi.html#afa24eb06baec2e2b6413ed10a567e876" title="services::FlashQuadSpi\l::ConvertAddress" alt="" coords="523,348,681,389"/>
+<area shape="rect" id="node7" href="$d8/d29/classhal_1_1_flash_homogeneous.html#addb167ba9e733c6041f17ebf9eda5ad1" title="hal::FlashHomogeneous\l::AddressOfSector" alt="" coords="521,283,683,324"/>
+<area shape="rect" id="node8" href="$dd/df2/classhal_1_1_quad_spi.html#a34a6210e60687a16a723e6dfef934968" title="hal::QuadSpi::SendData" alt="" coords="521,114,683,141"/>
+<area shape="rect" id="node9" href="$da/d1d/structhal_1_1_quad_spi_1_1_lines.html#a355cdd0f183ce81c385236c7d850df73" title="hal::QuadSpi::Lines\l::QuadSpeed" alt="" coords="534,165,670,207"/>
+<area shape="rect" id="node10" href="$d8/dcc/classinfra_1_1_sequencer.html#a540855dbc1e4f39faed3b55ec7c947c0" title="infra::Sequencer::Continue" alt="" coords="515,231,689,258"/>
+<area shape="rect" id="node6" href="$dd/df2/classhal_1_1_quad_spi.html#a962b4ce2b2f8ae4fb7b83324db78244c" title="hal::QuadSpi::AddressToVector" alt="" coords="737,377,943,403"/>
+<area shape="rect" id="node11" href="$dc/de7/classinfra_1_1_bounded_vector.html#a0d65fc52854eb5ee43419e451e3cd49a" title="infra::BoundedVector\l::clear" alt="" coords="769,260,911,301"/>
+<area shape="rect" id="node12" href="$d8/dcc/classinfra_1_1_sequencer.html#a144aefdee6184f0c01287ef64e4e588a" title="infra::Sequencer::Execute\lNextStep" alt="" coords="991,136,1163,177"/>
+<area shape="rect" id="node14" href="$d8/dcc/classinfra_1_1_sequencer.html#aa8d62e488058da02b14a31017a33b199" title="infra::Sequencer::Finished" alt="" coords="991,385,1164,411"/>
+<area shape="rect" id="node16" href="$d8/dcc/classinfra_1_1_sequencer.html#a5a0bb79e770ee68910377bcbd24f9c14" title="infra::Sequencer::PopContext" alt="" coords="744,209,936,235"/>
+<area shape="rect" id="node20" href="$d8/dcc/classinfra_1_1_sequencer.html#adb44b85c61f00faae6ca6ad1de6a7380" title="infra::Sequencer::PushContext" alt="" coords="741,78,939,105"/>
+<area shape="rect" id="node13" href="$dc/de7/classinfra_1_1_bounded_vector.html#aa142a336c186d6e58c5573ba860be106" title="infra::BoundedVector\l::back" alt="" coords="1212,171,1355,212"/>
+<area shape="rect" id="node15" href="$dc/de7/classinfra_1_1_bounded_vector.html#ab9477e08e53eb7d020fac8bd1d37fda7" title="infra::BoundedVector\l::empty" alt="" coords="1212,291,1355,332"/>
+<area shape="rect" id="node17" href="$d8/dcc/classinfra_1_1_sequencer.html#abfc36f76cfc75495f321bc6643826c98" title="infra::Sequencer::Execute\lCurrentStep" alt="" coords="991,71,1163,112"/>
+<area shape="rect" id="node18" href="$d8/dcc/classinfra_1_1_sequencer.html#aa1da1c05382c54296fe23b30d6cf6cf8" title="infra::Sequencer::Increase\lCurrentStep" alt="" coords="991,201,1164,243"/>
+<area shape="rect" id="node19" href="$dc/de7/classinfra_1_1_bounded_vector.html#acd442a237e9f5935f766dd3ef4a818e9" title="infra::BoundedVector\l::pop_back" alt="" coords="1006,319,1149,360"/>
+<area shape="rect" id="node21" href="$dc/de7/classinfra_1_1_bounded_vector.html#a17cb2ff4e6291f156cb5a41cca1b4edf" title="infra::BoundedVector\l::push_back" alt="" coords="1006,5,1149,47"/>
+</map>

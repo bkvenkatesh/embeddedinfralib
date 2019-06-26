@@ -1,0 +1,7 @@
+<map id="application::ImageSigner::SignatureLength" name="application::ImageSigner::SignatureLength">
+<area shape="rect" id="node2" href="$db/dab/classapplication_1_1_upgrade_pack_builder.html#a3c32bb010ca8df1f816926377101caab" title="application::UpgradePack\lBuilder::AddEpilogue" alt="" coords="237,5,408,47"/>
+<area shape="rect" id="node5" href="$db/dab/classapplication_1_1_upgrade_pack_builder.html#a173565742e1c0fb0cfe7c57b9cc542a6" title="application::UpgradePack\lBuilder::CheckSignature" alt="" coords="237,71,408,112"/>
+<area shape="rect" id="node6" href="$d2/d88/classapplication_1_1_reference_upgrade_pack_builder_facade.html#a0d6bcb38ecae6ae07d63b273b3737dcc" title="application::ReferenceUpgrade\lPackBuilderFacade::PostBuilder" alt="" coords="217,136,428,177"/>
+<area shape="rect" id="node3" href="$db/dab/classapplication_1_1_upgrade_pack_builder.html#af2b0b0df0753894f42d41294a2f47e78" title="application::UpgradePack\lBuilder::CreateUpgradePack" alt="" coords="476,39,663,80"/>
+<area shape="rect" id="node4" href="$db/dab/classapplication_1_1_upgrade_pack_builder.html#a6318c52ba63f7022d709a546764cf453" title="application::UpgradePack\lBuilder::UpgradePackBuilder" alt="" coords="711,39,899,80"/>
+</map>

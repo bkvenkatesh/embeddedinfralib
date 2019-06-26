@@ -1,0 +1,26 @@
+<map id="services::ConnectionMbedTls" name="services::ConnectionMbedTls">
+<area shape="rect" id="node16" href="$d3/daa/classinfra_1_1_weak_ptr.html" title="infra::WeakPtr\&lt; Connection\lMbedTls \&gt;" alt="" coords="2055,395,2237,436"/>
+<area shape="rect" id="node2" href="$d0/dde/classservices_1_1_connection.html" title="services::Connection" alt="" coords="1422,59,1565,86"/>
+<area shape="rect" id="node3" href="$d1/db2/classinfra_1_1_subject.html" title="infra::Subject\&lt; Connection\lObserver \&gt;" alt="" coords="813,261,988,303"/>
+<area shape="rect" id="node4" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l ObserverSubjectType \&gt;" alt="" coords="401,258,563,314"/>
+<area shape="rect" id="node8" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;" alt="" coords="213,62,367,118"/>
+<area shape="rect" id="node6" href="$d1/d17/classinfra_1_1_shared_ptr.html" title="infra::SharedPtr\&lt; services\l::ConnectionObserver \&gt;" alt="" coords="1044,111,1215,152"/>
+<area shape="rect" id="node7" href="$dc/de5/classservices_1_1_connection_observer.html" title="services::ConnectionObserver" alt="" coords="591,38,785,65"/>
+<area shape="rect" id="node9" href="$dd/d9a/classinfra_1_1detail_1_1_shared_ptr_control.html" title="infra::detail::SharedPtr\lControl" alt="" coords="613,205,763,247"/>
+<area shape="rect" id="node13" href="$d1/d17/classinfra_1_1_shared_ptr.html" title="infra::SharedPtr\&lt; void \&gt;" alt="" coords="1050,177,1209,203"/>
+<area shape="rect" id="node19" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::ConnectionMbedTls\l::StreamWriterMbedTls \&gt;" alt="" coords="1392,631,1595,687"/>
+<area shape="rect" id="node26" href="$d1/d7f/classinfra_1_1_shared_optional.html" title="infra::SharedOptional\l\&lt; services::ConnectionMbedTls\l::StreamReaderMbedTls \&gt;" alt="" coords="1392,875,1595,931"/>
+<area shape="rect" id="node29" href="$d1/d17/classinfra_1_1_shared_ptr.html" title="infra::SharedPtr\&lt; infra\l::StreamWriter \&gt;" alt="" coords="1055,309,1203,351"/>
+<area shape="rect" id="node12" href="$da/dcd/classinfra_1_1_shared_object_deleter.html" title="infra::SharedObjectDeleter" alt="" coords="203,730,377,757"/>
+<area shape="rect" id="node15" href="$dd/df1/classinfra_1_1_enable_shared_from_this.html" title="infra::EnableSharedFromThis\l\&lt; ConnectionMbedTls \&gt;" alt="" coords="2337,360,2527,401"/>
+<area shape="rect" id="node18" href="$de/d1a/classhal_1_1_synchronous_random_data_generator.html" title="hal::SynchronousRandomData\lGenerator" alt="" coords="1394,257,1593,299"/>
+<area shape="rect" id="node20" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; services\l::ConnectionMbedTls::StreamWriter\lMbedTls \&gt;" alt="" coords="1015,631,1244,687"/>
+<area shape="rect" id="node21" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; services::ConnectionMbedTls\l::StreamWriterMbedTls \&gt;" alt="" coords="587,623,789,679"/>
+<area shape="rect" id="node28" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; services::ConnectionMbedTls\l::StreamReaderMbedTls \&gt;" alt="" coords="587,882,789,938"/>
+<area shape="rect" id="node35" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; uint8_t \&gt;" alt="" coords="621,556,755,597"/>
+<area shape="rect" id="node27" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; services\l::ConnectionMbedTls::StreamReader\lMbedTls \&gt;" alt="" coords="1012,875,1247,931"/>
+<area shape="rect" id="node30" href="$de/dba/classinfra_1_1_stream_writer.html" title="infra::StreamWriter" alt="" coords="623,502,753,529"/>
+<area shape="rect" id="node33" href="$d5/db7/classinfra_1_1_bounded_deque.html" title="infra::BoundedDeque\l\&lt; uint8_t \&gt;" alt="" coords="1422,565,1565,607"/>
+<area shape="rect" id="node34" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; infra::StaticStorage\l\&lt; uint8_t \&gt; \&gt;" alt="" coords="1057,426,1202,482"/>
+<area shape="rect" id="node36" href="$d5/d33/classinfra_1_1_auto_reset_function.html" title="infra::AutoResetFunction\l\&lt; void(infra::SharedPtr\l\&lt; services::ConnectionObserver\l \&gt; connectionObserver)\&gt;" alt="" coords="1391,111,1596,181"/>
+</map>

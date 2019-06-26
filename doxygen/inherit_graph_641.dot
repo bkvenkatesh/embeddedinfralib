@@ -1,0 +1,8 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="services::SynchronousFlash\lSpi::InstructionAndAddress",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d0d/structservices_1_1_synchronous_flash_spi_1_1_instruction_and_address.html"];
+}

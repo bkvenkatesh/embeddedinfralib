@@ -1,0 +1,33 @@
+digraph "TEST"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="EXPECT_TRUE",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/def/_test_json_8cpp.html#a84dbe6e62bbec23a120a258315c7b6dc"];
+  Node0 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="infra::StreamErrorPolicy\l::Failed",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d4a/classinfra_1_1_stream_error_policy.html#ac1558d645711dd9685f926115719eb15"];
+  Node0 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="infra::Head",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/de3/namespaceinfra.html#a97dc5194236a205b697e668f00d42353"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="infra::MemoryRange\l::shrink_from_back_to",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d6d/classinfra_1_1_memory_range.html#a322f6976f2774c6ba7494b9e27f07624"];
+  Node0 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="infra::LimitedStreamWriter\l::Insert",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d12/classinfra_1_1_limited_stream_writer.html#a3969db62a50522b586459836d485d572"];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="infra::StreamErrorPolicy\l::ReportResult",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d4a/classinfra_1_1_stream_error_policy.html#a708126a1c40b64fd503bed2d8b8f9700"];
+  Node5 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="infra::MemoryRange\l::size",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66"];
+  Node5 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="infra::StreamWriter\l::Insert",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dba/classinfra_1_1_stream_writer.html#a2135664b27111d57a0e6b36f91dadffa"];
+  Node0 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="infra::MakeConst",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/de3/namespaceinfra.html#aa81baeec417bd37d1bd2c991af420bca"];
+  Node0 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="infra::MakeRange",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/de3/namespaceinfra.html#afe38b7d4318537de2f28b244211c4275"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="infra::BoundedStringBase\l::begin",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2a/classinfra_1_1_bounded_string_base.html#aef23e4250cad2fdc69ccc39f68734233"];
+  Node10 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="infra::BoundedStringBase::end",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2a/classinfra_1_1_bounded_string_base.html#af5021f1ea3898146d0a55c2895f07dbf"];
+}

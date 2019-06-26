@@ -1,0 +1,37 @@
+digraph "FactoryDefaultConfigurationStoreIntegrationTest"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node4 [label="FactoryDefaultConfiguration\lStoreIntegrationTest",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Test",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node6 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="infra::EventDispatcherFixture",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/df4/classinfra_1_1_event_dispatcher_fixture.html"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="EventDispatcher::WithSize\l\< 50 \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node8 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" configurationStore" ,fontname="Helvetica"];
+  Node8 [label="infra::Optional\< services\l::FactoryDefaultConfigurationStore\l\< FactoryDefaultConfigurationStoreIntegration\lTest::Data \>::WithBlobs \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/df7/classinfra_1_1_optional.html"];
+  Node9 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" initialized" ,fontname="Helvetica"];
+  Node9 [label="bool",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node10 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node10 [label="infra::StaticStorage\l\< services::FactoryDefaultConfiguration\lStore\< FactoryDefaultConfigurationStoreIntegration\lTest::Data \>::WithBlobs \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d8c/classinfra_1_1_static_storage.html"];
+  Node11 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node11 [label="type",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node12 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" flashFactoryDefault\nflashBlob1\nflashBlob2" ,fontname="Helvetica"];
+  Node12 [label="hal::FlashStub",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d6b/classhal_1_1_flash_stub.html"];
+  Node13 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="hal::Flash",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d95/classhal_1_1_flash.html"];
+  Node14 -> Node12 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" sectors" ,fontname="Helvetica"];
+  Node14 [label="vector\< std::vector\l\< uint8_t \> \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node15 -> Node12 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" onEraseDone" ,fontname="Helvetica"];
+  Node15 [label="infra::Function\< void()\>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d07/classinfra_1_1_function.html"];
+  Node9 -> Node12 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" delaySignalEraseDone" ,fontname="Helvetica"];
+  Node16 -> Node12 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" stopAfterWriteSteps" ,fontname="Helvetica"];
+  Node16 [label="infra::Optional\< uint8_t \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/df7/classinfra_1_1_optional.html"];
+  Node9 -> Node16 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" initialized" ,fontname="Helvetica"];
+  Node17 -> Node16 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node17 [label="infra::StaticStorage\l\< uint8_t \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d8c/classinfra_1_1_static_storage.html"];
+  Node11 -> Node17 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+}

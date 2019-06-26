@@ -1,0 +1,26 @@
+<map id="services::HttpClientBasic::ConnectionEstablished" name="services::HttpClientBasic::ConnectionEstablished">
+<area shape="rect" id="node2" href="$db/dae/classservices_1_1_http_client_basic.html#a6f87e94487340692a098fd3dc4655f6d" title="services::HttpClientBasic\l::Established" alt="" coords="230,5,397,47"/>
+<area shape="rect" id="node3" href="$da/d78/classinfra_1_1_accessed_by_shared_ptr.html#a9a3b6445cae28c4ab728ca757cdd8ee7" title="infra::AccessedBySharedPtr\l::MakeShared" alt="" coords="220,71,407,112"/>
+<area shape="rect" id="node4" href="$d8/d87/classinfra_1_1_timer_single_shot.html#aa76a7526e88f2818fbc6567db181f24d" title="infra::TimerSingleShot\l::Start" alt="" coords="239,136,388,177"/>
+<area shape="rect" id="node16" href="$db/dae/classservices_1_1_http_client_basic.html#a10d4df541459a417c1517c4a83c3c598" title="services::HttpClientBasic\l::Timeout" alt="" coords="230,249,397,291"/>
+<area shape="rect" id="node5" href="$d5/da5/classinfra_1_1_timer.html#a729101dbfbc04caf3f1217f9feeeff41" title="infra::Timer::Resolution" alt="" coords="481,62,636,89"/>
+<area shape="rect" id="node7" href="$d5/da5/classinfra_1_1_timer.html#aa5f1d8f856a15a67ddc7c88e40fe4796" title="infra::Timer::SetNextTriggerTime" alt="" coords="455,143,663,170"/>
+<area shape="rect" id="node6" href="$da/def/classinfra_1_1_timer_service.html#ab717e40a1a49d2f31f4a9e2e63f0f5ce" title="infra::TimerService\l::Resolution" alt="" coords="730,23,858,64"/>
+<area shape="rect" id="node8" href="$d5/da5/classinfra_1_1_timer.html#a11b396e8d4300da06b8ce83624991b73" title="infra::Timer::Convert" alt="" coords="1389,147,1527,174"/>
+<area shape="rect" id="node9" href="$d5/da5/classinfra_1_1_timer.html#aaabecdbe93d2f0299f5f1356c9d1337f" title="infra::Timer::RegisterSelf" alt="" coords="712,143,876,170"/>
+<area shape="rect" id="node13" href="$d5/da5/classinfra_1_1_timer.html#a51a6dd500d70207c8163a053db0b6e60" title="infra::Timer::UpdateTriggerTime" alt="" coords="925,206,1128,233"/>
+<area shape="rect" id="node10" href="$da/def/classinfra_1_1_timer_service.html#ac048d92f92957b56b420dd78bcc84528" title="infra::TimerService\l::RegisterTimer" alt="" coords="963,140,1091,181"/>
+<area shape="rect" id="node11" href="$d5/da5/classinfra_1_1_timer.html#a1efe7b4dc3d40f8357b1fc94855e5145" title="infra::Timer::NextTrigger" alt="" coords="1176,147,1336,174"/>
+<area shape="rect" id="node12" href="$da/def/classinfra_1_1_timer_service.html#a6ae66196dc18d8b383ba5e0f0b6f22fa" title="infra::TimerService\l::NextTriggerChanged" alt="" coords="1580,249,1727,291"/>
+<area shape="rect" id="node14" href="$da/def/classinfra_1_1_timer_service.html#ac08c18576f1ca147f34136e9f75d124f" title="infra::TimerService\l::UpdateTriggerTime" alt="" coords="1187,305,1325,347"/>
+<area shape="rect" id="node15" href="$da/def/classinfra_1_1_timer_service.html#afb8a6ef3ee5ba728f1a8f232514bad8c" title="infra::TimerService\l::ComputeNextTrigger" alt="" coords="1384,305,1532,347"/>
+<area shape="rect" id="node17" href="$da/d78/classinfra_1_1_accessed_by_shared_ptr.html#afed78c7dc79ccbb4711b34a1d7c7e63e" title="infra::AccessedBySharedPtr\l::SetAction" alt="" coords="465,216,652,257"/>
+<area shape="rect" id="node18" href="$db/dae/classservices_1_1_http_client_basic.html#adbf11cf7b70f6aaeff6c80b205ac97dd" title="services::HttpClientBasic\l::ReportError" alt="" coords="475,281,642,323"/>
+<area shape="rect" id="node23" href="$db/dae/classservices_1_1_http_client_basic.html#a7546f777efacb9d02ebfda4164526bda" title="services::HttpClientBasic\l::Close" alt="" coords="475,359,642,400"/>
+<area shape="rect" id="node19" href="$d5/da5/classinfra_1_1_timer.html#abf5658fb078dc1dad0705a7791f7b84c" title="infra::Timer::Cancel" alt="" coords="727,311,861,338"/>
+<area shape="rect" id="node22" href="$db/dae/classservices_1_1_http_client_basic.html#a13235ae81afcffea28aa1612a3050ed4" title="services::HttpClientBasic\l::Error" alt="" coords="711,245,877,287"/>
+<area shape="rect" id="node20" href="$d5/da5/classinfra_1_1_timer.html#a2b0bc71ca10c69d01f4965c576af73fd" title="infra::Timer::UnregisterSelf" alt="" coords="939,342,1114,369"/>
+<area shape="rect" id="node21" href="$da/def/classinfra_1_1_timer_service.html#a51f86cbeef8dc4866c087b68c24635d8" title="infra::TimerService\l::UnregisterTimer" alt="" coords="1192,371,1320,412"/>
+<area shape="rect" id="node24" href="$dc/d4c/classinfra_1_1_single_observer.html#aec7e28f414f104d93f5e4adcc2d6774b" title="infra::SingleObserver\l\&lt; HttpClientObserver,\l HttpClient \&gt;::Attached" alt="" coords="717,362,871,418"/>
+<area shape="rect" id="node25" href="$dc/d4c/classinfra_1_1_single_observer.html#abb13c69cc61182baf350ff1736fa772e" title="infra::SingleObserver\l\&lt; HttpClientObserver,\l HttpClient \&gt;::Subject" alt="" coords="721,442,867,498"/>
+</map>

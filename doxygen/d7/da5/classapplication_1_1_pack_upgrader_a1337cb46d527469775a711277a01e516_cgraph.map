@@ -1,0 +1,11 @@
+<map id="application::PackUpgrader::TryUpgradeImage" name="application::PackUpgrader::TryUpgradeImage">
+<area shape="rect" id="node2" href="$d0/de3/namespaceinfra.html#ae4478bf95f90ceb679642cb4180f205f" title="infra::MakeByteRange" alt="" coords="453,42,603,69"/>
+<area shape="rect" id="node7" href="$d7/da5/classapplication_1_1_pack_upgrader.html#a6bc737ce61630bc7a68a046b2b464a90" title="application::PackUpgrader\l::MarkAsError" alt="" coords="228,93,403,135"/>
+<area shape="rect" id="node9" href="$d5/dff/classhal_1_1_synchronous_flash.html#a8e353a81cf310908c987d6cac6e452ec" title="hal::SynchronousFlash\l::ReadBuffer" alt="" coords="238,159,393,200"/>
+<area shape="rect" id="node10" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="246,224,385,265"/>
+<area shape="rect" id="node3" href="$d0/de3/namespaceinfra.html#a74203fdf2e029d2667c7e4925092cc9a" title="infra::ReinterpretCastByte\lRange" alt="" coords="653,5,824,47"/>
+<area shape="rect" id="node4" href="$d0/de3/namespaceinfra.html#afe38b7d4318537de2f28b244211c4275" title="infra::MakeRange" alt="" coords="677,71,800,98"/>
+<area shape="rect" id="node5" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#aef23e4250cad2fdc69ccc39f68734233" title="infra::BoundedStringBase\l::begin" alt="" coords="887,35,1056,76"/>
+<area shape="rect" id="node6" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#af5021f1ea3898146d0a55c2895f07dbf" title="infra::BoundedStringBase::end" alt="" coords="872,101,1071,127"/>
+<area shape="rect" id="node8" href="$d5/dff/classhal_1_1_synchronous_flash.html#a61b77f790bc72a2bb8d7316a2d8fa3ce" title="hal::SynchronousFlash\l::WriteBuffer" alt="" coords="451,93,605,135"/>
+</map>

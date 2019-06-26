@@ -1,0 +1,8 @@
+<map id="hal::SpiMaster::ReceiveData" name="hal::SpiMaster::ReceiveData">
+<area shape="rect" id="node2" href="$df/d28/classservices_1_1_flash_spi.html#a779453e98e31045c379a8db1d69f5573" title="services::FlashSpi\l::ReadBuffer" alt="" coords="249,5,377,47"/>
+<area shape="rect" id="node3" href="$df/d28/classservices_1_1_flash_spi.html#aae3eae175fd135f47d4418005f26a61a" title="services::FlashSpi\l::ReadFlashId" alt="" coords="249,71,377,112"/>
+<area shape="rect" id="node4" href="$df/d28/classservices_1_1_flash_spi.html#afa81f4afed5d5f89f7e0cd6adfd02584" title="services::FlashSpi\l::ReadStatusRegister" alt="" coords="240,136,387,177"/>
+<area shape="rect" id="node5" href="$df/d28/classservices_1_1_flash_spi.html#a84fae0acb54bc7f4841ee1e2c970618f" title="services::FlashSpi\l::HoldWhileWriteInProgress" alt="" coords="435,136,617,177"/>
+<area shape="rect" id="node6" href="$df/d28/classservices_1_1_flash_spi.html#a565d63c057e750b2c5703b83e2987e0d" title="services::FlashSpi\l::WriteBuffer" alt="" coords="665,103,793,144"/>
+<area shape="rect" id="node7" href="$df/d28/classservices_1_1_flash_spi.html#a5b3e05583977f2aebb2cb4b25491390a" title="services::FlashSpi\l::EraseSectors" alt="" coords="665,168,793,209"/>
+</map>

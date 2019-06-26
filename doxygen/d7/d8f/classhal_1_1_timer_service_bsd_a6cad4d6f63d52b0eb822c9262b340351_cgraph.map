@@ -1,0 +1,10 @@
+<map id="hal::TimerServiceBsd::WaitForTrigger" name="hal::TimerServiceBsd::WaitForTrigger">
+<area shape="rect" id="node2" href="$d3/d0e/classinfra_1_1_interface_connector.html#aed1d9e952d3d0dfa68e59ee4e868b380" title="infra::InterfaceConnector\l\&lt; EventDispatcherWorker\l \&gt;::Instance" alt="" coords="207,5,378,61"/>
+<area shape="rect" id="node3" href="$d7/d8f/classhal_1_1_timer_service_bsd.html#ac645f68c38bb71001b53255021220f2b" title="hal::TimerServiceBsd\l::NextTriggerChanged" alt="" coords="219,86,366,127"/>
+<area shape="rect" id="node5" href="$d7/d8f/classhal_1_1_timer_service_bsd.html#a6c448ef4803f73c3a43638456e3850df" title="hal::TimerServiceBsd::Now" alt="" coords="204,152,381,179"/>
+<area shape="rect" id="node6" href="$da/def/classinfra_1_1_timer_service.html#a62136eeac9187506213715289cb9c560" title="infra::TimerService\l::Progressed" alt="" coords="229,203,357,245"/>
+<area shape="rect" id="node9" href="$d7/d34/classinfra_1_1_event_dispatcher_worker.html#a5922b8fd5101b15f20b639fcd11fa272" title="infra::EventDispatcherWorker\l::Schedule" alt="" coords="197,269,388,310"/>
+<area shape="rect" id="node4" href="$da/def/classinfra_1_1_timer_service.html#ae092e0679a0307ceb7ec802c576e9ef2" title="infra::TimerService\l::NextTrigger" alt="" coords="446,86,574,127"/>
+<area shape="rect" id="node7" href="$da/def/classinfra_1_1_timer_service.html#afb8a6ef3ee5ba728f1a8f232514bad8c" title="infra::TimerService\l::ComputeNextTrigger" alt="" coords="436,203,584,245"/>
+<area shape="rect" id="node8" href="$da/def/classinfra_1_1_timer_service.html#a6ae66196dc18d8b383ba5e0f0b6f22fa" title="infra::TimerService\l::NextTriggerChanged" alt="" coords="632,203,779,245"/>
+</map>

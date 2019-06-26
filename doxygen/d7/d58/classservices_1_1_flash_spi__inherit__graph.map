@@ -1,0 +1,5 @@
+<map id="services::FlashSpi" name="services::FlashSpi">
+<area shape="rect" id="node2" href="$d8/d29/classhal_1_1_flash_homogeneous.html" title="hal::FlashHomogeneous" alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node3" href="$dd/d95/classhal_1_1_flash.html" title="hal::Flash" alt="" coords="47,5,126,32"/>
+<area shape="rect" id="node4" href="$d8/d07/classhal_1_1_flash_id.html" title="hal::FlashId" alt="" coords="193,80,282,107"/>
+</map>

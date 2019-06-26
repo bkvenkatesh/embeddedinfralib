@@ -1,0 +1,11 @@
+<map id="infra::InputStream::Failed" name="infra::InputStream::Failed">
+<area shape="rect" id="node2" href="$da/dac/classservices_1_1_llmnr_responder.html#ab76113d488d6035a4c07a857ea760b38" title="services::LlmnrResponder\l::DataReceived" alt="" coords="199,5,369,47"/>
+<area shape="rect" id="node3" href="$d8/d04/classservices_1_1_sntp_client.html#a34f569549a7c6f789382a6dd9f44ba24" title="services::SntpClient\l::DataReceived" alt="" coords="215,71,353,112"/>
+<area shape="rect" id="node4" href="$db/d78/classservices_1_1_mqtt_client_impl_1_1_state_connecting.html#a2d248295b5ce5743676138fdfe1dfd0e" title="services::MqttClientImpl\l::StateConnecting::DataReceived" alt="" coords="177,136,391,177"/>
+<area shape="rect" id="node5" href="$d7/dac/classservices_1_1_mqtt_client_impl_1_1_state_connected.html#a4c4dbe480967ef5d5282b8eba5113e28" title="services::MqttClientImpl\l::StateConnected::DataReceived" alt="" coords="179,201,389,243"/>
+<area shape="rect" id="node6" href="$da/dc6/classservices_1_1_time_with_localization.html#a9ba9b1e2522373bbd4bd5299e44683ec" title="services::TimeWithLocalization\l::DurationFromString" alt="" coords="183,267,385,308"/>
+<area shape="rect" id="node7" href="$de/db9/classinfra_1_1_proto_parser.html#afe4ff42d8cdab9639cba68b2e1617f4d" title="infra::ProtoParser\l::GetField" alt="" coords="439,355,561,396"/>
+<area shape="rect" id="node8" href="$de/db9/classinfra_1_1_proto_parser.html#a3ab7e8722bbf3e0a3a0889a2a5146891" title="infra::ProtoParser\l::GetVarInt" alt="" coords="223,384,345,425"/>
+<area shape="rect" id="node9" href="$d5/df5/structapplication_1_1_binary_object_1_1_line_contents.html#a74f818b7374ceefb5bc167dae1864ea3" title="application::BinaryObject\l::LineContents::LineContents" alt="" coords="189,449,379,491"/>
+<area shape="rect" id="node10" href="$da/dc6/classservices_1_1_time_with_localization.html#ab0be55a42c2b885292c69281877f3bec" title="services::TimeWithLocalization\l::TimePointFromString" alt="" coords="183,515,385,556"/>
+</map>

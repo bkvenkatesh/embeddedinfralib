@@ -1,0 +1,16 @@
+digraph "services::ConnectionObserverStub::DataReceived"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node4 [label="services::ConnectionObserver\lStub::DataReceived",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="infra::InputStream\l::ContiguousRange",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/dda/classinfra_1_1_input_stream.html#aa253f0d673d3e4b6189993c7af8ff389"];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="infra::StreamReader\l::ExtractContiguousRange",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d90/classinfra_1_1_stream_reader.html#a7651d2a6bbbdcbbc5f71420b277aa956"];
+  Node4 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="infra::MemoryRange\l::empty",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d6d/classinfra_1_1_memory_range.html#a0dc90caa282524ee9828bf8128e3a569"];
+  Node4 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="infra::Subject\< Connection\lObserver \>::Subject",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db2/classinfra_1_1_subject.html#ae8eed3b19f76537578b5ebb12054e1d8"];
+}

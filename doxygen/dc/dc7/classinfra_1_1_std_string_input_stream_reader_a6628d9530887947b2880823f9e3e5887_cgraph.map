@@ -1,0 +1,7 @@
+<map id="infra::StdStringInputStreamReader::Extract" name="infra::StdStringInputStreamReader::Extract">
+<area shape="rect" id="node2" href="$d2/dc5/namespaceinfra_1_1detail.html#ad178b71c4a19a9b0bfe48a065920cf8c" title="infra::detail::begin" alt="" coords="250,5,374,32"/>
+<area shape="rect" id="node3" href="$d0/d6d/classinfra_1_1_memory_range.html#a7a83ceae17802af5ecebfb9557912ece" title="infra::MemoryRange\l::begin" alt="" coords="243,57,381,98"/>
+<area shape="rect" id="node4" href="$d5/d4a/classinfra_1_1_stream_error_policy.html#a708126a1c40b64fd503bed2d8b8f9700" title="infra::StreamErrorPolicy\l::ReportResult" alt="" coords="232,122,392,163"/>
+<area shape="rect" id="node5" href="$d0/d6d/classinfra_1_1_memory_range.html#a322f6976f2774c6ba7494b9e27f07624" title="infra::MemoryRange\l::shrink_from_back_to" alt="" coords="237,187,387,229"/>
+<area shape="rect" id="node6" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="243,253,381,294"/>
+</map>

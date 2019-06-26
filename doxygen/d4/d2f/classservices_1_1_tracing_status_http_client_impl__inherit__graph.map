@@ -1,0 +1,7 @@
+<map id="services::TracingStatusHttpClientImpl" name="services::TracingStatusHttpClientImpl">
+<area shape="rect" id="node2" href="$db/dd6/classservices_1_1_http_client_impl.html" title="services::HttpClientImpl" alt="" coords="461,55,620,81"/>
+<area shape="rect" id="node3" href="$dc/de5/classservices_1_1_connection_observer.html" title="services::ConnectionObserver" alt="" coords="220,27,413,53"/>
+<area shape="rect" id="node4" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;" alt="" coords="11,5,166,61"/>
+<area shape="rect" id="node5" href="$dc/d97/classservices_1_1_http_client.html" title="services::HttpClient" alt="" coords="249,83,384,109"/>
+<area shape="rect" id="node6" href="$d1/db2/classinfra_1_1_subject.html" title="infra::Subject\&lt; HttpClient\lObserver \&gt;" alt="" coords="5,86,172,127"/>
+</map>

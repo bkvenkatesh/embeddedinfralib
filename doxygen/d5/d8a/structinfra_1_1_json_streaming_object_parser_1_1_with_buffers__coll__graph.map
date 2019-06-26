@@ -1,0 +1,11 @@
+<map id="infra::JsonStreamingObjectParser::WithBuffers&lt; MaxTagLength, MaxValueLength, MaxObjectNesting &gt;" name="infra::JsonStreamingObjectParser::WithBuffers&lt; MaxTagLength, MaxValueLength, MaxObjectNesting &gt;">
+<area shape="rect" id="node2" href="$dd/def/structinfra_1_1_buffers.html" title="infra::Buffers\&lt; MaxTagLength,\l MaxValueLength, MaxObjectNesting \&gt;" alt="" coords="1157,148,1408,189"/>
+<area shape="rect" id="node3" href="$d2/d40/classinfra_1_1_with_storage.html" title="infra::WithStorage\l\&lt; MaxValueLength \&gt;" alt="" coords="828,141,971,183"/>
+<area shape="rect" id="node4" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; StorageType, MaxValueLength \&gt;" alt="" coords="449,123,673,164"/>
+<area shape="rect" id="node13" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; StorageType, MaxTagLength \&gt;" alt="" coords="455,5,667,47"/>
+<area shape="rect" id="node7" href="$dc/de7/classinfra_1_1_bounded_vector.html" title="infra::BoundedVector\l\&lt; infra::PolymorphicVariant\l\&lt; infra::JsonSubParser, infra\l::JsonSubObjectParser, infra\l::JsonSubArrayParser \&gt; \&gt;" alt="" coords="805,210,993,295"/>
+<area shape="rect" id="node15" href="$d3/d88/classinfra_1_1_json_streaming_object_parser.html" title="infra::JsonStreamingObject\lParser" alt="" coords="1193,220,1372,261"/>
+<area shape="rect" id="node8" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; infra::StaticStorage\l\&lt; infra::PolymorphicVariant\l\&lt; infra::JsonSubParser, infra\l::JsonSubObjectParser, infra\l::JsonSubArrayParser \&gt; \&gt; \&gt;" alt="" coords="467,291,655,391"/>
+<area shape="rect" id="node9" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; infra::PolymorphicVariant\l\&lt; infra::JsonSubParser, infra\l::JsonSubObjectParser, infra\l::JsonSubArrayParser \&gt; \&gt;" alt="" coords="129,298,317,383"/>
+<area shape="rect" id="node12" href="$d2/d40/classinfra_1_1_with_storage.html" title="infra::WithStorage\l\&lt; MaxTagLength \&gt;" alt="" coords="834,64,965,105"/>
+</map>

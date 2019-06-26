@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dd/def/structinfra_1_1_buffers.html" title="infra::Buffers\&lt; MaxTagLength,\l MaxValueLength, MaxObjectNesting \&gt;" alt="" coords="5,5,256,47"/>
+<area shape="rect" id="node2" href="$d9/de6/structinfra_1_1_json_streaming_object_parser_1_1_with_buffers.html" title="infra::JsonStreamingObject\lParser::WithBuffers\&lt; MaxTagLength,\l MaxValueLength, MaxObjectNesting \&gt;" alt="" coords="304,31,555,87"/>
+<area shape="rect" id="node3" href="$d3/d88/classinfra_1_1_json_streaming_object_parser.html" title="infra::JsonStreamingObject\lParser" alt="" coords="41,71,220,112"/>
+</map>

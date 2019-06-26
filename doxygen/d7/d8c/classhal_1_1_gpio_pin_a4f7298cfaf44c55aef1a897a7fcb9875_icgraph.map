@@ -1,0 +1,5 @@
+<map id="hal::GpioPin::GetOutputLatch" name="hal::GpioPin::GetOutputLatch">
+<area shape="rect" id="node2" href="$d5/d1f/classservices_1_1_gpio_pin_inverted.html#ae9504a13b7d884b43c192e850bb38001" title="services::GpioPinInverted\l::GetOutputLatch" alt="" coords="253,5,419,47"/>
+<area shape="rect" id="node3" href="$df/d03/classhal_1_1_output_pin.html#af80ff534f6ee95db4a37804c734c84f7" title="hal::OutputPin::GetOutput\lLatch" alt="" coords="249,71,423,112"/>
+<area shape="rect" id="node4" href="$da/df4/classhal_1_1_tri_state_pin.html#a3a9aff6058eb32301ca6c280ecf2ef65" title="hal::TriStatePin::GetOutput\lLatch" alt="" coords="247,136,425,177"/>
+</map>

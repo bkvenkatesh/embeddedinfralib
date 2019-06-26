@@ -1,0 +1,8 @@
+<map id="infra::BoundedDeque::erase" name="infra::BoundedDeque::erase">
+<area shape="rect" id="node2" href="$de/d8b/classservices_1_1_connection_bsd.html#abd0d4817f9fbeb070f1fe89332f33d0f" title="services::ConnectionBsd\l::Send" alt="" coords="201,5,366,47"/>
+<area shape="rect" id="node4" href="$db/d8b/classservices_1_1_connection_win.html#aa7aa4096aa674d9d564d99c365e865f8" title="services::ConnectionWin\l::Send" alt="" coords="201,71,366,112"/>
+<area shape="rect" id="node6" href="$de/dcb/classservices_1_1_connection_mbed_tls.html#a4ee3315ea0084ee8d0e8269b0e08b6ee" title="services::ConnectionMbed\lTls::TrySend" alt="" coords="196,136,371,177"/>
+<area shape="rect" id="node3" href="$de/d8b/classservices_1_1_connection_bsd.html#ae7929b686931d7def6a1d13821958d0a" title="services::ConnectionBsd\l::TrySend" alt="" coords="423,5,589,47"/>
+<area shape="rect" id="node5" href="$db/d8b/classservices_1_1_connection_win.html#aad7f5b3d01110daf5b57e1c6ad734f40" title="services::ConnectionWin\l::TrySend" alt="" coords="423,71,589,112"/>
+<area shape="rect" id="node7" href="$de/dcb/classservices_1_1_connection_mbed_tls.html#a5a3ba98e94df8c89d1f597e3d8eb3d89" title="services::ConnectionMbed\lTls::SendStreamAvailable" alt="" coords="419,136,593,177"/>
+</map>

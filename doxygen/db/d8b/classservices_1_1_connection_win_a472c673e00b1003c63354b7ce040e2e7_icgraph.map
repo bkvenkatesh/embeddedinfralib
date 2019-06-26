@@ -1,0 +1,5 @@
+<map id="services::ConnectionWin::TryAllocateSendStream" name="services::ConnectionWin::TryAllocateSendStream">
+<area shape="rect" id="node2" href="$db/d8b/classservices_1_1_connection_win.html#aba79c575abc9804543c7eb839ebd4493" title="services::ConnectionWin\l::RequestSendStream" alt="" coords="220,5,385,47"/>
+<area shape="rect" id="node3" href="$db/d8b/classservices_1_1_connection_win.html#aa7aa4096aa674d9d564d99c365e865f8" title="services::ConnectionWin\l::Send" alt="" coords="220,71,385,112"/>
+<area shape="rect" id="node4" href="$db/d8b/classservices_1_1_connection_win.html#aad7f5b3d01110daf5b57e1c6ad734f40" title="services::ConnectionWin\l::TrySend" alt="" coords="433,71,599,112"/>
+</map>

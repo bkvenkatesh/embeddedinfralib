@@ -1,0 +1,15 @@
+<map id="services::MqttClientImpl::StateBase" name="services::MqttClientImpl::StateBase">
+<area shape="rect" id="node19" href="$d5/d39/classinfra_1_1_static_storage_for_polymorphic_objects.html" title="infra::StaticStorageForPolymorphic\lObjects\&lt; services::MqttClientImpl\l::StateBase, T... \&gt;" alt="" coords="580,239,804,295"/>
+<area shape="rect" id="node2" href="$d6/d9d/classservices_1_1_mqtt_client_impl.html" title="services::MqttClientImpl" alt="" coords="1457,163,1617,189"/>
+<area shape="rect" id="node3" href="$dc/de5/classservices_1_1_connection_observer.html" title="services::ConnectionObserver" alt="" coords="828,24,1021,51"/>
+<area shape="rect" id="node4" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;" alt="" coords="401,5,556,61"/>
+<area shape="rect" id="node8" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; MqttClientObserver,\l ObserverSubjectType \&gt;" alt="" coords="209,71,371,127"/>
+<area shape="rect" id="node16" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; MqttClientObserver,\l MqttClient \&gt;" alt="" coords="216,427,364,483"/>
+<area shape="rect" id="node6" href="$dd/d6c/classservices_1_1_mqtt_client.html" title="services::MqttClient" alt="" coords="1113,85,1249,112"/>
+<area shape="rect" id="node7" href="$d1/db2/classinfra_1_1_subject.html" title="infra::Subject\&lt; MqttClient\lObserver \&gt;" alt="" coords="607,71,777,113"/>
+<area shape="rect" id="node10" href="$d1/d17/classinfra_1_1_shared_ptr.html" title="infra::SharedPtr\&lt; services\l::MqttClientObserver \&gt;" alt="" coords="1096,349,1267,390"/>
+<area shape="rect" id="node11" href="$dd/d9a/classinfra_1_1detail_1_1_shared_ptr_control.html" title="infra::detail::SharedPtr\lControl" alt="" coords="617,330,767,371"/>
+<area shape="rect" id="node14" href="$da/dcd/classinfra_1_1_shared_object_deleter.html" title="infra::SharedObjectDeleter" alt="" coords="203,325,377,352"/>
+<area shape="rect" id="node15" href="$db/de2/classservices_1_1_mqtt_client_observer.html" title="services::MqttClientObserver" alt="" coords="599,419,785,445"/>
+<area shape="rect" id="node17" href="$de/dcd/classinfra_1_1_polymorphic_variant.html" title="infra::PolymorphicVariant\l\&lt; services::MqttClientImpl\l::StateBase, services::MqttClientImpl\l::StateConnecting, services::MqttClientImpl\l::StateConnected \&gt;" alt="" coords="1045,239,1317,324"/>
+</map>

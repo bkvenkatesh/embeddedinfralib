@@ -1,0 +1,6 @@
+<map id="infra::StringInputStream" name="infra::StringInputStream">
+<area shape="rect" id="node2" href="$d5/dec/classinfra_1_1_text_input_stream_1_1_with_reader.html" title="infra::TextInputStream\l::WithReader\&lt; StringInputStream\lReader \&gt;" alt="" coords="500,39,715,95"/>
+<area shape="rect" id="node3" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; StringInputStreamReader,\l WithReader\&lt; StringInputStreamReader \&gt; \&gt;" alt="" coords="177,5,452,61"/>
+<area shape="rect" id="node4" href="$d7/d93/classinfra_1_1_text_input_stream.html" title="infra::TextInputStream" alt="" coords="240,85,389,112"/>
+<area shape="rect" id="node5" href="$db/dda/classinfra_1_1_input_stream.html" title="infra::InputStream" alt="" coords="5,85,129,112"/>
+</map>

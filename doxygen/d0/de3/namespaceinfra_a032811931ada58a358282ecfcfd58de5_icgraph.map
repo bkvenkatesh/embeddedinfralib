@@ -1,0 +1,14 @@
+<map id="infra::swap" name="infra::swap">
+<area shape="rect" id="node2" href="$d4/dc9/classservices_1_1_configuration_store_base.html#a98f71c00b571f3c5f9d58bb8192f85fa" title="services::ConfigurationStore\lBase::BlobWriteDone" alt="" coords="138,13,321,54"/>
+<area shape="rect" id="node5" href="$d4/dc9/classservices_1_1_configuration_store_base.html#a684451c2d4b570d28b31d0e91a8717b1" title="services::ConfigurationStore\lBase::OnBlobLoaded" alt="" coords="138,78,321,119"/>
+<area shape="rect" id="node6" href="$d4/dc9/classservices_1_1_configuration_store_base.html#a055291782b499dc8c5da8feea63992d2" title="services::ConfigurationStore\lBase::Recover" alt="" coords="369,126,552,167"/>
+<area shape="rect" id="node10" href="$de/d08/classinfra_1_1_intrusive_priority_queue.html#a06f5bedbe810513d662d3414fec1510a" title="infra::IntrusivePriority\lQueue::swap" alt="" coords="158,195,301,237"/>
+<area shape="rect" id="node11" href="$df/d12/classinfra_1_1_bounded_priority_queue.html#a5b7509863252f510e56e7c54ba7c7a23" title="infra::BoundedPriorityQueue\l::swap" alt="" coords="137,261,321,302"/>
+<area shape="rect" id="node12" href="$d4/d6c/classinfra_1_1_bounded_forward_list.html#af8f68ff8a1481159bc3cd2062fa41780" title="infra::BoundedForwardList\l::swap" alt="" coords="143,326,315,367"/>
+<area shape="rect" id="node3" href="$d4/dc9/classservices_1_1_configuration_store_base.html#a3f4f36d27ca7dba5f93547df908f98a7" title="services::ConfigurationStore\lBase::Write" alt="" coords="369,13,552,54"/>
+<area shape="rect" id="node4" href="$de/def/classservices_1_1_factory_default_configuration_store_base.html#a7170ac864f4cb89538833110f61e1f4a" title="services::FactoryDefault\lConfigurationStoreBase\l::Write" alt="" coords="611,5,772,61"/>
+<area shape="rect" id="node7" href="$de/def/classservices_1_1_factory_default_configuration_store_base.html#a18e689846f9181d7346dcdec30c6a496" title="services::FactoryDefault\lConfigurationStoreBase\l::Recover" alt="" coords="611,107,772,163"/>
+<area shape="rect" id="node9" href="$d5/d95/classservices_1_1_configuration_store_impl_1_1_with_blobs.html#aa49a2c8a90213ca3df37fb9f875cf43a" title="services::ConfigurationStore\lImpl::WithBlobs::WithBlobs" alt="" coords="600,187,783,229"/>
+<area shape="rect" id="node8" href="$d8/dd1/classservices_1_1_factory_default_configuration_store_1_1_with_blobs.html#a3520533efb23c697e00a7ac30419c5cb" title="services::FactoryDefault\lConfigurationStore::WithBlobs\l::WithBlobs" alt="" coords="831,107,1027,163"/>
+<area shape="rect" id="node13" href="$d0/de3/namespaceinfra.html#a415b92cf1a1fcd38e77bddab40b46a73" title="infra::swap" alt="" coords="419,333,503,360"/>
+</map>

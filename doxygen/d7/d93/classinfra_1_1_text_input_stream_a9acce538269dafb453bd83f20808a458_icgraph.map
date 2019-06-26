@@ -1,0 +1,8 @@
+<map id="infra::TextInputStream::SkipSpaces" name="infra::TextInputStream::SkipSpaces">
+<area shape="rect" id="node2" href="$d7/d93/classinfra_1_1_text_input_stream.html#a37f8a18ba4c7477ffa9d26b83aa0849d" title="infra::TextInputStream\l::ReadAsDecimal" alt="" coords="203,39,352,80"/>
+<area shape="rect" id="node6" href="$d7/d93/classinfra_1_1_text_input_stream.html#ac76645a4fee308debc716ae6e5a2961a" title="infra::TextInputStream\l::ReadAsHex" alt="" coords="203,104,352,145"/>
+<area shape="rect" id="node3" href="$d7/d93/classinfra_1_1_text_input_stream.html#ac3a7e4a3e77144f3b309730fcd91e570" title="infra::TextInputStream\l::Read" alt="" coords="400,71,549,112"/>
+<area shape="rect" id="node5" href="$d7/d93/classinfra_1_1_text_input_stream.html#a73e0b4b5d322edd1bcd38335442f5f35" title="infra::TextInputStream\l::ReadAsDecimal" alt="" coords="400,5,549,47"/>
+<area shape="rect" id="node4" href="$d7/d93/classinfra_1_1_text_input_stream.html#a8b90f80f1548f6cc603e0807e68b9a78" title="infra::TextInputStream\l::operator\&gt;\&gt;" alt="" coords="597,71,747,112"/>
+<area shape="rect" id="node7" href="$d7/d93/classinfra_1_1_text_input_stream.html#ac6378625d4c4df73b79a7ec22f09994b" title="infra::TextInputStream\l::ReadAsHex" alt="" coords="400,136,549,177"/>
+</map>

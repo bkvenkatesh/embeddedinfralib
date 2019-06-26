@@ -1,0 +1,5 @@
+<map id="services::SntpClient" name="services::SntpClient">
+<area shape="rect" id="node2" href="$d3/d18/classservices_1_1_datagram_exchange_observer.html" title="services::DatagramExchange\lObserver" alt="" coords="11,109,202,151"/>
+<area shape="rect" id="node3" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; DatagramExchangeObserver,\l DatagramExchange \&gt;" alt="" coords="5,5,208,61"/>
+<area shape="rect" id="node4" href="$d1/db2/classinfra_1_1_subject.html" title="infra::Subject\&lt; SntpResult\lObserver \&gt;" alt="" coords="226,109,401,151"/>
+</map>

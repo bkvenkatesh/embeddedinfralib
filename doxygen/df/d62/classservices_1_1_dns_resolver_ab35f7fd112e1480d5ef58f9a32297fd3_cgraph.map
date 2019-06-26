@@ -1,0 +1,4 @@
+<map id="services::DnsResolver::Lookup" name="services::DnsResolver::Lookup">
+<area shape="rect" id="node2" href="$df/d62/classservices_1_1_dns_resolver.html#a6ec127250fccdceecaf17aca6319b9c1" title="services::DnsResolver\l::TryResolveNext" alt="" coords="203,5,352,47"/>
+<area shape="rect" id="node3" href="$df/d62/classservices_1_1_dns_resolver.html#a64f257b248f4d277fb838d9da105d6e6" title="services::DnsResolver\l::Resolve" alt="" coords="400,5,549,47"/>
+</map>

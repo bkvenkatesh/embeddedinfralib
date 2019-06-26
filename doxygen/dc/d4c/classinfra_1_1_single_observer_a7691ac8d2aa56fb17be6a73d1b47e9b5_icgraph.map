@@ -1,0 +1,8 @@
+<map id="infra::SingleObserver::Attach" name="infra::SingleObserver::Attach">
+<area shape="rect" id="node2" href="$de/dcb/classservices_1_1_connection_mbed_tls.html#ae0e32632e23749af72bc0e32730091b9" title="services::ConnectionMbed\lTls::CreatedObserver" alt="" coords="209,5,383,47"/>
+<area shape="rect" id="node3" href="$d1/d3f/classservices_1_1_datagram_bsd.html#ab7a4b207514941e4eb588be4f8f0ed7f" title="services::DatagramBsd\l::DatagramBsd" alt="" coords="218,71,374,112"/>
+<area shape="rect" id="node4" href="$d2/d7b/classservices_1_1_datagram_win.html#a62a0f8b7fde4709242ab5693e5386e3b" title="services::DatagramWin\l::DatagramWin" alt="" coords="218,136,374,177"/>
+<area shape="rect" id="node5" href="$de/d8b/classservices_1_1_connection_bsd.html#a51b230e2f01488c1aa9f47d70b5e6025" title="services::ConnectionBsd\l::SetObserver" alt="" coords="213,201,379,243"/>
+<area shape="rect" id="node6" href="$db/d8b/classservices_1_1_connection_win.html#ab2282afaa3527f535a5d05f91b64def0" title="services::ConnectionWin\l::SetObserver" alt="" coords="213,267,379,308"/>
+<area shape="rect" id="node7" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a0e4b81bfdee2cc06ec066c942b80d67a" title="services::HttpServerConnection\lObserver::TakeOverConnection" alt="" coords="195,332,397,373"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="services::HttpClientJson::BodyAvailable" name="services::HttpClientJson::BodyAvailable">
+<area shape="rect" id="node2" href="$d0/de3/namespaceinfra.html#ad3ab5a04b30f8c78b822d60f8d142b71" title="infra::ByteRangeAsString" alt="" coords="215,78,383,105"/>
+<area shape="rect" id="node5" href="$db/dda/classinfra_1_1_input_stream.html#aa253f0d673d3e4b6189993c7af8ff389" title="infra::InputStream\l::ContiguousRange" alt="" coords="233,136,365,177"/>
+<area shape="rect" id="node7" href="$db/dda/classinfra_1_1_input_stream.html#abffe6dcc91399c191c6fb7dbd610274f" title="infra::InputStream\l::Empty" alt="" coords="237,201,361,243"/>
+<area shape="rect" id="node3" href="$d0/d6d/classinfra_1_1_memory_range.html#a7a83ceae17802af5ecebfb9557912ece" title="infra::MemoryRange\l::begin" alt="" coords="449,5,587,47"/>
+<area shape="rect" id="node4" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="449,71,587,112"/>
+<area shape="rect" id="node6" href="$d2/d90/classinfra_1_1_stream_reader.html#a7651d2a6bbbdcbbc5f71420b277aa956" title="infra::StreamReader\l::ExtractContiguousRange" alt="" coords="431,136,605,177"/>
+<area shape="rect" id="node8" href="$d2/d90/classinfra_1_1_stream_reader.html#a072ccaa780dbf7599fa984a0d1ff7413" title="infra::StreamReader\l::Empty" alt="" coords="449,201,587,243"/>
+</map>

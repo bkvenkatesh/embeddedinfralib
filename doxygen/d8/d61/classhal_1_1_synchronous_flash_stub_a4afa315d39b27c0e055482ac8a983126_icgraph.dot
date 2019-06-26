@@ -1,0 +1,10 @@
+digraph "hal::SynchronousFlashStub::ReadBufferPart"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node48 [label="hal::SynchronousFlashStub\l::ReadBufferPart",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node48 -> Node49 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node49 [label="hal::SynchronousFlashStub\l::ReadBuffer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d61/classhal_1_1_synchronous_flash_stub.html#ae56e59d30d1b7ba80aa0da5e82c412f9"];
+}

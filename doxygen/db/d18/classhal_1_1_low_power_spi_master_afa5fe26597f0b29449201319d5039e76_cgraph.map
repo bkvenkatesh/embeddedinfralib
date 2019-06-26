@@ -1,0 +1,5 @@
+<map id="hal::LowPowerSpiMaster::SendAndReceive" name="hal::LowPowerSpiMaster::SendAndReceive">
+<area shape="rect" id="node2" href="$d3/d8e/classinfra_1_1_main_clock_reference.html#a0cb5e21e70cf759e6cffa410758172e6" title="infra::MainClockReference\l::Refere" alt="" coords="238,5,411,47"/>
+<area shape="rect" id="node3" href="$d3/d8e/classinfra_1_1_main_clock_reference.html#ae0b07b50cc639678792fcf12090d4223" title="infra::MainClockReference\l::Release" alt="" coords="238,71,411,112"/>
+<area shape="rect" id="node4" href="$dd/da3/classhal_1_1_spi_master.html#a99395ac01971c6ea87f58016bc8032d1" title="hal::SpiMaster::SendAndReceive" alt="" coords="219,137,431,163"/>
+</map>

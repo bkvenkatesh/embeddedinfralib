@@ -1,0 +1,7 @@
+<map id="hal::InputPin::Get" name="hal::InputPin::Get">
+<area shape="rect" id="node2" href="$d1/dfe/classservices_1_1_debounced_button.html#a1256f1c824fb2ad839ca74f87622feab" title="services::DebouncedButton\l::ButtonChanged" alt="" coords="176,5,356,47"/>
+<area shape="rect" id="node4" href="$d0/d08/classservices_1_1_repeating_button.html#af9db5b4934e4610beb5e5071de6c58b7" title="services::RepeatingButton\l::ButtonChanged" alt="" coords="179,71,353,112"/>
+<area shape="rect" id="node6" href="$d0/d08/classservices_1_1_repeating_button.html#af638e60aa4aeb7793404af3ab6534034" title="services::RepeatingButton\l::DebounceEnd" alt="" coords="179,136,353,177"/>
+<area shape="rect" id="node3" href="$d1/dfe/classservices_1_1_debounced_button.html#aa4d2ea4a1751a1d33ddb65e61ae719b1" title="services::DebouncedButton\l::DebouncedButton" alt="" coords="404,5,584,47"/>
+<area shape="rect" id="node5" href="$d0/d08/classservices_1_1_repeating_button.html#aa38e30277c5df615ae1a86617c4127c0" title="services::RepeatingButton\l::RepeatingButton" alt="" coords="407,71,581,112"/>
+</map>

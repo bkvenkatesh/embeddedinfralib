@@ -1,0 +1,4 @@
+<map id="hal::GpioPin::IsInput" name="hal::GpioPin::IsInput">
+<area shape="rect" id="node2" href="$d5/d1f/classservices_1_1_gpio_pin_inverted.html#a479a05ae02ddd1ceb4fee7f16d9608b9" title="services::GpioPinInverted\l::IsInput" alt="" coords="192,5,359,47"/>
+<area shape="rect" id="node3" href="$da/df4/classhal_1_1_tri_state_pin.html#a25c8cd969a84c52e053d75f6f5a35709" title="hal::TriStatePin::IsInput" alt="" coords="197,71,354,98"/>
+</map>

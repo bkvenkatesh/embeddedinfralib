@@ -1,0 +1,5 @@
+<map id="hal::QuadSpi::PollStatus" name="hal::QuadSpi::PollStatus">
+<area shape="rect" id="node2" href="$d2/d0c/classservices_1_1_flash_quad_spi_single_speed.html#a3abe36cc7778c06c7084b562d7f97da4" title="services::FlashQuadSpiSingle\lSpeed::HoldWhileWriteInProgress" alt="" coords="219,5,437,47"/>
+<area shape="rect" id="node3" href="$d8/dbe/classservices_1_1_flash_quad_spi_micron_n25q.html#ae6f4f3ff9ef8f73f3c0cdb75e2f1e469" title="services::FlashQuadSpiMicron\lN25q::HoldWhileWriteInProgress" alt="" coords="222,71,434,112"/>
+<area shape="rect" id="node4" href="$d1/d88/classservices_1_1_flash_quad_spi_cypress_fll.html#aea2408536233834b34e6d32a35e3697c" title="services::FlashQuadSpiCypress\lFll::HoldWhileWriteInProgress" alt="" coords="225,136,431,177"/>
+</map>

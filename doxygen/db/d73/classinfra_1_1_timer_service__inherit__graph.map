@@ -1,0 +1,8 @@
+<map id="infra::TimerService" name="infra::TimerService">
+<area shape="rect" id="node3" href="$d7/d8f/classhal_1_1_timer_service_bsd.html" title="hal::TimerServiceBsd" alt="" coords="433,5,577,32"/>
+<area shape="rect" id="node4" href="$d1/d79/classhal_1_1_timer_service_win.html" title="hal::TimerServiceWin" alt="" coords="433,56,577,83"/>
+<area shape="rect" id="node5" href="$db/d9d/classinfra_1_1_derived_timer_service.html" title="infra::DerivedTimerService" alt="" coords="420,107,591,133"/>
+<area shape="rect" id="node6" href="$da/dc4/classinfra_1_1_scalable_derived_timer_service.html" title="infra::ScalableDerivedTimer\lService" alt="" coords="416,158,595,199"/>
+<area shape="rect" id="node7" href="$df/d2e/classinfra_1_1_tick_on_interrupt_timer_service.html" title="infra::TickOnInterruptTimer\lService" alt="" coords="418,223,593,265"/>
+<area shape="rect" id="node2" href="$d7/d4a/classinfra_1_1detail_1_1_intrusive_forward_list_node.html" title="infra::IntrusiveForwardList\l\&lt; TimerService \&gt;::NodeType" alt="" coords="5,99,192,141"/>
+</map>

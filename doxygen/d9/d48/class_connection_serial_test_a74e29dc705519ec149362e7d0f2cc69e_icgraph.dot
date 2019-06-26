@@ -1,0 +1,10 @@
+digraph "ConnectionSerialTest::ReconstructConnection"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node82 [label="ConnectionSerialTest\l::ReconstructConnection",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node82 -> Node83 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node83 [label="ConnectionSerialTest\l::ReconstructConnectionWith\lReceiveBufferSize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d48/class_connection_serial_test.html#a2efb268d3a416be2e4d179ae2f77ee63"];
+}

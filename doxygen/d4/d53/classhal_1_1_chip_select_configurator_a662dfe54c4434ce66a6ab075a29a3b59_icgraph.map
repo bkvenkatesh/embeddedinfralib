@@ -1,0 +1,4 @@
+<map id="hal::ChipSelectConfigurator::StartSession" name="hal::ChipSelectConfigurator::StartSession">
+<area shape="rect" id="node2" href="$d4/d41/classservices_1_1_spi_master_with_chip_select.html#afdf0fc3b993ac6e6887c66235be46da6" title="services::SpiMasterWithChip\lSelect::StartSession" alt="" coords="232,5,421,47"/>
+<area shape="rect" id="node3" href="$d9/d2d/classservices_1_1_spi_multiple_access.html#aa12d8e656df71212ac941e134244d024" title="services::SpiMultipleAccess\l::StartSession" alt="" coords="234,71,419,112"/>
+</map>

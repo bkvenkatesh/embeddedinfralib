@@ -1,0 +1,16 @@
+digraph "hal::SynchronousFlash::StartOfNextSector"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node97 [label="hal::SynchronousFlash\l::StartOfNextSector",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node97 -> Node98 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node98 [label="hal::SynchronousFlashStub\l::ReadBufferPart",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d61/classhal_1_1_synchronous_flash_stub.html#a4afa315d39b27c0e055482ac8a983126"];
+  Node98 -> Node99 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node99 [label="hal::SynchronousFlashStub\l::ReadBuffer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d61/classhal_1_1_synchronous_flash_stub.html#ae56e59d30d1b7ba80aa0da5e82c412f9"];
+  Node97 -> Node100 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node100 [label="hal::SynchronousFlashStub\l::WriteBufferImpl",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d61/classhal_1_1_synchronous_flash_stub.html#a04502ff6e6fe05ae080fe36f679ecf51"];
+  Node100 -> Node101 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node101 [label="hal::SynchronousFlashStub\l::WriteBuffer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d61/classhal_1_1_synchronous_flash_stub.html#ab75861ff4e6f8ec3ea3e1ad69493ecb4"];
+}

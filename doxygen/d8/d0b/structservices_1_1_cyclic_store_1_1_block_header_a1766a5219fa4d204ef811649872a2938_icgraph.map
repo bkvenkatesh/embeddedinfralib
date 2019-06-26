@@ -1,0 +1,6 @@
+<map id="services::CyclicStore::BlockHeader::BlockLength" name="services::CyclicStore::BlockHeader::BlockLength">
+<area shape="rect" id="node2" href="$d8/d2e/classservices_1_1_cyclic_store_1_1_iterator.html#a381735d4db303d7075fb985d38620026" title="services::CyclicStore\l::Iterator::Read" alt="" coords="239,5,383,47"/>
+<area shape="rect" id="node3" href="$d4/d36/classservices_1_1_cyclic_store.html#aad16c79a455a56877863b2828a03a22b" title="services::CyclicStore\l::RecoverEndAddress" alt="" coords="237,71,384,112"/>
+<area shape="rect" id="node4" href="$d4/d36/classservices_1_1_cyclic_store.html#a5b397293a572ce5d6d3144f0d284770f" title="services::CyclicStore\l::Recover" alt="" coords="432,71,576,112"/>
+<area shape="rect" id="node5" href="$d4/d36/classservices_1_1_cyclic_store.html#a6a29c761506bd86c65acb03b1a717e9a" title="services::CyclicStore\l::CyclicStore" alt="" coords="624,71,768,112"/>
+</map>

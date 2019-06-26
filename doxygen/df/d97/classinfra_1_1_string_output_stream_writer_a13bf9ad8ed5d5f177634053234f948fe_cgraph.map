@@ -1,0 +1,7 @@
+<map id="infra::StringOutputStreamWriter::Reserve" name="infra::StringOutputStreamWriter::Reserve">
+<area shape="rect" id="node2" href="$d2/dc5/namespaceinfra_1_1detail.html#aabbc48b4c4a9aa3edf84df033c0dd25d" title="infra::detail::end" alt="" coords="251,5,365,32"/>
+<area shape="rect" id="node3" href="$d0/de3/namespaceinfra.html#a74203fdf2e029d2667c7e4925092cc9a" title="infra::ReinterpretCastByte\lRange" alt="" coords="223,57,393,98"/>
+<area shape="rect" id="node4" href="$d5/d4a/classinfra_1_1_stream_error_policy.html#a708126a1c40b64fd503bed2d8b8f9700" title="infra::StreamErrorPolicy\l::ReportResult" alt="" coords="228,122,388,163"/>
+<area shape="rect" id="node5" href="$d0/d6d/classinfra_1_1_memory_range.html#a322f6976f2774c6ba7494b9e27f07624" title="infra::MemoryRange\l::shrink_from_back_to" alt="" coords="233,187,383,229"/>
+<area shape="rect" id="node6" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="239,253,377,294"/>
+</map>

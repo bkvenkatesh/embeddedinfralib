@@ -1,0 +1,4 @@
+<map id="infra::SharedObjectDeleter::Destruct" name="infra::SharedObjectDeleter::Destruct">
+<area shape="rect" id="node2" href="$dd/d9a/classinfra_1_1detail_1_1_shared_ptr_control.html#a605c1f8ddda5e5c9135a409ff098c7f1" title="infra::detail::SharedPtr\lControl::DecreaseSharedCount" alt="" coords="228,5,429,47"/>
+<area shape="rect" id="node3" href="$d1/d17/classinfra_1_1_shared_ptr.html#afa914a68ea25ce2fd55032bc4ab4e0aa" title="infra::SharedPtr\&lt; services\l::ConnectionObserver \&gt;::Reset" alt="" coords="477,5,677,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="application::ImageSignerRsa::CalculateSignature" name="application::ImageSignerRsa::CalculateSignature">
+<area shape="rect" id="node2" href="$d0/d6d/classinfra_1_1_memory_range.html#a7a83ceae17802af5ecebfb9557912ece" title="infra::MemoryRange\l::begin" alt="" coords="230,5,369,47"/>
+<area shape="rect" id="node3" href="$dc/d3e/classapplication_1_1_image_signer_rsa.html#a17c706a994c94813a0cc0e77b0db6de9" title="application::ImageSigner\lRsa::MyRandom" alt="" coords="217,71,381,112"/>
+<area shape="rect" id="node5" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="230,136,369,177"/>
+<area shape="rect" id="node4" href="$d8/de9/classapplication_1_1_random_number_generator.html#a226fdf347dd939a50def6dec3ea8a4ca" title="application::RandomNumber\lGenerator::Generate" alt="" coords="429,71,615,112"/>
+</map>

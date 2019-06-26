@@ -1,0 +1,5 @@
+<map id="services::ConnectionMbedTls::CreatedObserver" name="services::ConnectionMbedTls::CreatedObserver">
+<area shape="rect" id="node2" href="$dc/d4c/classinfra_1_1_single_observer.html#a7691ac8d2aa56fb17be6a73d1b47e9b5" title="infra::SingleObserver\l::Attach" alt="" coords="289,5,430,47"/>
+<area shape="rect" id="node3" href="$d0/dde/classservices_1_1_connection.html#a8b63d911a62b14ed446abdbe2c1d4be5" title="services::Connection\l::SetOwnership" alt="" coords="288,71,431,112"/>
+<area shape="rect" id="node4" href="$dd/df1/classinfra_1_1_enable_shared_from_this.html#af905d6b4aef4f252a28b1f4edebc99b3" title="infra::EnableSharedFromThis\l\&lt; ConnectionMbedTls \&gt;::SharedFromThis" alt="" coords="228,136,491,177"/>
+</map>

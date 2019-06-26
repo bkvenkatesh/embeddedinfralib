@@ -1,0 +1,29 @@
+<map id="infra::OutputStream" name="infra::OutputStream">
+<area shape="rect" id="node2" href="$d6/d7d/classinfra_1_1_data_output_stream.html" title="infra::DataOutputStream" alt="" coords="188,225,351,251"/>
+<area shape="rect" id="node13" href="$de/dad/classinfra_1_1_text_output_stream.html" title="infra::TextOutputStream" alt="" coords="189,678,349,705"/>
+<area shape="rect" id="node3" href="$da/d90/classinfra_1_1_data_output_stream_1_1_with_error_policy.html" title="infra::DataOutputStream\l::WithErrorPolicy" alt="" coords="435,5,597,47"/>
+<area shape="rect" id="node4" href="$dd/dd9/classinfra_1_1_data_output_stream_1_1_with_writer.html" title="infra::DataOutputStream\l::WithWriter\&lt; TheWriter \&gt;" alt="" coords="430,71,602,112"/>
+<area shape="rect" id="node5" href="$dd/dd9/classinfra_1_1_data_output_stream_1_1_with_writer.html" title="infra::DataOutputStream\l::WithWriter\&lt; ByteOutputStream\lWriter \&gt;" alt="" coords="410,137,622,193"/>
+<area shape="rect" id="node7" href="$dd/dd9/classinfra_1_1_data_output_stream_1_1_with_writer.html" title="infra::DataOutputStream\l::WithWriter\&lt; LimitedStreamWriter \&gt;" alt="" coords="399,217,633,259"/>
+<area shape="rect" id="node9" href="$dd/dd9/classinfra_1_1_data_output_stream_1_1_with_writer.html" title="infra::DataOutputStream\l::WithWriter\&lt; OverwriteStream\lWriter \&gt;" alt="" coords="417,283,615,339"/>
+<area shape="rect" id="node11" href="$dd/dd9/classinfra_1_1_data_output_stream_1_1_with_writer.html" title="infra::DataOutputStream\l::WithWriter\&lt; SavedMarkerStream\lWriter \&gt;" alt="" coords="405,363,627,419"/>
+<area shape="rect" id="node6" href="$df/d3a/classinfra_1_1_byte_output_stream.html" title="infra::ByteOutputStream" alt="" coords="699,151,862,178"/>
+<area shape="rect" id="node8" href="$d9/daf/classinfra_1_1_limited_data_output_stream.html" title="infra::LimitedDataOutput\lStream" alt="" coords="699,217,862,259"/>
+<area shape="rect" id="node10" href="$d1/df1/classinfra_1_1_overwrite_data_stream.html" title="infra::OverwriteDataStream" alt="" coords="693,298,869,325"/>
+<area shape="rect" id="node12" href="$d5/db8/classinfra_1_1_saved_marker_data_stream.html" title="infra::SavedMarkerDataStream" alt="" coords="681,378,880,405"/>
+<area shape="rect" id="node14" href="$df/d64/classinfra_1_1_json_string_stream.html" title="infra::JsonStringStream" alt="" coords="437,443,595,470"/>
+<area shape="rect" id="node15" href="$d2/dc2/classinfra_1_1_text_output_stream_1_1_with_error_policy.html" title="infra::TextOutputStream\l::WithErrorPolicy" alt="" coords="436,495,596,536"/>
+<area shape="rect" id="node16" href="$da/d99/classinfra_1_1_text_output_stream_1_1_with_writer.html" title="infra::TextOutputStream\l::WithWriter\&lt; TheWriter \&gt;" alt="" coords="430,560,602,601"/>
+<area shape="rect" id="node17" href="$da/d99/classinfra_1_1_text_output_stream_1_1_with_writer.html" title="infra::TextOutputStream\l::WithWriter\&lt; IoOutputStream\lWriter \&gt;" alt="" coords="419,626,613,682"/>
+<area shape="rect" id="node19" href="$da/d99/classinfra_1_1_text_output_stream_1_1_with_writer.html" title="infra::TextOutputStream\l::WithWriter\&lt; LimitedStreamWriter \&gt;" alt="" coords="399,707,633,748"/>
+<area shape="rect" id="node21" href="$da/d99/classinfra_1_1_text_output_stream_1_1_with_writer.html" title="infra::TextOutputStream\l::WithWriter\&lt; OverwriteStream\lWriter \&gt;" alt="" coords="417,773,615,829"/>
+<area shape="rect" id="node23" href="$da/d99/classinfra_1_1_text_output_stream_1_1_with_writer.html" title="infra::TextOutputStream\l::WithWriter\&lt; SavedMarkerStream\lWriter \&gt;" alt="" coords="405,853,627,909"/>
+<area shape="rect" id="node25" href="$da/d99/classinfra_1_1_text_output_stream_1_1_with_writer.html" title="infra::TextOutputStream\l::WithWriter\&lt; StdStringOutput\lStreamWriter \&gt;" alt="" coords="417,933,615,989"/>
+<area shape="rect" id="node27" href="$da/d99/classinfra_1_1_text_output_stream_1_1_with_writer.html" title="infra::TextOutputStream\l::WithWriter\&lt; StringOutputStream\lWriter \&gt;" alt="" coords="407,1013,625,1069"/>
+<area shape="rect" id="node18" href="$dc/d1e/classinfra_1_1_io_output_stream.html" title="infra::IoOutputStream" alt="" coords="708,641,853,667"/>
+<area shape="rect" id="node20" href="$d7/d1d/classinfra_1_1_limited_text_output_stream.html" title="infra::LimitedTextOutput\lStream" alt="" coords="701,707,861,748"/>
+<area shape="rect" id="node22" href="$d4/d59/classinfra_1_1_overwrite_text_stream.html" title="infra::OverwriteTextStream" alt="" coords="693,787,868,814"/>
+<area shape="rect" id="node24" href="$dc/dc2/classinfra_1_1_saved_marker_text_stream.html" title="infra::SavedMarkerTextStream" alt="" coords="683,867,879,894"/>
+<area shape="rect" id="node26" href="$d8/d6a/classinfra_1_1_std_string_output_stream.html" title="infra::StdStringOutputStream" alt="" coords="686,947,875,974"/>
+<area shape="rect" id="node28" href="$d7/d2a/classinfra_1_1_string_output_stream.html" title="infra::StringOutputStream" alt="" coords="696,1027,865,1054"/>
+</map>

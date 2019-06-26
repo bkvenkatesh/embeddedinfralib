@@ -1,0 +1,4 @@
+<map id="application::RandomNumberGenerator" name="application::RandomNumberGenerator">
+<area shape="rect" id="node2" href="$d1/d80/classapplication_1_1_fixed_random_number_generator.html" title="application::FixedRandom\lNumberGenerator" alt="" coords="5,95,177,136"/>
+<area shape="rect" id="node3" href="$db/db5/classapplication_1_1_secure_random_number_generator.html" title="application::SecureRandom\lNumberGenerator" alt="" coords="202,95,383,136"/>
+</map>

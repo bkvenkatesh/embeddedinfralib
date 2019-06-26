@@ -1,0 +1,6 @@
+<map id="infra::ProtoLengthDelimited::SkipEverything" name="infra::ProtoLengthDelimited::SkipEverything">
+<area shape="rect" id="node2" href="$db/dda/classinfra_1_1_input_stream.html#aa253f0d673d3e4b6189993c7af8ff389" title="infra::InputStream\l::ContiguousRange" alt="" coords="232,5,364,47"/>
+<area shape="rect" id="node4" href="$db/dda/classinfra_1_1_input_stream.html#abffe6dcc91399c191c6fb7dbd610274f" title="infra::InputStream\l::Empty" alt="" coords="236,71,360,112"/>
+<area shape="rect" id="node3" href="$d2/d90/classinfra_1_1_stream_reader.html#a7651d2a6bbbdcbbc5f71420b277aa956" title="infra::StreamReader\l::ExtractContiguousRange" alt="" coords="412,5,587,47"/>
+<area shape="rect" id="node5" href="$d2/d90/classinfra_1_1_stream_reader.html#a072ccaa780dbf7599fa984a0d1ff7413" title="infra::StreamReader\l::Empty" alt="" coords="431,71,568,112"/>
+</map>

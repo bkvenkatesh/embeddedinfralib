@@ -1,0 +1,7 @@
+<map id="infra::SystemStateParticipant::ReachedState" name="infra::SystemStateParticipant::ReachedState">
+<area shape="rect" id="node2" href="$d3/d0e/classinfra_1_1_interface_connector.html#aed1d9e952d3d0dfa68e59ee4e868b380" title="infra::InterfaceConnector\l\&lt; EventDispatcherWorker\l \&gt;::Instance" alt="" coords="255,5,426,61"/>
+<area shape="rect" id="node3" href="$df/d73/classinfra_1_1_system_state_manager.html#a113a3fb016683d199280ea150069372b" title="infra::SystemStateManager\l::ReachedState" alt="" coords="251,86,431,127"/>
+<area shape="rect" id="node6" href="$d7/d34/classinfra_1_1_event_dispatcher_worker.html#a5922b8fd5101b15f20b639fcd11fa272" title="infra::EventDispatcherWorker\l::Schedule" alt="" coords="245,151,436,193"/>
+<area shape="rect" id="node4" href="$df/d73/classinfra_1_1_system_state_manager.html#a83ad17b4a5a4751b82f1b26723a2a524" title="infra::SystemStateManager\l::GoToNextState" alt="" coords="484,86,664,127"/>
+<area shape="rect" id="node5" href="$df/d73/classinfra_1_1_system_state_manager.html#a913ae6f9d9655a40f7ab6697cc24b315" title="infra::SystemStateManager\l::InformAllParticipants" alt="" coords="712,86,892,127"/>
+</map>

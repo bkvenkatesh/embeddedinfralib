@@ -1,0 +1,5 @@
+<map id="services::FlashQuadSpiCypressFll::SwitchToSingleSpeed" name="services::FlashQuadSpiCypressFll::SwitchToSingleSpeed">
+<area shape="rect" id="node2" href="$d0/de3/namespaceinfra.html#a0ec8c0f8585063ab97f13228d4888974" title="infra::MakeOptional" alt="" coords="274,5,409,32"/>
+<area shape="rect" id="node3" href="$da/d1d/structhal_1_1_quad_spi_1_1_lines.html#a355cdd0f183ce81c385236c7d850df73" title="hal::QuadSpi::Lines\l::QuadSpeed" alt="" coords="273,57,409,98"/>
+<area shape="rect" id="node4" href="$dd/df2/classhal_1_1_quad_spi.html#a34a6210e60687a16a723e6dfef934968" title="hal::QuadSpi::SendData" alt="" coords="260,123,423,149"/>
+</map>

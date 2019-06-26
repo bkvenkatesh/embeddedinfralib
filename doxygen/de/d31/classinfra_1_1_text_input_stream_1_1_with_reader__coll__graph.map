@@ -1,0 +1,10 @@
+<map id="infra::TextInputStream::WithReader&lt; TheReader &gt;" name="infra::TextInputStream::WithReader&lt; TheReader &gt;">
+<area shape="rect" id="node2" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; TheReader, WithReader\&lt;\l TheReader \&gt; \&gt;" alt="" coords="743,5,923,61"/>
+<area shape="rect" id="node3" href="$d5/def/class_the_reader.html" title="TheReader" alt="" coords="520,20,604,47"/>
+<area shape="rect" id="node4" href="$d7/d93/classinfra_1_1_text_input_stream.html" title="infra::TextInputStream" alt="" coords="758,192,907,219"/>
+<area shape="rect" id="node5" href="$db/dda/classinfra_1_1_input_stream.html" title="infra::InputStream" alt="" coords="500,163,624,189"/>
+<area shape="rect" id="node6" href="$d2/d90/classinfra_1_1_stream_reader.html" title="infra::StreamReader" alt="" coords="233,165,370,192"/>
+<area shape="rect" id="node7" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="221,113,381,140"/>
+<area shape="rect" id="node10" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; std\l::size_t \&gt;" alt="" coords="496,214,628,255"/>
+<area shape="rect" id="node11" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; std::size_t \&gt;" alt="" coords="235,279,368,321"/>
+</map>

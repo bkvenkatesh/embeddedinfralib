@@ -1,0 +1,4 @@
+<map id="hal::SynchronousFlash::EraseAll" name="hal::SynchronousFlash::EraseAll">
+<area shape="rect" id="node2" href="$d5/dff/classhal_1_1_synchronous_flash.html#afea2762203cbf1fcdeff8ce3b7e2444c" title="hal::SynchronousFlash\l::EraseSectors" alt="" coords="208,5,363,47"/>
+<area shape="rect" id="node3" href="$d5/dff/classhal_1_1_synchronous_flash.html#a17edf309c541ed7381a7e3162fd083e4" title="hal::SynchronousFlash\l::NumberOfSectors" alt="" coords="208,71,363,112"/>
+</map>

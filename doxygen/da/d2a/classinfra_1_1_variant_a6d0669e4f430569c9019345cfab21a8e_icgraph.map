@@ -1,0 +1,26 @@
+<map id="infra::Variant::Is" name="infra::Variant::Is">
+<area shape="rect" id="node2" href="$d0/de3/namespaceinfra.html#a0bf0e1b13a5554bab59232357b442701" title="infra::CleanJsonContents" alt="" coords="170,5,337,32"/>
+<area shape="rect" id="node3" href="$d0/d67/classservices_1_1_event_dispatcher_with_network.html#aa91edfb6efa74d54d23cbe191690a764" title="services::EventDispatcher\lWithNetwork::Connect" alt="" coords="168,57,339,98"/>
+<area shape="rect" id="node4" href="$df/dd0/classinfra_1_1_json_iterator.html#a64881daeae1df6109b9de0a523ead550" title="infra::JsonIterator\l::ConvertValue" alt="" coords="695,453,817,494"/>
+<area shape="rect" id="node9" href="$d8/ddc/classinfra_1_1_json_array_iterator.html#a913ccca2cb5a578d9c07d88029416e7f" title="infra::JsonArrayIterator\l::operator++" alt="" coords="1133,206,1285,247"/>
+<area shape="rect" id="node10" href="$db/d91/namespaceservices.html#ab48dbf3328a1050d7c8aaef6b48ac26a" title="services::GetAddress" alt="" coords="180,199,327,225"/>
+<area shape="rect" id="node13" href="$db/d91/namespaceservices.html#a55ec46dd9b313a3d5422afaf69f2b227" title="services::GetPort" alt="" coords="192,300,315,327"/>
+<area shape="rect" id="node14" href="$db/d91/namespaceservices.html#a289f3a29e35cbe4bbc0cc050b1d3b0da" title="services::MakeUdpSocket" alt="" coords="167,351,340,377"/>
+<area shape="rect" id="node16" href="$d0/de3/namespaceinfra.html#ad15bf8d7fd45f774826eafae2f642a98" title="infra::operator\&lt;\&lt;" alt="" coords="195,401,312,428"/>
+<area shape="rect" id="node17" href="$dd/d2a/classinfra_1_1_json_object_iterator.html#a43784c9f6c3f8609cf40b186194c20dd" title="infra::JsonObjectIterator\l::ReadColon" alt="" coords="677,569,835,610"/>
+<area shape="rect" id="node18" href="$dd/d2a/classinfra_1_1_json_object_iterator.html#a8114edb6c07639605a498fe45113a304" title="infra::JsonObjectIterator\l::ReadCommaOrObjectEnd" alt="" coords="901,627,1081,669"/>
+<area shape="rect" id="node19" href="$dd/d2a/classinfra_1_1_json_object_iterator.html#a86f901eb30ca465718042bb7878871a2" title="infra::JsonObjectIterator\l::ReadKey" alt="" coords="677,686,835,727"/>
+<area shape="rect" id="node20" href="$dd/d2a/classinfra_1_1_json_object_iterator.html#ae5f0286d19e6fa058553908eac6ca3b7" title="infra::JsonObjectIterator\l::ReadKeyOrEnd" alt="" coords="912,745,1071,786"/>
+<area shape="rect" id="node21" href="$dd/d2a/classinfra_1_1_json_object_iterator.html#a25677264825842105405db691d20b7f8" title="infra::JsonObjectIterator\l::ReadObjectStart" alt="" coords="420,803,579,845"/>
+<area shape="rect" id="node22" href="$df/dd0/classinfra_1_1_json_iterator.html#ae3b34ea711511b26a00f08c17f53ecc1" title="infra::JsonIterator\l::SearchArrayEnd" alt="" coords="191,518,316,559"/>
+<area shape="rect" id="node24" href="$df/dd0/classinfra_1_1_json_iterator.html#a7fa7a63543c9f03f7010952d42a9cfef" title="infra::JsonIterator\l::SearchObjectEnd" alt="" coords="187,453,319,494"/>
+<area shape="rect" id="node5" href="$dd/d2a/classinfra_1_1_json_object_iterator.html#a44bd40e5f060140d1825eac9864bb371" title="infra::JsonObjectIterator\l::ReadValue" alt="" coords="912,482,1071,523"/>
+<area shape="rect" id="node8" href="$d8/ddc/classinfra_1_1_json_array_iterator.html#a5f9b30fbc98817ad106c0b731c51393f" title="infra::JsonArrayIterator\l::ReadValue" alt="" coords="915,295,1067,337"/>
+<area shape="rect" id="node6" href="$dd/d2a/classinfra_1_1_json_object_iterator.html#ac505bfd75a0906a2f69e1d6fe252710a" title="infra::JsonObjectIterator\l::ParseNextToken" alt="" coords="1129,657,1288,698"/>
+<area shape="rect" id="node7" href="$dd/d2a/classinfra_1_1_json_object_iterator.html#a5da85e17d711d0e3fb813e1cabb4e6b4" title="infra::JsonObjectIterator\l::operator++" alt="" coords="1336,657,1495,698"/>
+<area shape="rect" id="node11" href="$d5/d9a/classservices_1_1_dns_resolver_1_1_reply_parser.html#a3563d6013da8d6dc3f045a0b71dace92" title="services::DnsResolver\l::ReplyParser::AnswerIsForCurrent\lQuery" alt="" coords="388,173,611,229"/>
+<area shape="rect" id="node12" href="$df/dff/classservices_1_1_dns_resolver_1_1_active_lookup.html#a8e3de75add050be2d6fb3c5a6418e4ec" title="services::DnsResolver\l::ActiveLookup::DataReceived" alt="" coords="659,214,853,255"/>
+<area shape="rect" id="node15" href="$df/dff/classservices_1_1_dns_resolver_1_1_active_lookup.html#a48ad973716af6db1e46dc0d05af4319a" title="services::DnsResolver\l::ActiveLookup::DnsUpdSocket" alt="" coords="398,355,601,397"/>
+<area shape="rect" id="node23" href="$df/dd0/classinfra_1_1_json_iterator.html#a5cbc18726700531f5f5e28ccca321d87" title="infra::JsonIterator\l::ReadArrayValue" alt="" coords="437,518,561,559"/>
+<area shape="rect" id="node25" href="$df/dd0/classinfra_1_1_json_iterator.html#a95bf1b7210594ae3d6a4615f1815b7ec" title="infra::JsonIterator\l::ReadObjectValue" alt="" coords="434,453,565,494"/>
+</map>

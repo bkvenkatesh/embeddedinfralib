@@ -1,0 +1,6 @@
+<map id="infra::Optional::Emplace" name="infra::Optional::Emplace">
+<area shape="rect" id="node2" href="$d1/d3f/classservices_1_1_datagram_bsd.html#a322e28368f3a84ed935cd5512a6149ef" title="services::DatagramBsd\l::TryAllocateSendStream" alt="" coords="215,5,381,47"/>
+<area shape="rect" id="node4" href="$d2/d7b/classservices_1_1_datagram_win.html#af5ab8d7a9109b07bc8a2d67730d96ee7" title="services::DatagramWin\l::TryAllocateSendStream" alt="" coords="215,71,381,112"/>
+<area shape="rect" id="node3" href="$d1/d3f/classservices_1_1_datagram_bsd.html#afb0cdcc66f1f17c99237297a9fb9b7fc" title="services::DatagramBsd\l::RequestSendStream" alt="" coords="429,5,585,47"/>
+<area shape="rect" id="node5" href="$d2/d7b/classservices_1_1_datagram_win.html#a24db8b1b98bf5db7a650de7d78afbf27" title="services::DatagramWin\l::RequestSendStream" alt="" coords="429,71,585,112"/>
+</map>

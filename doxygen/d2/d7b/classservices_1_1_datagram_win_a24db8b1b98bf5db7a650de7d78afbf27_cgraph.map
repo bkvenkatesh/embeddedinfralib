@@ -1,0 +1,8 @@
+<map id="services::DatagramWin::RequestSendStream" name="services::DatagramWin::RequestSendStream">
+<area shape="rect" id="node2" href="$d2/d7b/classservices_1_1_datagram_win.html#af5ab8d7a9109b07bc8a2d67730d96ee7" title="services::DatagramWin\l::TryAllocateSendStream" alt="" coords="209,101,376,142"/>
+<area shape="rect" id="node3" href="$dc/df7/classinfra_1_1_optional.html#a1605aac3a47de3990f0ea12b73941af3" title="infra::Optional::Emplace" alt="" coords="467,5,629,32"/>
+<area shape="rect" id="node4" href="$d3/d0e/classinfra_1_1_interface_connector.html#aed1d9e952d3d0dfa68e59ee4e868b380" title="infra::InterfaceConnector\l\&lt; EventDispatcherWithWeakPtrWorker\l \&gt;::Instance" alt="" coords="424,56,672,112"/>
+<area shape="rect" id="node5" href="$de/d88/classinfra_1_1_event_dispatcher_with_weak_ptr_worker.html#a0444150202eeeeb51399634d6e24b13b" title="infra::EventDispatcherWith\lWeakPtrWorker::Schedule" alt="" coords="459,137,637,178"/>
+<area shape="rect" id="node7" href="$dd/df1/classinfra_1_1_enable_shared_from_this.html#af905d6b4aef4f252a28b1f4edebc99b3" title="infra::EnableSharedFromThis\l\&lt; DatagramWin \&gt;::SharedFromThis" alt="" coords="434,202,662,243"/>
+<area shape="rect" id="node6" href="$de/d88/classinfra_1_1_event_dispatcher_with_weak_ptr_worker.html#ac68250c0670ca6c8c2bfadb6cdbadff7" title="infra::EventDispatcherWith\lWeakPtrWorker::RequestExecution" alt="" coords="720,137,949,178"/>
+</map>

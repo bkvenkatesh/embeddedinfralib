@@ -1,0 +1,11 @@
+<map id="hal::Flash::TotalSize" name="hal::Flash::TotalSize">
+<area shape="rect" id="node2" href="$db/d26/classservices_1_1_configuration_blob_impl.html#af6992ac4df45e827a07e8017fedd8e0e" title="services::ConfigurationBlob\lImpl::ConfigurationBlobImpl" alt="" coords="211,5,389,47"/>
+<area shape="rect" id="node3" href="$d8/db5/classapplication_1_1_deploy_pack_to_external.html#a266ba4b3faeea4ab1efca546279509cd" title="application::DeployPackTo\lExternal::DeployPackToExternal" alt="" coords="195,71,405,112"/>
+<area shape="rect" id="node4" href="$d4/d36/classservices_1_1_cyclic_store.html#aad16c79a455a56877863b2828a03a22b" title="services::CyclicStore\l::RecoverEndAddress" alt="" coords="227,136,373,177"/>
+<area shape="rect" id="node7" href="$d4/d36/classservices_1_1_cyclic_store.html#a08dbba8a0aaac53dc54133f23475c423" title="services::CyclicStore\l::WriteRange" alt="" coords="228,201,372,243"/>
+<area shape="rect" id="node10" href="$d4/d36/classservices_1_1_cyclic_store.html#ad6ae3d3b0cade2999ee863bee7740db4" title="services::CyclicStore\l::WriteSectorStatusIfAtStart\lOfSector" alt="" coords="208,267,392,323"/>
+<area shape="rect" id="node5" href="$d4/d36/classservices_1_1_cyclic_store.html#a5b397293a572ce5d6d3144f0d284770f" title="services::CyclicStore\l::Recover" alt="" coords="469,136,613,177"/>
+<area shape="rect" id="node6" href="$d4/d36/classservices_1_1_cyclic_store.html#a6a29c761506bd86c65acb03b1a717e9a" title="services::CyclicStore\l::CyclicStore" alt="" coords="676,136,820,177"/>
+<area shape="rect" id="node8" href="$d4/d36/classservices_1_1_cyclic_store.html#a6831a59811174b5a79616e69b555ef12" title="services::CyclicStore::Add" alt="" coords="453,245,628,271"/>
+<area shape="rect" id="node9" href="$d4/d36/classservices_1_1_cyclic_store.html#a7aeab26acd5d9c4df8de0dd8eceb6af8" title="services::CyclicStore\l::AddPartial" alt="" coords="676,237,820,279"/>
+</map>

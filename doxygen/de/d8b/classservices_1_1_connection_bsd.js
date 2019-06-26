@@ -1,0 +1,28 @@
+var classservices_1_1_connection_bsd =
+[
+    [ "StreamReaderBsd", "d0/dc5/classservices_1_1_connection_bsd_1_1_stream_reader_bsd.html", "d0/dc5/classservices_1_1_connection_bsd_1_1_stream_reader_bsd" ],
+    [ "StreamWriterBsd", "d5/d52/classservices_1_1_connection_bsd_1_1_stream_writer_bsd.html", "d5/d52/classservices_1_1_connection_bsd_1_1_stream_writer_bsd" ],
+    [ "ConnectionBsd", "de/d8b/classservices_1_1_connection_bsd.html#a99c9de1c7a44deec022efdb1bb12f5e3", null ],
+    [ "~ConnectionBsd", "de/d8b/classservices_1_1_connection_bsd.html#a59e47eb4dc81de782294e054f211782e", null ],
+    [ "AbortAndDestroy", "de/d8b/classservices_1_1_connection_bsd.html#a360bf2fbdc3ac8822ad52e6b56923e40", null ],
+    [ "AckReceived", "de/d8b/classservices_1_1_connection_bsd.html#a9abda15f471413f45e0e6b168d97f9bd", null ],
+    [ "CloseAndDestroy", "de/d8b/classservices_1_1_connection_bsd.html#ae474d5efe7511bb62ba755016a12d7f1", null ],
+    [ "Ipv4Address", "de/d8b/classservices_1_1_connection_bsd.html#acdf35d1ebe704e29518a1c4a7d8f1012", null ],
+    [ "MaxSendStreamSize", "de/d8b/classservices_1_1_connection_bsd.html#a5a1a4ca9dfd3a3f0161e324d844fa97d", null ],
+    [ "Receive", "de/d8b/classservices_1_1_connection_bsd.html#a929956e120d19744a36181b770ebb792", null ],
+    [ "ReceiveStream", "de/d8b/classservices_1_1_connection_bsd.html#ad7b2d5229b381d38d1b92946551bd8d9", null ],
+    [ "RequestSendStream", "de/d8b/classservices_1_1_connection_bsd.html#a2fd659c8bb86c113759c84c6de5ffd11", null ],
+    [ "Send", "de/d8b/classservices_1_1_connection_bsd.html#abd0d4817f9fbeb070f1fe89332f33d0f", null ],
+    [ "SetObserver", "de/d8b/classservices_1_1_connection_bsd.html#a51b230e2f01488c1aa9f47d70b5e6025", null ],
+    [ "TryAllocateSendStream", "de/d8b/classservices_1_1_connection_bsd.html#a84b4c8304b3d1c9bb9660e5e504d7a09", null ],
+    [ "TrySend", "de/d8b/classservices_1_1_connection_bsd.html#ae7929b686931d7def6a1d13821958d0a", null ],
+    [ "EventDispatcherWithNetwork", "de/d8b/classservices_1_1_connection_bsd.html#a7d1a68378ca9f344311d15ef8a7ec9cf", null ],
+    [ "network", "de/d8b/classservices_1_1_connection_bsd.html#a167de6ff00dd6b24f365e725acf09e75", null ],
+    [ "receiveBuffer", "de/d8b/classservices_1_1_connection_bsd.html#ab54a239e9ca7ed591c1d3cda06e64329", null ],
+    [ "requestedSendSize", "de/d8b/classservices_1_1_connection_bsd.html#ac9ce4618ee30d9e621c8fcdbdca2a5b0", null ],
+    [ "sendBuffer", "de/d8b/classservices_1_1_connection_bsd.html#ab5d0ea23bb7d90c2f36627038617b954", null ],
+    [ "socket", "de/d8b/classservices_1_1_connection_bsd.html#ab57eded0a3c3efd9be084c43b897d3ac", null ],
+    [ "streamReader", "de/d8b/classservices_1_1_connection_bsd.html#ac507bc89ad108ebc9289d0721e67c053", null ],
+    [ "streamWriter", "de/d8b/classservices_1_1_connection_bsd.html#a116f0bfe6978c908a173e92db4b15594", null ],
+    [ "trySend", "de/d8b/classservices_1_1_connection_bsd.html#a4a7aa4a6501231b1e18c9d059a9c792c", null ]
+];

@@ -1,0 +1,5 @@
+<map id="services::ConfigurationBlobImpl::MaxBlob" name="services::ConfigurationBlobImpl::MaxBlob">
+<area shape="rect" id="node2" href="$d0/de3/namespaceinfra.html#a7fb6aa7d05abdae7a8aaeb6fd5164820" title="infra::DiscardHead" alt="" coords="232,46,360,73"/>
+<area shape="rect" id="node3" href="$d0/d6d/classinfra_1_1_memory_range.html#adf5b31ae0a4ccba88bb4b284935e8a1a" title="infra::MemoryRange\l::pop_front" alt="" coords="408,5,547,47"/>
+<area shape="rect" id="node4" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="408,71,547,112"/>
+</map>

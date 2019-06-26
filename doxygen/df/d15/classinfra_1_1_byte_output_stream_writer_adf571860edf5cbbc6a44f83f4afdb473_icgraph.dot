@@ -1,0 +1,10 @@
+digraph "infra::ByteOutputStreamWriter::Processed"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node25 [label="infra::ByteOutputStreamWriter\l::Processed",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node25 -> Node26 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node26 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d42/_test_byte_output_stream_8cpp.html#aa6730035c142fd43161f748dc9f61831"];
+}

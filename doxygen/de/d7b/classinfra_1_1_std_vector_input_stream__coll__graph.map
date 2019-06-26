@@ -1,0 +1,10 @@
+<map id="infra::StdVectorInputStream" name="infra::StdVectorInputStream">
+<area shape="rect" id="node2" href="$d8/def/classinfra_1_1_data_input_stream_1_1_with_reader.html" title="infra::DataInputStream\l::WithReader\&lt; StdVectorInput\lStreamReader \&gt;" alt="" coords="1248,159,1444,215"/>
+<area shape="rect" id="node3" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; StdVectorInputStreamReader,\l WithReader\&lt; StdVectorInputStreamReader \&gt; \&gt;" alt="" coords="900,87,1199,143"/>
+<area shape="rect" id="node4" href="$d7/def/classinfra_1_1_std_vector_input_stream_reader.html" title="infra::StdVectorInputStream\lReader" alt="" coords="603,74,785,115"/>
+<area shape="rect" id="node5" href="$d0/d1b/classinfra_1_1_stream_reader_with_rewinding.html" title="infra::StreamReaderWithRewinding" alt="" coords="265,5,488,32"/>
+<area shape="rect" id="node6" href="$d2/d90/classinfra_1_1_stream_reader.html" title="infra::StreamReader" alt="" coords="5,112,143,139"/>
+<area shape="rect" id="node10" href="$db/dda/classinfra_1_1_input_stream.html" title="infra::InputStream" alt="" coords="632,173,756,200"/>
+<area shape="rect" id="node9" href="$d0/db4/classinfra_1_1_data_input_stream.html" title="infra::DataInputStream" alt="" coords="974,173,1125,200"/>
+<area shape="rect" id="node11" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="297,229,457,256"/>
+</map>

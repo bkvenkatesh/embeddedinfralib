@@ -1,0 +1,4 @@
+<map id="services::StreamEchoConnection::DataReceived" name="services::StreamEchoConnection::DataReceived">
+<area shape="rect" id="node2" href="$d3/d93/classservices_1_1_stream_echo_connection.html#a54d55185a9de0e6215838542179475bd" title="services::StreamEchoConnection\l::TryRequestSendStream" alt="" coords="268,13,483,54"/>
+<area shape="rect" id="node3" href="$dc/d4c/classinfra_1_1_single_observer.html#abb13c69cc61182baf350ff1736fa772e" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;::Subject" alt="" coords="531,5,685,61"/>
+</map>

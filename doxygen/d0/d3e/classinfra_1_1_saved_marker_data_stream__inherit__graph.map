@@ -1,0 +1,6 @@
+<map id="infra::SavedMarkerDataStream" name="infra::SavedMarkerDataStream">
+<area shape="rect" id="node2" href="$dd/dd9/classinfra_1_1_data_output_stream_1_1_with_writer.html" title="infra::DataOutputStream\l::WithWriter\&lt; SavedMarkerStream\lWriter \&gt;" alt="" coords="512,39,733,95"/>
+<area shape="rect" id="node3" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; SavedMarkerStreamWriter,\l WithWriter\&lt; SavedMarkerStreamWriter \&gt; \&gt;" alt="" coords="188,5,464,61"/>
+<area shape="rect" id="node4" href="$d6/d7d/classinfra_1_1_data_output_stream.html" title="infra::DataOutputStream" alt="" coords="245,85,407,112"/>
+<area shape="rect" id="node5" href="$d6/d97/classinfra_1_1_output_stream.html" title="infra::OutputStream" alt="" coords="5,85,140,112"/>
+</map>

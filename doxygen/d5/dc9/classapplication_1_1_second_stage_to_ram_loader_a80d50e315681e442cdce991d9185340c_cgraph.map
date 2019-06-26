@@ -1,0 +1,18 @@
+<map id="application::SecondStageToRamLoader::Load" name="application::SecondStageToRamLoader::Load">
+<area shape="rect" id="node2" href="$d1/dd1/classapplication_1_1_verifier.html#aee002f86c5aee7b77fb7450a3f5b1b71" title="application::Verifier\l::IsValid" alt="" coords="253,5,385,47"/>
+<area shape="rect" id="node3" href="$d0/de3/namespaceinfra.html#ae4478bf95f90ceb679642cb4180f205f" title="infra::MakeByteRange" alt="" coords="473,129,623,155"/>
+<area shape="rect" id="node8" href="$d5/dc9/classapplication_1_1_second_stage_to_ram_loader.html#a2ea672dd0c1198a92881a9cb60cff7c0" title="application::SecondStage\lToRamLoader::MarkAsError" alt="" coords="228,71,411,112"/>
+<area shape="rect" id="node10" href="$d5/dff/classhal_1_1_synchronous_flash.html#a8e353a81cf310908c987d6cac6e452ec" title="hal::SynchronousFlash\l::ReadBuffer" alt="" coords="471,180,625,221"/>
+<area shape="rect" id="node11" href="$d5/dc9/classapplication_1_1_second_stage_to_ram_loader.html#a6eaba267be0f1fc5c12c3e4002d0fd78" title="application::SecondStage\lToRamLoader::TryLoadImage" alt="" coords="224,311,415,352"/>
+<area shape="rect" id="node4" href="$d0/de3/namespaceinfra.html#a74203fdf2e029d2667c7e4925092cc9a" title="infra::ReinterpretCastByte\lRange" alt="" coords="681,92,852,133"/>
+<area shape="rect" id="node5" href="$d0/de3/namespaceinfra.html#afe38b7d4318537de2f28b244211c4275" title="infra::MakeRange" alt="" coords="705,158,828,185"/>
+<area shape="rect" id="node6" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#aef23e4250cad2fdc69ccc39f68734233" title="infra::BoundedStringBase\l::begin" alt="" coords="915,121,1084,163"/>
+<area shape="rect" id="node7" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#af5021f1ea3898146d0a55c2895f07dbf" title="infra::BoundedStringBase::end" alt="" coords="900,187,1099,214"/>
+<area shape="rect" id="node9" href="$d5/dff/classhal_1_1_synchronous_flash.html#a61b77f790bc72a2bb8d7316a2d8fa3ce" title="hal::SynchronousFlash\l::WriteBuffer" alt="" coords="471,63,625,104"/>
+<area shape="rect" id="node12" href="$d3/d66/classapplication_1_1_decryptor.html#a03615952b8158ef8245df43567f5ffac" title="application::Decryptor\l::StateBuffer" alt="" coords="474,441,622,483"/>
+<area shape="rect" id="node13" href="$d3/d66/classapplication_1_1_decryptor.html#a9f333644c7d602378054454d0c046f92" title="application::Decryptor\l::Reset" alt="" coords="474,507,622,548"/>
+<area shape="rect" id="node14" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="479,572,617,613"/>
+<area shape="rect" id="node15" href="$d3/d66/classapplication_1_1_decryptor.html#a9f27e7be16a169a5fe6dadcca097e35a" title="application::Decryptor\l::DecryptPart" alt="" coords="474,245,622,287"/>
+<area shape="rect" id="node16" href="$d0/d6d/classinfra_1_1_memory_range.html#a322f6976f2774c6ba7494b9e27f07624" title="infra::MemoryRange\l::shrink_from_back_to" alt="" coords="473,311,623,352"/>
+<area shape="rect" id="node17" href="$d3/d66/classapplication_1_1_decryptor.html#a2780b4993f0b275fc1b15add51d39d38" title="application::Decryptor\l::DecryptAndAuthenticate" alt="" coords="463,376,633,417"/>
+</map>

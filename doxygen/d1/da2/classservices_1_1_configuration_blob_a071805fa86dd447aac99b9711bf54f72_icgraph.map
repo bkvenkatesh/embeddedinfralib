@@ -1,0 +1,6 @@
+<map id="services::ConfigurationBlob::Recover" name="services::ConfigurationBlob::Recover">
+<area shape="rect" id="node2" href="$d4/dc9/classservices_1_1_configuration_store_base.html#a055291782b499dc8c5da8feea63992d2" title="services::ConfigurationStore\lBase::Recover" alt="" coords="232,71,415,113"/>
+<area shape="rect" id="node3" href="$de/def/classservices_1_1_factory_default_configuration_store_base.html#a18e689846f9181d7346dcdec30c6a496" title="services::FactoryDefault\lConfigurationStoreBase\l::Recover" alt="" coords="473,5,635,61"/>
+<area shape="rect" id="node5" href="$d5/d95/classservices_1_1_configuration_store_impl_1_1_with_blobs.html#aa49a2c8a90213ca3df37fb9f875cf43a" title="services::ConfigurationStore\lImpl::WithBlobs::WithBlobs" alt="" coords="463,86,645,127"/>
+<area shape="rect" id="node4" href="$d8/dd1/classservices_1_1_factory_default_configuration_store_1_1_with_blobs.html#a3520533efb23c697e00a7ac30419c5cb" title="services::FactoryDefault\lConfigurationStore::WithBlobs\l::WithBlobs" alt="" coords="693,5,889,61"/>
+</map>

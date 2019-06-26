@@ -1,0 +1,5 @@
+<map id="infra::DerivedTimerService::Now" name="infra::DerivedTimerService::Now">
+<area shape="rect" id="node2" href="$d8/d04/classservices_1_1_sntp_client.html#a221c7cd699661e4440413c96e75cea75" title="services::SntpClient\l::NotifyOffsetAndDelay" alt="" coords="256,5,409,47"/>
+<area shape="rect" id="node4" href="$d8/d04/classservices_1_1_sntp_client.html#a11eacb36be58032d1e8fd43d53eae2ef" title="services::SntpClient\l::SendStreamAvailable" alt="" coords="256,71,409,112"/>
+<area shape="rect" id="node3" href="$d8/d04/classservices_1_1_sntp_client.html#a34f569549a7c6f789382a6dd9f44ba24" title="services::SntpClient\l::DataReceived" alt="" coords="457,5,595,47"/>
+</map>

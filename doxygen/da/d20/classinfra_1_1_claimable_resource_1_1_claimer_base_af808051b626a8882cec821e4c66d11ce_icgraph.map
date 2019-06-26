@@ -1,0 +1,5 @@
+<map id="infra::ClaimableResource::ClaimerBase::ClaimGranted" name="infra::ClaimableResource::ClaimerBase::ClaimGranted">
+<area shape="rect" id="node2" href="$d0/d93/classinfra_1_1_claimable_resource.html#a3adbeebc85bacdddbb97a48154649021" title="infra::ClaimableResource\l::ReEvaluateClaim" alt="" coords="244,39,411,80"/>
+<area shape="rect" id="node3" href="$d0/d93/classinfra_1_1_claimable_resource.html#af0c7794a3ed43ac41f1c657990b4f24e" title="infra::ClaimableResource\l::AddClaim" alt="" coords="459,5,625,47"/>
+<area shape="rect" id="node4" href="$d0/d93/classinfra_1_1_claimable_resource.html#ad16fa9c6beff4ee4ce162a408ab8efe2" title="infra::ClaimableResource\l::RemoveClaim" alt="" coords="459,71,625,112"/>
+</map>

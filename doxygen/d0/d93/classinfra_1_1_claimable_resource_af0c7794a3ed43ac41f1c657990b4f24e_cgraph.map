@@ -1,0 +1,7 @@
+<map id="infra::ClaimableResource::AddClaim" name="infra::ClaimableResource::AddClaim">
+<area shape="rect" id="node2" href="$d0/d93/classinfra_1_1_claimable_resource.html#aa73b4fdc00d98e8903832c31a406e2bd" title="infra::ClaimableResource\l::EnqueueClaimer" alt="" coords="232,5,399,47"/>
+<area shape="rect" id="node3" href="$d3/d0e/classinfra_1_1_interface_connector.html#aed1d9e952d3d0dfa68e59ee4e868b380" title="infra::InterfaceConnector\l\&lt; EventDispatcherWorker\l \&gt;::Instance" alt="" coords="230,71,401,127"/>
+<area shape="rect" id="node4" href="$d0/d93/classinfra_1_1_claimable_resource.html#a3adbeebc85bacdddbb97a48154649021" title="infra::ClaimableResource\l::ReEvaluateClaim" alt="" coords="232,152,399,193"/>
+<area shape="rect" id="node6" href="$d7/d34/classinfra_1_1_event_dispatcher_worker.html#a5922b8fd5101b15f20b639fcd11fa272" title="infra::EventDispatcherWorker\l::Schedule" alt="" coords="220,217,411,259"/>
+<area shape="rect" id="node5" href="$da/d20/classinfra_1_1_claimable_resource_1_1_claimer_base.html#af808051b626a8882cec821e4c66d11ce" title="infra::ClaimableResource\l::ClaimerBase::ClaimGranted" alt="" coords="459,152,649,193"/>
+</map>

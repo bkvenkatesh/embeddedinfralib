@@ -1,0 +1,12 @@
+digraph "services::ConnectionSerial::RequestSendStream"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node91 [label="services::ConnectionSerial\l::RequestSendStream",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node91 -> Node92 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node92 [label="ConnectionSerialTest\l::GetAndWriteToSendStream",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d48/class_connection_serial_test.html#ae66fa9e961ec749fac819dfc14b879e5"];
+  Node91 -> Node93 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node93 [label="TEST_F",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/db1/_test_connection_serial_8cpp.html#a0c5ffaf9332b13e085b2743fca491ec0"];
+}

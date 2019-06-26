@@ -1,0 +1,5 @@
+<map id="services::SynchronousSpiMasterWithChipSelect" name="services::SynchronousSpiMasterWithChipSelect">
+<area shape="rect" id="node2" href="$d9/dad/classhal_1_1_synchronous_spi.html" title="hal::SynchronousSpi" alt="" coords="5,95,148,121"/>
+<area shape="rect" id="node3" href="$df/d03/classhal_1_1_output_pin.html" title="hal::OutputPin" alt="" coords="172,95,277,121"/>
+<area shape="rect" id="node4" href="$d7/d8c/classhal_1_1_gpio_pin.html" title="hal::GpioPin" alt="" coords="178,5,271,32"/>
+</map>

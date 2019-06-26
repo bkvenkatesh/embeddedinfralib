@@ -1,0 +1,7 @@
+<map id="hal::SynchronousSpi::ReceiveData" name="hal::SynchronousSpi::ReceiveData">
+<area shape="rect" id="node2" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#a7264604e92e58c1fb5f893ace960fbda" title="services::SynchronousFlash\lSpi::ReadBuffer" alt="" coords="196,5,381,47"/>
+<area shape="rect" id="node3" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#a2745bcafe68f1a06f501b92b3592e564" title="services::SynchronousFlash\lSpi::ReadStatusRegister" alt="" coords="196,71,381,112"/>
+<area shape="rect" id="node4" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#a911aa2c148a6f543628e934953f49466" title="services::SynchronousFlash\lSpi::HoldWhileWriteInProgress" alt="" coords="429,71,631,112"/>
+<area shape="rect" id="node5" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#ab9ea42bce7156cde8fae8bb51c050fe8" title="services::SynchronousFlash\lSpi::WriteBuffer" alt="" coords="679,37,864,79"/>
+<area shape="rect" id="node6" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#a78462388776e5596c74234595e8213bf" title="services::SynchronousFlash\lSpi::EraseSectors" alt="" coords="679,103,864,144"/>
+</map>

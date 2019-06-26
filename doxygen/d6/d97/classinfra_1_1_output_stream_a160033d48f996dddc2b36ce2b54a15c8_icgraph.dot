@@ -1,0 +1,12 @@
+digraph "infra::OutputStream::Available"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node6 [label="infra::OutputStream\l::Available",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d87/_test_std_string_output_stream_8cpp.html#a86f2706e94afea15886a40548428a439"];
+  Node6 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="TEST_F",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/dc9/_test_http_client_8cpp.html#a8cd1fe6dfee4985d988b45a6657442f5"];
+}

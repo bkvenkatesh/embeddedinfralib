@@ -1,0 +1,4 @@
+<map id="infra::ScalableDerivedTimerService::Now" name="infra::ScalableDerivedTimerService::Now">
+<area shape="rect" id="node2" href="$da/def/classinfra_1_1_timer_service.html#acb34d2766047f27ebcd1f552916c9a99" title="infra::TimerService::Now" alt="" coords="241,5,402,32"/>
+<area shape="rect" id="node3" href="$da/dc4/classinfra_1_1_scalable_derived_timer_service.html#a772023c9b8ca6d0237b78a9e370c3571" title="infra::ScalableDerivedTimer\lService::ScaleTime" alt="" coords="232,57,411,98"/>
+</map>

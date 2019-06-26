@@ -1,0 +1,6 @@
+<map id="services::DebouncedButton::DebounceEnd" name="services::DebouncedButton::DebounceEnd">
+<area shape="rect" id="node2" href="$d1/dfe/classservices_1_1_debounced_button.html#aff73660a88f1c178ca8c7122b89ec584" title="services::DebouncedButton\l::ButtonPressed" alt="" coords="233,5,413,47"/>
+<area shape="rect" id="node5" href="$d1/dfe/classservices_1_1_debounced_button.html#a04ba592736f64e1d65e1f103cfa934f6" title="services::DebouncedButton\l::ButtonReleased" alt="" coords="233,71,413,112"/>
+<area shape="rect" id="node3" href="$d1/dfe/classservices_1_1_debounced_button.html#a1256f1c824fb2ad839ca74f87622feab" title="services::DebouncedButton\l::ButtonChanged" alt="" coords="461,39,641,80"/>
+<area shape="rect" id="node4" href="$d1/dfe/classservices_1_1_debounced_button.html#aa4d2ea4a1751a1d33ddb65e61ae719b1" title="services::DebouncedButton\l::DebouncedButton" alt="" coords="689,39,869,80"/>
+</map>

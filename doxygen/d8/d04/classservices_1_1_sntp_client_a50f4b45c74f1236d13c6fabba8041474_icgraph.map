@@ -1,0 +1,4 @@
+<map id="services::SntpClient::NotifyTimeUnavailable" name="services::SntpClient::NotifyTimeUnavailable">
+<area shape="rect" id="node2" href="$d8/d04/classservices_1_1_sntp_client.html#a34f569549a7c6f789382a6dd9f44ba24" title="services::SntpClient\l::DataReceived" alt="" coords="395,5,532,47"/>
+<area shape="rect" id="node3" href="$d8/d04/classservices_1_1_sntp_client.html#a40cb44a10aa5446ba30c4e6e4dd3cedd" title="services::SntpClient\l::NotifyKissOfDeath" alt="" coords="209,35,347,76"/>
+</map>

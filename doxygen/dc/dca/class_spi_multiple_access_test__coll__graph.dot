@@ -1,0 +1,57 @@
+digraph "SpiMultipleAccessTest"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node4 [label="SpiMultipleAccessTest",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Test",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node6 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="infra::EventDispatcherFixture",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/df4/classinfra_1_1_event_dispatcher_fixture.html"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="EventDispatcher::WithSize\l\< 50 \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node8 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" access1\naccess2" ,fontname="Helvetica"];
+  Node8 [label="services::SpiMultipleAccess",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d2d/classservices_1_1_spi_multiple_access.html"];
+  Node9 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="hal::SpiMaster",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/da3/classhal_1_1_spi_master.html"];
+  Node10 -> Node8 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="hal::ChipSelectConfigurator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d53/classhal_1_1_chip_select_configurator.html"];
+  Node11 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" communicationConfigurator" ,fontname="Helvetica"];
+  Node11 [label="hal::CommunicationConfigurator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d81/classhal_1_1_communication_configurator.html"];
+  Node12 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" claimer" ,fontname="Helvetica"];
+  Node12 [label="infra::ClaimableResource\l::ClaimerWithSize\< SERVICES\l_SPI_MULTIPLE_ACCESS_FUNCTION\l_EXTRA_SIZE \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d6a/classinfra_1_1_claimable_resource_1_1_claimer_with_size.html"];
+  Node13 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="infra::ClaimableResource\l::ClaimerBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d20/classinfra_1_1_claimable_resource_1_1_claimer_base.html"];
+  Node14 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="infra::IntrusiveList\l\< ClaimerBase \>::NodeType",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html"];
+  Node15 -> Node14 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" previous\nnext" ,fontname="Helvetica"];
+  Node15 [label="IntrusiveListNode\<\l T \> *",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node16 -> Node13 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" resource" ,fontname="Helvetica"];
+  Node16 [label="infra::ClaimableResource",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d93/classinfra_1_1_claimable_resource.html"];
+  Node13 -> Node16 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" currentClaim" ,fontname="Helvetica"];
+  Node17 -> Node16 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" pendingClaims" ,fontname="Helvetica"];
+  Node17 [label="infra::IntrusiveList\l\< infra::ClaimableResource\l::ClaimerBase \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/da4/classinfra_1_1_intrusive_list.html"];
+  Node18 -> Node17 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" beginNode" ,fontname="Helvetica"];
+  Node18 [label="infra::detail::Intrusive\lListNode\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html"];
+  Node15 -> Node18 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" previous\nnext" ,fontname="Helvetica"];
+  Node19 -> Node17 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" endNode" ,fontname="Helvetica"];
+  Node19 [label="infra::detail::Intrusive\lListNode\< infra::ClaimableResource\l::ClaimerBase \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html"];
+  Node19 -> Node19 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" previous\nnext" ,fontname="Helvetica"];
+  Node20 -> Node17 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" numberOfElements" ,fontname="Helvetica"];
+  Node20 [label="size_t",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node21 -> Node13 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" isQueued\nisGranted" ,fontname="Helvetica"];
+  Node21 [label="bool",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node22 -> Node12 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" onGranted" ,fontname="Helvetica"];
+  Node22 [label="infra::AutoResetFunction\l\< void(), ExtraSize \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d33/classinfra_1_1_auto_reset_function.html"];
+  Node10 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" chipSelectConfigurator" ,fontname="Helvetica"];
+  Node23 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" master" ,fontname="Helvetica"];
+  Node23 [label="services::SpiMultipleAccess\lMaster",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d6b/classservices_1_1_spi_multiple_access_master.html"];
+  Node9 -> Node23 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 -> Node23 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 -> Node23 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" communicationConfigurator" ,fontname="Helvetica"];
+  Node9 -> Node23 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" master" ,fontname="Helvetica"];
+  Node24 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" spi" ,fontname="Helvetica"];
+  Node24 [label="StrictMock\< hal::SpiAsynchronous\lMock \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node23 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" multipleAccess" ,fontname="Helvetica"];
+}

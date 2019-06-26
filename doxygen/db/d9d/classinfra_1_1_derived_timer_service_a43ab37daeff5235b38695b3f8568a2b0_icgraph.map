@@ -1,0 +1,5 @@
+<map id="infra::DerivedTimerService::GetCurrentShift" name="infra::DerivedTimerService::GetCurrentShift">
+<area shape="rect" id="node2" href="$da/dc6/classservices_1_1_time_with_localization.html#ab72635d44fb3427b8964624914acf332" title="services::TimeWithLocalization\l::GetOffsetDaylightSaving" alt="" coords="224,5,425,47"/>
+<area shape="rect" id="node3" href="$da/dc6/classservices_1_1_time_with_localization.html#a36c7c1be623c68fc42aeb77308a32599" title="services::TimeWithLocalization\l::GetOffsetFromLocalToUtc" alt="" coords="224,71,425,112"/>
+<area shape="rect" id="node4" href="$da/dc6/classservices_1_1_time_with_localization.html#a8781faaa016aa66eabb41b60cdd368a6" title="services::TimeWithLocalization\l::GetOffsetTimezone" alt="" coords="224,136,425,177"/>
+</map>

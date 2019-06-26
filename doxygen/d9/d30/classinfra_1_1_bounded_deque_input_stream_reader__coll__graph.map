@@ -1,0 +1,7 @@
+<map id="infra::BoundedDequeInputStreamReader" name="infra::BoundedDequeInputStreamReader">
+<area shape="rect" id="node2" href="$d0/d1b/classinfra_1_1_stream_reader_with_rewinding.html" title="infra::StreamReaderWithRewinding" alt="" coords="5,354,228,381"/>
+<area shape="rect" id="node3" href="$d2/d90/classinfra_1_1_stream_reader.html" title="infra::StreamReader" alt="" coords="48,228,185,255"/>
+<area shape="rect" id="node5" href="$d5/db7/classinfra_1_1_bounded_deque.html" title="infra::BoundedDeque\l\&lt; uint8_t \&gt;" alt="" coords="337,347,480,388"/>
+<area shape="rect" id="node6" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; infra::StaticStorage\l\&lt; uint8_t \&gt; \&gt;" alt="" coords="363,213,508,269"/>
+<area shape="rect" id="node7" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; uint8_t \&gt;" alt="" coords="369,95,502,136"/>
+</map>

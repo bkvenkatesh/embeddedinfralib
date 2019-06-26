@@ -1,0 +1,5 @@
+<map id="infra::ByteInputStreamReader" name="infra::ByteInputStreamReader">
+<area shape="rect" id="node2" href="$d0/d1b/classinfra_1_1_stream_reader_with_rewinding.html" title="infra::StreamReaderWithRewinding" alt="" coords="5,117,228,143"/>
+<area shape="rect" id="node3" href="$d2/d90/classinfra_1_1_stream_reader.html" title="infra::StreamReader" alt="" coords="48,5,185,32"/>
+<area shape="rect" id="node4" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; const uint8_t \&gt;" alt="" coords="253,109,391,151"/>
+</map>

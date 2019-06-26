@@ -1,0 +1,8 @@
+<map id="services::NameLookupWin" name="services::NameLookupWin">
+<area shape="rect" id="node2" href="$d0/d69/classservices_1_1_name_resolver.html" title="services::NameResolver" alt="" coords="651,80,811,107"/>
+<area shape="rect" id="node3" href="$df/d75/classservices_1_1_name_resolver_result.html" title="services::NameResolverResult" alt="" coords="632,131,829,157"/>
+<area shape="rect" id="node4" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; NameResolverResult\l \&gt;::NodeType" alt="" coords="267,5,422,61"/>
+<area shape="rect" id="node8" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; T \&gt;" alt="" coords="275,86,415,127"/>
+<area shape="rect" id="node7" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; services::NameResolverResult \&gt;" alt="" coords="620,182,841,223"/>
+<area shape="rect" id="node9" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; services::NameResolver\lResult \&gt;" alt="" coords="233,205,456,261"/>
+</map>

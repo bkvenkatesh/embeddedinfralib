@@ -1,0 +1,5 @@
+<map id="infra::BoundedList&lt; T &gt;" name="infra::BoundedList&lt; T &gt;">
+<area shape="rect" id="node2" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; infra::StaticStorage\l\&lt; infra::detail::BoundedList\lNode\&lt; T \&gt; \&gt; \&gt;" alt="" coords="439,5,616,76"/>
+<area shape="rect" id="node3" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; infra::detail::BoundedList\lNode\&lt; T \&gt; \&gt;" alt="" coords="129,13,307,69"/>
+<area shape="rect" id="node5" href="$df/dad/structinfra_1_1detail_1_1_bounded_list_node.html" title="infra::detail::BoundedList\lNode\&lt; T \&gt;" alt="" coords="445,100,610,141"/>
+</map>

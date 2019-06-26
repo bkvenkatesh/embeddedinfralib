@@ -1,0 +1,12 @@
+<map id="services::ConnectionFactoryWithNameResolverImpl" name="services::ConnectionFactoryWithNameResolverImpl">
+<area shape="rect" id="node2" href="$dc/dfc/classservices_1_1_connection_factory_with_name_resolver.html" title="services::ConnectionFactory\lWithNameResolver" alt="" coords="934,43,1121,85"/>
+<area shape="rect" id="node3" href="$d0/d69/classservices_1_1_name_resolver.html" title="services::NameResolver" alt="" coords="947,109,1107,136"/>
+<area shape="rect" id="node4" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; services::ClientConnection\lObserverFactoryWithNameResolver \&gt;" alt="" coords="908,160,1147,216"/>
+<area shape="rect" id="node5" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; T \&gt;" alt="" coords="547,14,687,55"/>
+<area shape="rect" id="node7" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; services::ClientConnection\lObserverFactoryWithNameResolver \&gt;" alt="" coords="497,133,736,189"/>
+<area shape="rect" id="node9" href="$d8/d38/classinfra_1_1_bounded_list.html" title="infra::BoundedList\l\&lt; services::ConnectionFactory\lWithNameResolverImpl::Action \&gt;" alt="" coords="921,240,1134,296"/>
+<area shape="rect" id="node10" href="$df/dad/structinfra_1_1detail_1_1_bounded_list_node.html" title="infra::detail::BoundedList\lNode\&lt; T \&gt;" alt="" coords="534,289,699,330"/>
+<area shape="rect" id="node13" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; infra::StaticStorage\l\&lt; infra::detail::BoundedList\lNode\&lt; services::ConnectionFactoryWith\lNameResolverImpl::Action \&gt; \&gt; \&gt;" alt="" coords="489,355,744,440"/>
+<area shape="rect" id="node14" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; infra::detail::BoundedList\lNode\&lt; services::ConnectionFactory\lWithNameResolverImpl::Action \&gt; \&gt;" alt="" coords="129,362,357,433"/>
+<area shape="rect" id="node16" href="$db/db4/classservices_1_1_connection_factory.html" title="services::ConnectionFactory" alt="" coords="934,320,1121,347"/>
+</map>

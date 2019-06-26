@@ -1,0 +1,9 @@
+<map id="infra::BoundedDeque::end" name="infra::BoundedDeque::end">
+<area shape="rect" id="node2" href="$d5/db7/classinfra_1_1_bounded_deque.html#a299ea56d3491ab3d97b1856bddfc7a2d" title="infra::BoundedDeque\l\&lt; decltype(buffer)\&gt;\l::BoundedDeque" alt="" coords="235,5,378,61"/>
+<area shape="rect" id="node3" href="$d5/db7/classinfra_1_1_bounded_deque.html#ab0c96610d1900d4164a06c798a436065" title="infra::BoundedDeque\l\&lt; decltype(buffer)\&gt;\l::operator\&lt;" alt="" coords="235,85,378,141"/>
+<area shape="rect" id="node4" href="$d5/db7/classinfra_1_1_bounded_deque.html#ad494bf021499522464ddb7eead0be2b6" title="infra::BoundedDeque\l\&lt; decltype(buffer)\&gt;\l::operator=" alt="" coords="235,165,378,221"/>
+<area shape="rect" id="node5" href="$de/d8b/classservices_1_1_connection_bsd.html#a929956e120d19744a36181b770ebb792" title="services::ConnectionBsd\l::Receive" alt="" coords="224,246,389,287"/>
+<area shape="rect" id="node7" href="$db/d8b/classservices_1_1_connection_win.html#a2d66c7f029d043a14f183c35e40ac89e" title="services::ConnectionWin\l::Receive" alt="" coords="224,311,389,353"/>
+<area shape="rect" id="node6" href="$de/d8b/classservices_1_1_connection_bsd.html#a99c9de1c7a44deec022efdb1bb12f5e3" title="services::ConnectionBsd\l::ConnectionBsd" alt="" coords="437,246,603,287"/>
+<area shape="rect" id="node8" href="$db/d8b/classservices_1_1_connection_win.html#afa1b3bc6eca0e83e1ce0b1f607de2dfe" title="services::ConnectionWin\l::ConnectionWin" alt="" coords="437,311,603,353"/>
+</map>

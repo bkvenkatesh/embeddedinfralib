@@ -1,0 +1,9 @@
+<map id="services::ConnectionSerial::StateConnectedSendingContent::SendPartialContent" name="services::ConnectionSerial::StateConnectedSendingContent::SendPartialContent">
+<area shape="rect" id="node2" href="$d0/d6d/classinfra_1_1_memory_range.html#a0dc90caa282524ee9828bf8128e3a569" title="infra::MemoryRange\l::empty" alt="" coords="286,5,425,47"/>
+<area shape="rect" id="node3" href="$d2/d3d/classservices_1_1_connection_serial_1_1_state_connected.html#a36342b53a064924a384a612e1c009d2a" title="services::ConnectionSerial\l::StateConnected::Reset" alt="" coords="268,71,443,112"/>
+<area shape="rect" id="node5" href="$d6/dba/classhal_1_1_serial_communication.html#a9c94f3aed0ca15268f0f731ea53fcdf6" title="hal::SerialCommunication\l::SendData" alt="" coords="270,136,441,177"/>
+<area shape="rect" id="node6" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="286,201,425,243"/>
+<area shape="rect" id="node7" href="$d0/de3/namespaceinfra.html#a3f099eea3bea698ca5ea5a8a028ee2b5" title="infra::Tail" alt="" coords="318,267,393,294"/>
+<area shape="rect" id="node4" href="$d0/d6d/classinfra_1_1_memory_range.html#a42c2668a04c8c709ae147e93475f54d2" title="infra::MemoryRange\l::clear" alt="" coords="495,71,633,112"/>
+<area shape="rect" id="node8" href="$d0/d6d/classinfra_1_1_memory_range.html#a6b92a527f073dc138ec1a7d779f0d8e2" title="infra::MemoryRange\l::shrink_from_front_to" alt="" coords="491,260,637,301"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="infra::Copy" name="infra::Copy">
+<area shape="rect" id="node2" href="$db/d26/classservices_1_1_configuration_blob_impl.html#a2b2ea1cdafea36f04b1c94d9aa03dfc8" title="services::ConfigurationBlob\lImpl::BlobIsValid" alt="" coords="153,152,332,193"/>
+<area shape="rect" id="node4" href="$d4/d2a/classinfra_1_1_function_3_01_result_07_args_8_8_8_08_00_01_extra_size_01_4.html#aaf893522db6ca617aee89a90ef5ae5d7" title="infra::Function\&lt; Result\l(Args...), ExtraSize \&gt;\l::CopyConstruct" alt="" coords="166,71,319,127"/>
+<area shape="rect" id="node5" href="$d7/dea/classinfra_1_1_bounded_deque_input_stream_reader.html#add207634d408ca8d692e005700e66cc2" title="infra::BoundedDequeInput\lStreamReader::Extract" alt="" coords="157,5,328,47"/>
+<area shape="rect" id="node7" href="$df/d30/classservices_1_1_connection_serial_1_1_serial_connection_stream_reader.html#a9253fd8a16f44fab6c27117720919651" title="services::ConnectionSerial\l::SerialConnectionStreamReader\l::Extract" alt="" coords="137,218,348,274"/>
+<area shape="rect" id="node8" href="$d1/d3d/classinfra_1_1_stream_writer_print_f.html#a9ad106ec1970b9ccb0717a1ee42da21b" title="infra::StreamWriterPrint\lF::Insert" alt="" coords="163,299,322,340"/>
+<area shape="rect" id="node9" href="$d5/d83/classinfra_1_1_reserved_proxy.html#abacacb01a327f8c99658d937d62bb417" title="infra::ReservedProxy\l::operator=" alt="" coords="172,364,313,405"/>
+<area shape="rect" id="node10" href="$db/d26/classservices_1_1_configuration_blob_impl.html#a79fc9d255accff36bd8f46719d1743d1" title="services::ConfigurationBlob\lImpl::PrepareBlobForWriting" alt="" coords="150,495,335,536"/>
+<area shape="rect" id="node12" href="$db/d26/classservices_1_1_configuration_blob_impl.html#a105075372cbfccd2efc41376788f178f" title="services::ConfigurationBlob\lImpl::RecoverCurrentSize" alt="" coords="153,429,332,471"/>
+<area shape="rect" id="node13" href="$dd/db4/classservices_1_1_connection_serial_1_1_message_header.html#aad442a828482fe6aee5b480bd4b00740" title="services::ConnectionSerial\l::MessageHeader::SetContent" alt="" coords="144,560,341,601"/>
+<area shape="rect" id="node3" href="$db/d26/classservices_1_1_configuration_blob_impl.html#a9889a45472556ca301dac5956520fda3" title="services::ConfigurationBlob\lImpl::Recover" alt="" coords="396,291,575,332"/>
+<area shape="rect" id="node6" href="$d7/dea/classinfra_1_1_bounded_deque_input_stream_reader.html#ae987011fb2d903568c0fbbb8e70f87d0" title="infra::BoundedDequeInput\lStreamReader::Peek" alt="" coords="400,5,571,47"/>
+<area shape="rect" id="node11" href="$db/d26/classservices_1_1_configuration_blob_impl.html#a7a0b2f45b21d419fcea42208f3d105bc" title="services::ConfigurationBlob\lImpl::Write" alt="" coords="396,495,575,536"/>
+</map>

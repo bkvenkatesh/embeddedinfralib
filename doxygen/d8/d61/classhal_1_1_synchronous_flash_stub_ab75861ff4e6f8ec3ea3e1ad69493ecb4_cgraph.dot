@@ -1,0 +1,36 @@
+digraph "hal::SynchronousFlashStub::WriteBuffer"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node63 [label="hal::SynchronousFlashStub\l::WriteBuffer",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node63 -> Node64 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node64 [label="hal::SynchronousFlashStub\l::WriteBufferImpl",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d61/classhal_1_1_synchronous_flash_stub.html#a04502ff6e6fe05ae080fe36f679ecf51"];
+  Node64 -> Node65 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node65 [label="infra::MemoryRange\l::empty",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d6d/classinfra_1_1_memory_range.html#a0dc90caa282524ee9828bf8128e3a569"];
+  Node64 -> Node66 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node66 [label="infra::MemoryRange\l::size",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66"];
+  Node64 -> Node67 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node67 [label="hal::SynchronousFlashStub\l::SizeOfSector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d61/classhal_1_1_synchronous_flash_stub.html#a4d5ab2fd6677c1804c00f7e1a1492605"];
+  Node64 -> Node68 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node68 [label="hal::SynchronousFlashStub\l::SectorOfAddress",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d61/classhal_1_1_synchronous_flash_stub.html#a02f1c6158858410c26426d7a2c56dd46"];
+  Node64 -> Node69 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node69 [label="hal::SynchronousFlash\l::AddressOffsetInSector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dff/classhal_1_1_synchronous_flash.html#ae0ffa50633226598ff634051fdf07530"];
+  Node69 -> Node70 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node70 [label="hal::SynchronousFlash\l::StartOfSector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dff/classhal_1_1_synchronous_flash.html#a2b4419e346a7d9feecb65501c61a6f8e"];
+  Node70 -> Node71 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node71 [label="hal::SynchronousFlash\l::AddressOfSector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dff/classhal_1_1_synchronous_flash.html#a1e8a643bee9d6a9c199ed42957201500"];
+  Node70 -> Node72 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node72 [label="hal::SynchronousFlash\l::SectorOfAddress",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dff/classhal_1_1_synchronous_flash.html#a4414c85ecb179359e5d0dc1c830cc903"];
+  Node64 -> Node73 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node73 [label="hal::SynchronousFlashStub\l::ApplyBuffer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d61/classhal_1_1_synchronous_flash_stub.html#ac6fe1f02922e2f3155b515a7e55c328b"];
+  Node73 -> Node69 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node73 -> Node68 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node64 -> Node74 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node74 [label="infra::MemoryRange\l::pop_front",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d6d/classinfra_1_1_memory_range.html#adf5b31ae0a4ccba88bb4b284935e8a1a"];
+  Node64 -> Node75 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node75 [label="hal::SynchronousFlash\l::StartOfNextSector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dff/classhal_1_1_synchronous_flash.html#a1d188f8a95ed195d4b3c79e74b52cd43"];
+  Node75 -> Node71 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node75 -> Node72 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

@@ -1,0 +1,7 @@
+<map id="services::TracingHttpClientImpl::ClosingConnection" name="services::TracingHttpClientImpl::ClosingConnection">
+<area shape="rect" id="node2" href="$db/dd6/classservices_1_1_http_client_impl.html#a8d7b80db05af5fd7158d9e72527d9b7a" title="services::HttpClientImpl\l::ClosingConnection" alt="" coords="229,5,388,47"/>
+<area shape="rect" id="node4" href="$dc/d42/classservices_1_1_tracer.html#a25248c7fb378a73f189defd30a4593f2" title="services::Tracer::Trace" alt="" coords="232,71,385,98"/>
+<area shape="rect" id="node3" href="$d1/db2/classinfra_1_1_subject.html#ae6779efb6b9b18a7638fef4ce0553466" title="infra::Subject\&lt; HttpClient\lObserver \&gt;::GetObserver" alt="" coords="439,5,605,47"/>
+<area shape="rect" id="node5" href="$dc/d42/classservices_1_1_tracer.html#a9bbd41af2cd3049df3e56fe63ebad051" title="services::Tracer::Continue" alt="" coords="436,71,608,98"/>
+<area shape="rect" id="node6" href="$dc/d42/classservices_1_1_tracer.html#a38963ac748f455f5439fd9e312273588" title="services::Tracer::Insert\lHeader" alt="" coords="445,123,599,164"/>
+</map>

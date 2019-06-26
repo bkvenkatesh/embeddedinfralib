@@ -1,0 +1,12 @@
+<map id="services::HttpClientBasic::HttpClientBasic" name="services::HttpClientBasic::HttpClientBasic">
+<area shape="rect" id="node2" href="$db/dae/classservices_1_1_http_client_basic.html#af98d44e6c6d129dab5f14af6502d9316" title="services::HttpClientBasic\l::Expire" alt="" coords="220,86,387,127"/>
+<area shape="rect" id="node3" href="$db/dae/classservices_1_1_http_client_basic.html#adbf11cf7b70f6aaeff6c80b205ac97dd" title="services::HttpClientBasic\l::ReportError" alt="" coords="435,53,601,94"/>
+<area shape="rect" id="node11" href="$db/dae/classservices_1_1_http_client_basic.html#a1dfe913f464b1378285ebffced34d1e5" title="services::HttpClientBasic\l::Done" alt="" coords="435,118,601,159"/>
+<area shape="rect" id="node4" href="$d5/da5/classinfra_1_1_timer.html#abf5658fb078dc1dad0705a7791f7b84c" title="infra::Timer::Cancel" alt="" coords="665,31,800,57"/>
+<area shape="rect" id="node10" href="$db/dae/classservices_1_1_http_client_basic.html#a13235ae81afcffea28aa1612a3050ed4" title="services::HttpClientBasic\l::Error" alt="" coords="649,82,816,123"/>
+<area shape="rect" id="node5" href="$d5/da5/classinfra_1_1_timer.html#a11b396e8d4300da06b8ce83624991b73" title="infra::Timer::Convert" alt="" coords="883,5,1020,32"/>
+<area shape="rect" id="node6" href="$d5/da5/classinfra_1_1_timer.html#a2b0bc71ca10c69d01f4965c576af73fd" title="infra::Timer::UnregisterSelf" alt="" coords="864,56,1039,83"/>
+<area shape="rect" id="node7" href="$da/def/classinfra_1_1_timer_service.html#a51f86cbeef8dc4866c087b68c24635d8" title="infra::TimerService\l::UnregisterTimer" alt="" coords="1087,49,1215,90"/>
+<area shape="rect" id="node8" href="$da/def/classinfra_1_1_timer_service.html#afb8a6ef3ee5ba728f1a8f232514bad8c" title="infra::TimerService\l::ComputeNextTrigger" alt="" coords="1263,49,1411,90"/>
+<area shape="rect" id="node9" href="$da/def/classinfra_1_1_timer_service.html#a6ae66196dc18d8b383ba5e0f0b6f22fa" title="infra::TimerService\l::NextTriggerChanged" alt="" coords="1459,49,1605,90"/>
+</map>

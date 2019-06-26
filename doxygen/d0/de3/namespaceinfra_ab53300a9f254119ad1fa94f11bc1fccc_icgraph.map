@@ -1,0 +1,15 @@
+<map id="infra::Now" name="infra::Now">
+<area shape="rect" id="node2" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#a94507ff8cefc3037d6695fdc82c827e3" title="services::NameResolverCache\l::Cleanup" alt="" coords="153,5,350,47"/>
+<area shape="rect" id="node6" href="$d5/dcb/classservices_1_1_repeating_button_1_1_fire_timer.html#a02028e13fbd288a5c276fa3cc0fac8fd" title="services::RepeatingButton\l::FireTimer::ComputeNextTriggerTime" alt="" coords="132,71,371,112"/>
+<area shape="rect" id="node7" href="$d8/dbd/classservices_1_1_name_lookup_win.html#afcf5c4d0f1af787356c6af874c8d0541" title="services::NameLookupWin\l::LookupIPv4" alt="" coords="163,136,339,177"/>
+<area shape="rect" id="node10" href="$d5/d9a/classservices_1_1_dns_resolver_1_1_reply_parser.html#a0585c16558767165c4fe5842007fc935" title="services::DnsResolver\l::ReplyParser::ReadAnswer" alt="" coords="160,201,343,243"/>
+<area shape="rect" id="node11" href="$d5/dcb/classservices_1_1_repeating_button_1_1_fire_timer.html#a35c1ff01ea5125e5d464aba3eeab3122" title="services::RepeatingButton\l::FireTimer::Start" alt="" coords="165,267,338,308"/>
+<area shape="rect" id="node3" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#a4bea9f7ed8aa9320e48906769a0ad9f6" title="services::NameResolverCache\l::AddToCache" alt="" coords="423,5,621,47"/>
+<area shape="rect" id="node4" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#a8d759a5e4b14b66215080996aed525c0" title="services::NameResolverCache\l::TryAddToCache" alt="" coords="673,5,871,47"/>
+<area shape="rect" id="node5" href="$d0/d0e/classservices_1_1_name_resolver_cache.html#acf7510ed181dff53bc67837c490b6062" title="services::NameResolverCache\l::NameLookupSuccess" alt="" coords="919,5,1116,47"/>
+<area shape="rect" id="node8" href="$d8/dbd/classservices_1_1_name_lookup_win.html#a94bebcaf572453651531050398cb47d8" title="services::NameLookupWin::Run" alt="" coords="419,143,625,170"/>
+<area shape="rect" id="node9" href="$d8/dbd/classservices_1_1_name_lookup_win.html#ae00677ab7da6b7f7e2aba8eef6804504" title="services::NameLookupWin\l::NameLookupWin" alt="" coords="684,136,860,177"/>
+<area shape="rect" id="node12" href="$d0/d08/classservices_1_1_repeating_button.html#a18153734f98c67f2096d641f5fb8d66f" title="services::RepeatingButton\l::ButtonPressed" alt="" coords="435,267,609,308"/>
+<area shape="rect" id="node13" href="$d0/d08/classservices_1_1_repeating_button.html#af9db5b4934e4610beb5e5071de6c58b7" title="services::RepeatingButton\l::ButtonChanged" alt="" coords="685,267,859,308"/>
+<area shape="rect" id="node14" href="$d0/d08/classservices_1_1_repeating_button.html#aa38e30277c5df615ae1a86617c4127c0" title="services::RepeatingButton\l::RepeatingButton" alt="" coords="931,267,1104,308"/>
+</map>

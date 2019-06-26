@@ -1,0 +1,6 @@
+<map id="infra::StreamWriter::Available" name="infra::StreamWriter::Available">
+<area shape="rect" id="node2" href="$dd/d12/classinfra_1_1_limited_stream_writer.html#abbef6d7854a806d066a4d3401ad0dc61" title="infra::LimitedStreamWriter\l::Available" alt="" coords="184,5,357,47"/>
+<area shape="rect" id="node3" href="$d6/d97/classinfra_1_1_output_stream.html#a160033d48f996dddc2b36ce2b54a15c8" title="infra::OutputStream\l::Available" alt="" coords="203,71,338,112"/>
+<area shape="rect" id="node4" href="$db/dd6/classservices_1_1_http_client_impl.html#a7ec7fae3b23475b2e2c3516ed77f4050" title="services::HttpClientImpl\l::ForwardStream" alt="" coords="191,136,350,177"/>
+<area shape="rect" id="node5" href="$db/dd6/classservices_1_1_http_client_impl.html#a9bbe9de98aa556cba3337c0d75692f5c" title="services::HttpClientImpl\l::SendStreamAvailable" alt="" coords="405,136,564,177"/>
+</map>

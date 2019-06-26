@@ -1,0 +1,8 @@
+<map id="services::SynchronousFlashQuadSpi::SynchronousFlashQuadSpi" name="services::SynchronousFlashQuadSpi::SynchronousFlashQuadSpi">
+<area shape="rect" id="node2" href="$d0/de3/namespaceinfra.html#ae4478bf95f90ceb679642cb4180f205f" title="infra::MakeByteRange" alt="" coords="303,71,454,98"/>
+<area shape="rect" id="node7" href="$db/dce/classhal_1_1_synchronous_quad_spi.html#a07be84e05493f23c4cf11b97318f3f11" title="hal::SynchronousQuadSpi\l::SendData" alt="" coords="292,123,465,164"/>
+<area shape="rect" id="node3" href="$d0/de3/namespaceinfra.html#afe38b7d4318537de2f28b244211c4275" title="infra::MakeRange" alt="" coords="537,42,660,69"/>
+<area shape="rect" id="node6" href="$d0/de3/namespaceinfra.html#a74203fdf2e029d2667c7e4925092cc9a" title="infra::ReinterpretCastByte\lRange" alt="" coords="513,93,684,135"/>
+<area shape="rect" id="node4" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#aef23e4250cad2fdc69ccc39f68734233" title="infra::BoundedStringBase\l::begin" alt="" coords="747,5,916,47"/>
+<area shape="rect" id="node5" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#af5021f1ea3898146d0a55c2895f07dbf" title="infra::BoundedStringBase::end" alt="" coords="732,71,931,98"/>
+</map>

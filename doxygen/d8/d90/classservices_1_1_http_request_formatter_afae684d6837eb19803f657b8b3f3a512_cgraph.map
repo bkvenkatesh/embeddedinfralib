@@ -1,0 +1,6 @@
+<map id="services::HttpRequestFormatter::Size" name="services::HttpRequestFormatter::Size">
+<area shape="rect" id="node2" href="$d8/d90/classservices_1_1_http_request_formatter.html#a4301fa6ce5463d0ec7554b6894f51b43" title="services::HttpRequestFormatter\l::HeadersSize" alt="" coords="259,5,464,47"/>
+<area shape="rect" id="node4" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#aab36b8eaee21d6ab3be734e07f499382" title="infra::BoundedStringBase\l::size" alt="" coords="703,35,872,76"/>
+<area shape="rect" id="node5" href="$db/d91/namespaceservices.html#a079b637015ea89d88594281879c3a5d1" title="services::HttpVerbToString" alt="" coords="273,122,449,149"/>
+<area shape="rect" id="node3" href="$df/dab/classservices_1_1_http_header.html#a7b88d823b914f628ccb38898d568d61e" title="services::HttpHeader\l::Size" alt="" coords="512,5,655,47"/>
+</map>

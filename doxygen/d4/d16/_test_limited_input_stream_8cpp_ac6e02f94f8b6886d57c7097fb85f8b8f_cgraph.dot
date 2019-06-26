@@ -1,0 +1,24 @@
+digraph "TEST"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node41 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node41 -> Node42 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node42 [label="infra::LimitedStreamReader\l::Empty",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/db6/classinfra_1_1_limited_stream_reader.html#a6d3dda05504bcef945ca914e989a0dc9"];
+  Node42 -> Node43 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node43 [label="infra::StreamReader\l::Empty",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d90/classinfra_1_1_stream_reader.html#a072ccaa780dbf7599fa984a0d1ff7413"];
+  Node41 -> Node44 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node44 [label="EXPECT_EQ",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/def/_test_json_8cpp.html#a82745227e2f0a8edbb4ae630d88a8e86"];
+  Node41 -> Node45 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node45 [label="EXPECT_FALSE",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/def/_test_json_8cpp.html#ac7ef10ed7113236e5f3dfce13707224e"];
+  Node41 -> Node46 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node46 [label="infra::MakeRange",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/de3/namespaceinfra.html#afe38b7d4318537de2f28b244211c4275"];
+  Node46 -> Node47 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node47 [label="infra::BoundedStringBase\l::begin",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2a/classinfra_1_1_bounded_string_base.html#aef23e4250cad2fdc69ccc39f68734233"];
+  Node46 -> Node48 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node48 [label="infra::BoundedStringBase::end",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2a/classinfra_1_1_bounded_string_base.html#af5021f1ea3898146d0a55c2895f07dbf"];
+  Node41 -> Node49 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node49 [label="infra::LimitedStreamReader\l::PeekContiguousRange",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/db6/classinfra_1_1_limited_stream_reader.html#a665de8887efbe954c2ac1eabb32fd149"];
+}

@@ -1,0 +1,5 @@
+<map id="services::I2cMultipleAccess::SendData" name="services::I2cMultipleAccess::SendData">
+<area shape="rect" id="node2" href="$d3/dda/classservices_1_1_i2c_multiple_access.html#aa3b4e20bf507918669973bc14d66b9a8" title="services::I2cMultipleAccess\l::SendDataOnClaimed" alt="" coords="236,5,419,47"/>
+<area shape="rect" id="node3" href="$de/d17/classservices_1_1_i2c_multiple_access_master.html#a13868de3dab049a8c449317b490ff928" title="services::I2cMultipleAccess\lMaster::SendData" alt="" coords="467,5,649,47"/>
+<area shape="rect" id="node4" href="$df/d85/classhal_1_1_i2c_master.html#ab152144a421836b199f970024ce5f44c" title="hal::I2cMaster::SendData" alt="" coords="697,13,867,39"/>
+</map>

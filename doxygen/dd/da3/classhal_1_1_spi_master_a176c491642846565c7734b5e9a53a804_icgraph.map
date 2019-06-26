@@ -1,0 +1,7 @@
+<map id="hal::SpiMaster::ResetCommunicationConfigurator" name="hal::SpiMaster::ResetCommunicationConfigurator">
+<area shape="rect" id="node2" href="$d4/d41/classservices_1_1_spi_master_with_chip_select.html#a0622c384b311fb814aef531d96fc5224" title="services::SpiMasterWithChip\lSelect::ResetCommunicationConfigurator" alt="" coords="293,5,553,47"/>
+<area shape="rect" id="node3" href="$d0/d6b/classservices_1_1_spi_multiple_access_master.html#aa6220b410bef80bf4616c2b50d398a8b" title="services::SpiMultipleAccess\lMaster::ResetCommunicationConfigurator" alt="" coords="292,71,555,112"/>
+<area shape="rect" id="node6" href="$db/d18/classhal_1_1_low_power_spi_master.html#aca1e48579a83019c4312be15d9f3beaf" title="hal::LowPowerSpiMaster\l::ResetCommunicationConfigurator" alt="" coords="312,136,535,177"/>
+<area shape="rect" id="node4" href="$d9/d2d/classservices_1_1_spi_multiple_access.html#a3395b2a1dcc5d0cd7ff24f30011f800e" title="services::SpiMultipleAccess\l::SendAndReceiveOnClaimed" alt="" coords="603,71,795,112"/>
+<area shape="rect" id="node5" href="$d9/d2d/classservices_1_1_spi_multiple_access.html#a88befdf785d01e504a686609a242f7b5" title="services::SpiMultipleAccess\l::SendAndReceive" alt="" coords="843,71,1028,112"/>
+</map>

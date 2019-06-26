@@ -1,0 +1,9 @@
+<map id="infra::CountingDataInputStream" name="infra::CountingDataInputStream">
+<area shape="rect" id="node2" href="$d8/def/classinfra_1_1_data_input_stream_1_1_with_reader.html" title="infra::DataInputStream\l::WithReader\&lt; CountingStream\lReader \&gt;" alt="" coords="1123,25,1325,81"/>
+<area shape="rect" id="node3" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; CountingStreamReader, WithReader\l\&lt; CountingStreamReader \&gt; \&gt;" alt="" coords="829,112,1073,168"/>
+<area shape="rect" id="node4" href="$d1/dc1/classinfra_1_1_counting_stream_reader.html" title="infra::CountingStreamReader" alt="" coords="527,181,715,208"/>
+<area shape="rect" id="node5" href="$d2/d90/classinfra_1_1_stream_reader.html" title="infra::StreamReader" alt="" coords="233,181,370,208"/>
+<area shape="rect" id="node11" href="$db/dda/classinfra_1_1_input_stream.html" title="infra::InputStream" alt="" coords="559,40,683,67"/>
+<area shape="rect" id="node6" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="221,59,381,85"/>
+<area shape="rect" id="node10" href="$d0/db4/classinfra_1_1_data_input_stream.html" title="infra::DataInputStream" alt="" coords="876,40,1027,67"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="services::ConnectionSerial::TryConstructHeader" name="services::ConnectionSerial::TryConstructHeader">
+<area shape="rect" id="node2" href="$db/de0/classinfra_1_1_queue_for_one_reader_one_irq_writer.html#ac5d69da54e3c91602f13164262424007" title="infra::QueueForOneReader\lOneIrqWriter::Consume" alt="" coords="228,5,404,47"/>
+<area shape="rect" id="node3" href="$db/de0/classinfra_1_1_queue_for_one_reader_one_irq_writer.html#a7aba41b19d15b485af1c84e09fb73233" title="infra::QueueForOneReader\lOneIrqWriter::Empty" alt="" coords="228,71,404,112"/>
+</map>

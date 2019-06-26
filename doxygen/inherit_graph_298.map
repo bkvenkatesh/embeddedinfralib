@@ -1,0 +1,3 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d0/d38/structinfra_1_1_multiply_two_unit_lists_3_01_list_3_01_unit1_first_00_01_unit1_others_8_8_8_01_457a89bb5e8295dc5f26324f7d6dcd142.html" title="infra::MultiplyTwoUnitLists\l\&lt; List\&lt; Unit1First, Unit1Others...\l \&gt;, List\&lt; Unit2First, Unit2Others...\l \&gt;, typename std::enable_if\&lt;(Unit1First\l::identifier==Unit2First::identifier &amp;&amp;Unit1First\l::dimension+Unit2First::dimension !=0)\&gt;::type\l \&gt;::AddUnit\&lt; Base1, Base2 \&gt;" alt="" coords="5,5,292,120"/>
+</map>

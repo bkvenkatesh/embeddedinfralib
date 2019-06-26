@@ -1,0 +1,5 @@
+<map id="services::ConnectionWin::UpdateEventFlags" name="services::ConnectionWin::UpdateEventFlags">
+<area shape="rect" id="node2" href="$db/d8b/classservices_1_1_connection_win.html#afa1b3bc6eca0e83e1ce0b1f607de2dfe" title="services::ConnectionWin\l::ConnectionWin" alt="" coords="219,5,384,47"/>
+<area shape="rect" id="node3" href="$db/d8b/classservices_1_1_connection_win.html#aa7aa4096aa674d9d564d99c365e865f8" title="services::ConnectionWin\l::Send" alt="" coords="219,71,384,112"/>
+<area shape="rect" id="node4" href="$db/d8b/classservices_1_1_connection_win.html#aad7f5b3d01110daf5b57e1c6ad734f40" title="services::ConnectionWin\l::TrySend" alt="" coords="432,71,597,112"/>
+</map>

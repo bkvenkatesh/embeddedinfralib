@@ -1,0 +1,5 @@
+<map id="hal::SynchronousRandomDataGenerator::GenerateRandomData" name="hal::SynchronousRandomDataGenerator::GenerateRandomData">
+<area shape="rect" id="node2" href="$de/dcb/classservices_1_1_connection_mbed_tls.html#a6c62b8f7004e7a5d642ef0072c83327a" title="services::ConnectionMbed\lTls::GenerateRandomData" alt="" coords="268,5,443,47"/>
+<area shape="rect" id="node3" href="$de/dcb/classservices_1_1_connection_mbed_tls.html#a4368cc88a9ba97b105c9c6901f75a139" title="services::ConnectionMbed\lTls::StaticGenerateRandomData" alt="" coords="491,5,700,47"/>
+<area shape="rect" id="node4" href="$de/dcb/classservices_1_1_connection_mbed_tls.html#acf19a06bdccfde3f96a44a9f36b4a129" title="services::ConnectionMbed\lTls::ConnectionMbedTls" alt="" coords="748,5,923,47"/>
+</map>

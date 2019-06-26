@@ -1,0 +1,12 @@
+digraph "testing::Matcher&lt; const infra::BoundedStringBase&lt; T &gt;::WithStorage&lt; Size &gt; &amp; &gt;::Matcher"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node6 [label="testing::Matcher\< const\l infra::BoundedStringBase\l\< T \>::WithStorage\< Size\l \> & \>::Matcher",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="infra::BoundedStringBase\l::data",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2a/classinfra_1_1_bounded_string_base.html#a57455846718e9b0d57f2c89ae6a6924e"];
+  Node6 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="infra::BoundedStringBase\l::size",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2a/classinfra_1_1_bounded_string_base.html#aab36b8eaee21d6ab3be734e07f499382"];
+}

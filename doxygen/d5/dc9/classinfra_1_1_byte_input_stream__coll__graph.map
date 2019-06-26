@@ -1,0 +1,11 @@
+<map id="infra::ByteInputStream" name="infra::ByteInputStream">
+<area shape="rect" id="node2" href="$d8/def/classinfra_1_1_data_input_stream_1_1_with_reader.html" title="infra::DataInputStream\l::WithReader\&lt; ByteInputStream\lReader \&gt;" alt="" coords="1236,79,1443,135"/>
+<area shape="rect" id="node3" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; ByteInputStreamReader,\l WithReader\&lt; ByteInputStreamReader \&gt; \&gt;" alt="" coords="919,161,1187,217"/>
+<area shape="rect" id="node4" href="$db/d2a/classinfra_1_1_byte_input_stream_reader.html" title="infra::ByteInputStreamReader" alt="" coords="612,216,804,243"/>
+<area shape="rect" id="node5" href="$d0/d1b/classinfra_1_1_stream_reader_with_rewinding.html" title="infra::StreamReaderWithRewinding" alt="" coords="275,224,497,251"/>
+<area shape="rect" id="node6" href="$d2/d90/classinfra_1_1_stream_reader.html" title="infra::StreamReader" alt="" coords="5,149,143,176"/>
+<area shape="rect" id="node11" href="$db/dda/classinfra_1_1_input_stream.html" title="infra::InputStream" alt="" coords="646,93,770,120"/>
+<area shape="rect" id="node7" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; const uint8_t \&gt;" alt="" coords="317,275,455,317"/>
+<area shape="rect" id="node10" href="$d0/db4/classinfra_1_1_data_input_stream.html" title="infra::DataInputStream" alt="" coords="977,93,1128,120"/>
+<area shape="rect" id="node12" href="$d5/d4a/classinfra_1_1_stream_error_policy.html" title="infra::StreamErrorPolicy" alt="" coords="306,47,466,73"/>
+</map>

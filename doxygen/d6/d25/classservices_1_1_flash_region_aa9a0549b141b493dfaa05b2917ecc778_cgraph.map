@@ -1,0 +1,6 @@
+<map id="services::FlashRegion::WriteBuffer" name="services::FlashRegion::WriteBuffer">
+<area shape="rect" id="node2" href="$d6/d25/classservices_1_1_flash_region.html#a4d72a45f48db62bc3470c62a18d88987" title="services::FlashRegion\l::SectorOfAddress" alt="" coords="203,5,353,47"/>
+<area shape="rect" id="node4" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="209,71,347,112"/>
+<area shape="rect" id="node5" href="$dd/d95/classhal_1_1_flash.html#afe92eb7daa1043f56eac569140d018f9" title="hal::Flash::WriteBuffer" alt="" coords="203,137,353,163"/>
+<area shape="rect" id="node3" href="$dd/d95/classhal_1_1_flash.html#a8fdc674c7384cdfb555cad2201848751" title="hal::Flash::SectorOfAddress" alt="" coords="401,13,588,39"/>
+</map>

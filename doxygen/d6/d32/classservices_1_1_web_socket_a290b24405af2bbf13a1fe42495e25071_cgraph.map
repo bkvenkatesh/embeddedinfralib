@@ -1,0 +1,5 @@
+<map id="services::WebSocket::UpgradeHeaders" name="services::WebSocket::UpgradeHeaders">
+<area shape="rect" id="node2" href="$dc/de7/classinfra_1_1_bounded_vector.html#a80626396ed029f8666f177a07797a2e4" title="infra::BoundedVector\l::max_size" alt="" coords="199,5,341,47"/>
+<area shape="rect" id="node3" href="$dc/de7/classinfra_1_1_bounded_vector.html#a17cb2ff4e6291f156cb5a41cca1b4edf" title="infra::BoundedVector\l::push_back" alt="" coords="199,71,341,112"/>
+<area shape="rect" id="node4" href="$dc/de7/classinfra_1_1_bounded_vector.html#a605f344af39e74f48bb205c86f57b5da" title="infra::BoundedVector\l::size" alt="" coords="199,136,341,177"/>
+</map>

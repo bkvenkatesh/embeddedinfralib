@@ -1,0 +1,10 @@
+<map id="infra::Tokenizer::SkipTokens" name="infra::Tokenizer::SkipTokens">
+<area shape="rect" id="node2" href="$d6/dbd/classinfra_1_1_tokenizer.html#a9fea0107788ee101b1718a3cf526af72" title="infra::Tokenizer::Token" alt="" coords="265,143,418,170"/>
+<area shape="rect" id="node8" href="$d6/dbd/classinfra_1_1_tokenizer.html#a2bcff585f8e467856e03443fac87e811" title="infra::Tokenizer::TokenAndRest" alt="" coords="240,217,443,243"/>
+<area shape="rect" id="node3" href="$d1/d68/classservices_1_1_http_client_impl_1_1_http_response_parser.html#a03728efaf9cbc991702311c178f460e9" title="services::HttpClientImpl\l::HttpResponseParser::ParseStatusLine" alt="" coords="491,5,745,47"/>
+<area shape="rect" id="node4" href="$d1/d68/classservices_1_1_http_client_impl_1_1_http_response_parser.html#ab86e0af86e056eae73398d07d0460d93" title="services::HttpClientImpl\l::HttpResponseParser::HeaderFrom\lString" alt="" coords="503,202,733,258"/>
+<area shape="rect" id="node5" href="$d2/d29/classservices_1_1_http_request_parser_impl.html#a9eeee4c3c375323c0bc2b6a80157aa9e" title="services::HttpRequestParser\lImpl::FindVerb" alt="" coords="525,71,711,112"/>
+<area shape="rect" id="node7" href="$d2/d29/classservices_1_1_http_request_parser_impl.html#ac4dd3a05dbd4289b4f12f85bd444f0d5" title="services::HttpRequestParser\lImpl::FindPath" alt="" coords="525,136,711,177"/>
+<area shape="rect" id="node6" href="$d2/d29/classservices_1_1_http_request_parser_impl.html#a0cbb30e51fa49af4b15ec76f087c2725" title="services::HttpRequestParser\lImpl::HttpRequestParserImpl" alt="" coords="793,104,981,145"/>
+<area shape="rect" id="node9" href="$dc/d21/classapplication_1_1_time_http_page.html#af17a5ba6cfabcd21b064ace7b48f4cc7" title="application::TimeHttpPage\l::ServesRequest" alt="" coords="531,283,705,324"/>
+</map>

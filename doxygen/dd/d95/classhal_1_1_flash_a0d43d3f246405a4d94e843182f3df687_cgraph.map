@@ -1,0 +1,5 @@
+<map id="hal::Flash::TotalSize" name="hal::Flash::TotalSize">
+<area shape="rect" id="node2" href="$dd/d95/classhal_1_1_flash.html#a57e55c9b32c2eacb23e8a4e9dcb3133f" title="hal::Flash::AddressOfSector" alt="" coords="197,5,383,32"/>
+<area shape="rect" id="node3" href="$dd/d95/classhal_1_1_flash.html#a95a53addc25efb18fe295f5124c29a25" title="hal::Flash::NumberOfSectors" alt="" coords="195,56,385,83"/>
+<area shape="rect" id="node4" href="$dd/d95/classhal_1_1_flash.html#aa68cb41a2cbe038e3bff43597665ff79" title="hal::Flash::SizeOfSector" alt="" coords="208,107,372,133"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="services::SpiMultipleAccessMaster" name="services::SpiMultipleAccessMaster">
+<area shape="rect" id="node2" href="$dd/da3/classhal_1_1_spi_master.html" title="hal::SpiMaster" alt="" coords="1063,8,1170,35"/>
+<area shape="rect" id="node3" href="$d0/d93/classinfra_1_1_claimable_resource.html" title="infra::ClaimableResource" alt="" coords="1033,148,1200,175"/>
+<area shape="rect" id="node4" href="$da/d20/classinfra_1_1_claimable_resource_1_1_claimer_base.html" title="infra::ClaimableResource\l::ClaimerBase" alt="" coords="1439,213,1605,254"/>
+<area shape="rect" id="node5" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; ClaimerBase \&gt;::NodeType" alt="" coords="487,241,673,282"/>
+<area shape="rect" id="node9" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; T \&gt;" alt="" coords="278,57,418,98"/>
+<area shape="rect" id="node8" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; infra::ClaimableResource\l::ClaimerBase \&gt;" alt="" coords="697,115,876,171"/>
+<area shape="rect" id="node10" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; infra::ClaimableResource\l::ClaimerBase \&gt;" alt="" coords="233,176,463,232"/>
+<area shape="rect" id="node12" href="$d1/d81/classhal_1_1_communication_configurator.html" title="hal::CommunicationConfigurator" alt="" coords="1013,73,1220,100"/>
+</map>

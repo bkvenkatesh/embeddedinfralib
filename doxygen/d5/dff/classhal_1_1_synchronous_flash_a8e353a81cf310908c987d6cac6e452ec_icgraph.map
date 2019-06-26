@@ -1,0 +1,12 @@
+<map id="hal::SynchronousFlash::ReadBuffer" name="hal::SynchronousFlash::ReadBuffer">
+<area shape="rect" id="node2" href="$d7/da5/classapplication_1_1_pack_upgrader.html#a957e7abb31d8706b10626956667181f0" title="application::PackUpgrader\l::HasImage" alt="" coords="447,22,621,63"/>
+<area shape="rect" id="node3" href="$d7/da5/classapplication_1_1_pack_upgrader.html#a9ee6bab793ffb4686cbfd30356aac7c3" title="application::PackUpgrader\l::IsImage" alt="" coords="216,51,391,92"/>
+<area shape="rect" id="node4" href="$d4/db0/classapplication_1_1_verifier_ec_dsa.html#a54fbda6920046caa6d9e0748789c602a" title="application::VerifierEcDsa\l::IsValid" alt="" coords="218,116,389,158"/>
+<area shape="rect" id="node5" href="$d0/d46/classapplication_1_1_verifier_rsa.html#a2e77d54725a732ab3cb51f1eb5739ed3" title="application::VerifierRsa\l::IsValid" alt="" coords="226,182,381,223"/>
+<area shape="rect" id="node6" href="$d5/dc9/classapplication_1_1_second_stage_to_ram_loader.html#a80d50e315681e442cdce991d9185340c" title="application::SecondStage\lToRamLoader::Load" alt="" coords="449,350,619,391"/>
+<area shape="rect" id="node7" href="$d0/d97/classservices_1_1_synchronous_flash_region.html#a7b36ad4ff58827013f2d093089d43af3" title="services::SynchronousFlash\lRegion::ReadBuffer" alt="" coords="211,299,396,340"/>
+<area shape="rect" id="node8" href="$d5/dc9/classapplication_1_1_second_stage_to_ram_loader.html#a6eaba267be0f1fc5c12c3e4002d0fd78" title="application::SecondStage\lToRamLoader::TryLoadImage" alt="" coords="208,364,399,406"/>
+<area shape="rect" id="node9" href="$d7/da5/classapplication_1_1_pack_upgrader.html#a1337cb46d527469775a711277a01e516" title="application::PackUpgrader\l::TryUpgradeImage" alt="" coords="216,430,391,471"/>
+<area shape="rect" id="node10" href="$d7/da5/classapplication_1_1_pack_upgrader.html#aff7dca5e5b0c0c6ebbed6753cfc0f50a" title="application::PackUpgrader\l::UpgradeFromImages" alt="" coords="447,444,621,486"/>
+<area shape="rect" id="node11" href="$d7/d5d/classapplication_1_1_image_upgrader_internal_flash.html#a5930f5460a6be09433e3c5ecc18062a0" title="application::ImageUpgrader\lInternalFlash::Upgrade" alt="" coords="214,547,393,588"/>
+</map>

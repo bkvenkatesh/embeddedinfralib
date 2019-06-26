@@ -1,0 +1,5 @@
+<map id="services::NameResolverResult" name="services::NameResolverResult">
+<area shape="rect" id="node3" href="$dd/d6b/classservices_1_1_connection_factory_with_name_resolver_impl_1_1_action.html" title="services::ConnectionFactory\lWithNameResolverImpl::Action" alt="" coords="453,5,655,47"/>
+<area shape="rect" id="node4" href="$d4/d34/classservices_1_1_name_resolver_cache_1_1_active_lookup.html" title="services::NameResolverCache\l::ActiveLookup" alt="" coords="455,71,653,112"/>
+<area shape="rect" id="node2" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; NameResolverResult\l \&gt;::NodeType" alt="" coords="5,31,160,87"/>
+</map>

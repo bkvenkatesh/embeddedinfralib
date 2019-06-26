@@ -1,0 +1,4 @@
+<map id="services::SingleConnectionHttpServer::SingleConnectionHttpServer" name="services::SingleConnectionHttpServer::SingleConnectionHttpServer">
+<area shape="rect" id="node2" href="$db/db4/classservices_1_1_connection_factory.html#a8078b56318c87528f3ad3ff0f3090820" title="services::ConnectionFactory\l::Listen" alt="" coords="277,5,464,47"/>
+<area shape="rect" id="node3" href="$d6/dda/classservices_1_1_single_connection_http_server.html#afd8f05810f3c4ad76d08da9eb34c159e" title="services::SingleConnection\lHttpServer::ObserverAllocatable" alt="" coords="268,71,473,112"/>
+</map>

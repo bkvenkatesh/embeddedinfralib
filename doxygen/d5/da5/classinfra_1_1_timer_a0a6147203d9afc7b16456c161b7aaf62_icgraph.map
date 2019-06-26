@@ -1,0 +1,18 @@
+<map id="infra::Timer::Now" name="infra::Timer::Now">
+<area shape="rect" id="node2" href="$db/d9e/classinfra_1_1_timer_limited_repeating.html#aad715048de6f39f1fdb691a2ebf465b9" title="infra::TimerLimitedRepeating\l::ComputeNextTriggerTime" alt="" coords="220,5,407,47"/>
+<area shape="rect" id="node3" href="$db/d9e/classinfra_1_1_timer_limited_repeating.html#a9b10d097885e6940c419ddbb62502939" title="infra::TimerLimitedRepeating\l::Start" alt="" coords="503,57,689,99"/>
+<area shape="rect" id="node5" href="$df/d93/classinfra_1_1_timer_limited_repeating_with_closing_action.html#a0d8d9ed0cdc1f0802a79c9acf9ec1f84" title="infra::TimerLimitedRepeating\lWithClosingAction::ComputeNextTriggerTime" alt="" coords="172,123,455,164"/>
+<area shape="rect" id="node6" href="$df/d93/classinfra_1_1_timer_limited_repeating_with_closing_action.html#a260a7dcf1446a2456aa93e8cfccf73f7" title="infra::TimerLimitedRepeating\lWithClosingAction::Start" alt="" coords="503,152,689,193"/>
+<area shape="rect" id="node8" href="$d3/d9e/classinfra_1_1_timer_repeating.html#acef61c6675df5a97b7c6ea1f8325adbe" title="infra::TimerRepeating\l::ComputeNextTriggerTime" alt="" coords="225,240,401,281"/>
+<area shape="rect" id="node10" href="$d3/d9e/classinfra_1_1_timer_repeating.html#ad2eeb1fcc08e3eab3ceb404e2338597b" title="infra::TimerRepeating\l::Start" alt="" coords="771,269,915,311"/>
+<area shape="rect" id="node13" href="$d0/d7e/classinfra_1_1_timer_evolving.html#a5635a0cace39581c32bb3e488f83854c" title="infra::TimerEvolving\l::Start" alt="" coords="247,357,379,399"/>
+<area shape="rect" id="node15" href="$d9/dec/classinfra_1_1_timer_alternating.html#a19acbb208e43bd8cc6bdf6c110830095" title="infra::TimerAlternating\l::Start" alt="" coords="239,423,387,464"/>
+<area shape="rect" id="node17" href="$d8/d87/classinfra_1_1_timer_single_shot.html#ab75faf32e89fe9f1f1aed1d7d5b28287" title="infra::TimerSingleShot\l::Start" alt="" coords="239,488,388,529"/>
+<area shape="rect" id="node4" href="$db/d9e/classinfra_1_1_timer_limited_repeating.html#a791dd159790bfc74601eb909ea9594fa" title="infra::TimerLimitedRepeating\l::TimerLimitedRepeating" alt="" coords="749,57,936,99"/>
+<area shape="rect" id="node7" href="$df/d93/classinfra_1_1_timer_limited_repeating_with_closing_action.html#ae946a652778084b2413971986f5f0f52" title="infra::TimerLimitedRepeating\lWithClosingAction::TimerLimited\lRepeatingWithClosingAction" alt="" coords="737,145,948,201"/>
+<area shape="rect" id="node9" href="$d3/d9e/classinfra_1_1_timer_repeating.html#aa967ed7eba7a60ca38ac6f9dd9bc4987" title="infra::TimerRepeating\l::SetDuration" alt="" coords="524,240,668,281"/>
+<area shape="rect" id="node11" href="$d3/d9e/classinfra_1_1_timer_repeating.html#aa9d1504266e538abb13f5d8209bc48e6" title="infra::TimerRepeating\l::TimerRepeating" alt="" coords="996,236,1140,277"/>
+<area shape="rect" id="node12" href="$d3/d9e/classinfra_1_1_timer_repeating.html#a04e65f09da5c159f0a7834c237027cee" title="infra::TimerRepeating\l::Start" alt="" coords="996,301,1140,343"/>
+<area shape="rect" id="node14" href="$d0/d7e/classinfra_1_1_timer_evolving.html#ab19975502faf4280dc2e25a22f6d6e92" title="infra::TimerEvolving\l::TimerEvolving" alt="" coords="530,357,662,399"/>
+<area shape="rect" id="node16" href="$d9/dec/classinfra_1_1_timer_alternating.html#a159973a5309091eb4f916dd3c80b4650" title="infra::TimerAlternating\l::TimerAlternating" alt="" coords="522,423,670,464"/>
+</map>

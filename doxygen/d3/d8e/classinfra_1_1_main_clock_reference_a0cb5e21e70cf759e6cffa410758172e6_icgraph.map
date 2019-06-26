@@ -1,0 +1,4 @@
+<map id="infra::MainClockReference::Refere" name="infra::MainClockReference::Refere">
+<area shape="rect" id="node2" href="$db/d18/classhal_1_1_low_power_spi_master.html#afa5fe26597f0b29449201319d5039e76" title="hal::LowPowerSpiMaster\l::SendAndReceive" alt="" coords="259,5,424,47"/>
+<area shape="rect" id="node3" href="$df/da6/classhal_1_1_low_power_serial_communication.html#ae5f98b9e74b31d06991f899931e76ceb" title="hal::LowPowerSerialCommunication\l::SendData" alt="" coords="227,71,456,112"/>
+</map>

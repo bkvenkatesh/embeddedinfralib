@@ -1,0 +1,6 @@
+<map id="hal::I2cMasterRegisterAccess" name="hal::I2cMasterRegisterAccess">
+<area shape="rect" id="node2" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; const uint8_t \&gt;" alt="" coords="259,14,398,55"/>
+<area shape="rect" id="node4" href="$da/d07/classinfra_1_1_function.html" title="infra::Function\&lt; void()\&gt;" alt="" coords="251,80,406,107"/>
+<area shape="rect" id="node5" href="$da/d60/classhal_1_1_i2c_address.html" title="hal::I2cAddress" alt="" coords="273,131,385,157"/>
+<area shape="rect" id="node9" href="$df/d85/classhal_1_1_i2c_master.html" title="hal::I2cMaster" alt="" coords="277,283,381,309"/>
+</map>

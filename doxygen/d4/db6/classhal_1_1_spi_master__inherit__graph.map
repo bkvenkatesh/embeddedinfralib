@@ -1,0 +1,6 @@
+<map id="hal::SpiMaster" name="hal::SpiMaster">
+<area shape="rect" id="node2" href="$db/d18/classhal_1_1_low_power_spi_master.html" title="hal::LowPowerSpiMaster" alt="" coords="172,5,337,32"/>
+<area shape="rect" id="node3" href="$d4/d41/classservices_1_1_spi_master_with_chip_select.html" title="services::SpiMasterWithChip\lSelect" alt="" coords="160,57,349,98"/>
+<area shape="rect" id="node4" href="$d9/d2d/classservices_1_1_spi_multiple_access.html" title="services::SpiMultipleAccess" alt="" coords="162,123,347,149"/>
+<area shape="rect" id="node5" href="$d0/d6b/classservices_1_1_spi_multiple_access_master.html" title="services::SpiMultipleAccess\lMaster" alt="" coords="162,174,347,215"/>
+</map>

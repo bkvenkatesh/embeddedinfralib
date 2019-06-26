@@ -1,0 +1,8 @@
+<map id="services::FactoryDefaultConfigurationStoreBase::Write" name="services::FactoryDefaultConfigurationStoreBase::Write">
+<area shape="rect" id="node2" href="$d4/dc9/classservices_1_1_configuration_store_base.html#a3f4f36d27ca7dba5f93547df908f98a7" title="services::ConfigurationStore\lBase::Write" alt="" coords="215,93,397,134"/>
+<area shape="rect" id="node3" href="$d4/dc9/classservices_1_1_configuration_store_base.html#a98f71c00b571f3c5f9d58bb8192f85fa" title="services::ConfigurationStore\lBase::BlobWriteDone" alt="" coords="445,27,628,69"/>
+<area shape="rect" id="node6" href="$d1/da2/classservices_1_1_configuration_blob.html#a279b97e0a18250115b470e71b57dad3e" title="services::ConfigurationBlob\l::Erase" alt="" coords="447,93,626,134"/>
+<area shape="rect" id="node7" href="$d4/dc9/classservices_1_1_configuration_store_base.html#a190f61ac910e9c41edbf4b0c57a98a84" title="services::ConfigurationStore\lBase::Serialize" alt="" coords="445,158,628,199"/>
+<area shape="rect" id="node4" href="$d0/de3/namespaceinfra.html#a032811931ada58a358282ecfcfd58de5" title="infra::swap" alt="" coords="725,5,809,32"/>
+<area shape="rect" id="node5" href="$d4/dc9/classservices_1_1_configuration_store_base.html#a8457cc48e1bddf54171324635e2b4743" title="services::ConfigurationStore\lBase::Write" alt="" coords="676,57,859,98"/>
+</map>

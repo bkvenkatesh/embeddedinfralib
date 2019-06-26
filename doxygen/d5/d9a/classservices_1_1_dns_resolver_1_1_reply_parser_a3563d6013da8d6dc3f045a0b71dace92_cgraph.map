@@ -1,0 +1,5 @@
+<map id="services::DnsResolver::ReplyParser::AnswerIsForCurrentQuery" name="services::DnsResolver::ReplyParser::AnswerIsForCurrentQuery">
+<area shape="rect" id="node2" href="$db/d91/namespaceservices.html#ab48dbf3328a1050d7c8aaef6b48ac26a" title="services::GetAddress" alt="" coords="276,31,423,57"/>
+<area shape="rect" id="node3" href="$da/d2a/classinfra_1_1_variant.html#a5c22ee95a815d91911bf3ce196c852a0" title="infra::Variant::Get" alt="" coords="471,5,595,32"/>
+<area shape="rect" id="node4" href="$da/d2a/classinfra_1_1_variant.html#a6d0669e4f430569c9019345cfab21a8e" title="infra::Variant::Is" alt="" coords="476,56,589,83"/>
+</map>

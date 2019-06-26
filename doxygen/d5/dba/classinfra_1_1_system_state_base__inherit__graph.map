@@ -1,0 +1,7 @@
+<map id="infra::SystemStateBase" name="infra::SystemStateBase">
+<area shape="rect" id="node2" href="$d4/d87/classinfra_1_1_system_state.html" title="infra::SystemState\l\&lt; Derived \&gt;" alt="" coords="215,5,346,47"/>
+<area shape="rect" id="node3" href="$d4/d87/classinfra_1_1_system_state.html" title="infra::SystemState\l\&lt; StateInitializing \&gt;" alt="" coords="213,71,348,112"/>
+<area shape="rect" id="node5" href="$d4/d87/classinfra_1_1_system_state.html" title="infra::SystemState\l\&lt; StateRunning \&gt;" alt="" coords="215,136,346,177"/>
+<area shape="rect" id="node4" href="$d1/de9/structinfra_1_1_state_initializing.html" title="infra::StateInitializing" alt="" coords="396,78,539,105"/>
+<area shape="rect" id="node6" href="$da/d1f/structinfra_1_1_state_running.html" title="infra::StateRunning" alt="" coords="401,143,533,170"/>
+</map>

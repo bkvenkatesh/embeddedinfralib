@@ -1,0 +1,6 @@
+<map id="infra::ProtoLengthDelimited::ProtoLengthDelimited" name="infra::ProtoLengthDelimited::ProtoLengthDelimited">
+<area shape="rect" id="node2" href="$db/dda/classinfra_1_1_input_stream.html#a2a8a5906d057b8e49f4eaccabf8c6578" title="infra::InputStream\l::Available" alt="" coords="250,5,374,47"/>
+<area shape="rect" id="node4" href="$db/dda/classinfra_1_1_input_stream.html#a2ba329777e84a8bba1d9d7b29ed6bee1" title="infra::InputStream\l::ErrorPolicy" alt="" coords="250,71,374,112"/>
+<area shape="rect" id="node5" href="$d5/d4a/classinfra_1_1_stream_error_policy.html#a708126a1c40b64fd503bed2d8b8f9700" title="infra::StreamErrorPolicy\l::ReportResult" alt="" coords="232,136,392,177"/>
+<area shape="rect" id="node3" href="$d2/d90/classinfra_1_1_stream_reader.html#a006dafbe8dd85d298f4874efd047ed67" title="infra::StreamReader\l::Available" alt="" coords="440,5,577,47"/>
+</map>

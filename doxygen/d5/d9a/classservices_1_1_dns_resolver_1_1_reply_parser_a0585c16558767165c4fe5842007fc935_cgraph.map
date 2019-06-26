@@ -1,0 +1,6 @@
+<map id="services::DnsResolver::ReplyParser::ReadAnswer" name="services::DnsResolver::ReplyParser::ReadAnswer">
+<area shape="rect" id="node2" href="$d0/de3/namespaceinfra.html#ab53300a9f254119ad1fa94f11bc1fccc" title="infra::Now" alt="" coords="236,86,315,113"/>
+<area shape="rect" id="node3" href="$db/d70/classinfra_1_1_timer_service_manager.html#a30dbf09013c8e949fbded56e40d2a103" title="infra::TimerServiceManager\l::GetTimerService" alt="" coords="363,5,541,47"/>
+<area shape="rect" id="node4" href="$d3/d0e/classinfra_1_1_interface_connector.html#aed1d9e952d3d0dfa68e59ee4e868b380" title="infra::InterfaceConnector\l\&lt; TimerServiceManager \&gt;\l::Instance" alt="" coords="367,71,537,127"/>
+<area shape="rect" id="node5" href="$da/def/classinfra_1_1_timer_service.html#acb34d2766047f27ebcd1f552916c9a99" title="infra::TimerService::Now" alt="" coords="371,151,533,178"/>
+</map>

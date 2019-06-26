@@ -1,0 +1,12 @@
+<map id="infra::OutputStream::ProcessedBytesSince" name="infra::OutputStream::ProcessedBytesSince">
+<area shape="rect" id="node2" href="$d9/dce/classservices_1_1_http_response.html#a2bdfd05b582453e0ba050dfa18009be7" title="services::HttpResponse\l::WriteResponse" alt="" coords="242,64,401,105"/>
+<area shape="rect" id="node11" href="$d2/d1b/classinfra_1_1_proto_length_delimited_formatter.html#a1e8c902086003eedd7dfe9b53a3dfa9e" title="infra::ProtoLengthDelimited\lFormatter::~ProtoLengthDelimited\lFormatter" alt="" coords="212,130,431,186"/>
+<area shape="rect" id="node3" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a48786ed298c958e0c90a861ab09f01b2" title="services::HttpServerConnection\lObserver::SendResponse" alt="" coords="479,64,681,105"/>
+<area shape="rect" id="node4" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#afd24d585e0b90fc44643244b0712f92f" title="services::HttpServerConnection\lObserver::ReceivedTooMuchData" alt="" coords="980,5,1193,47"/>
+<area shape="rect" id="node7" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a54d34389a1f80059a349bfb5b5f273dc" title="services::HttpServerConnection\lObserver::TryHandleRequest" alt="" coords="1241,64,1444,105"/>
+<area shape="rect" id="node9" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a9d0c9926c69222f44621afb71304247d" title="services::HttpServerConnection\lObserver::ServePage" alt="" coords="729,123,932,164"/>
+<area shape="rect" id="node5" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a3c5cabea13da6e140280b1b8c77244b3" title="services::HttpServerConnection\lObserver::DataReceived" alt="" coords="1743,35,1945,76"/>
+<area shape="rect" id="node6" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a579fc75f469c5b79141187fc04dbf74c" title="services::HttpServerConnection\lObserver::SendStreamAvailable" alt="" coords="1993,35,2197,76"/>
+<area shape="rect" id="node8" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a6213f7b12f5fb1c0ddbabdb859ddca0a" title="services::HttpServerConnection\lObserver::ReceivedRequest" alt="" coords="1492,64,1695,105"/>
+<area shape="rect" id="node10" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a52e5c280fabbed909272946c730d6aff" title="services::HttpServerConnection\lObserver::HandleRequest" alt="" coords="985,123,1188,164"/>
+</map>

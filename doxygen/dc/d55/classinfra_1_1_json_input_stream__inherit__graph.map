@@ -1,0 +1,6 @@
+<map id="infra::JsonInputStream" name="infra::JsonInputStream">
+<area shape="rect" id="node2" href="$d5/dec/classinfra_1_1_text_input_stream_1_1_with_reader.html" title="infra::TextInputStream\l::WithReader\&lt; JsonInputStream\lReader \&gt;" alt="" coords="493,39,700,95"/>
+<area shape="rect" id="node3" href="$d9/d00/classinfra_1_1detail_1_1_storage_holder.html" title="infra::detail::StorageHolder\l\&lt; JsonInputStreamReader,\l WithReader\&lt; JsonInputStreamReader \&gt; \&gt;" alt="" coords="177,5,445,61"/>
+<area shape="rect" id="node4" href="$d7/d93/classinfra_1_1_text_input_stream.html" title="infra::TextInputStream" alt="" coords="237,85,386,112"/>
+<area shape="rect" id="node5" href="$db/dda/classinfra_1_1_input_stream.html" title="infra::InputStream" alt="" coords="5,85,129,112"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="infra::MemoryRange::pop_front" name="infra::MemoryRange::pop_front">
+<area shape="rect" id="node2" href="$d0/de3/namespaceinfra.html#a7fb6aa7d05abdae7a8aaeb6fd5164820" title="infra::DiscardHead" alt="" coords="225,143,353,170"/>
+<area shape="rect" id="node7" href="$d7/dea/classinfra_1_1_bounded_deque_input_stream_reader.html#add207634d408ca8d692e005700e66cc2" title="infra::BoundedDequeInput\lStreamReader::Extract" alt="" coords="204,231,375,272"/>
+<area shape="rect" id="node9" href="$db/d2a/classinfra_1_1_byte_input_stream_reader.html#a140b68f63a3521e02c54dac70fce351a" title="infra::ByteInputStreamReader\l::ExtractContiguousRange" alt="" coords="193,296,385,337"/>
+<area shape="rect" id="node10" href="$d1/d3d/classinfra_1_1_stream_writer_print_f.html#a9ad106ec1970b9ccb0717a1ee42da21b" title="infra::StreamWriterPrint\lF::Insert" alt="" coords="210,361,369,403"/>
+<area shape="rect" id="node11" href="$d6/d37/classinfra_1_1_asn1_sequence_iterator.html#ad3a3eb325ddb820e9f408bbe343979b5" title="infra::Asn1SequenceIterator\l::MakeValue" alt="" coords="198,427,381,468"/>
+<area shape="rect" id="node13" href="$d0/de3/namespaceinfra.html#a8ed078d50b54d6ed4ef6062d1a593c9a" title="infra::operator\&gt;\&gt;" alt="" coords="231,493,348,519"/>
+<area shape="rect" id="node14" href="$d7/ddb/classservices_1_1_synchronous_flash_quad_spi.html#a7f860e4ff104978a992a29616fa64df0" title="services::SynchronousFlash\lQuadSpi::PageProgram" alt="" coords="197,544,382,585"/>
+<area shape="rect" id="node16" href="$d0/db3/classservices_1_1_flash_quad_spi.html#a5f754bf1758d88a2ed5d19d8d70aa088" title="services::FlashQuadSpi\l::PageProgram" alt="" coords="210,609,369,651"/>
+<area shape="rect" id="node19" href="$d2/d0c/classservices_1_1_flash_quad_spi_single_speed.html#a1ac9c640461c49d5611f0a4fcbb092b4" title="services::FlashQuadSpiSingle\lSpeed::PageProgram" alt="" coords="192,675,387,716"/>
+<area shape="rect" id="node20" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#ade68b69886938a3ab630aa808dba1970" title="services::SynchronousFlash\lSpi::PageProgram" alt="" coords="197,740,382,781"/>
+<area shape="rect" id="node22" href="$df/d28/classservices_1_1_flash_spi.html#aea31dd62ec4d7cc0ac72c485fab0dece" title="services::FlashSpi\l::PageProgram" alt="" coords="225,805,353,847"/>
+<area shape="rect" id="node3" href="$db/d26/classservices_1_1_configuration_blob_impl.html#af35c32cf35f68a3bf4a811d76074a777" title="services::ConfigurationBlob\lImpl::CurrentBlob" alt="" coords="444,5,623,47"/>
+<area shape="rect" id="node4" href="$db/d26/classservices_1_1_configuration_blob_impl.html#ad39c0f61828aa30368cbc7ce113e0d3d" title="services::ConfigurationBlob\lImpl::MaxBlob" alt="" coords="444,71,623,112"/>
+<area shape="rect" id="node5" href="$df/d97/classinfra_1_1_string_output_stream_writer.html#a6f5878448350554901cbb5c37726a444" title="infra::StringOutputStream\lWriter::Overwrite" alt="" coords="449,136,618,177"/>
+<area shape="rect" id="node6" href="$df/d15/classinfra_1_1_byte_output_stream_writer.html#a0da9ab104bff67ad997c37116b80e126" title="infra::ByteOutputStreamWriter\l::Overwrite" alt="" coords="435,201,632,243"/>
+<area shape="rect" id="node8" href="$d7/dea/classinfra_1_1_bounded_deque_input_stream_reader.html#ae987011fb2d903568c0fbbb8e70f87d0" title="infra::BoundedDequeInput\lStreamReader::Peek" alt="" coords="448,267,619,308"/>
+<area shape="rect" id="node12" href="$d6/d37/classinfra_1_1_asn1_sequence_iterator.html#aa5fac6b4a7fc06e3a6632562e24b0db3" title="infra::Asn1SequenceIterator\l::operator++" alt="" coords="442,427,625,468"/>
+<area shape="rect" id="node15" href="$d7/ddb/classservices_1_1_synchronous_flash_quad_spi.html#a269561aa405364b3c6df913a1c607b00" title="services::SynchronousFlash\lQuadSpi::WriteBuffer" alt="" coords="441,544,626,585"/>
+<area shape="rect" id="node17" href="$d0/db3/classservices_1_1_flash_quad_spi.html#a9e190d022eb9d8fc0f88e89160f89b0f" title="services::FlashQuadSpi\l::WriteBufferSequence" alt="" coords="454,609,613,651"/>
+<area shape="rect" id="node18" href="$d0/db3/classservices_1_1_flash_quad_spi.html#a3ff6a6b4dc7fa4f07ff1dc03d9292f33" title="services::FlashQuadSpi\l::WriteBuffer" alt="" coords="680,609,839,651"/>
+<area shape="rect" id="node21" href="$dd/d11/classservices_1_1_synchronous_flash_spi.html#ab9ea42bce7156cde8fae8bb51c050fe8" title="services::SynchronousFlash\lSpi::WriteBuffer" alt="" coords="441,740,626,781"/>
+<area shape="rect" id="node23" href="$df/d28/classservices_1_1_flash_spi.html#a565d63c057e750b2c5703b83e2987e0d" title="services::FlashSpi\l::WriteBuffer" alt="" coords="469,805,597,847"/>
+</map>

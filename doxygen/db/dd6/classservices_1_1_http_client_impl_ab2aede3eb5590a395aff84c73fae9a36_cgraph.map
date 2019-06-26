@@ -1,0 +1,10 @@
+<map id="services::HttpClientImpl::DataReceived" name="services::HttpClientImpl::DataReceived">
+<area shape="rect" id="node2" href="$db/dd6/classservices_1_1_http_client_impl.html#adcc230fc6c91b5b8a7b22eef629f7cae" title="services::HttpClientImpl\l::AbortAndDestroy" alt="" coords="419,41,577,83"/>
+<area shape="rect" id="node5" href="$db/dd6/classservices_1_1_http_client_impl.html#a0a2dcf241ae32d9f8f46cbe08464c96f" title="services::HttpClientImpl\l::HandleData" alt="" coords="212,144,371,185"/>
+<area shape="rect" id="node8" href="$d0/de3/namespaceinfra.html#af113404041b6d15ab539059f0876bb82" title="infra::MakeContainedShared\lObject" alt="" coords="626,217,811,259"/>
+<area shape="rect" id="node9" href="$da/d78/classinfra_1_1_accessed_by_shared_ptr.html#a9a3b6445cae28c4ab728ca757cdd8ee7" title="infra::AccessedBySharedPtr\l::MakeShared" alt="" coords="625,283,812,324"/>
+<area shape="rect" id="node3" href="$da/d78/classinfra_1_1_accessed_by_shared_ptr.html#afed78c7dc79ccbb4711b34a1d7c7e63e" title="infra::AccessedBySharedPtr\l::SetAction" alt="" coords="625,5,812,47"/>
+<area shape="rect" id="node4" href="$dc/d4c/classinfra_1_1_single_observer.html#abb13c69cc61182baf350ff1736fa772e" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;::Subject" alt="" coords="641,71,796,127"/>
+<area shape="rect" id="node6" href="$db/dd6/classservices_1_1_http_client_impl.html#a8ff82dd2822d5b1aca83d80a7588231f" title="services::HttpClientImpl\l::BodyReceived" alt="" coords="419,159,577,200"/>
+<area shape="rect" id="node7" href="$db/dd6/classservices_1_1_http_client_impl.html#aa217ca14077903856dd75b407653e07c" title="services::HttpClientImpl\l::BodyComplete" alt="" coords="639,152,798,193"/>
+</map>

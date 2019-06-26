@@ -1,0 +1,5 @@
+<map id="services::HttpClientBasic::Hostname" name="services::HttpClientBasic::Hostname">
+<area shape="rect" id="node2" href="$db/d91/namespaceservices.html#aa8907472cb10332218662596f42a737b" title="services::HostFromUrl" alt="" coords="220,46,371,73"/>
+<area shape="rect" id="node3" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#a1625463cbee712d1217102c3bdde924d" title="infra::BoundedStringBase\l::find" alt="" coords="419,5,588,47"/>
+<area shape="rect" id="node4" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#a46ec1a3a673136ace03af8c6ec94aa89" title="infra::BoundedStringBase\l::substr" alt="" coords="419,71,588,112"/>
+</map>

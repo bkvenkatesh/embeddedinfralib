@@ -1,0 +1,5 @@
+<map id="services::SynchronousSpiMasterWithChipSelect::SendAndReceive" name="services::SynchronousSpiMasterWithChipSelect::SendAndReceive">
+<area shape="rect" id="node2" href="$d9/dad/classhal_1_1_synchronous_spi.html#a2212bc9655e63f99a392d28f36016750" title="hal::SynchronousSpi\l::SendAndReceive" alt="" coords="225,5,368,47"/>
+<area shape="rect" id="node3" href="$df/d03/classhal_1_1_output_pin.html#a4e5ec1724078b9b022cbfca7bd88476a" title="hal::OutputPin::Set" alt="" coords="230,71,363,98"/>
+<area shape="rect" id="node4" href="$d7/d8c/classhal_1_1_gpio_pin.html#a0502d167afa4ed797e3bdb31f5a70452" title="hal::GpioPin::Set" alt="" coords="416,71,537,98"/>
+</map>

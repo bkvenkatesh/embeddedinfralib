@@ -1,0 +1,13 @@
+<map id="infra::BoundedDequeInputStreamReader::Extract" name="infra::BoundedDequeInputStreamReader::Extract">
+<area shape="rect" id="node2" href="$d5/db7/classinfra_1_1_bounded_deque.html#a11e8b6093e259d16920cdcd2b83999c4" title="infra::BoundedDeque\l::begin" alt="" coords="233,5,375,47"/>
+<area shape="rect" id="node3" href="$d5/db7/classinfra_1_1_bounded_deque.html#ae7bdbe1764e9168b674e51e2c1ea973c" title="infra::BoundedDeque\l::contiguous_range" alt="" coords="233,71,375,112"/>
+<area shape="rect" id="node4" href="$d0/de3/namespaceinfra.html#ad2eae6128b7a057916770ee2ccc8945c" title="infra::Copy" alt="" coords="262,137,346,163"/>
+<area shape="rect" id="node6" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="438,180,577,221"/>
+<area shape="rect" id="node7" href="$d0/d6d/classinfra_1_1_memory_range.html#a0dc90caa282524ee9828bf8128e3a569" title="infra::MemoryRange\l::empty" alt="" coords="235,239,373,280"/>
+<area shape="rect" id="node8" href="$d0/de3/namespaceinfra.html#a97dc5194236a205b697e668f00d42353" title="infra::Head" alt="" coords="262,305,346,331"/>
+<area shape="rect" id="node10" href="$d0/d6d/classinfra_1_1_memory_range.html#adf5b31ae0a4ccba88bb4b284935e8a1a" title="infra::MemoryRange\l::pop_front" alt="" coords="235,356,373,397"/>
+<area shape="rect" id="node11" href="$d5/d4a/classinfra_1_1_stream_error_policy.html#a708126a1c40b64fd503bed2d8b8f9700" title="infra::StreamErrorPolicy\l::ReportResult" alt="" coords="224,421,384,463"/>
+<area shape="rect" id="node12" href="$d5/db7/classinfra_1_1_bounded_deque.html#ac32cda72da6791ea7b4e2244b84c09d4" title="infra::BoundedDeque\l::size" alt="" coords="233,487,375,528"/>
+<area shape="rect" id="node5" href="$d0/d6d/classinfra_1_1_memory_range.html#a7a83ceae17802af5ecebfb9557912ece" title="infra::MemoryRange\l::begin" alt="" coords="438,115,577,156"/>
+<area shape="rect" id="node9" href="$d0/d6d/classinfra_1_1_memory_range.html#a322f6976f2774c6ba7494b9e27f07624" title="infra::MemoryRange\l::shrink_from_back_to" alt="" coords="432,297,583,339"/>
+</map>

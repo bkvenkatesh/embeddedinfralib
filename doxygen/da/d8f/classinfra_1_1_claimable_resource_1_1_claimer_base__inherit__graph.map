@@ -1,0 +1,8 @@
+<map id="infra::ClaimableResource::ClaimerBase" name="infra::ClaimableResource::ClaimerBase">
+<area shape="rect" id="node3" href="$d7/d6a/classinfra_1_1_claimable_resource_1_1_claimer_with_size.html" title="infra::ClaimableResource\l::ClaimerWithSize\&lt; SERVICES\l_CYCLIC_STORE_FUNCTION_EXTRA_SIZE \&gt;" alt="" coords="455,5,747,61"/>
+<area shape="rect" id="node4" href="$d7/d6a/classinfra_1_1_claimable_resource_1_1_claimer_with_size.html" title="infra::ClaimableResource\l::ClaimerWithSize\&lt; SERVICES\l_FLASH_MULTIPLE_ACCESS_FUNCTION\l_EXTRA_SIZE \&gt;" alt="" coords="465,86,737,157"/>
+<area shape="rect" id="node5" href="$d7/d6a/classinfra_1_1_claimable_resource_1_1_claimer_with_size.html" title="infra::ClaimableResource\l::ClaimerWithSize\&lt; SERVICES\l_I2C_MULTIPLE_ACCESS_FUNCTION\l_EXTRA_SIZE \&gt;" alt="" coords="476,181,725,251"/>
+<area shape="rect" id="node6" href="$d7/d6a/classinfra_1_1_claimable_resource_1_1_claimer_with_size.html" title="infra::ClaimableResource\l::ClaimerWithSize\&lt; SERVICES\l_SPI_MULTIPLE_ACCESS_FUNCTION\l_EXTRA_SIZE \&gt;" alt="" coords="475,275,726,346"/>
+<area shape="rect" id="node7" href="$d7/d6a/classinfra_1_1_claimable_resource_1_1_claimer_with_size.html" title="infra::ClaimableResource\l::ClaimerWithSize\&lt; ExtraSize \&gt;" alt="" coords="497,370,705,411"/>
+<area shape="rect" id="node2" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; ClaimerBase \&gt;::NodeType" alt="" coords="5,195,192,237"/>
+</map>

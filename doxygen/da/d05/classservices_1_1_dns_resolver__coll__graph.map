@@ -1,0 +1,12 @@
+<map id="services::DnsResolver" name="services::DnsResolver">
+<area shape="rect" id="node2" href="$d0/d69/classservices_1_1_name_resolver.html" title="services::NameResolver" alt="" coords="659,5,819,32"/>
+<area shape="rect" id="node3" href="$de/d1a/classhal_1_1_synchronous_random_data_generator.html" title="hal::SynchronousRandomData\lGenerator" alt="" coords="639,57,838,98"/>
+<area shape="rect" id="node4" href="$d0/d6d/classinfra_1_1_memory_range.html" title="infra::MemoryRange\l\&lt; const infra::Variant \&gt;" alt="" coords="661,187,816,229"/>
+<area shape="rect" id="node5" href="$da/d2a/classinfra_1_1_variant.html" title="infra::Variant\&lt; T \&gt;" alt="" coords="291,195,417,221"/>
+<area shape="rect" id="node8" href="$df/da4/classinfra_1_1_intrusive_list.html" title="infra::IntrusiveList\l\&lt; services::NameResolverResult \&gt;" alt="" coords="628,457,849,498"/>
+<area shape="rect" id="node17" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\l\&lt; services::DnsResolver\l::ActiveLookup \&gt;" alt="" coords="273,115,435,171"/>
+<area shape="rect" id="node9" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; T \&gt;" alt="" coords="284,513,424,554"/>
+<area shape="rect" id="node11" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::detail::Intrusive\lListNode\&lt; services::NameResolver\lResult \&gt;" alt="" coords="243,369,465,425"/>
+<area shape="rect" id="node12" href="$d7/da1/classservices_1_1_datagram_factory.html" title="services::DatagramFactory" alt="" coords="650,304,827,331"/>
+<area shape="rect" id="node15" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; services\l::DnsResolver::ActiveLookup \&gt;" alt="" coords="639,122,838,163"/>
+</map>

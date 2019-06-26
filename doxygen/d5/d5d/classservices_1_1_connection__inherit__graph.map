@@ -1,0 +1,8 @@
+<map id="services::Connection" name="services::Connection">
+<area shape="rect" id="node3" href="$de/d8b/classservices_1_1_connection_bsd.html" title="services::ConnectionBsd" alt="" coords="431,5,597,32"/>
+<area shape="rect" id="node4" href="$de/dcb/classservices_1_1_connection_mbed_tls.html" title="services::ConnectionMbedTls" alt="" coords="419,56,609,83"/>
+<area shape="rect" id="node6" href="$d3/d9a/classservices_1_1_connection_serial.html" title="services::ConnectionSerial" alt="" coords="427,107,601,133"/>
+<area shape="rect" id="node7" href="$db/d8b/classservices_1_1_connection_win.html" title="services::ConnectionWin" alt="" coords="431,157,597,184"/>
+<area shape="rect" id="node2" href="$d1/db2/classinfra_1_1_subject.html" title="infra::Subject\&lt; Connection\lObserver \&gt;" alt="" coords="5,74,180,115"/>
+<area shape="rect" id="node5" href="$d9/d36/classservices_1_1_tracing_connection_mbed_tls.html" title="services::TracingConnection\lMbedTls" alt="" coords="657,49,841,90"/>
+</map>

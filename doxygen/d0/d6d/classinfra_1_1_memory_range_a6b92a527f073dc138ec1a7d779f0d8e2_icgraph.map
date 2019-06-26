@@ -1,0 +1,6 @@
+<map id="infra::MemoryRange::shrink_from_front_to" name="infra::MemoryRange::shrink_from_front_to">
+<area shape="rect" id="node2" href="$d0/de3/namespaceinfra.html#a3f099eea3bea698ca5ea5a8a028ee2b5" title="infra::Tail" alt="" coords="200,100,275,127"/>
+<area shape="rect" id="node3" href="$df/d30/classservices_1_1_connection_serial_1_1_serial_connection_stream_reader.html#a9253fd8a16f44fab6c27117720919651" title="services::ConnectionSerial\l::SerialConnectionStreamReader\l::Extract" alt="" coords="325,5,535,61"/>
+<area shape="rect" id="node4" href="$d4/d55/classservices_1_1_connection_serial_1_1_state_connected_sending_content.html#a6a03f39255e227790d18e3bce3670d14" title="services::ConnectionSerial\l::StateConnectedSendingContent\l::SendPartialContent" alt="" coords="323,85,537,141"/>
+<area shape="rect" id="node5" href="$dd/db4/classservices_1_1_connection_serial_1_1_message_header.html#aad442a828482fe6aee5b480bd4b00740" title="services::ConnectionSerial\l::MessageHeader::SetContent" alt="" coords="331,166,529,207"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="infra::JsonInputStreamReader::Extract" name="infra::JsonInputStreamReader::Extract">
+<area shape="rect" id="node2" href="$d5/d11/classinfra_1_1_json_input_stream_reader.html#a79b8339406e7e861e49f415014182325" title="infra::JsonInputStreamReader\l::Available" alt="" coords="245,5,437,47"/>
+<area shape="rect" id="node4" href="$d0/d6d/classinfra_1_1_memory_range.html#a7a83ceae17802af5ecebfb9557912ece" title="infra::MemoryRange\l::begin" alt="" coords="272,71,411,112"/>
+<area shape="rect" id="node5" href="$d5/d4a/classinfra_1_1_stream_error_policy.html#a708126a1c40b64fd503bed2d8b8f9700" title="infra::StreamErrorPolicy\l::ReportResult" alt="" coords="261,136,421,177"/>
+<area shape="rect" id="node6" href="$d0/d6d/classinfra_1_1_memory_range.html#a322f6976f2774c6ba7494b9e27f07624" title="infra::MemoryRange\l::shrink_from_back_to" alt="" coords="266,201,417,243"/>
+<area shape="rect" id="node7" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="272,267,411,308"/>
+<area shape="rect" id="node3" href="$d2/dc5/namespaceinfra_1_1detail.html#aabbc48b4c4a9aa3edf84df033c0dd25d" title="infra::detail::end" alt="" coords="485,13,600,39"/>
+</map>

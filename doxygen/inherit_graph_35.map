@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d7/d8c/classhal_1_1_gpio_pin.html" title="hal::GpioPin" alt="" coords="5,31,99,57"/>
+<area shape="rect" id="node2" href="$d1/d19/classhal_1_1_dummy_pin.html" title="hal::DummyPin" alt="" coords="175,5,285,32"/>
+<area shape="rect" id="node3" href="$d5/d1f/classservices_1_1_gpio_pin_inverted.html" title="services::GpioPinInverted" alt="" coords="147,56,313,83"/>
+</map>

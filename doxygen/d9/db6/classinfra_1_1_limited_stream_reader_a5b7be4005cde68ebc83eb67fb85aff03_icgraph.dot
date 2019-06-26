@@ -1,0 +1,10 @@
+digraph "infra::LimitedStreamReader::Available"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node6 [label="infra::LimitedStreamReader\l::Available",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d16/_test_limited_input_stream_8cpp.html#a693dc0a3424ad44d6b017ab9170f9da2"];
+}

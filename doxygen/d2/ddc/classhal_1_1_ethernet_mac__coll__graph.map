@@ -1,0 +1,4 @@
+<map id="hal::EthernetMac" name="hal::EthernetMac">
+<area shape="rect" id="node2" href="$d1/db2/classinfra_1_1_subject.html" title="infra::Subject\&lt; Ethernet\lMacObserver \&gt;" alt="" coords="7,213,166,255"/>
+<area shape="rect" id="node3" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; EthernetMacObserver,\l ObserverSubjectType \&gt;" alt="" coords="5,95,168,151"/>
+</map>

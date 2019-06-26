@@ -1,0 +1,11 @@
+<map id="services::SynchronousFlashQuadSpi::PageProgram" name="services::SynchronousFlashQuadSpi::PageProgram">
+<area shape="rect" id="node2" href="$d5/dff/classhal_1_1_synchronous_flash.html#ae0ffa50633226598ff634051fdf07530" title="hal::SynchronousFlash\l::AddressOffsetInSector" alt="" coords="245,41,405,83"/>
+<area shape="rect" id="node6" href="$d0/de3/namespaceinfra.html#a97dc5194236a205b697e668f00d42353" title="infra::Head" alt="" coords="283,109,367,135"/>
+<area shape="rect" id="node8" href="$d0/d6d/classinfra_1_1_memory_range.html#adf5b31ae0a4ccba88bb4b284935e8a1a" title="infra::MemoryRange\l::pop_front" alt="" coords="256,160,395,201"/>
+<area shape="rect" id="node9" href="$db/dce/classhal_1_1_synchronous_quad_spi.html#a77788357712031752af41518d70c3d32" title="hal::SynchronousQuadSpi\l::SendDataQuad" alt="" coords="239,225,412,267"/>
+<area shape="rect" id="node10" href="$d0/d6d/classinfra_1_1_memory_range.html#ae8fbbf531d3696b6a64ac13385acdc66" title="infra::MemoryRange\l::size" alt="" coords="256,291,395,332"/>
+<area shape="rect" id="node3" href="$d5/dff/classhal_1_1_synchronous_flash.html#a2b4419e346a7d9feecb65501c61a6f8e" title="hal::SynchronousFlash\l::StartOfSector" alt="" coords="460,39,615,80"/>
+<area shape="rect" id="node4" href="$d5/dff/classhal_1_1_synchronous_flash.html#a1e8a643bee9d6a9c199ed42957201500" title="hal::SynchronousFlash\l::AddressOfSector" alt="" coords="663,5,817,47"/>
+<area shape="rect" id="node5" href="$d5/dff/classhal_1_1_synchronous_flash.html#a4414c85ecb179359e5d0dc1c830cc903" title="hal::SynchronousFlash\l::SectorOfAddress" alt="" coords="663,71,817,112"/>
+<area shape="rect" id="node7" href="$d0/d6d/classinfra_1_1_memory_range.html#a322f6976f2774c6ba7494b9e27f07624" title="infra::MemoryRange\l::shrink_from_back_to" alt="" coords="462,104,613,145"/>
+</map>

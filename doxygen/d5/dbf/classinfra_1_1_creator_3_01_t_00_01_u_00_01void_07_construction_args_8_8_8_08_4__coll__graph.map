@@ -1,0 +1,6 @@
+<map id="infra::Creator&lt; T, U, void(ConstructionArgs...)&gt;" name="infra::Creator&lt; T, U, void(ConstructionArgs...)&gt;">
+<area shape="rect" id="node2" href="$de/de2/classinfra_1_1_creator_base_3_01_t_00_01void_07_construction_args_8_8_8_08_4.html" title="infra::CreatorBase\l\&lt; T, void(ConstructionArgs...)\&gt;" alt="" coords="403,5,601,47"/>
+<area shape="rect" id="node3" href="$da/d07/classinfra_1_1_function.html" title="infra::Function\&lt; void\l(infra::Optional\&lt; U \&gt;\l &amp;object, ConstructionArgs...\l args)\&gt;" alt="" coords="407,71,597,141"/>
+<area shape="rect" id="node4" href="$dc/df7/classinfra_1_1_optional.html" title="infra::Optional\&lt; U \&gt;" alt="" coords="435,166,569,193"/>
+<area shape="rect" id="node5" href="$d0/d8c/classinfra_1_1_static_storage.html" title="infra::StaticStorage\&lt; U \&gt;" alt="" coords="129,139,296,166"/>
+</map>

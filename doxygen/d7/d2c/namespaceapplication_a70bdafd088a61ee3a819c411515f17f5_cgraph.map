@@ -1,0 +1,11 @@
+<map id="application::BuildReferenceUpgradePack" name="application::BuildReferenceUpgradePack">
+<area shape="rect" id="node2" href="$d1/d88/classapplication_1_1_upgrade_pack_builder_facade.html#ab59c039ac37fa26b72c196cd2bae76fe" title="application::UpgradePack\lBuilderFacade::Build" alt="" coords="232,136,403,177"/>
+<area shape="rect" id="node10" href="$d1/d88/classapplication_1_1_upgrade_pack_builder_facade.html#ad7269ebccef27344b25db392616123bf" title="application::UpgradePack\lBuilderFacade::Result" alt="" coords="232,201,403,243"/>
+<area shape="rect" id="node3" href="$d1/d88/classapplication_1_1_upgrade_pack_builder_facade.html#a6ea40789132d35dccdfc4b33fb31a213" title="application::UpgradePack\lBuilderFacade::TryBuild" alt="" coords="457,104,627,145"/>
+<area shape="rect" id="node9" href="$d1/d88/classapplication_1_1_upgrade_pack_builder_facade.html#a78943d9121130888c87ae5af2842a7e7" title="application::UpgradePack\lBuilderFacade::ShowUsage" alt="" coords="451,169,633,211"/>
+<area shape="rect" id="node4" href="$d1/d88/classapplication_1_1_upgrade_pack_builder_facade.html#a80f230b882da157df8890dbe5c3c5b0b" title="application::UpgradePack\lBuilderFacade::PreBuilder" alt="" coords="685,5,858,47"/>
+<area shape="rect" id="node5" href="$d7/d87/classapplication_1_1_upgrade_pack_input_factory.html#a7e8bb67385e59be8c26c924da9897b73" title="application::UpgradePack\lInputFactory::CreateInput" alt="" coords="686,71,857,112"/>
+<area shape="rect" id="node6" href="$d1/d88/classapplication_1_1_upgrade_pack_builder_facade.html#a1feb4a79b75a481a96aa514999bea249" title="application::UpgradePack\lBuilderFacade::PostBuilder" alt="" coords="681,136,861,177"/>
+<area shape="rect" id="node7" href="$db/dab/classapplication_1_1_upgrade_pack_builder.html#a674ec0ecdd97484c05d1194b346b864f" title="application::UpgradePack\lBuilder::WriteUpgradePack" alt="" coords="682,201,861,243"/>
+<area shape="rect" id="node8" href="$d2/d51/classhal_1_1_file_system.html#a33004ee5de26dfbeaf51e058ae3855ea" title="hal::FileSystem::WriteBinaryFile" alt="" coords="909,209,1120,235"/>
+</map>

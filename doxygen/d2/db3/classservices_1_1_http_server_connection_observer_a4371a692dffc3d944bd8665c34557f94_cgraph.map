@@ -1,0 +1,4 @@
+<map id="services::HttpServerConnectionObserver::Connected" name="services::HttpServerConnectionObserver::Connected">
+<area shape="rect" id="node2" href="$d2/db3/classservices_1_1_http_server_connection_observer.html#a5f1596968e2b15c170065391cfd7b29b" title="services::HttpServerConnection\lObserver::RequestSendStream" alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node3" href="$dc/d4c/classinfra_1_1_single_observer.html#abb13c69cc61182baf350ff1736fa772e" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;::Subject" alt="" coords="507,27,661,83"/>
+</map>

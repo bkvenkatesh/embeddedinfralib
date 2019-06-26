@@ -1,0 +1,8 @@
+<map id="services::HttpClientBasic" name="services::HttpClientBasic">
+<area shape="rect" id="node6" href="$d7/da4/classapplication_1_1_tracing_http_client.html" title="application::TracingHttp\lClient" alt="" coords="689,21,848,62"/>
+<area shape="rect" id="node7" href="$df/dd9/classservices_1_1_http_client_json.html" title="services::HttpClientJson" alt="" coords="688,87,849,113"/>
+<area shape="rect" id="node2" href="$d3/db1/classservices_1_1_http_client_observer.html" title="services::HttpClientObserver" alt="" coords="240,25,425,52"/>
+<area shape="rect" id="node3" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; HttpClientObserver,\l HttpClient \&gt;" alt="" coords="25,5,172,61"/>
+<area shape="rect" id="node4" href="$d9/d25/classservices_1_1_http_client_observer_factory.html" title="services::HttpClientObserver\lFactory" alt="" coords="240,82,425,123"/>
+<area shape="rect" id="node5" href="$d7/da5/classinfra_1_1detail_1_1_intrusive_list_node.html" title="infra::IntrusiveList\l\&lt; HttpClientObserverFactory\l \&gt;::NodeType" alt="" coords="5,85,192,141"/>
+</map>

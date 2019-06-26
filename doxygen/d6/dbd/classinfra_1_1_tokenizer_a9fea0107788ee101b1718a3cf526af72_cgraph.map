@@ -1,0 +1,7 @@
+<map id="infra::Tokenizer::Token" name="infra::Tokenizer::Token">
+<area shape="rect" id="node2" href="$d6/dbd/classinfra_1_1_tokenizer.html#a7d67c9a4cc86e9d94b8694ae59407e02" title="infra::Tokenizer::MakeToken" alt="" coords="207,17,393,43"/>
+<area shape="rect" id="node4" href="$d6/dbd/classinfra_1_1_tokenizer.html#a78ddaa04f929e29c37995f88b201dca0" title="infra::Tokenizer::SkipTokens" alt="" coords="207,71,393,98"/>
+<area shape="rect" id="node3" href="$d1/d2a/classinfra_1_1_bounded_string_base.html#a46ec1a3a673136ace03af8c6ec94aa89" title="infra::BoundedStringBase\l::substr" alt="" coords="441,5,611,47"/>
+<area shape="rect" id="node5" href="$d6/dbd/classinfra_1_1_tokenizer.html#a661288c16f8b46d0ab3d27530f6b9c13" title="infra::Tokenizer::SkipConsecutive\lSeparators" alt="" coords="659,93,873,135"/>
+<area shape="rect" id="node6" href="$d6/dbd/classinfra_1_1_tokenizer.html#ac2a716e3917d2a5de009885dd9f6a1ce" title="infra::Tokenizer::StartOf\lNextToken" alt="" coords="447,123,605,164"/>
+</map>

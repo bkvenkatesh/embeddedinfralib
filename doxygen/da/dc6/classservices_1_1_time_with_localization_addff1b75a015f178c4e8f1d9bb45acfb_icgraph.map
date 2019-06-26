@@ -1,0 +1,5 @@
+<map id="services::TimeWithLocalization::Utc" name="services::TimeWithLocalization::Utc">
+<area shape="rect" id="node2" href="$d8/d04/classservices_1_1_sntp_client.html#a221c7cd699661e4440413c96e75cea75" title="services::SntpClient\l::NotifyOffsetAndDelay" alt="" coords="283,5,436,47"/>
+<area shape="rect" id="node4" href="$d8/d04/classservices_1_1_sntp_client.html#a11eacb36be58032d1e8fd43d53eae2ef" title="services::SntpClient\l::SendStreamAvailable" alt="" coords="283,71,436,112"/>
+<area shape="rect" id="node3" href="$d8/d04/classservices_1_1_sntp_client.html#a34f569549a7c6f789382a6dd9f44ba24" title="services::SntpClient\l::DataReceived" alt="" coords="484,5,621,47"/>
+</map>

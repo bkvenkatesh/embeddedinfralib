@@ -1,0 +1,4 @@
+<map id="services::ConnectionSerial::MessageHeader::IsHeaderByte" name="services::ConnectionSerial::MessageHeader::IsHeaderByte">
+<area shape="rect" id="node2" href="$d2/d3d/classservices_1_1_connection_serial_1_1_state_connected.html#a4a21d0b3d223a4e5186d58c2a0f02e2b" title="services::ConnectionSerial\l::StateConnected::CopyEscapedContent" alt="" coords="264,5,521,47"/>
+<area shape="rect" id="node3" href="$d2/d3d/classservices_1_1_connection_serial_1_1_state_connected.html#a86bb6b6f46298aee07c97b5919d97321" title="services::ConnectionSerial\l::StateConnected::IsEscapedByte" alt="" coords="283,71,502,112"/>
+</map>

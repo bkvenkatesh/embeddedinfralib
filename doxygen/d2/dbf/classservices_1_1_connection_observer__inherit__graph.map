@@ -1,0 +1,11 @@
+<map id="services::ConnectionObserver" name="services::ConnectionObserver">
+<area shape="rect" id="node3" href="$de/dcb/classservices_1_1_connection_mbed_tls.html" title="services::ConnectionMbedTls" alt="" coords="461,17,652,43"/>
+<area shape="rect" id="node5" href="$db/dd6/classservices_1_1_http_client_impl.html" title="services::HttpClientImpl" alt="" coords="477,71,636,98"/>
+<area shape="rect" id="node8" href="$d2/db3/classservices_1_1_http_server_connection_observer.html" title="services::HttpServerConnection\lObserver" alt="" coords="455,123,658,164"/>
+<area shape="rect" id="node9" href="$d6/d9d/classservices_1_1_mqtt_client_impl.html" title="services::MqttClientImpl" alt="" coords="477,189,637,215"/>
+<area shape="rect" id="node10" href="$d3/d93/classservices_1_1_stream_echo_connection.html" title="services::StreamEchoConnection" alt="" coords="449,239,664,266"/>
+<area shape="rect" id="node2" href="$dc/d4c/classinfra_1_1_single_observer.html" title="infra::SingleObserver\l\&lt; ConnectionObserver,\l Connection \&gt;" alt="" coords="5,115,160,171"/>
+<area shape="rect" id="node4" href="$d9/d36/classservices_1_1_tracing_connection_mbed_tls.html" title="services::TracingConnection\lMbedTls" alt="" coords="720,5,904,47"/>
+<area shape="rect" id="node6" href="$df/d09/classservices_1_1_tracing_http_client_impl.html" title="services::TracingHttpClientImpl" alt="" coords="712,71,912,98"/>
+<area shape="rect" id="node7" href="$d5/d53/classservices_1_1_tracing_status_http_client_impl.html" title="services::TracingStatusHttp\lClientImpl" alt="" coords="721,123,903,164"/>
+</map>

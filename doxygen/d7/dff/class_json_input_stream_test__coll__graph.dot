@@ -1,0 +1,39 @@
+digraph "JsonInputStreamTest"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node2 [label="JsonInputStreamTest",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Test",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" reader" ,fontname="Helvetica"];
+  Node4 [label="infra::JsonInputStreamReader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d11/classinfra_1_1_json_input_stream_reader.html"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="infra::StreamReader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d90/classinfra_1_1_stream_reader.html"];
+  Node6 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" position" ,fontname="Helvetica"];
+  Node6 [label="infra::JsonStringIterator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d67/classinfra_1_1_json_string_iterator.html"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="std::iterator\< std\l::forward_iterator_tag,\l char \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node8 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" end\nposition" ,fontname="Helvetica"];
+  Node8 [label="const_iterator",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node9 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" string" ,fontname="Helvetica"];
+  Node9 [label="infra::JsonString",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d16/classinfra_1_1_json_string.html"];
+  Node10 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" source" ,fontname="Helvetica"];
+  Node10 [label="infra::BoundedStringBase\l\< const char \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2a/classinfra_1_1_bounded_string_base.html"];
+  Node11 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" range" ,fontname="Helvetica"];
+  Node11 [label="infra::MemoryRange\l\< const char \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d6d/classinfra_1_1_memory_range.html"];
+  Node12 -> Node11 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" beginElement\nendElement" ,fontname="Helvetica"];
+  Node12 [label="const char *",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node13 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" length" ,fontname="Helvetica"];
+  Node13 [label="size_t",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node14 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" npos" ,fontname="Helvetica"];
+  Node14 [label="static const size_type",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node9 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" string" ,fontname="Helvetica"];
+  Node15 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" errorPolicy" ,fontname="Helvetica"];
+  Node15 [label="infra::StreamErrorPolicy",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d4a/classinfra_1_1_stream_error_policy.html"];
+  Node16 -> Node15 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" checkedFail\nfailed" ,fontname="Helvetica"];
+  Node16 [label="bool",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node17 -> Node15 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" failureMode" ,fontname="Helvetica"];
+  Node17 [label="FailureMode",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

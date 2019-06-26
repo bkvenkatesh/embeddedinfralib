@@ -1,0 +1,10 @@
+<map id="services::FactoryDefaultConfigurationStore&lt; T &gt;" name="services::FactoryDefaultConfigurationStore&lt; T &gt;">
+<area shape="rect" id="node2" href="$de/def/classservices_1_1_factory_default_configuration_store_base.html" title="services::FactoryDefault\lConfigurationStoreBase" alt="" coords="723,180,884,221"/>
+<area shape="rect" id="node3" href="$d7/d56/classservices_1_1_configuration_store_interface.html" title="services::ConfigurationStore\lInterface" alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node7" href="$d4/dc9/classservices_1_1_configuration_store_base.html" title="services::ConfigurationStoreBase" alt="" coords="325,187,539,214"/>
+<area shape="rect" id="node4" href="$d5/d33/classinfra_1_1_auto_reset_function.html" title="infra::AutoResetFunction\l\&lt; void(bool isFactoryDefault)\&gt;" alt="" coords="335,121,529,163"/>
+<area shape="rect" id="node5" href="$d5/d33/classinfra_1_1_auto_reset_function.html" title="infra::AutoResetFunction\l\&lt; void()\&gt;" alt="" coords="14,256,179,297"/>
+<area shape="rect" id="node6" href="$d1/da2/classservices_1_1_configuration_blob.html" title="services::ConfigurationBlob" alt="" coords="7,339,186,366"/>
+<area shape="rect" id="node8" href="$d5/d33/classinfra_1_1_auto_reset_function.html" title="infra::AutoResetFunction\l\&lt; void(bool success)\&gt;" alt="" coords="14,71,179,112"/>
+<area shape="rect" id="node11" href="$d3/db6/classservices_1_1_configuration_store.html" title="services::ConfigurationStore\&lt; T \&gt;" alt="" coords="696,246,911,273"/>
+</map>

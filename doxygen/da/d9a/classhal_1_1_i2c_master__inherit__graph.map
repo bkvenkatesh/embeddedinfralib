@@ -1,0 +1,4 @@
+<map id="hal::I2cMaster" name="hal::I2cMaster">
+<area shape="rect" id="node2" href="$d3/dda/classservices_1_1_i2c_multiple_access.html" title="services::I2cMultipleAccess" alt="" coords="5,87,188,114"/>
+<area shape="rect" id="node3" href="$de/d17/classservices_1_1_i2c_multiple_access_master.html" title="services::I2cMultipleAccess\lMaster" alt="" coords="212,80,395,121"/>
+</map>

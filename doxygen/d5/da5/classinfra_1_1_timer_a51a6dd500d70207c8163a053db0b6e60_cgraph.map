@@ -1,0 +1,5 @@
+<map id="infra::Timer::UpdateTriggerTime" name="infra::Timer::UpdateTriggerTime">
+<area shape="rect" id="node2" href="$da/def/classinfra_1_1_timer_service.html#ac08c18576f1ca147f34136e9f75d124f" title="infra::TimerService\l::UpdateTriggerTime" alt="" coords="256,5,395,47"/>
+<area shape="rect" id="node3" href="$da/def/classinfra_1_1_timer_service.html#afb8a6ef3ee5ba728f1a8f232514bad8c" title="infra::TimerService\l::ComputeNextTrigger" alt="" coords="443,5,591,47"/>
+<area shape="rect" id="node4" href="$da/def/classinfra_1_1_timer_service.html#a6ae66196dc18d8b383ba5e0f0b6f22fa" title="infra::TimerService\l::NextTriggerChanged" alt="" coords="639,5,785,47"/>
+</map>

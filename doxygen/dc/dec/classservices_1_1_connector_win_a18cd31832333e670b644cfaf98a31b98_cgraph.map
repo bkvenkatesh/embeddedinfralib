@@ -1,0 +1,5 @@
+<map id="services::ConnectorWin::ConnectorWin" name="services::ConnectorWin::ConnectorWin">
+<area shape="rect" id="node2" href="$dc/d43/classservices_1_1_client_connection_observer_factory.html#a3784285f6d7415cacd6b7a82c9f71b7f" title="services::ClientConnection\lObserverFactory::Address" alt="" coords="212,5,387,47"/>
+<area shape="rect" id="node3" href="$da/d2a/classinfra_1_1_variant.html#a5c22ee95a815d91911bf3ce196c852a0" title="infra::Variant::Get" alt="" coords="237,71,361,98"/>
+<area shape="rect" id="node4" href="$dc/d43/classservices_1_1_client_connection_observer_factory.html#a5aadffced5ec24638bfd313819dd1cd5" title="services::ClientConnection\lObserverFactory::Port" alt="" coords="212,123,387,164"/>
+</map>

@@ -1,0 +1,36 @@
+digraph "I2cRegisterAccessTest"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node4 [label="I2cRegisterAccessTest",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Test",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node6 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="infra::EventDispatcherFixture",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/df4/classinfra_1_1_event_dispatcher_fixture.html"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="EventDispatcher::WithSize\l\< 50 \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node8 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" slaveAddress" ,fontname="Helvetica"];
+  Node8 [label="hal::I2cAddress",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d60/classhal_1_1_i2c_address.html"];
+  Node9 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" address" ,fontname="Helvetica"];
+  Node9 [label="uint16_t",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node10 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" registerAccess" ,fontname="Helvetica"];
+  Node10 [label="hal::I2cMasterRegisterAccess",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/dea/classhal_1_1_i2c_master_register_access.html"];
+  Node11 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" writeData" ,fontname="Helvetica"];
+  Node11 [label="infra::MemoryRange\l\< const uint8_t \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d6d/classinfra_1_1_memory_range.html"];
+  Node12 -> Node11 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" beginElement\nendElement" ,fontname="Helvetica"];
+  Node12 [label="const uint8_t *",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node13 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" onDone" ,fontname="Helvetica"];
+  Node13 [label="infra::Function\< void()\>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d07/classinfra_1_1_function.html"];
+  Node8 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" address" ,fontname="Helvetica"];
+  Node14 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" dataRegister" ,fontname="Helvetica"];
+  Node14 [label="uint8_t",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node15 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" readData" ,fontname="Helvetica"];
+  Node15 [label="MemoryRange\< uint8_t \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node16 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" i2cMaster" ,fontname="Helvetica"];
+  Node16 [label="hal::I2cMaster",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d85/classhal_1_1_i2c_master.html"];
+  Node17 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" master" ,fontname="Helvetica"];
+  Node17 [label="hal::I2cMasterMock",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/dc1/classhal_1_1_i2c_master_mock.html"];
+  Node16 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}
