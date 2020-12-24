@@ -61,7 +61,7 @@ namespace services
     void HttpRequestFormatter::AddContentLength(std::size_t size)
     {
         infra::StringOutputStream contentLengthStream(contentLength);
-        contentLengthStream << size;
+        contentLengthStream << static_cast<uint64_t>(size);
         contentLengthHeader.Emplace("content-length", contentLength);
     }
 
@@ -79,9 +79,9 @@ namespace services
         return headerSize;
     }
 
-    HttpClientImpl::HttpClientImpl(infra::BoundedString& headerBuffer, infra::BoundedConstString hostname)
-        : headerBuffer(headerBuffer)
-        , hostname(hostname)
+    HttpClientImpl::HttpClientImpl(infra::BoundedConstString hostname)
+        : hostname(hostname)
+        , bodyReaderAccess(infra::emptyFunction)
     {}
 
     void HttpClientImpl::AttachObserver(const infra::SharedPtr<HttpClientObserver>& observer)
@@ -115,6 +115,11 @@ namespace services
         ExecuteRequestWithContent(HttpVerb::post, requestTarget, content, headers);
     }
 
+    void HttpClientImpl::Post(infra::BoundedConstString requestTarget, std::size_t contentSize, HttpHeaders headers)
+    {
+        ExecuteRequestWithContent(HttpVerb::post, requestTarget, contentSize, headers);
+    }
+
     void HttpClientImpl::Put(infra::BoundedConstString requestTarget, infra::BoundedConstString content, HttpHeaders headers)
     {
         ExecuteRequestWithContent(HttpVerb::put, requestTarget, content, headers);
@@ -142,7 +147,6 @@ namespace services
 
     void HttpClientImpl::Close()
     {
-        bodyReaderAccess.SetAction([]() {});
         ConnectionObserver::Subject().CloseAndDestroy();
     }
 
@@ -181,8 +185,10 @@ namespace services
 
     void HttpClientImpl::ClosingConnection()
     {
+        bodyReaderAccess.SetAction(infra::emptyFunction);
         GetObserver().ClosingConnection();
         observer->Detach();
+        observer = nullptr;
     }
 
     void HttpClientImpl::StatusAvailable(HttpStatusCode code, infra::BoundedConstString statusLine)
@@ -223,7 +229,7 @@ namespace services
         if (forwardingStream)
             ConnectionObserver::Subject().RequestSendStream(std::min(streamingContentSize, ConnectionObserver::Subject().MaxSendStreamSize()));
         else
-            response.Emplace(*this, headerBuffer);
+            response.Emplace(*this);
     }
 
     void HttpClientImpl::HandleData()
@@ -304,13 +310,11 @@ namespace services
 
     void HttpClientImpl::AbortAndDestroy()
     {
-        bodyReaderAccess.SetAction([]() {});
         ConnectionObserver::Subject().AbortAndDestroy();
     }
 
-    HttpClientImpl::HttpResponseParser::HttpResponseParser(HttpClientImpl& httpClient, infra::BoundedString& headerBuffer)
+    HttpClientImpl::HttpResponseParser::HttpResponseParser(HttpClientImpl& httpClient)
         : httpClient(httpClient)
-        , headerBuffer(headerBuffer)
     {}
 
     void HttpClientImpl::HttpResponseParser::DataReceived(infra::StreamReaderWithRewinding& reader)
@@ -340,10 +344,11 @@ namespace services
     void HttpClientImpl::HttpResponseParser::ParseStatusLine(infra::StreamReaderWithRewinding& reader)
     {
         infra::TextInputStream::WithErrorPolicy stream(reader);
+        infra::BoundedString::WithStorage<512> headerBuffer;
         headerBuffer.resize(std::min(headerBuffer.max_size(), stream.Available()));
         stream >> headerBuffer;
 
-        auto crlfPos = headerBuffer.find_first_of(crlf);
+        auto crlfPos = headerBuffer.find(crlf);
         if (crlfPos != infra::BoundedString::npos)
         {
             auto statusLine = headerBuffer.substr(0, crlfPos);
@@ -352,9 +357,12 @@ namespace services
             infra::Tokenizer tokenizer(statusLine, ' ');
 
             auto versionValid = HttpVersionValid(tokenizer.Token(0));
-            auto statusCode = HttpStatusCodeFromString(tokenizer.Token(1));
-            if (versionValid && statusCode)
-                httpClient.StatusAvailable(*statusCode, statusLine);
+            auto optionalStatusCode = HttpStatusCodeFromString(tokenizer.Token(1));
+            if (versionValid && optionalStatusCode)
+            {
+                statusCode = *optionalStatusCode;
+                httpClient.StatusAvailable(statusCode, statusLine);
+            }
             else
                 SetError();
 
@@ -371,6 +379,7 @@ namespace services
     void HttpClientImpl::HttpResponseParser::ParseHeaders(infra::StreamReaderWithRewinding& reader)
     {
         infra::TextInputStream::WithErrorPolicy stream(reader);
+        infra::BoundedString::WithStorage<512> headerBuffer;
         while (!done && !stream.Empty())
         {
             auto start = reader.ConstructSaveMarker();
@@ -378,7 +387,7 @@ namespace services
             headerBuffer.resize(std::min(headerBuffer.max_size(), stream.Available()));
             stream >> headerBuffer;
 
-            auto crlfPos = headerBuffer.find_first_of(crlf);
+            auto crlfPos = headerBuffer.find(crlf);
             if (crlfPos != infra::BoundedString::npos)
             {
                 auto headerLine = headerBuffer.substr(0, crlfPos);
@@ -386,6 +395,11 @@ namespace services
 
                 if (headerLine.empty() && headerBuffer.size() > crlfPos)
                 {
+                    if (statusCode == HttpStatusCode::Continue
+                        || statusCode == HttpStatusCode::SwitchingProtocols
+                        || statusCode == HttpStatusCode::NoContent
+                        || statusCode == HttpStatusCode::NotModified)
+                        contentLength = 0;
                     error = contentLength == infra::none;
                     done = true;
                     return;
@@ -403,16 +417,18 @@ namespace services
             }
             else if (headerBuffer.full())
                 SetError();
+            else
+            {
+                reader.Rewind(start);
+                break;
+            }
         }
     }
 
     HttpHeader HttpClientImpl::HttpResponseParser::HeaderFromString(infra::BoundedConstString header)
     {
         infra::Tokenizer tokenizer(header, ':');
-        auto value = tokenizer.TokenAndRest(1);
-        auto headerBegin = value.find_first_not_of(' ');
-
-        return{ tokenizer.Token(0), headerBegin != infra::BoundedString::npos ? value.substr(headerBegin) : "" };
+        return{ tokenizer.Token(0), infra::TrimLeft(tokenizer.TokenAndRest(1)) };
     }
 
     void HttpClientImpl::HttpResponseParser::SetError()

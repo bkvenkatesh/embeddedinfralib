@@ -36,8 +36,15 @@ namespace services
 
     void HttpClientBasic::Connect()
     {
+        assert(state == State::idle);
         state = State::connecting;
         httpClientConnector.Connect(*this);
+    }
+
+    void HttpClientBasic::Connect(infra::BoundedString url)
+    {
+        this->url = url;
+        Connect();
     }
 
     void HttpClientBasic::Close()
@@ -52,8 +59,8 @@ namespace services
 
     void HttpClientBasic::ContentError()
     {
-        contentError = true;
-        Close();
+        if (!infra::PostAssign(contentError, true))
+            Close();
     }
 
     infra::BoundedString HttpClientBasic::Url() const

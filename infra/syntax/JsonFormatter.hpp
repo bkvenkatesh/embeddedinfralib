@@ -32,6 +32,7 @@ namespace infra
         void Add(JsonString tagName, int32_t tag);
         void Add(const char* tagName, uint32_t tag);
         void Add(const char* tagName, int64_t tag);
+        void Add(JsonString tagName, int64_t tag);
         void Add(const char* tagName, const char* tag);
         void Add(const char* tagName, infra::BoundedConstString tag);
         void Add(JsonString tagName, JsonString tag);
@@ -50,7 +51,7 @@ namespace infra
         void InsertSeparation();
 
     private:
-        infra::Optional<infra::TextOutputStream::WithErrorPolicy> stream;
+        infra::TextOutputStream* stream;
         bool empty = true;
     };
 
@@ -81,7 +82,7 @@ namespace infra
         void InsertSeparation();
 
     private:
-        infra::Optional<infra::TextOutputStream::WithErrorPolicy> stream;
+        infra::TextOutputStream* stream;
         bool empty = true;
     };
 
