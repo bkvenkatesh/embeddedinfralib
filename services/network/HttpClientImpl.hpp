@@ -15,11 +15,13 @@ namespace services
     public:
         HttpRequestFormatter(HttpVerb verb, infra::BoundedConstString hostname, infra::BoundedConstString requestTarget, const HttpHeaders headers);
         HttpRequestFormatter(HttpVerb verb, infra::BoundedConstString hostname, infra::BoundedConstString requestTarget, infra::BoundedConstString content, const HttpHeaders headers);
+        HttpRequestFormatter(HttpVerb verb, infra::BoundedConstString hostname, infra::BoundedConstString requestTarget, std::size_t contentSize, const HttpHeaders headers);
 
         std::size_t Size() const;
         void Write(infra::TextOutputStream stream) const;
 
     private:
+        void AddContentLength(std::size_t size);
         std::size_t HeadersSize() const;
 
     private:
@@ -37,10 +39,7 @@ namespace services
         , public HttpClient
     {
     public:
-        template<std::size_t MaxHeaderSize>
-            using WithMaxHeaderSize = infra::WithStorage<HttpClientImpl, infra::BoundedString::WithStorage<MaxHeaderSize>>;
-
-        HttpClientImpl(infra::BoundedString& headerBuffer, infra::BoundedConstString hostname);
+        HttpClientImpl(infra::BoundedConstString hostname);
 
         void AttachObserver(const infra::SharedPtr<HttpClientObserver>& observer);
 
@@ -50,7 +49,9 @@ namespace services
         virtual void Connect(infra::BoundedConstString requestTarget, HttpHeaders headers) override;
         virtual void Options(infra::BoundedConstString requestTarget, HttpHeaders headers) override;
         virtual void Post(infra::BoundedConstString requestTarget, infra::BoundedConstString content, HttpHeaders headers) override;
+        virtual void Post(infra::BoundedConstString requestTarget, std::size_t contentSize, HttpHeaders headers) override;
         virtual void Put(infra::BoundedConstString requestTarget, infra::BoundedConstString content, HttpHeaders headers = noHeaders) override;
+        virtual void Put(infra::BoundedConstString requestTarget, std::size_t contentSize, HttpHeaders headers = noHeaders) override;
         virtual void Patch(infra::BoundedConstString requestTarget, infra::BoundedConstString content, HttpHeaders headers = noHeaders) override;
         virtual void Delete(infra::BoundedConstString requestTarget, infra::BoundedConstString content, HttpHeaders headers = noHeaders) override;
 
@@ -65,20 +66,25 @@ namespace services
 
     protected:
         virtual void StatusAvailable(HttpStatusCode code, infra::BoundedConstString statusLine);
+        virtual void WriteRequest(infra::SharedPtr<infra::StreamWriter>&& writer);
 
     private:
+        void ForwardStream(infra::SharedPtr<infra::StreamWriter>&& writer);
+        void RequestForwardStreamOrExpectResponse();
         void HandleData();
         void BodyReceived();
         void BodyReaderDestroyed();
         void BodyComplete();
         void ExecuteRequest(HttpVerb verb, infra::BoundedConstString requestTarget, const HttpHeaders headers);
         void ExecuteRequestWithContent(HttpVerb verb, infra::BoundedConstString requestTarget, infra::BoundedConstString content, const HttpHeaders headers);
+        void ExecuteRequestWithContent(HttpVerb verb, infra::BoundedConstString requestTarget, std::size_t contentSize, const HttpHeaders headers);
+        void AbortAndDestroy();
 
     private:
         class HttpResponseParser
         {
         public:
-            HttpResponseParser(HttpClientImpl& httpClient, infra::BoundedString& headerBuffer);
+            HttpResponseParser(HttpClientImpl& httpClient);
 
             void DataReceived(infra::StreamReaderWithRewinding& reader);
             bool Done() const;
@@ -96,10 +102,10 @@ namespace services
 
         private:
             HttpClientImpl& httpClient;
-            infra::BoundedString& headerBuffer;
             bool done = false;
             bool error = false;
             bool statusParsed = false;
+            HttpStatusCode statusCode;
             infra::Optional<uint32_t> contentLength;
         };
 
@@ -119,11 +125,14 @@ namespace services
         infra::Optional<HttpResponseParser> response;
 
     private:
-        infra::BoundedString& headerBuffer;
         infra::BoundedConstString hostname;
         infra::Optional<uint32_t> contentLength;
         infra::Optional<BodyReader> bodyReader;
         infra::AccessedBySharedPtr bodyReaderAccess;
+        std::size_t streamingContentSize = 0;
+        bool forwardingStream = false;
+        infra::AccessedBySharedPtr forwardStreamAccess;
+        infra::SharedPtr<infra::StreamWriter> forwardStreamPtr;
     };
 
     template<class HttpClient = HttpClientImpl, class... Args>
@@ -132,10 +141,7 @@ namespace services
         , public ClientConnectionObserverFactoryWithNameResolver
     {
     public:
-        template<std::size_t MaxHeaderSize>
-            using WithMaxHeaderSize = infra::WithStorage<HttpClientConnectorImpl, infra::BoundedString::WithStorage<MaxHeaderSize>>;
-
-        HttpClientConnectorImpl(infra::BoundedString& headerBuffer, ConnectionFactoryWithNameResolver& connectionFactory, Args&&... args);
+        HttpClientConnectorImpl(ConnectionFactoryWithNameResolver& connectionFactory, Args&&... args);
 
         // Implementation of ClientConnectionObserverFactoryWithNameResolver
         virtual infra::BoundedConstString Hostname() const override;
@@ -151,39 +157,10 @@ namespace services
         void TryConnectWaiting();
 
     private:
-        template<class T, T... Ints>
-        class integer_sequence
-        {};
-
         template<std::size_t... I>
-            using index_sequence = integer_sequence<std::size_t, I...>;
-
-        template<std::size_t... Ns>
-        struct make_integer_sequence_helper;
-
-        template<std::size_t I, std::size_t... Ns>
-        struct make_integer_sequence_helper<I, Ns...>
-        {
-            using type = typename make_integer_sequence_helper<I - 1, I - 1, Ns...>::type;
-        };
-
-        template<std::size_t... Ns>
-        struct make_integer_sequence_helper<0, Ns...>
-        {
-            using type = integer_sequence<std::size_t, Ns...>;
-        };
-
-        template<std::size_t N>
-            using make_integer_sequence = typename make_integer_sequence_helper<N>::type;
-
-        template<std::size_t N>
-            using make_index_sequence = make_integer_sequence<N>;
-
-        template<std::size_t... I>
-            infra::SharedPtr<HttpClient> InvokeEmplace(index_sequence<I...>);
+            infra::SharedPtr<HttpClient> InvokeEmplace(infra::IndexSequence<I...>);
 
     private:
-        infra::BoundedString& headerBuffer;
         ConnectionFactoryWithNameResolver& connectionFactory;
         infra::NotifyingSharedOptional<HttpClient> client;
         std::tuple<Args...> args;
@@ -195,9 +172,8 @@ namespace services
     ////    Implementation    ////
 
     template<class HttpClient, class... Args>
-    HttpClientConnectorImpl<HttpClient, Args...>::HttpClientConnectorImpl(infra::BoundedString& headerBuffer, services::ConnectionFactoryWithNameResolver& connectionFactory, Args&&... args)
-        : headerBuffer(headerBuffer)
-        , connectionFactory(connectionFactory)
+    HttpClientConnectorImpl<HttpClient, Args...>::HttpClientConnectorImpl(services::ConnectionFactoryWithNameResolver& connectionFactory, Args&&... args)
+        : connectionFactory(connectionFactory)
         , client([this]() { TryConnectWaiting(); })
         , args(std::forward<Args>(args)...)
     {}
@@ -216,16 +192,16 @@ namespace services
 
     template<class HttpClient, class... Args>
     template<std::size_t... I>
-    infra::SharedPtr<HttpClient> HttpClientConnectorImpl<HttpClient, Args...>::InvokeEmplace(index_sequence<I...>)
+    infra::SharedPtr<HttpClient> HttpClientConnectorImpl<HttpClient, Args...>::InvokeEmplace(infra::IndexSequence<I...>)
     {
-        return client.Emplace(headerBuffer, Hostname(), std::get<I>(args)...);
+        return client.Emplace(Hostname(), std::get<I>(args)...);
     }
 
     template<class HttpClient, class... Args>
     void HttpClientConnectorImpl<HttpClient, Args...>::ConnectionEstablished(infra::AutoResetFunction<void(infra::SharedPtr<services::ConnectionObserver> connectionObserver)>&& createdObserver)
     {
-        assert(clientObserverFactory);
-        auto clientPtr = InvokeEmplace(make_index_sequence<sizeof...(Args)>{});
+        assert(clientObserverFactory != nullptr);
+        auto clientPtr = InvokeEmplace(infra::MakeIndexSequence<sizeof...(Args)>{});
 
         clientObserverFactory->ConnectionEstablished([&clientPtr, &createdObserver](infra::SharedPtr<HttpClientObserver> observer)
         {
@@ -242,7 +218,7 @@ namespace services
     template<class HttpClient, class... Args>
     void HttpClientConnectorImpl<HttpClient, Args...>::ConnectionFailed(ConnectFailReason reason)
     {
-        assert(clientObserverFactory);
+        assert(clientObserverFactory != nullptr);
 
         switch (reason)
         {

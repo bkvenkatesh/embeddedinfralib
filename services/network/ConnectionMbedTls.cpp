@@ -83,15 +83,6 @@ namespace services
             createdObserver(nullptr);
     }
 
-    void ConnectionMbedTls::SetHostname(infra::BoundedConstString hostname)
-    {
-        infra::BoundedString::WithStorage<MBEDTLS_SSL_MAX_HOST_NAME_LEN + 1> terminatedHostname(hostname);
-        terminatedHostname.push_back(0);
-
-        int result = mbedtls_ssl_set_hostname(&sslContext, terminatedHostname.data());
-        assert(result == 0);
-    }
-
     void ConnectionMbedTls::SendStreamAvailable(infra::SharedPtr<infra::StreamWriter>&& writer)
     {
         encryptedSendWriter = writer;
@@ -180,6 +171,7 @@ namespace services
 
     void ConnectionMbedTls::CloseAndDestroy()
     {
+        encryptedSendWriter = nullptr;
         ConnectionObserver::Subject().CloseAndDestroy();
     }
 
@@ -187,6 +179,15 @@ namespace services
     {
         encryptedSendWriter = nullptr;
         ConnectionObserver::Subject().AbortAndDestroy();
+    }
+
+    void ConnectionMbedTls::SetHostname(infra::BoundedConstString hostname)
+    {
+        infra::BoundedString::WithStorage<MBEDTLS_SSL_MAX_HOST_NAME_LEN + 1> terminatedHostname(hostname);
+        terminatedHostname.push_back(0);
+
+        int result = mbedtls_ssl_set_hostname(&sslContext, terminatedHostname.data());
+        assert(result == 0);
     }
 
     void ConnectionMbedTls::TlsInitFailure(int reason)
@@ -353,7 +354,7 @@ namespace services
 
     std::size_t ConnectionMbedTls::StreamWriterMbedTls::Available() const
     {
-        return connection.sendBuffer.size() - sent;
+        return connection.sendBuffer.max_size() - sent;
     }
 
     ConnectionMbedTls::StreamReaderMbedTls::StreamReaderMbedTls(ConnectionMbedTls& connection)
@@ -416,7 +417,7 @@ namespace services
     void ConnectionMbedTlsConnector::ConnectionEstablished(infra::AutoResetFunction<void(infra::SharedPtr<services::ConnectionObserver> connectionObserver)>&& createdObserver)
     {
         infra::AutoResetFunction<void(infra::SharedPtr<services::ConnectionObserver> connectionObserver)> creationFailed = createdObserver.Clone();
-        infra::SharedPtr<ConnectionMbedTls> connection = factory.Allocate(std::move(createdObserver));
+        infra::SharedPtr<ConnectionMbedTls> connection = factory.Allocate(std::move(createdObserver), clientFactory.Address());
         if (connection)
         {
             clientFactory.ConnectionEstablished([connection](infra::SharedPtr<services::ConnectionObserver> connectionObserver)
@@ -462,7 +463,8 @@ namespace services
 
     infra::SharedPtr<void> ConnectionFactoryMbedTls::Listen(uint16_t port, ServerConnectionObserverFactory& connectionObserverFactory, IPVersions versions)
     {
-        infra::SharedPtr<ConnectionMbedTlsListener> listener = listenerAllocator.Allocate(connectionAllocator, connectionObserverFactory, certificates, randomDataGenerator, serverCache, NeedsAuthentication(port));
+        infra::SharedPtr<ConnectionMbedTlsListener> listener = listenerAllocator.Allocate(connectionAllocator, connectionObserverFactory, certificates,
+            randomDataGenerator, serverCache, NeedsAuthentication(port));
 
         if (listener)
         {
@@ -501,8 +503,16 @@ namespace services
         }
     }
 
-    infra::SharedPtr<ConnectionMbedTls> ConnectionFactoryMbedTls::Allocate(infra::AutoResetFunction<void(infra::SharedPtr<services::ConnectionObserver> connectionObserver)>&& createdObserver)
+    infra::SharedPtr<ConnectionMbedTls> ConnectionFactoryMbedTls::Allocate(infra::AutoResetFunction<void(infra::SharedPtr<services::ConnectionObserver> connectionObserver)>&& createdObserver, IPAddress address)
     {
+        if (address != previousAddress)
+        {
+            mbedtls_ssl_session_free(&clientSession);
+            mbedtls_ssl_session_init(&clientSession);
+        }
+
+        previousAddress = address;
+
         return connectionAllocator.Allocate(std::move(createdObserver), certificates, randomDataGenerator, { ConnectionMbedTls::ClientParameters{ clientSession } });
     }
 
@@ -563,7 +573,7 @@ namespace services
         clientConnectionFactory->ConnectionEstablished([this, &createdObserver](infra::SharedPtr<services::ConnectionObserver> connectionObserver)
         {
             createdObserver(connectionObserver);
-            static_cast<ConnectionMbedTls&>(connectionObserver->Subject()).SetHostname(Hostname());
+            static_cast<ConnectionWithHostname&>(connectionObserver->Subject()).SetHostname(Hostname());
         });
     }
 

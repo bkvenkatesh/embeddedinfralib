@@ -12,7 +12,7 @@ namespace services
         : protected HttpClientBasic
     {
     public:
-        using JsonParserCreatorBase = infra::CreatorBase<infra::JsonStreamingObjectParser, infra::JsonObjectVisitor&>;
+        using JsonParserCreatorBase = infra::CreatorBase<infra::JsonStreamingObjectParser, void(infra::JsonObjectVisitor&)>;
 
         template<std::size_t MaxTagLength, std::size_t MaxValueLength, std::size_t MaxObjectNesting>
             using JsonParserCreator = JsonParserCreatorBase::WithCreator<infra::JsonStreamingObjectParser::WithBuffers<MaxTagLength, MaxValueLength, MaxObjectNesting>>;
@@ -25,6 +25,8 @@ namespace services
         };
 
         HttpClientJson(infra::BoundedString url, const ConnectionInfo& connectionInfo);
+        HttpClientJson(infra::BoundedString url, const ConnectionInfo& connectionInfo, infra::Duration timeoutDuration);
+        ~HttpClientJson();
 
         void Cancel(const infra::Function<void()>& onDone);
 
@@ -42,10 +44,11 @@ namespace services
         virtual void Established() override;
 
     private:
-        infra::CreatorBase<infra::JsonStreamingObjectParser, infra::JsonObjectVisitor&>& jsonParserCreator;
-        infra::Optional<infra::ProxyCreator<infra::JsonStreamingObjectParser, infra::JsonObjectVisitor&>> jsonParser;
+        JsonParserCreatorBase& jsonParserCreator;
+        infra::Optional<infra::ProxyCreator<JsonParserCreatorBase&>> jsonParser;
 
         infra::SharedPtr<infra::StreamReader> readerPtr;
+        bool* destructedIndication = nullptr;
     };
 }
 

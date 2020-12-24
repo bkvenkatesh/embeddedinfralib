@@ -118,15 +118,31 @@ TEST_F(HttpClientJsonTest, ParseError_reports_Error)
     auto readerPtr(infra::UnOwnedSharedPtr(reader));
     EXPECT_CALL(reader, Empty()).WillOnce(testing::Return(false));
     EXPECT_CALL(reader, ExtractContiguousRange(testing::_)).WillOnce(testing::Return(infra::MakeStringByteRange(R"({ ] })")));
-    EXPECT_CALL(jsonObjectVisitor, ParseError()).WillOnce(infra::Lambda([this]()
+    EXPECT_CALL(jsonObjectVisitor, ParseError()).WillOnce(testing::Invoke([this]()
     {
         controller.ContentError();
     }));
-    EXPECT_CALL(httpClient, Close()).WillOnce(infra::Lambda([this, &readerPtr]()
+    EXPECT_CALL(httpClient, Close()).WillOnce(testing::Invoke([this, &readerPtr]()
     {
         controller.ClosingConnection();
         EXPECT_TRUE(readerPtr == nullptr);
     }));
     EXPECT_CALL(controller, Error(false));
     httpClient.observer->BodyAvailable(std::move(readerPtr));
+}
+
+TEST_F(HttpClientJsonTest, ContentError_during_parsing_closes_connection)
+{
+    EXPECT_CALL(httpClient, Get("/path", testing::_));
+    EXPECT_CALL(controller, Headers()).WillOnce(testing::Return(headersIn));
+    EXPECT_CALL(controller, TopJsonObjectVisitor()).WillOnce(testing::ReturnRef(jsonObjectVisitor));
+    httpClientObserverFactory->ConnectionEstablished([this](infra::SharedPtr<services::HttpClientObserver> client) { httpClient.AttachObserver(client); client->Connected(); });
+
+    testing::StrictMock<infra::StreamReaderMock> reader;
+    EXPECT_CALL(reader, Empty()).WillOnce(testing::Return(false)).WillOnce(testing::Return(true));
+    EXPECT_CALL(reader, ExtractContiguousRange(testing::_)).WillOnce(testing::Return(infra::MakeStringByteRange(R"({ "entry": "value")")));
+    EXPECT_CALL(jsonObjectVisitor, VisitString("entry", "value")).WillOnce(testing::Invoke([this](infra::BoundedConstString, infra::BoundedConstString) { controller.ContentError(); }));
+    EXPECT_CALL(controller, Error(false));
+    EXPECT_CALL(httpClient, Close());
+    httpClient.observer->BodyAvailable(infra::UnOwnedSharedPtr(reader));
 }
